@@ -3,7 +3,7 @@ type: "god"
 classification: "New God"
 aliases: ["The Harbinger of the Burning Crusade", "The Half-Man", "Naz", "The Plague of Modern Times", "The Beheaded Wizard", "The Doom and Terror of Modern Man", "Floating Wizard Head", "The Horror from the East", "The Bringer of Chaos", "The Bringer of Torment", "Great Wizard of the Eastern Sanctuaries"]
 tags: ["god", "new-god"]
-sources: ["[[Wiki - Nas'hrah]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Nas'hrah]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Nas'hrah]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -140,6 +140,23 @@ Nas'hrah also appears in the easter egg game mode [Dungeon Nights](https://feara
 
 *Source: [[Wiki - Nas'hrah]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Nas'hrah]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Despite his continual presence, he does not count as party member.
+- Nas'hrah, the self-proclaimed "doom and terror of modern man".
+- He is an extremely powerful wizard studied in blood magic.
+- The Yellow Mages seem to be his followers, as well as followers of Gro-goroth.
+- He preceded Valteil in the grand libraries, but was betrayed by the other New Gods, and wants to enact revenge upon them.
+- When confronting three of the four other Gods, Nas'hrah will have dialogue expanding upon the lore of the game, mocking their "pitiful" attempts at ascension.
+
+*Source: [[Tormentpedia - Nas'hrah]]*
+
 ## Sources
+- [[Tormentpedia - Nas'hrah]] (supplementary)
 - [[Wiki - Nas'hrah]]
 - [[Wiki - The Gods]]

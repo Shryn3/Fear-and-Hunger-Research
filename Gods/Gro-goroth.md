@@ -3,7 +3,7 @@ type: "god"
 classification: "Old God"
 aliases: ["God of human sacrifices"]
 tags: ["god", "old-god"]
-sources: ["[[Wiki - Gro-goroth]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Gro-goroth]]", "[[Wiki - The Gods]]", "[[Tormentpedia - The Gods]]", "[[Tormentpedia - Traces of Gro-goroth]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -88,7 +88,32 @@ In *Fear & Hunger 2: Termina*,  [it is said that](https://fearandhunger.wiki.gg/
 - [[Skin Bible - Gro-goroth]]
 - [[Studies of Gro-goroth I]]
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Runic symbol**
+  - Main wiki: "His runic symbol depicts an eclipse." (also: the sigil "depicts an eclipse, as seen on eclipse talismans and the tails side of coin flips")
+  - Tormentpedia ([[Tormentpedia - Traces of Gro-goroth]]): "His symbol is the intersecting of two rings, seen on the tails part of the coin flip."
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "His runic symbol resembles two cutting rings."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Traces of Gro-goroth]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- This being is what is left of what was once Gro-Goroth, the Old God of human sacrifices.
+- The player gains alignment with him by sacrificing teammates in ritual circles or taking part in the Wolfmasks cult, where its participants maim each other and feast upon their own flesh in honor of Gro-goroth.
+- He grants his followers and disciples incredible power but also corrupts them - the Black Witch and Yellow Mages are incredibly powerful beings in the realm of magic, but physically fragile.
+- Since humankind took over Ma'habre, the Old God, like most of his kindred, began to distance himself, disgusted by the selfishness, narrow-mindedness, and ambition of mankind as they have no understanding of the purity and beauty of the concepts he represents, as each human interprets the pure ideas of the Gods differently.
+- Following this departure, Gro-goroth relocated to the darkest depths of the Dungeons of Fear and Hunger, past the Altar of Darkness, within the body of the God of the Depths.
+- His symbol is the intersecting of two rings, seen on the tails part of the coin flip.
+
+*Source: [[Tormentpedia - The Gods]], [[Tormentpedia - Traces of Gro-goroth]]*
+
 ## Sources
+- [[Tormentpedia - The Gods]] (supplementary)
+- [[Tormentpedia - Traces of Gro-goroth]] (supplementary)
 - [[Wiki - Gro-goroth]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: [[Skin Bible - Gro-goroth|Gro-goroth's Skin Bible]], a document found in *Fear & Hunger 2: Termina*

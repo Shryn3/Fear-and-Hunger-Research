@@ -3,7 +3,7 @@ type: "god"
 classification: "Old God"
 aliases: ["Traces of Sylvian", "Goddess of love and fertility"]
 tags: ["god", "old-god"]
-sources: ["[[Wiki - Sylvian]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Sylvian]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Sylvian]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -95,7 +95,34 @@ Her symbol is the shape of an open eye. In *[[Fear & Hunger 2 Termina|Fear & Hun
 - [[Skin Bible - Sylvian]]
 - [[Studies of Sylvian I]]
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Epithet**
+  - Main wiki: The Gods overview: "the Goddess of love, lust and creation".
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "Sylvian, the goddess of love and fertility"
+  - Tormentpedia ([[Tormentpedia - Sylvian]]): Lead: "The Old God of love and fertility"; lore: "A goddess of fertility, love, lust, and creation."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Sylvian]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- In Fear & Hunger, she makes a physical appearance as an end-game boss of Terror & Starvation mode.
+- A beautiful balance and duality one can say from reading about the two.
+- Some form sex cults like the Bunnymasks in their hidden courtyard, having an orgy of sex with each other, to honor and to do it in the name of their old god Sylvian.
+- The rabbit masks her followers wear might be an indication of it being a sacred animal to Sylvian, as rabbits are known for their energetic breeding and have traditionally symbolized fertility.
+- It is unknown when she has left the world, but it is known that she is the first of the old gods to have disappeared from the world, most likely followed by Gro-goroth afterwards.
+- The Traces of Gro-goroth reveal, after defeating it in battle, that the old gods the humans knew have left the world because of humanity's selfishness and ambition towards usurping their position, and that they understand nothing about the purity of the ideas the old gods have.
+- But even if humans did have a glimpse at such an idea, they would not be able to comprehend it, as seen in Ending B.
+- In modern times, while not as proheminent of a deity as in the past, Sylvian still holds considerable cultural relevance: with her cult of Bunnymasks active to this day around the continent of Europa, the goddess has a town square dedicated to her name in Prehevil, capital of Bohemia.
+
+*Source: [[Tormentpedia - Sylvian]], [[Tormentpedia - The Gods]]*
+
 ## Sources
+- [[Tormentpedia - Sylvian]] (supplementary)
+- [[Tormentpedia - The Gods]] (supplementary)
 - [[Wiki - Sylvian]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: *[[Studies of Sylvian I]]*, a document found in *Fear & Hunger*

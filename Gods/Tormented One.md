@@ -3,7 +3,7 @@ type: "god"
 classification: "New God"
 aliases: ["Tormented One"]
 tags: ["god", "new-god"]
-sources: ["[[Wiki - Tormented One]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Tormented One]]", "[[Wiki - The Gods]]", "[[Tormentpedia - The Tormented One]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -67,6 +67,21 @@ According to the events portrayed in *[[Fear & Hunger 2 Termina|Fear & Hunger 2:
 
 *Source: [[Wiki - Tormented One]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - The Tormented One]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Before his ascension, Ronn Chambara was a poet obsessed with combining beautiful art with physical suffering.
+- He was a member of The Fellowship, alongside Francóis, Nilvan, Valteil, and the Forgotten One.
+- They entered Ma'habre and used the Throne of Ascension to become New Gods.
+- After his canonical defeat during the events of Fear & Hunger, the Tormented One resides in the Grand Hall with the other inactive New Gods.
+
+*Source: [[Tormentpedia - The Tormented One]]*
+
 ## Sources
+- [[Tormentpedia - The Tormented One]] (supplementary)
 - [[Wiki - Tormented One]]
 - [[Wiki - The Gods]]

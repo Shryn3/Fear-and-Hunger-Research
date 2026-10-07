@@ -2,7 +2,7 @@
 type: "god"
 classification: "New God"
 tags: ["god", "new-god"]
-sources: ["[[Wiki - Nilvan]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Nilvan]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Nilvan]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -66,6 +66,20 @@ wip
 
 *Source: [[Wiki - Nilvan]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Nilvan]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Said Fellowship embarked on their journey to become New Gods in the year 809.
+- Taking up residence at the Tower of Endless of the ancient city, Nilvan believes in the endless potential of mankind and that anything can be within reach if they try hard enough.
+- In the end, she believed that Le'garde, a man from the prophecies who could possibily unite the warring states not by force, held the key to her eternal existence, and conceived a child with him expecting her to be the light of mankind - this same child ascended as the God of Fear and Hunger and brought mankind to strive against hardship through progress, in what became known as the Cruel Age.
+
+*Source: [[Tormentpedia - Nilvan]]*
+
 ## Sources
+- [[Tormentpedia - Nilvan]] (supplementary)
 - [[Wiki - Nilvan]]
 - [[Wiki - The Gods]]

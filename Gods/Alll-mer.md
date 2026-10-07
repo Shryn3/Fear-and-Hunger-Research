@@ -3,7 +3,7 @@ type: "god"
 classification: "Ascended God"
 aliases: ["Savior of Mankind", "The Ascended One"]
 tags: ["god", "ascended-god"]
-sources: ["[[Wiki - Alll-mer]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Alll-mer]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Alll-mer]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -97,7 +97,49 @@ Like other powerful deities, Alll-mer is associated with a variety of supernatur
 ## In-game documents
 - [[Skin Bible - Alll-mer]]
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Classification**
+  - Main wiki: Ascended God (listed under Ascended Gods on The Gods).
+  - Tormentpedia ([[Tormentpedia - Alll-mer]]): Lead: "Alll-mer is an Old god in Fear & Hunger and Fear & Hunger 2: Termina."
+  - Tormentpedia ([[Tormentpedia - The Gods]]): Listed under "Ascended Gods", described as "the ascended one and the last of the older gods".
+- **Where he ascended**
+  - Main wiki: "He ascended in Mahabre, city of the gods."
+  - Tormentpedia ([[Tormentpedia - Alll-mer]]): "When he died having intercourse with his lawful wife, he ascended to Pre'hevil and became an Old God."
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "... where he ascended into the city of the Gods, Ma'habre."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Alll-mer]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Before Alll-mer became who he is today and worshiped as a God, he was born a mortal man born and raised in the city of Jettaiah within the Eastern Sanctuaries.
+- Jettaiah would later become a Holy City because of Alll-mer being born there.
+- He was raised by a virgin mother, as Alll-Mer's father was a 'False God'.
+- According to this version, Alll-mer was created by a master architect named Vitruvia, who designed him to be the ultimate human being after noticing imperfections in her previous designs and having been ordered to do so by Gro-Goroth.
+- He was born in the Year 0, suggesting that he immediately began working on his New World Order and displacing the sultans and kings of old.
+- Though the two stories share similarities, they are still distinct.
+- He began to become popular and rise to prominence because of his teachings.
+- He gathered 12 apostles to attempt to bring forth a New World Order (called the Old World Order by the New Gods).
+- Corrupt kings and sultans all over the Eastern Sanctuaries began to take note of his popularity amongst the masses and because his ideal world united people under different religions and gods, they felt threatened by his power.
+- His death marked the beginning of a new calendar, as he died in the Year 0.
+- When he died having intercourse with his lawful wife, he ascended to Pre'hevil and became an Old God.
+- His mortal remains were laid to rest within the Ancient Tomb near the ancient city of Ma'habre, where they still remain to this day.
+- It is revealed later on in Fear and Hunger: Termina that he had cast out his subconscious, hatred-filled parts deep into the sulfur pits when he ascended to godhood, giving rise to a new Ascended God called the Sulfur God.
+- He eventually returned to his weeping apostles three days after his death and gathered them together to carry out his plan to save humanity from the cruelty and tyranny of the kings and sultans.
+- He brought forth a New World Order and a new era, with himself being the center of worship and laid down tenets that are to this day still being followed and observed by many others, such as the Eastern Sanctuaries and Jettaiah becoming a holy city, the Kingdom of Rondon, Abyssonia, the Kingdom of Bohemia, the Vatican City, and the Kingdom of Bremen.
+- This New World Order would eventually become the Old World Order, which would be eventually supplanted by the Fellowship of the New Gods in the Year 809.
+- At that point, Alll-Mer was gone, supposedly having ascended to take his place as a Descended God.
+- It is also of note that at the time of the Fellowship, the Old Gods had left mankind.
+- The kingdoms of the world were slowly rotting away, and the grand values aimed for by mankind were replaced with defiled principles and practices.
+
+*Source: [[Tormentpedia - Alll-mer]], [[Tormentpedia - The Gods]]*
+
 ## Sources
+- [[Tormentpedia - Alll-mer]] (supplementary)
+- [[Tormentpedia - The Gods]] (supplementary)
 - [[Wiki - Alll-mer]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: [[The Hall of the Gods|New Gods]] when asked about Jettaiah

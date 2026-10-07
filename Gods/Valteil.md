@@ -3,7 +3,7 @@ type: "god"
 classification: "New God"
 aliases: ["The Enlightened One"]
 tags: ["god", "new-god"]
-sources: ["[[Wiki - Valteil]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Valteil]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Valteil]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -80,6 +80,27 @@ Events recounted in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]* illus
 
 *Source: [[Wiki - Valteil]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Valteil]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Valteil, the Enlighted One, is a New God and a boss in Fear & Hunger.
+- Valteil is a member of The Fellowship, alongside Francóis, Nilvan, the Tormented One, and the Forgotten One that sought out to become one of the new gods.
+- Said Fellowship embarked on their journey in the year 809.
+- Specifically, Valteil aimed to create laboring beings to serve him, similar to the immortal clay figurines of Ma'habre.
+- Based on these figurines, Valteil creates the Uteruses, mechanical lifeforms resembling pregnant women, for his personal pleasure.
+- However, Valteil disliked the idea of his creations outliving him and decided to create beings out of living flesh with a limited lifespan.
+- His research resulted in the creation of the Lords of the Flies, which roamed the deserted streets of Ma'habre in the sixteenth century.
+- Valteil possesses the Enlightened Soul, one of the three souls required to enter the Golden Temple.
+- After being defeated in combat, Valteil hangs himself.
+- He can be seen in the Hall of New Gods with other inactive entities, meaning his reign indeed has come to an end.
+
+*Source: [[Tormentpedia - Valteil]]*
+
 ## Sources
+- [[Tormentpedia - Valteil]] (supplementary)
 - [[Wiki - Valteil]]
 - [[Wiki - The Gods]]

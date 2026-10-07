@@ -3,7 +3,7 @@ type: "god"
 classification: "Old God"
 aliases: ["The Ever-Watching God", "The Delinquent One", "Moon God", "Trickster God"]
 tags: ["god", "old-god"]
-sources: ["[[Wiki - Rher]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Rher]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Rher]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -92,7 +92,50 @@ During [Endings B and C](https://fearandhunger.wiki.gg/wiki/Endings_F%26H2) of *
 ## In-game documents
 - [[Skin Bible - Rher]]
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Runic symbol**
+  - Main wiki: "His runic symbol is two spheres and an omega symbol interlocked, with a dot inside the omega."
+  - Tormentpedia ([[Tormentpedia - Rher]]): "His symbol is the three circles, two above one."
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "His runic symbol is three circles, two above one."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Rher]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- He has many ploys to diminish our influence. - New gods about the Moon/The Trickster God.Rher is a mysterious god and one of the last of the Old Gods that still observes mankind to this day.
+- He does not want to share the idea of a god with humans, and disapproves of them replacing the old world order.
+- He sees the New Gods as mocking and pretentious.
+- To this end, he employs his servants, Pocketcat (who is seen as a sort of bogeyman in children's stories) and Lady of Moon, to hunt for children in order to keep them from being used as vessels for a New God, the same way Alll-mer came to be an Old God: from being half man and half New God.
+- However, this plan would fail in the end as Nilvan, the New God that represents humanity's endless potential,  outsmarted the Old God and made sure her daughter sired from the man of the prophecies, the now newly deified God of Fear and Hunger, would come to the Altar of Darkness via the help of the protagonist of Fear & Hunger.
+- The child would mature and become an Old God, therefore rivaling the Old Gods and carrying on humanity's dream to transcend their limitations.
+- In 1942, after the end of the Great War II, Rher hatched another scheme.
+- He announced the Termina festival in the small town of Prehevil, He foresaw the arrival of 14 people to Prehevil and chose them as the contestants.
+- He sent them a dream, with his new servant, Per'kele, acting as his voice, telling them of the festival and how it was a chance for one them to have an 'illustrious reality' and the 'festival to end all festivals'.
+- Later, Per'kele claims to be the true  mastermind of the events of the Festival of Termina, as the Moon God that is seen above Prehevil is nothing more than the traces left by Rher.
+- Rher, like the other Old Gods, had already left the world, or passed on.
+- Rher's traced self fell at the hands of the participants, and so did Per'kele, leaving only traces of the Old Gods.
+- And yet after Per'kele is defeated,  the Moon God descends and attacks the protagonist.
+- Whether this is the Old God, a hallucination of the Old God caused by Per'kele, or a true trace of Rher is uncertain.
+- What is certain is that after battling it until the Moon God becomes bored, the Termina Festival ends and the sole survivor, the protagonist, is allowed to leave Prehevil.
+- Like his name and title, he seems to encompass the ideas of trickery, deceit, subterfuge, schemes, the dark, and anything else involving deviousness.
+- Not much is known about his plans, but his followers are always constantly scheming and meddling with mankind throughout the course of human history.
+- In the Skin Bible - Rher, the god was depicted as a god of the insane and a trickster of madness.
+- It is not too far off because all of the Moon-touched inhabitants of Prehevil have gone insane, except for a few like the Woodsman and the Mayor.
+- Ironically, Rher also represents truth as seen by his moonlight illuminating those that are touched by the rays.
+- It is not quite far off because engraving the sigil of Rher onto one's face increases one's mind, making one know more without going completely insane from the truth.
+- He also apparently uses this 'truth' with his moonlight as a trick against others questioning his motives.
+- It seems to suggest that he also is a god that represents fallacies and lies.
+- Not much is really known about him, and he seems to prefer to keep it that way.
+
+*Source: [[Tormentpedia - Rher]], [[Tormentpedia - The Gods]]*
+
 ## Sources
+- [[Tormentpedia - Rher]] (supplementary)
+- [[Tormentpedia - The Gods]] (supplementary)
 - [[Wiki - Rher]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: [[The Hall of the Gods|New Gods]] when asked about Rher

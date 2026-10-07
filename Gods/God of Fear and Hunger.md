@@ -2,7 +2,7 @@
 type: "god"
 classification: "Ascended God"
 tags: ["god", "ascended-god"]
-sources: ["[[Wiki - God of Fear and Hunger]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - God of Fear and Hunger]]", "[[Wiki - The Gods]]", "[[Tormentpedia - God of Fear and Hunger]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -88,7 +88,26 @@ She asks the protagonist whether they thought that they wouldn't be getting out 
 - [[Flesh puppetry]] — 2 God of Fear and Hunger affinity
 - [[Mischief of rats]] — 3 God of Fear and Hunger affinity
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Classification**
+  - Main wiki: Ascended God (alongside Alll-mer).
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "Along with Alll-mer, she is the only old god born from a human and is considered his equal."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - God of Fear and Hunger]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- In Fear & Hunger, she makes a physical appearance as an end-game boss fought to reach Ending A.
+- In Fear & Hunger 2: Termina, she is considered an Ascended God and is worshipped by certain cults and has many spells related to her, making this ending canon.
+
+*Source: [[Tormentpedia - God of Fear and Hunger]], [[Tormentpedia - The Gods]]*
 
 ## Sources
+- [[Tormentpedia - God of Fear and Hunger]] (supplementary)
+- [[Tormentpedia - The Gods]] (supplementary)
 - [[Wiki - God of Fear and Hunger]]
 - [[Wiki - The Gods]]

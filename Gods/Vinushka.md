@@ -3,7 +3,7 @@ type: "god"
 classification: "Old God"
 aliases: ["Ninush", "The God of Nature"]
 tags: ["god", "old-god"]
-sources: ["[[Wiki - Vinushka]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Vinushka]]", "[[Wiki - The Gods]]", "[[Tormentpedia - The Gods]]", "[[Tormentpedia - Vinushka]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -93,7 +93,32 @@ Vinushka's symbol is a swirling maelstrom, signifying an ever-changing state wit
 ## In-game documents
 - [[Skin Bible - Vinushka (unedited)]]
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Pronouns**
+  - Main wiki: Uses "the deity" and "their domains" ("the deity decides to appear ... their domains").
+  - Tormentpedia ([[Tormentpedia - Vinushka]]): Uses "he"/"his": "He is an old god, the offspring of Sylvian and Gro-goroth."
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "it is said his appearance can change ... his temper is as volatile as the manifestations of his domains."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Vinushka]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Currently, there is little known about him other than him being introduced in Fear & Hunger 2: Termina.
+- As the cycle of destruction and creation is seen in its purest form in nature, it comes at no surprise that the very god of nature is an offspring of the older gods Gro-goroth and Sylvian.
+- Like the nature of mankind, the nature of Vinushka too can change from raging volcanos to serene grasslands, where a gentle wind lulls one to sleep.
+- The similarities between nature and mankind are fitting, as both grew up sucking the many bosoms of Sylvian and were born from the same loins.
+- What is Vinuhska's, is for mankind to reap, just as nature reaps mankind's old and weary.
+- It is unknown what their relationship is, but Iki Turso might be Vinushka's creation.
+
+*Source: [[Tormentpedia - The Gods]], [[Tormentpedia - Vinushka]]*
+
 ## Sources
+- [[Tormentpedia - The Gods]] (supplementary)
+- [[Tormentpedia - Vinushka]] (supplementary)
 - [[Wiki - Vinushka]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: [[The Hall of the Gods]]

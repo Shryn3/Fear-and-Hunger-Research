@@ -2,7 +2,7 @@
 type: "god"
 classification: "Old God"
 tags: ["god", "old-god"]
-sources: ["[[Wiki - God of the Depths]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - God of the Depths]]", "[[Wiki - The Gods]]", "[[Tormentpedia - God of the Depths]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -84,8 +84,29 @@ In *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, it is revealed that t
 - [[Flock of crows]] — 2 God of the Depths affinity
 - [[Locust swarm]] — 2 God of the Depths affinity
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Pronouns**
+  - Main wiki: "Their body also serves as a location."
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "Her body lies dormant in the altar of darkness ... She was killed and her body used as a vessel to give birth the God of Fear and Hunger." (the Tormentpedia's own God of the Depths page uses "they/their")
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - God of the Depths]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- Like Rher, they had scant few followers and its actions were shrouded in mystery.
+- They are responsible for the layout of the dungeons of fear & hunger, ever-changing in shape to challenge new visitors.
+- At one point in history, the God of the Depths was also venerated by the so-called Hermit Mages of South, who were skilled in infusing rings with life draining magic.
+- Not much is known about the cult aside from its name.
+
+*Source: [[Tormentpedia - God of the Depths]], [[Tormentpedia - The Gods]]*
 
 ## Sources
+- [[Tormentpedia - God of the Depths]] (supplementary)
+- [[Tormentpedia - The Gods]] (supplementary)
 - [[Wiki - God of the Depths]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: [Ragnvaldr's](https://fearandhunger.wiki.gg/wiki/Ragnvaldr%2FDialogue#When_found_in_Level_4_Thicket) dialogue in Level 4 Thicket

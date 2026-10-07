@@ -2,7 +2,7 @@
 type: "god"
 classification: "Unspecified classification"
 tags: ["god", "unspecified-classification"]
-sources: ["[[Wiki - Sulfur God]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Sulfur God]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Sulfur God]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -56,7 +56,36 @@ The runic symbol of the Sulfur God is a fusion of the alchemical symbols Ignis (
 ### New Game Plus skills shown with this god's symbol (F&H2)
 - [[Longinus]] — unlock: Ending C
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Where the Tormentpedia says something different
+
+- **Classification**
+  - Main wiki: Listed under "Other entities" (not officially stated as Old, Ascended or New).
+  - Tormentpedia ([[Tormentpedia - Sulfur God]]): "The Sulfur God is an obscure Old God in the universe of Fear & Hunger." and "He is an ascended god by virtue of being conceived when Alll-mer ascended"
+  - Tormentpedia ([[Tormentpedia - The Gods]]): Listed under "Ascended Gods".
+- **Runic symbol**
+  - Main wiki: "a fusion of the alchemical symbols Ignis (the upward-pointing triangle) and Sulfur (the inverted cross within a triangle)"
+  - Tormentpedia ([[Tormentpedia - Sulfur God]]): "a triangle with a triangle underneath, along with an inverted cross underneath the second triangle"
+  - Tormentpedia ([[Tormentpedia - The Gods]]): "a triangle inside another triangle, with an inverted cross beneath them, showing him to be Alll-mer's antithesis."
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Sulfur God]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- He is an ascended god by virtue of being conceived when Alll-mer ascended and his subconscious, hatred-filled parts were cast deep into the sulfur pits.
+- Currently, there is little known about him other than him being introduced Fear & Hunger 2: Termina and seen in Ending C, "The Sulfur God".
+- It is said he was born when Alll-mer ascended to become an Old God, casting aside his subconscious, hatred-filled parts into the sulfur pits.
+- Anything else regarding the God remains unknown and he only seemingly resurfaces in 1942, when the Festival took place.
+- While there is little known about the God, he is seen to have a cult, the Cult of Sulfur, centered around him, with Per'kele leading the cult and is main orchestrator of the Festival of Termina, to look for more fresh souls to send to the Sulfur God and to find a potential candidate to join the Cult of Sulfur.
+- His symbol is a triangle with a triangle underneath, along with an inverted cross underneath the second triangle, which is an alchemical symbol of sulfur, but with a second triangle.
+
+*Source: [[Tormentpedia - Sulfur God]], [[Tormentpedia - The Gods]]*
+
 ## Sources
+- [[Tormentpedia - Sulfur God]] (supplementary)
+- [[Tormentpedia - The Gods]] (supplementary)
 - [[Wiki - Sulfur God]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: [Black Kalev](https://fearandhunger.wiki.gg/wiki/Black_Kalev%2FDialogue) on the Sulfur God

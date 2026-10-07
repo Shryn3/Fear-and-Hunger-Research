@@ -3,7 +3,7 @@ type: "god"
 classification: "Unspecified classification"
 aliases: ["Mysterious person", "Servant of the Moon God"]
 tags: ["god", "unspecified-classification"]
-sources: ["[[Wiki - Per'kele]]", "[[Wiki - The Gods]]"]
+sources: ["[[Wiki - Per'kele]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Per'kele]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -64,7 +64,26 @@ After explaining a bit about the nature of Rher and the Sulfur God, Per'kele wil
 
 *Source: [[Wiki - Per'kele]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Additional Tormentpedia statements not found in this note
+*From [[Tormentpedia - Per'kele]]. Some may restate the main wiki in different words; real-world comparison trivia is not reproduced.*
+
+- He serves as his master's voice since the God is seen from far away.
+- Asking the New Gods about the servant in Fear & Hunger suggests that Per'kele is simply serving Rher to pursue his own goals and ideas in mind.
+- It is revealed near the end of Termina that Per'kele does not serve Rher as the Old God was already gone by this point, but another God called the Sulfur God and leads the Cult of Sulfur.
+- He saves you from the workshop in some sort of nightmarish sequence in the introduction that the player can either skip or go through.
+- Regardless of the player's choices, they would still have the dream of being saved by Per'kele and meeting him and the Moon God Rher, who seems to be awake but cannot talk and can only seemingly stare at the player.
+- Per'kele will then tell the player of the Termina Festival, and how they will play a part in it as one of its contestants, calling it a chance for one of the participants of the Termina festival to have a peek at grandeur and have a chance for 'illustrious reality', and calling it the 'festival to end all festivals'.
+- He will say no more though, saying that his master will answer the player character's questions later on as they progress through the festival.
+- He and his master will talk and meet again with the player under the green hue lit moonlight.
+
+*Source: [[Tormentpedia - Per'kele]]*
+
 ## Sources
+- [[Tormentpedia - Per'kele]] (supplementary)
 - [[Wiki - Per'kele]]
 - [[Wiki - The Gods]]
 [^1]: Wiki citation: ["Man in dreams" flyer](https://fearandhunger.wiki.gg/wiki/%22Man_in_dreams%22_flyer)
