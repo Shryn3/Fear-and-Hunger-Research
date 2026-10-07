@@ -11,7 +11,13 @@ bad = 0
 for p in root.rglob("*.md"):
     if "_templates" in p.parts:
         continue
+    fenced = False
     for n, line in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+        if line.lstrip().startswith("```"):
+            fenced = not fenced
+            continue
+        if fenced:
+            continue
         for target in link.findall(code.sub("", line)):
             if target.strip().split("/")[-1] not in notes:
                 print(f"{p.relative_to(root)}:{n}: broken link [[{target}]]")
