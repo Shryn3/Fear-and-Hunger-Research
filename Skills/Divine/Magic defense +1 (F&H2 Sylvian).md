@@ -16,7 +16,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 | | |
 |---|---|
-| **Effect** | +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 1. ×95% Otherworldly received |
+| **Effect** | +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 2. ×95% Otherworldly received |
 | **Cost** | Passive |
 | **Unlock requirement** | 2 Sylvian affinity |
 

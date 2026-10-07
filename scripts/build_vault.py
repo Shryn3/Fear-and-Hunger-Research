@@ -108,6 +108,19 @@ def convert_table(block, ctx):
         if i == 0: md.append("|" + "---|" * w)
     return "\n".join(md)
 
+def numbered_lists(t):
+    """wikitext '#' lines -> markdown numbered list with running numbers (per nesting depth)."""
+    out, cnt = [], {}
+    for line in t.split("\n"):
+        m = re.match(r"^(#+)\s*(.*)$", line)
+        if m:
+            d = len(m.group(1)); cnt[d] = cnt.get(d, 0) + 1
+            for k in [k for k in cnt if k > d]: del cnt[k]
+            out.append("  " * (d - 1) + f"{cnt[d]}. " + m.group(2))
+        else:
+            cnt = {}; out.append(line)
+    return "\n".join(out)
+
 def clean(text, ctx, inline=False):
     t = re.sub(r"<!--.*?-->", "", text, flags=re.S).replace("&nbsp;", " ")
     t = strip_templates(t, ctx)
@@ -171,7 +184,7 @@ def clean(text, ctx, inline=False):
     t = re.sub(r"<references\s*/?>", "", t, flags=re.I)
     t = re.sub(r"</?(font|small|div|span|center|big|u|s|sup|sub|tabber|nowiki|poem|p|abbr)[^>]*>", "", t, flags=re.I)
     t = re.sub(r"^(\*+)\s*", lambda m: "  " * (len(m.group(1)) - 1) + "- ", t, flags=re.M)
-    t = re.sub(r"^(#+)\s*", lambda m: "  " * (len(m.group(1)) - 1) + "1. ", t, flags=re.M)
+    t = numbered_lists(t)
     t = re.sub(r"'''''(.+?)'''''", r"***\1***", t)
     t = re.sub(r"'''(.+?)'''", r"**\1**", t)
     t = re.sub(r"''(.+?)''", r"*\1*", t)

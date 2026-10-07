@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Radiating soul]]"
 game: ["F&H2"]
-aliases: ["Girl in the dream", "Girl with red shoes", "Girl in pink"]
+aliases: ["Girl in the dream", "Girl in pink", "Girl with red shoes"]
 tags: ["character"]
 sources: ["[[Wiki - Reila]]"]
 retrieved: "2026-10-07"

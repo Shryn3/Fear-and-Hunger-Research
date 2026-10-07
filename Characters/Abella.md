@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Caressing soul]]"
 game: ["F&H2"]
-aliases: ["The Mechanic", "Red-Haired Mechanic"]
+aliases: ["Red-Haired Mechanic", "The Mechanic"]
 tags: ["character"]
 sources: ["[[Wiki - Abella]]"]
 retrieved: "2026-10-07"

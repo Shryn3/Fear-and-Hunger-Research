@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Endless soul]]"
 game: ["F&H1"]
-aliases: ["The Mercenary", "Cahara of the South"]
+aliases: ["Cahara of the South", "The Mercenary"]
 tags: ["character"]
 sources: ["[[Wiki - Cahara]]"]
 retrieved: "2026-10-07"

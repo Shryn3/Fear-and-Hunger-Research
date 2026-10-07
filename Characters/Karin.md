@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Endless soul]]"
 game: ["F&H2"]
-aliases: ["The Journalist", "Woman with the Brown Jacket"]
+aliases: ["Woman with the Brown Jacket", "The Journalist"]
 tags: ["character"]
 sources: ["[[Wiki - Karin]]"]
 retrieved: "2026-10-07"

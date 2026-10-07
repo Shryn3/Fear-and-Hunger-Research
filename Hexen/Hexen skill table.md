@@ -311,8 +311,8 @@ row_count: 165
 |---|---|---|---|---|---|---|---|---|
 | Agility +1 | F&H2 | Contestant skills | Tanaka |  | +1 Agility. | Passive |  |  |
 | Attack +1 | F&H2 | Contestant skills | Tanaka |  | +1 Attack. | Passive |  |  |
-| Defense +1 | F&H2 | Contestant skills | Tanaka |  | +1 Defense. For each Defense +1 skill learned, the character will gain the following: 1. ×98% Fire, Slashing, Piercing, Blunt received 1. ×97% Fire, Slashing, Piercing, Blunt received 1. ×95% Fire, Slashing, Piercing, Blunt received | Passive |  |  |
-| Magic defense +1 | F&H2 | Contestant skills | Tanaka |  | +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 1. ×95% Otherworldly received | Passive |  |  |
+| Defense +1 | F&H2 | Contestant skills | Tanaka |  | +1 Defense. For each Defense +1 skill learned, the character will gain the following: 1. ×98% Fire, Slashing, Piercing, Blunt received 2. ×97% Fire, Slashing, Piercing, Blunt received 3. ×95% Fire, Slashing, Piercing, Blunt received | Passive |  |  |
+| Magic defense +1 | F&H2 | Contestant skills | Tanaka |  | +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 2. ×95% Otherworldly received | Passive |  |  |
 | Magic attack +1 | F&H2 | Contestant skills | Tanaka |  | +1 M.Attack. | Passive |  |  |
 | Rugged handsome looks | F&H2 | Unused skills | Tanaka | The skill doesn't necessarily translate to everyone. Beauty is in the eye of beholder after all. |  |  |  | Tanaka (Latent soul) |
 
@@ -387,7 +387,7 @@ row_count: 165
 | Simple transmutation | F&H1 | General skills |  | A simple transmutation that allows you to change the fabric of the universe itself to a limited degree. | When used, you are able to transmute inventory items. 1 Moldy bread is transmuted into 3 Moldy bread. 1 Water vial can be transmuted into 1 Wine vial.) | 15 Mind |  | Scroll of transmutation |
 | Walk on water | F&H1 | General skills |  | A simple trick that allows you to walk on water. | Allows the player to walk on water in the overworld. | 10 Mind |  | Scroll of walking on water |
 | Blood sword | F&H2 | God Affinity skills |  | The blood of Alll-mer boils and rages even ages after his death. Just a drop sends swords to the heart of his enemies. Summon a blood sword to wield in battle. | Equips Blood sword for the duration of the battle. | 10 Mind | 100% | 1 Alll-mer affinity |
-| Defense +1 | F&H2 | God Affinity skills |  |  | +1 Defense. For each Defense +1 skill learned, the character will gain the following: 1. ×98% Fire, Slashing, Piercing, Blunt received 1. ×97% Fire, Slashing, Piercing, Blunt received 1. ×95% Fire, Slashing, Piercing, Blunt received | Passive |  | 2 Alll-mer affinity |
+| Defense +1 | F&H2 | God Affinity skills |  |  | +1 Defense. For each Defense +1 skill learned, the character will gain the following: 1. ×98% Fire, Slashing, Piercing, Blunt received 2. ×97% Fire, Slashing, Piercing, Blunt received 3. ×95% Fire, Slashing, Piercing, Blunt received | Passive |  | 2 Alll-mer affinity |
 | Inverse crown of thorns | F&H2 | God Affinity skills |  | A glimpse of the pain and suffering Alll-mer the ascended one endured on the cross. Can you feel closer to the god this way? | Causes player's death. | Free |  | 2 Alll-mer affinity |
 | Resurrection | F&H2 | Unused skills |  |  |  |  |  | Alll-mer affinity |
 
@@ -465,7 +465,7 @@ row_count: 165
 | Demon seed | F&H1 | General skills |  | Insert your seed into a fresh corpse, the most fertile of growing grounds. | Produces a Demon child. | 20 Mind |  | Creation of life II |
 | Rebirth of the beloved | F&H1 | General skills |  | A hidden love magic that is said to bring back the one you loved the most. | Needed for D'arce Ending S. | Passive |  | Instructions of Rebirth |
 | Pheromones | F&H2 | God Affinity skills |  | Release of pheromones that makes the opponent divert all attention to the target. | Chosen party member will be targeted by enemy attacks for the duration of the battle. | 10 Mind | 95% | 1 Sylvian affinity |
-| Magic defense +1 | F&H2 | God Affinity skills |  |  | +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 1. ×95% Otherworldly received | Passive |  | 2 Sylvian affinity |
+| Magic defense +1 | F&H2 | God Affinity skills |  |  | +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 2. ×95% Otherworldly received | Passive |  | 2 Sylvian affinity |
 | Loving whispers | F&H2 | God Affinity skills |  | Concentrated whispers carried out by the older god Sylvian. Heals a considerable amount of health. Precariously the whisper's effects are solely based on Sylvian's whims. | Restores 64-96 Body and cures Critical state status of a single party member. | 30 Mind | 100% | 2 Sylvian affinity |
 | Healing whispers | F&H2 | God Affinity skills |  | Concentrated whispers carried by the older god Sylvian. Heals a considerable amount of health of all the party members. | Restores 48-72 Body and cures Critical state status of all party members. | 30 Mind | 100% | 2 Sylvian affinity |
 | Brain flower | F&H2 | God Affinity skills |  | Plant your personal seeds of brain flower to a fertile ground. Freshly deceased corpses being the most fertile of grounds. A brain flower replenishes sanity and mind. | Gives an option to plant Brain flower seeds on defeated enemies in the overworld. After 2:21 or 2:29 you can collect Brain flower stigma. | Passive |  | 2 Sylvian affinity / 2 Vinushka affinity |
