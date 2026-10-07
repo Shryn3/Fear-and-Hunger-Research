@@ -1,0 +1,21 @@
+---
+type: "source"
+publisher: "fearandhunger.wiki.gg"
+url: "https://fearandhunger.wiki.gg/wiki/Nilvan"
+revid: 49044
+revision_timestamp: "2026-06-12T01:37:43Z"
+retrieved: "2026-10-07"
+license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+---
+
+# Wiki - Nilvan
+
+- Wiki page: <https://fearandhunger.wiki.gg/wiki/Nilvan>
+- Revision id: 49044
+- Revision timestamp: 2026-06-12T01:37:43Z
+- Retrieved via MediaWiki API (see `scripts/fetch_wiki.py`)
+- License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+- Publisher: Fear & Hunger Wiki (fearandhunger.wiki.gg), contributors credited in the page history
+
+## Cited by
+- [[Nilvan]]

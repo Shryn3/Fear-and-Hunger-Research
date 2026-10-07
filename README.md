@@ -1,26 +1,34 @@
 # Fear & Hunger Research
 
 Obsidian vault documenting **Fear & Hunger** (F&H1) and **Fear & Hunger 2: Termina** (F&H2).
-Open this folder as a vault in Obsidian.
+Open this folder as a vault in Obsidian and start at **`00 Index`**.
 
-## Structure
-| Folder | Contents |
-|---|---|
-| `Gods/` | One note per god: nature, lore, worship, related characters |
-| `Skills/` | One note per skill. `Skills/Divine/` holds skills granted by gods |
-| `Souls/` | One note per soul: abilities, definition, linked character |
-| `Characters/` | One note per character |
-| `Sources/` | One note per cited source (wiki page or game file) |
-| `_templates/` | Note templates (God, Skill, Soul, Character, Source) |
-| `scripts/` | `check_links.py` — reports broken `[[wikilinks]]` |
+## Covered so far
+| Area | Folder | Notes |
+|---|---|---|
+| Gods (Old, Ascended, New, other entities, Blights) | `Gods/` | 33 incl. hubs `The Gods`, `The Hall of the Gods` |
+| God-granted skills (god-affinity), both games | `Skills/Divine/` | 46 |
+| Soul types (28) with definitions, holders and skills | `Souls/` | 29 incl. `Soul types` overview |
+| Soul-tied skills (contestant / soul skills), both games | `Skills/Soul/` | 70 |
+| New Game Plus skills (with the god symbol shown beside them) | `Skills/New Game Plus/` | 5 |
+| Soul-holding characters | `Characters/` | 19 |
+| In-game documents about the gods (Skin Bibles etc.) | `Lore/` | 8 |
+| Mechanics (Hexen, Soul stone, Rev, ritual circles…) | `Mechanics/` | 6 |
+| One note per cited wiki page, with revision id | `Sources/` | 65 |
+
+**Not yet covered:** General skills and Unused skills lists; non-soul characters; locations, factions, items, enemies; game-file data.
 
 ## Conventions
-- **Links:** Obsidian wikilinks, note filename = page title, e.g. `[[Example Note]]`. Link every god, skill, soul and character the first time it appears in a note.
-- **Two-way links:** a god lists its skills; each skill links back to its god. A soul links to its character and its abilities.
-- **Frontmatter:** every note has `type`, `game` (`F&H1`, `F&H2` or `both`), `sources` (list of `[[Sources/...]]` links) and `retrieved`.
-- **Citations:** each fact comes from an official source and is cited as a footnote `[^1]` pointing at a `Sources/` note.
-  Wiki = https://fearandhunger.wiki.gg ; game-file facts are labelled `(game files)` and kept apart from wiki facts.
-- **Uncertainty:** never fill gaps from memory. Mark unknowns `> [!question] Unverified` with what is missing.
+- **Links:** Obsidian wikilinks; a note's filename is its title. God <-> skill, soul <-> character <-> skill are linked both ways. Wiki pages that have no note yet are linked to the wiki as normal markdown links.
+- **Citations:** every block ends with `*Source: [[Wiki - …]]*`; the source note has the wiki URL, revision id, revision timestamp, retrieval date and license. The wiki's own footnotes are kept as `[^n]: Wiki citation: …`.
+- **Provenance:** the wiki says some content comes from supplementary sources (e.g. developer social posts). Where it says so, the notes keep that wording. `[!warning]` callouts mark text the wiki flags as speculation; `[!question] Unverified` marks gaps. Nothing is filled from memory.
+- **Game files:** not added yet; when added they are labelled `(game files)` and kept apart from wiki facts.
+- **License:** wiki text is **CC BY-SA 4.0** (https://creativecommons.org/licenses/by-sa/4.0/). Notes reuse it with attribution to the wiki's contributors. If this repo is ever made public, keep the attribution and share-alike.
 
-## Checking links
-`python3 scripts/check_links.py` lists wikilinks that point to notes which do not exist.
+## Rebuilding
+```
+python3 scripts/fetch_wiki.py raw < scripts/titles.txt   # needs fearandhunger.wiki.gg reachable
+python3 scripts/build_vault.py raw .                     # regenerates the notes (overwrites Gods/ Skills/ Souls/ … )
+python3 scripts/check_links.py                            # reports broken [[wikilinks]]
+```
+`raw/` is not committed. Generated folders are overwritten on rebuild, so put hand-written additions in new notes, not in generated ones.

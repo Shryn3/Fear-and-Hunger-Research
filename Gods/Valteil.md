@@ -1,0 +1,85 @@
+---
+type: "god"
+classification: "New God"
+aliases: ["The Enlightened One"]
+tags: ["god", "new-god"]
+sources: ["[[Wiki - Valteil]]", "[[Wiki - The Gods]]"]
+retrieved: "2026-10-07"
+license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+---
+
+# Valteil
+
+
+
+**Classification (per wiki):** New God
+
+
+
+## Overview on *The Gods*
+
+**Valteil**, the Enlightened One, is the third known New God to reside in the Grand Libraries of Ma'habre, dedicating himself to the pursuit of understanding artificial life and bridging the gap between New Gods and Old Gods.
+
+*Source: [[Wiki - The Gods]]*
+
+## Facts
+
+| | |
+|---|---|
+| **Aliases** | The Enlightened One |
+| **Species / classification** | [[The Gods|New God]] / Human (formerly) |
+| **Gender** | Male |
+| **Soul** | [[Enlightened soul]] |
+| **Born** | 809 (as a New God) |
+| **Birthplace** | [The Void](https://fearandhunger.wiki.gg/wiki/The_Void) (reborn as a New God) |
+| **Affiliation** | The Fellowship / [[The Gods|New Gods]] / [Dark Priests](https://fearandhunger.wiki.gg/wiki/Dark_Priests) (formerly) |
+
+*Source: [[Wiki - Valteil]] (infobox)*
+
+## Detailed page
+
+> ***"...It's all pointless. Mankind has no hope. There is no way to break these chains... the worst part is, I don't even know if the gods exist."***  
+> 
+> ''- Valteil as he hangs himself.
+
+**Valteil** is a major story character and [boss](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H1) encountered *[[Fear & Hunger]]*. He is a member of the Fellowship that sought out to become one of the [[The Gods|New Gods]].
+
+*Source: [[Wiki - Valteil]]*
+
+### Lore
+
+> ***"The new god of enlightenment. Valteil is current master of the grand libraries. He is obsessed with creation of artificial life. He has wasted his cycle at the libraries on the subject without much triumph. He believes this to be the key to true godhood. He believes creation of life closes the gap between the new and the older gods."***  
+> 
+> *- The [[The Gods|New Gods]] when asked about Valteil.*
+
+Valteil was a member of the Fellowship, a group comprising [[Francóis]], [[Nilvan]], [[Tormented One|Ronn Chambara]], and [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus). His attire serves as confirmation of a previous role as a [Dark Priest](https://fearandhunger.wiki.gg/wiki/Dark_Priests) before his ascent.
+
+In the year 809, the Fellowship embarked on a journey to attain the status of New Gods. Their path led them into the realms of [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre), where all but Nosramus ascended to become powerful entities. Valteil, in particular, rose to become the **Enlightened One**, establishing himself within the Grand Libraries of the Ancient city. Deeply immersed in his studies, Valteil became an immensely knowledgeable New God, devoting his existence to the pursuit of understanding the creation of artificial life.
+
+As he believed that this endeavor could bridge the divide between the New Gods and the Old Gods, Valteil sought to fashion a working-class being similar to the eternal clay figurines of Ma'habre. However, fearing that his creations would outlast him, he opted to craft artificial lifeforms from flesh, thereby imposing a limited lifespan upon them. Notably, Valteil successfully brought forth the [Lord of flies](https://fearandhunger.wiki.gg/wiki/Lord_of_flies), as well as a mechanical entity named [Uterus](https://fearandhunger.wiki.gg/wiki/Uterus), for his "past-time pleasure".
+
+By the close of the 16th century, having wielded the mantle of a New God for nearly 800 years, Valteil had descended into despair, convinced that true enlightenment was an unattainable dream. He had realized that mankind has no hope, as the greater scheme of things chained them inescapably. Acknowledging the wisdom of his former companion Nosramus, who resisted the throne of ascension, Valteil now viewed his own ascension as a New God as a great mistake. Accepting these mistakes as integral to his personal growth, Valteil chose to hang himself, opting to await his death. [[Nas'hrah]], harboring a deep animosity towards Valteil, comments that the New God deserves what he got and makes disturbing accusations of pedophilia, though their veracity remains uncertain. 
+
+Events recounted in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]* illustrate that Valteil was indeed In the game, he can be observed alongside other inactive entities in the [[The Hall of the Gods|Hall of the Gods]], an indication that his reign as an influential figure had reached its end.
+
+*Source: [[Wiki - Valteil]]*
+
+### Trivia
+
+- Although enemy spellcasters will usually trigger Rhabdophobia, Valteil himself will not cause this effect if encountered.
+- If Nas'hrah is brought to his present day corpse (found in the same area as he is fought, trying to hang himself), he will call Valteil a "child molesting bastard." It is however worth noting that Nas'hrah is not the most reliable source, and keen to insult and incinerate all of the New Gods he encounters.
+- A previous version of the academic book *[The Fellowship ch.1 (Original)](https://fearandhunger.wiki.gg/wiki/The_Fellowship_ch.1_(Original))* gave Valteil the title "The scholar of arts". There is no information to confirm whether he held this title during his human life or after his ascension as a New God, and the title itself is no longer canonical as the text was eventually altered in-game.
+- There are bookstands placed throughout the Grand Libraries with notes on them that are most likely made by Valteil.
+  - "*I refuse! This cannot be the limits of my mind, I refuse!*"
+  - "*I am frustrated. Is there truly no solution? So frustrated. I think I'll go see my mannequins.*"
+  - "*O LORD GIVE SOUL STONE*"
+- There is also a bookstand inside one of the small laboratories where Valteil created Lord of Flies:
+  - "*Why WHY WHY? What is the secret!? Why won't it work!?*"
+- Valteil shares his name with a character from the game Silent Hill 3, the only difference being the position of the e and the i. In Silent Hill 3 Valtiel appears as a grotesque angel who's main goal is to prepare protagonist Heather Mason’s body and soul for the birth of God. According to scenario writer Hiroyuki Owaku, Valtiel’s name is derived from the French word “valet” meaning assistant
+- The name ‘Valteil’ may be a deformation of ‘Bataille’. French philosopher known for his extreme literature; he touches on themes such as sexual assault, extreme sadism and grotesque eroticism
+
+*Source: [[Wiki - Valteil]]*
+
+## Sources
+- [[Wiki - Valteil]]
+- [[Wiki - The Gods]]

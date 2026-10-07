@@ -1,0 +1,21 @@
+---
+type: "source"
+publisher: "fearandhunger.wiki.gg"
+url: "https://fearandhunger.wiki.gg/wiki/Marriage_of_Flesh"
+revid: 48965
+revision_timestamp: "2026-06-04T03:04:55Z"
+retrieved: "2026-10-07"
+license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+---
+
+# Wiki - Marriage of Flesh
+
+- Wiki page: <https://fearandhunger.wiki.gg/wiki/Marriage_of_Flesh>
+- Revision id: 48965
+- Revision timestamp: 2026-06-04T03:04:55Z
+- Retrieved via MediaWiki API (see `scripts/fetch_wiki.py`)
+- License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+- Publisher: Fear & Hunger Wiki (fearandhunger.wiki.gg), contributors credited in the page history
+
+## Cited by
+- [[Marriage of Flesh]]

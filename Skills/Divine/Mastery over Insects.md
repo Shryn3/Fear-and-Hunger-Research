@@ -1,0 +1,25 @@
+---
+type: "skill"
+game: "F&H1"
+category: "God Affinity skills"
+tags: ["skill", "f&h1"]
+granted_by: "[[God of the Depths]]"
+sources: ["[[Wiki - Skills List F&H1]]"]
+retrieved: "2026-10-07"
+license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+---
+
+# Mastery over Insects
+
+**Granted by:** [[God of the Depths]] (god-affinity skill, F&H1)
+
+| | |
+|---|---|
+| **Description** | Understanding of insects. You can hear and talk with insects of all sizes. |
+| **Effect** | Allows you to understand insects and scarabs. |
+| **Cost** | Passive |
+| **Unlock requirement** | 1 God of the Depths affinity |
+
+Wiki page: <https://fearandhunger.wiki.gg/wiki/Mastery_over_Insects>
+
+*Source: [[Wiki - Skills List F&H1]] (God Affinity skills)*
