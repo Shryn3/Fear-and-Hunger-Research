@@ -1,0 +1,8 @@
+/* Hexen cards: enable in Settings > Appearance > CSS snippets. Applies via cssclasses: [hexen-cards] */
+.hexen-cards .callout[data-callout="hexen"] {
+  --callout-color: 150, 60, 60;
+  --callout-icon: lucide-flame;
+  margin-bottom: 6px;
+}
+.hexen-cards .callout[data-callout="hexen"] .callout-title { font-weight: 600; }
+.hexen-cards .callout[data-callout="hexen"] .callout-content p { margin: 0.35em 0; }
