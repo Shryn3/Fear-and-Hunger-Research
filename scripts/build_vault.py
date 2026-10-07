@@ -219,6 +219,12 @@ def src_name(title): return fname("Wiki - " + title)
 def make_ctx(owner):
     ctx = {"fn": [], "refs": {}, "n": 0, "owner": owner, "targets": set()}
     def link(target, disp, frag=""):
+        if "#" in target:
+            target, frag = target.split("#", 1)
+        # an anchor into "The Gods" that names a god we have a note for -> link to that note
+        if norm(target) == "The Gods" and frag and norm(frag) in TITLE2NOTE and TITLE2NOTE[norm(frag)] != "The Gods":
+            target, frag = frag, ""
+            if disp.startswith("The_Gods#") or disp.startswith("The Gods#"): disp = norm(target)
         ctx["targets"].add(norm(target))
         key = norm(target)
         note = TITLE2NOTE.get(key)

@@ -28,7 +28,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Characters with this soul
 
-- [The_Gods#Mourning_One](https://fearandhunger.wiki.gg/wiki/The_Gods%23Mourning_One)
+- [[Mourning One]]
 
 *Source: [[Wiki - Soul type]]*
 

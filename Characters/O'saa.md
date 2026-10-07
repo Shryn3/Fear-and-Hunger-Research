@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Enlightened soul]]"
 game: ["F&H2"]
-aliases: ["Yellow Mage", "Magician"]
+aliases: ["Magician", "Yellow Mage"]
 tags: ["character"]
 sources: ["[[Wiki - O'saa]]"]
 retrieved: "2026-10-07"

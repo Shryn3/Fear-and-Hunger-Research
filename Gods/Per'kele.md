@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Unspecified classification"
-aliases: ["Mysterious person", "Servant of the Moon God"]
+aliases: ["Servant of the Moon God", "Mysterious person"]
 tags: ["god", "unspecified-classification"]
 sources: ["[[Wiki - Per'kele]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"

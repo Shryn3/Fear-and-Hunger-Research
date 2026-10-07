@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Old God"
-aliases: ["Goddess of love and fertility", "Traces of Sylvian"]
+aliases: ["Traces of Sylvian", "Goddess of love and fertility"]
 tags: ["god", "old-god"]
 sources: ["[[Wiki - Sylvian]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"

@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Solitary soul]]"
 game: ["F&H2"]
-aliases: ["Boy with the Overalls", "The Ex-Soldier"]
+aliases: ["The Ex-Soldier", "Boy with the Overalls"]
 tags: ["character"]
 sources: ["[[Wiki - Levi]]"]
 retrieved: "2026-10-07"

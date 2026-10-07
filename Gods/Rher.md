@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Old God"
-aliases: ["The Ever-Watching God", "Moon God", "Trickster God", "The Delinquent One"]
+aliases: ["Trickster God", "The Ever-Watching God", "Moon God", "The Delinquent One"]
 tags: ["god", "old-god"]
 sources: ["[[Wiki - Rher]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"

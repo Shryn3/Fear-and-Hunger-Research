@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Radiating soul]]"
 game: ["F&H2"]
-aliases: ["Mysterious person", "Black-haired girl"]
+aliases: ["Black-haired girl", "Mysterious person"]
 tags: ["character"]
 sources: ["[[Wiki - Samarie]]"]
 retrieved: "2026-10-07"

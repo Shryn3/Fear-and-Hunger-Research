@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Ascended God"
-aliases: ["Savior of Mankind", "The Ascended One"]
+aliases: ["The Ascended One", "Savior of Mankind"]
 tags: ["god", "ascended-god"]
 sources: ["[[Wiki - Alll-mer]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
