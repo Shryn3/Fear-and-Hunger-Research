@@ -5,7 +5,7 @@ category: "God Affinity skills"
 aliases: ["Blood golem"]
 tags: ["skill", "f&h2"]
 granted_by: "[[Gro-goroth]]"
-sources: ["[[Wiki - Skills List F&H2]]"]
+sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -25,3 +25,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 Wiki page: <https://fearandhunger.wiki.gg/wiki/Blood_golem_(F%26H2)>
 
 *Source: [[Wiki - Skills List F&H2]] (God Affinity skills)*
+
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) differs from or adds to the main wiki here
+> Main wiki = fearandhunger.wiki.gg. Tormentpedia is a separate community wiki; its text is quoted as written there.
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Effect | Summons a Blood golem for the duration of the battle. Can't be controlled. | Summon a party member in battle, cannot be controlled |
+
+*Source: [[Tormentpedia - Termina Skills]]*

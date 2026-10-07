@@ -5,7 +5,7 @@ category: "Contestant skills"
 tags: ["skill", "f&h2"]
 soul: "[[Decrepit soul]]"
 character: "[[Caligura]]"
-sources: ["[[Wiki - Skills List F&H2]]"]
+sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -25,3 +25,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 Wiki page: <https://fearandhunger.wiki.gg/wiki/Killing_intent>
 
 *Source: [[Wiki - Skills List F&H2]] (Contestant skills)*
+
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) differs from or adds to the main wiki here
+> Main wiki = fearandhunger.wiki.gg. Tormentpedia is a separate community wiki; its text is quoted as written there.
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Effect | The following enemies will start avoiding you in the overworld: - Villager (Sickle) - Villager (Knives) - Fecal hound - Fallen cherub (Only the solo cherubs) | Weak enemies flee on the overworld. |
+
+*Source: [[Tormentpedia - Termina Skills]]*

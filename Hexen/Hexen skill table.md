@@ -1,7 +1,7 @@
 ---
 type: "hexen-table"
 tags: ["skill", "hexen", "table"]
-sources: ["Fear & Hunger Wiki: Skills List F&H1", "Fear & Hunger Wiki: Skills List F&H2"]
+sources: ["Fear & Hunger Wiki: Skills List F&H1", "Fear & Hunger Wiki: Skills List F&H2", "Tormentpedia: Skills List (supplementary)", "Tormentpedia: Termina Skills (supplementary)"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 graph_note: "no wikilinks by design"
@@ -512,8 +512,217 @@ row_count: 165
 | Spear of penance | F&H2 | Unused skills |  |  |  |  |  |  |
 | Blood spear | F&H2 | Unused skills |  |  |  |  |  |  |
 
+# Other wikis: Tormentpedia
+
+*Everything above comes from the main wiki (fearandhunger.wiki.gg). This section records what **Fear and Hunger: the Tormentpedia** (fearandhunger.fandom.com, a separate community wiki) adds or says differently, for the same skills. Each value is quoted as that wiki writes it; the two are not reconciled here. The Tormentpedia's skill pages are older in places, so a difference is not an error on either side.*
+
+*Tormentpedia pages compared: Skills List (F&H1, revision 15898, 2025-05-31) and Termina Skills (F&H2, revision 16603, 2026-09-26). It reports its license as CC-BY-SA. Skills it lists that match a main-wiki skill by name were compared on name, cost, description and effect text. Entries it leaves blank or marks unknown are skipped.*
+
+## Only on the Tormentpedia
+
+| Skill | Game | Where listed | Cost | Effect | Description | Taught by |
+|---|---|---|---|---|---|---|
+| Talk | F&H1 | Default skills |  | Opens dialogue choices with the opponent during combat or with party members on the map. | Talking can sometimes get you out of uncomfortable situations. |  |
+| Necromancy trick * / Greater Necromancy | F&H1 | Possible beginning spells for Enki | 30 MIND | Re-animates a corpse as a permanent ally. They can only join your party if you have a free slot available. | Try to bring back life where it once lingered... | Ancient Book (Necronomicon) Prompts a coin-toss. The loss is an instant death from madness. |
+| Hurting / Greater Hurting | F&H1 | Possible beginning spells for Enki | 40 MIND / 10 MIND | Inflicts exactly 350 damage. | Concentrated feelings of hurting create a devastating vortex. |  |
+| Blood golem / Greater Blood golem | F&H1 | Possible beginning spells for Enki |  | Summons a Blood golem, with decent amount of attack and health. You take a small (4-5PTs) amount of damage upon creation, and must have an empty slot available on the field. | Sacrifice your own blood to summon a golem to fight by your side temporarily. | Ancient Book (Necronomicon) Prompts a coin-toss. The loss is an instant death from madness. |
+
+## Listed under a different god or soul
+
+| Skill | Game | Main wiki places it under | Tormentpedia places it under |
+|---|---|---|---|
+| Brain flower | F&H2 | God: Sylvian | Vinushka |
+| Heart flower | F&H2 | God: Sylvian | Vinushka |
+| Scorched earth | F&H2 | God: Vinushka | Gro-goroth |
+
+*Also: the Tormentpedia spells the Enlightened soul "Enlightenment" in its F&H1 soul column, and lists Counter-magic and Greater blood magic under it.*
+
+## Different name, cost, description or effect
+
+| Skill | Game | Field | Main wiki | Tormentpedia |
+|---|---|---|---|---|
+| Black orb | F&H1 | Description | A concentrated negative energy that can be hurled at your oppenents. | A concentrated negative energy that can be hurled at opponents. |
+| Black orb | F&H1 | Effect | Deals 128-192 Otherworldly damage to one target 3 times. | A powerful magic attack that strikes 3 times. |
+| Blood portal | F&H1 | Effect | Allows you to create portals on ritual circles and travel between them. Blood portal locations: - Level 1 - Entrance - Level 5 - Mines - Level 7 - Catacombs - Ancient city - Grand library - Ancient city - Tower of Endless | Create portals between ritual circles for fast-travel. ** |
+| Bloodlust | F&H1 | Effect | Applies Bloodlust status. | Attack power is increased but you lose control of your character. They will attack at random. |
+| Chains of torment | F&H1 | Effect | Deals 900 Piercing damage and inflicts Bleeding (100% Chance) status to one target. | Strong magic that inflicts a lot of damage (900) and afflicts with bleeding. |
+| Combustion | F&H1 | Description | A large combustion of fire and flames. It's a bit difficult to control so caution is advised. | A large combustion of fire and flames. It's a bit uncontrollable, so caution is advised. |
+| Combustion | F&H1 | Effect | Deals 320-480 Fire damage and can inflict Burning (60% Chance) status to one target. | Powerful magic attack that inflicts burn damage (400). Doesn't cost any MIND. |
+| Counter | F&H1 | Effect | Applies Counter status. | Lets characters brace themselves for an oncoming attack and deal damage back if it hits subsequently. |
+| Counter-magic | F&H1 | Effect | Resists or mends the effects of magical attacks. Can be used to break seals like the Purifying talisman. | Variety of uses, both in battle and the field. Resists or mends the effects of magical attacks. Can be used to break seals (like Purifying Talisman). |
+| Dash | F&H1 | Effect | Increases player's base speed in the overworld. | Increases your character's general base speed on the map. |
+| Defence stance | F&H1 | Effect | Applies Perfect Guard and Evasion Buff statuses. | Prevents critical damage and greatly reduces accuracy of oncoming melee attacks. |
+| Devour | F&H1 | Effect | Gives an option to eat defeated enemies in the overworld to restore hunger. | Relieves a great amount of Hunger if used over an enemy's body, destroying it afterwards. |
+| En garde | F&H1 | Description | Long combat experience has prepared you for fights. Prepare for an attack to gain advantage with [SHIFT]. | Long combat experience has prepared you for fights. Prepare for an attack to gain the advantage with [SHIFT]. |
+| Fast attack | F&H1 | Effect | Applies Speed Buff status. | Increases speed (opponent is more likely to miss) and you gain an extra turn on rotation. |
+| Flock of crows | F&H1 | Effect | Deals 56-84 Piercing damage to one target 3 times and inflicts Blindness (100% Chance) status. | Summons a succession of crows for a rapid-hit combo to one body part. Inflicts blindness. |
+| Greater blood magic | F&H1 | Effect | Increases the potential of blood magic, enabling the use of greater versions of Hurting, Necromancy and Blood golem. | Increases the potential of all Magic Spells. (Example: Hurting becomes Greater Hurting) |
+| Healing whispers | F&H1 | Effect | Restores 28-42 Body to all party members. | Heals 35 health to all allies. |
+| Leg sweep | F&H1 | Description | A high finesse arcing attack that can only be performed with light bladed weapons. | A high finesse arching attack that can only be performed with light bladed weapons. |
+| Leg sweep | F&H1 | Effect | Destroys the legs of an opponent. / (Also breaks doors in a single hit) | Inflicts damage to legs/lower extremities of opponent. Destroys doors in one hit (Many other miscellaneous targets can be hit with this, an incomplete list of these can be found in the trivia section of this page.) |
+| Lockpicking | F&H1 | Effect | Allows you to open doors with simple locks. | Opens most simple locks without a key. |
+| Locust swarm | F&H1 | Effect | Deals 8-12 Blunt damage and inflicts Confusion (100% Chance) status to all targets. | Attacks all body parts of all enemies. Afflicts with Confusion for 1-2 turns. |
+| Loving whispers | F&H1 | Effect | Restores 64-96 Body to a single party member. | Heals 80 health to one party member. |
+| Marksmanship | F&H1 | Description | High level archery skill. Use your accurate shots to finish off opponents from distance. | High level archery skill. Use your accurate shots to finish off opponents from a distance. |
+| Marksmanship | F&H1 | Effect | Allows you to kill enemies with a Short bow and Iron arrow by shooting them with [SHIFT]. | Possibility of killing an enemy on the map without engaging battle by using a bow & iron arrow with [SHIFT]. |
+| Mastery over Insects | F&H1 | Effect | Allows you to understand insects and scarabs. | Allows you to listen-in on the conversations of insects, and are able to communicate with the Cockroach king. Useful in the thicket and ancient city. Sometimes insects will offer you hints or gifts. 'TALK' to Scarabs in battle to pacify them. |
+| Needle worm | F&H1 | Effect | Deals 2 Leech damage to two random targets 3 times. Restores Body by converting dealt damage. | Attacks 1-2 times, giving health back equal to the damage. |
+| Pheromones | F&H1 | Description | Release of pheromones that makes the opponent divert all attention to the target. | Release of pheromones that makes the opponent divert all attention to the target.- Release of pheromones that makes the opponent fall in love with you - for better or worse. |
+| Pheromones | F&H1 | Effect | Chosen party member will be prioritized by enemy attacks for the duration of the battle. | All enemies attacks are directed to the chosen target. |
+| Pyromancy trick | F&H1 | Effect | Deals 160-240 Fire damage and can inflict Burning (60% Chance) status to one target. | A decently powerful magic attack with a 90% accuracy rate. Has a 70% chance to afflict burning. |
+| Run | F&H1 | Description | There is no shame in running away from battles to live another day. | There is no shame in running from battles to live another day. |
+| Run | F&H1 | Effect | The player will have a chance to escape from battle when used. | Escape combat. |
+| Simple transmutation | F&H1 | Effect | When used, you are able to transmute inventory items. 1 Moldy bread is transmuted into 3 Moldy bread. 1 Water vial can be transmuted into 1 Wine vial.) | When used, you are able to transmute inventory items. (ex: 1 Moldy bread is transmuted into 3 Moldy breads. 1 Vial of water can be transmuted into 1 Wine vial.) |
+| Steal | F&H1 | Effect | Obtain items from enemies during the battle. | Attempts to steal an item from an enemy in-battle. The items stolen can be unique to some encounters. [Example: Priests can produce a book of enlightenment.] |
+| Suicide | F&H1 | Effect | Causes player's death. | Kills your character and ends the game. |
+| Walk on water | F&H1 | Effect | Allows the player to walk on water in the overworld. | Allows the player to cross bodies of water on the map. |
+| War cry | F&H1 | Effect | Enemies will start focusing you for the rest of the battle. | All enemies attacks are directed onto you. |
+| Adrenaline rush | F&H2 | Effect | Increases Attack at the end of each turn for 3 turns: - Turn 1 - ×105% Attack - Turn 2 - ×110% Attack - Turn 3 - ×130% Attack | Increase damage every full round of battle. |
+| Advanced botanism | F&H2 | Effect | Unlocks recipes for: - Mixed herbs (dark blue, red) - Mixed herbs (dark blue, blue) - Condensed blue - Condensed green - Condensed lavender | Recipes for condensed blue, green, and lavender. |
+| Advanced occultism | F&H2 | Effect | Gives +1 Rev point at the start of the battle. | Start battle with a rev point. |
+| Analyze | F&H2 | Effect | Inflicts Weakness status to target's head. | Make an enemy's body part vulnerable. Often targets the head. |
+| Bare-fisted proficiency | F&H2 | Effect | Gives +30% Hit Rate when no weapon is equipped in battle. | Increase accuracy with no weapon. |
+| Black orb | F&H2 | Effect | Deals 90-134 (100 + M.Attack * 2 - 20 (20% variance)) Otherworldly damage to one target 4 times. Damage affected by Rev. | Magic attack, single target, attacks three times. |
+| Black smog | F&H2 | Cost | 10 Mind / 1 Rev P. | 10 Mind |
+| Black smog | F&H2 | Effect | Deals 50-74 (50 + M.Attack * 2 - 20 (20% variance)) typeless damage with a 100% chance to inflict Blindness 1 and blindness 2 statuses to all targets. | Magic attack, all parts/enemies. Can inflict poison and blindness |
+| Blood golem | F&H2 | Effect | Summons a Blood golem for the duration of the battle. Can't be controlled. | Summon a party member in battle, cannot be controlled |
+| Blood sacrifice | F&H2 | Cost | Passive | All but 1 Body |
+| Blood sacrifice | F&H2 | Description | Sacrifice your own blood for Gro-goroth, the god of destruction. A blood sacrifice will enhance your affinity with the said god. Sacrifices like these were everyday occurences back in the day. | Sacrifice your own blood for Gro-goroth, the god of destruction. A blood sacrifice will enhance your affinity with the said god. |
+| Blood sacrifice | F&H2 | Effect | Increases Gro-goroth affinity when used on Gro-goroth ritual circles, can be used multiple times (Except at the Abandoned House circle). ⚠ *(known bug listed on the wiki)* Removes 150 Body on use and leaves player with 1 Body, unless attempted with less than 50 Body which results in death. | Lower Body to 1 on ritual circles and increases affinity with Gro-goroth. |
+| Blood sword | F&H2 | Description | The blood of Alll-mer boils and rages even ages after his death. Just a drop sends swords to the heart of his enemies. Summon a blood sword to wield in battle. | The blood of All-mer boils and rages even ages after his death. Just a drop send swords to the heart of his enemies. Summon a blood sword to wield in battle. |
+| Blood sword | F&H2 | Effect | Equips Blood sword for the duration of the battle. | Equips Blood Sword weapon to user for fight. |
+| Bloodlust | F&H2 | Description | Hype yourself into a state of aggression and trance. An old traditional Oldegårdian folk skill. | Hype yourself into a state of aggression and trance. An old traditional Oldegardian folk skill. |
+| Bob and weave | F&H2 | Description | A defensive technique where one bobs their head laterally to an incoming attack while shifting balance to either left or right. Raises evasion greatly. | A defensive technique where one bobs their head laterally to an incoming attack while shifting balance to either left or right. Raise evasion greatly. |
+| Bob and weave | F&H2 | Effect | Applies Evasion Buff status. | Increase evasion for 5 turns |
+| Brain flower | F&H2 | Effect | Gives an option to plant Brain flower seeds on defeated enemies in the overworld. After 2:21 or 2:29 you can collect Brain flower stigma. | Plant a seed on a corpse to make a brain flower, Heals mind. |
+| Bury the trauma | F&H2 | Effect | Heals 1 Body every 20 seconds in the overworld at night or non-safe indoor areas. ⚠ *(known bug listed on the wiki)* | Decreases Mind loss while exploring overworld. |
+| Chains of torment | F&H2 | Cost | 80 Mind / 2 Rev P. | 80 Mind |
+| Chains of torment | F&H2 | Effect | Deals 857 ((600 + M.Attack * 2 - 20) * 1.4 [2 Rev] (0% variance)) Piercing damage with a 100% chance to inflict Bleeding status to one target. Damage affected by Rev. | Magic attack, single target |
+| Combustion | F&H2 | Cost | 35 Mind / 1 Rev P. | 35 Mind |
+| Combustion | F&H2 | Description | A talented wizard can control the heat in the atmosphere and create a large combustion of fire and flames to devour their opponents. Requires 1 Rev Point. | A talented wizard can control the heart in the atmosphere and create a large combustion of fire and flames to devour their opponents. Requires 1 Rev Point. |
+| Combustion | F&H2 | Effect | Deals 62-94 ((M.Attack * 5 - 20) * 1.3 [1 Rev] (20% variance)) Fire damage with a 60% chance to inflict Burning status status to all targets. Damage affected by Rev. | Fire magic. Single target. Can cause burn status |
+| Counter stance | F&H2 | Effect | Applies Counter status. *Counter stance* does not work with the Lugr Pistol, Rifle .303 Mk I or 12-gauge Trenchgun, but works with the Bayonet | Applies a status for the battle that causes the character to retaliate when attacked |
+| Devour | F&H2 | Effect | No effect. ⚠ *(known bug listed on the wiki)* | Consume enemy corpses for hunger |
+| Diagnosis | F&H2 | Effect | Gives an option to examine defeated enemies in the overworld to find their weaknesses. | Examine corpses to find their weak points. |
+| Diplomacy | F&H2 | Description | Start the fight by talking to the opponent without wasting a turn. Maybe you can find a diplomatic resolution before any violence takes place? | Start the fight by talking to the opponent without wasting a turn. Maybe you can find a diplomatic solution before any violence takes place? |
+| Diplomacy | F&H2 | Effect | Triggers **Talk** skill at the start of the battle without wasting a turn. | Automatic and free use of Talk at the start of battle. |
+| En garde | F&H2 | Description | Long combat experience has prepared you for fights. Prepare for an attack to gain advantage by pressing [E]. | Long combat experience has prepared you for fights. Prepare for an attack to gain advantage with [E]. |
+| En garde | F&H2 | Effect | Press [E] on the overworld right before engaging with an enemy to get a free attack. | Press [E] on the overworld to attack an enemy before a fight. |
+| Engrave | F&H2 | Effect | Allows you to carve a sigil on your face to gain a certain buff: - Gro-goroth - +4 Attack - Sylvian - +3 M.Defense, ×70% Otherworldly damage received - Alll-mer - +3 Defense, ×85% Physical damage received - Rher - +25 Max Mind - Vinushka - +4 M.Attack - God of Fear and Hunger - +5 Agility | Carve a god's sigil on a party member for stat increases. Rher - raises max capacity of mind (+25). Sylvian - raises magic protection (+3). Gro-Goroth - raises psychical attack damage (+4). Vinushka - raises magic attack damage (+4). All-Mer - raises psychical protection(+3). God of Fear and Hunger - raises agility(+5). |
+| Escape plan | F&H2 | Effect | Doubles the chance of running away from the battle when using **Run** skill. | Increase odds of escaping battle. |
+| Executioner | F&H2 | Effect | No effect. ⚠ *(known bug listed on the wiki)* | Use trenchguns to kill overworld enemies. |
+| Explosives | F&H2 | Effect | Unlocks a recipe for: - Pipe bomb | Unlocks recipe for Pipe bomb. |
+| Fast stance | F&H2 | Description | Raise your speed with swift footwork. In most cases you get and extra turn between enemy attacks. | Raise your speed with swift footwork. In most cases you get an extra turn between enemy attacks. |
+| Fast stance | F&H2 | Effect | Applies Speed Buff status. | Does not stack with 16 Agility |
+| Flesh puppetry | F&H2 | Effect | Summons hands that deals up to 1.5x of your Attack at end of the turn to a random target, the amount of attacks and the damage is based off of the amount of arms (Maxes out at 4 arms) you have in your inventory. | Summons hands that deal 4 physical attacks at end of turn to a random target, based off of your attack stat |
+| Golden gates | F&H2 | Effect | Allows you to use Golden Gates. | Travel through the Golden Gates in the Rher dimension |
+| Greater meditation | F&H2 | Effect | No effect. ⚠ *(known bug listed on the wiki)* | Guarding grants two extra Rev points. |
+| Greater occultism | F&H2 | Effect | Gives +1 Rev point at the start of the battle. | Start battle with two rev points. |
+| Greater photosynthesis | F&H2 | Effect | Restores 1 Body every 6 seconds in overworld outdoors during the day and evening. | Restores 1 body every 5 seconds in overworld outdoors during the day and evening. |
+| Gun proficiency | F&H2 | Effect | Gives +30% Hit Rate when Lugr Pistol, Rifle .303 Mk I or 12-gauge Trenchgun are equipped in battle. | Increase accuracy with guns in battle. |
+| Gunslinger | F&H2 | Effect | Allows you to dismember enemies in the overworld with Lugr Pistol. | Shoot off enemy limbs on the overworld. |
+| Healing whispers | F&H2 | Effect | Restores 48-72 Body and cures Critical state status of all party members. | Party heal 30-70 Body |
+| Heart flower | F&H2 | Effect | Gives an option to plant Heart flower seeds on defeated enemies in the overworld. After 2:21 or 2:29 you can collect Heart flower stigma. | Have sex with a corpse to make a heart flower, Heals body. |
+| Heart flower | F&H2 | Effect | Gives an option to plant Heart flower seeds on defeated enemies in the overworld. After 2:21 or 2:29 you can collect Heart flower stigma. | Plant a seed on a corpse to make a heart flower, Heals body. |
+| Hurting | F&H2 | Cost | 20 Mind / 1 Rev P. | 20 Mind |
+| Hurting | F&H2 | Effect | Deals 276 ((200 + M.Attack * 2 - 20) * 1.3 [1 Rev] (0% variance)) Otherworldly damage to one target. Damage affected by Rev. | Magic attack, Single target |
+| Intimidate | F&H2 | Description | Intimidation tactics in battle work on those mentally weak. The effects vary case by case. Used while initiating Talk during combat. | Intimidation tactics in battle work on those mentally weak. The effects vary case by case. Used while initiating Talk |
+| Intimidate | F&H2 | Effect | Unlocks [INTIMIDATE] option in battle dialogues when using **Talk** skill. | Upgrades the Talk ability. |
+| Inverse crown of thorns | F&H2 | Effect | Causes player's death. | Kill Player instantly, after playing short animation bursting a crown of Alll-mer out of players head. |
+| Killing intent | F&H2 | Effect | The following enemies will start avoiding you in the overworld: - Villager (Sickle) - Villager (Knives) - Fecal hound - Fallen cherub (Only the solo cherubs) | Weak enemies flee on the overworld. |
+| La Danse Macabre | F&H2 | Effect | Increases M.Attack at the end of each turn for 3 turns: - Turn 1 - ×150% M.Attack - Turn 2 - ×270% M.Attack - Turn 3 - ×500% M.Attack | Increase magical power over time as battle progresses. |
+| Lockpicking | F&H2 | Effect | Allows you to open doors with simple locks. | Opens most locked doors for free. |
+| Longinus | F&H2 | Effect | Equips Longinus for the duration of the battle. | Equips Longinus weapon to user for fight. |
+| Loving whispers | F&H2 | Effect | Restores 64-96 Body and cures Critical state status of a single party member. | Single target heal for 60-100 Body |
+| Lunar meteorite | F&H2 | Cost | 40 Mind / 1 Rev P. | 40 Mind |
+| Lunar meteorite | F&H2 | Effect | Deals 276 ((200 + M.Attack * 2 - 20) * 1.3 [1 Rev] (0% variance)) Otherworldly damage to one target. Damage affected by Rev. | Magic attack, Single target |
+| Lunar storm | F&H2 | Cost | 50 Mind / 2 Rev P. | 50 Mind |
+| Lunar storm | F&H2 | Effect | Deals 170-254 (200 + M.Attack * 2 - 20 (20% variance)) Otherworldly damage to all targets. Damage affected by Rev. | Magic attack, all parts/enemies |
+| Magna-medicinal | F&H2 | Name | Magna-medicinal | Magna-medical |
+| Magna-medicinal | F&H2 | Effect | Gives an option to sacrifice a limb to revive a party member. | Sacrifice a limb to revive a dead party member during combat. |
+| Marksmanship | F&H2 | Effect | Gives a 25% chance to instantly kill most enemies in the overworld with Rifle .303 Mk I or Bayonet. | Use rifles to instantly kill overworld enemies. |
+| Masterchef | F&H2 | Effect | Unlocks recipes for: - Meatpie+ - Vegetable pie+ - Mushroom stew+ - Goulash+ | Unlock recipe for:Goulash+ (DEF UP), Meatpie+ (STR UP), Vegetable Pie+ (EVA UP), Mushroom Stew+ (EVA UP) |
+| Mastery over vermin | F&H2 | Effect | Allows you to understand rats, crows and frogs. | Magic attack, hits all targets, very low damage but high chance to inflict confusion |
+| Masturbation | F&H2 | Effect | Increases Sylvian affinity when used on Sylvian ritual circles, can only be used once per circle. | Increases affinity with Sylvian on ritual circles. |
+| Medicinal | F&H2 | Effect | Gives an option to use harvested organs to cure different status effects for 10 mind (Fracture requires only 7 mind): / Liver (Toxic) / Kidney (Poisoned) / Eye (Blindness) / Heart (Bleeding) / Parathyroid glands (Fracture) / Thymus (Infected arm/leg) | Ability to use organs to cure status effects. |
+| Meditation | F&H2 | Effect | Guarding grants +2 Rev points at the end of the turn. ⚠ *(known bug listed on the wiki)* | Guarding grants an extra Rev point. |
+| Melee proficiency | F&H2 | Effect | Gives +30% Hit Rate when melee weapons are equipped in battle. | Increases accuracy with melee weapons. |
+| Mind read | F&H2 | Description | A moon magic that reveal the inner thoughts of your fellow humans. | A moon magic that reveals the inner thoughts of fellow humans. |
+| Mind read | F&H2 | Effect | Allows you to read thoughts of contestants and some NPC's. | Automatically used in conversation on the overworld |
+| Mischief of rats | F&H2 | Effect | Deals 8-12 Blunt damage with an 80% chance to inflict Concussion status to all targets. | Stuns and deals low damage to all enemies. |
+| Moth swarm | F&H2 | Cost | 30 Mind / 1 Rev P. | 30 Mind |
+| Moth swarm | F&H2 | Description | Summon a swarm of moths to aid you in combat. The moths are the very same that leaked from the paradise, the artificial green, when the door between the two worlds opened. Requires 1 Rev Point. | Summon a swarm of moths to aid you in combat. The moths are the very same that leaked from the paradise, the artificial green, when the door between the worlds was opened. |
+| Moth swarm | F&H2 | Effect | Deals 8 (M.Attack / 2 (10% variance)) Otherworldly damage to one target 3 times while healing the user for the same amount, can crit. Damage affected by Rev. | Magic attack, Single target |
+| Necromancy | F&H2 | Effect | Gives an option to resurrect soldiers and certain villagers as party members in the overworld. | Can revive dead soldiers and sickle-wielding villagers as party members. |
+| Order, Charge! | F&H2 | Effect | Every single party member will automatically attack again at the end of the turn including the main character. | Command other party members to attack without using their turns. |
+| Organ harvest | F&H2 | Effect | Gives an option to harvest organs from defeated enemies in the overworld. | Ability to harvest organs from corpses. |
+| Perfect guard | F&H2 | Effect | Prevents limb loss while guarding until the end of the turn. | Increases effectiveness of guard, prevents limb loss while guarding |
+| Persuade | F&H2 | Effect | Unlocks [PERSUADE] option in battle dialogues when using **Talk** skill. | Provides new option when using Talk. |
+| Pheromones | F&H2 | Effect | Chosen party member will be targeted by enemy attacks for the duration of the battle. | Targeted ally will be focused by enemies |
+| Photosynthesis | F&H2 | Description | The process in which you use sunlight to create oxygen and energy to replenish your health gradually over time. Requires sunlight obviously. A passive skill. | The process in which you use sunlight to create oxygen and energy to replenish your health gradually over time. |
+| Photosynthesis | F&H2 | Effect | Restores 1 Body every 20 seconds in overworld outdoors during the day and evening. | Restores 1 body every 10 seconds in overworld outdoors during the day and evening. |
+| Poison tip | F&H2 | Effect | Applies Poison Tip status, can be used before battle. | Give weapons the ability to inflict poison, lasts one battle. |
+| Precision stance | F&H2 | Effect | Applies Accuracy Boost status. | Sharply increase accuracy. |
+| Pyromancy trick | F&H2 | Effect | Deals 75-113 (50 + M.Attack * 4 - 20 (20% variance)) Fire damage with a 60% chance to inflict Burning status to one target. Damage affected by Rev. | Fire magic, Single target. Can cause burn status |
+| Red arc | F&H2 | Effect | Deals 210-314 (250 + M.Attack * 2 - 20 (20% variance)) Otherworldly damage with a 100% chance to inflict Concussion status status to one target. | Magic attack, Single target |
+| Reveal aura | F&H2 | Description | Reveal positions of the other contestants through examining a map. To sense these positions, a spike of energy is required. You can't sense a person without this. | Reveal position of the other contestants through examining a map. To sense these position, a spike of energy is required. You can't sense a person without this. |
+| Reveal aura | F&H2 | Effect | Shows the location of moonscorched contestants on the map. | Find the mutated forms of other contestants |
+| Roots that reap | F&H2 | Cost | 25 Mind / 2 Rev P. | 25 Mind |
+| Roots that reap | F&H2 | Effect | Deals 35-53 (M.Attack * 4 - 20 (20% variance)) typeless damage to all targets. | Magic attack, All enemies and their body parts. Breaks bones. |
+| Rot | F&H2 | Cost | 20 Mind / 1 Rev P. | 20 Mind |
+| Rot | F&H2 | Effect | Deals 5 Otherworldly damage to one random target and reduces max HP of all enemy torsos. Heals damage to the body parts that transform. ⚠ *(known bug listed on the wiki)* | Target's torso HP decreases if the spell succeeds |
+| Scorched earth | F&H2 | Cost | 50 Mind / 1 Rev P. | 50 Mind |
+| Scorched earth | F&H2 | Effect | 100% Chance to inflict Small burning status to all targets (including all party members). | Sets ablaze the ground, dealing small amount of damage along with improving fire spells. |
+| Scorched earth | F&H2 | Effect | 100% Chance to inflict Small burning status to all targets (including all party members). | Dramatically increases the strength of fire attacks to all battle participants |
+| Short circuit | F&H2 | Effect | Allows you to open doors with electronic panels in Tunnels. | Open doors with electronic locks by interacting with the fuse boxes next to them. |
+| Sisu | F&H2 | Effect | Upon being hit, if it would kill the user then it leaves them at 1 Body instead, removed upon reaching 1 Body. | User will survive with 1 Body remaining(?) |
+| Slow metabolism | F&H2 | Effect | Adds +37 seconds to the Hunger timer. | Decreases hunger while exploring the overworld. |
+| Spice forge | F&H2 | Effect | Give spells special effects. First (White) magic happens at the start of battle; Second (Red) magic casts a spell twice at once but hits a random target; Greater (Blue) magic costs less Mind. | Give spells special effects. First magic happens at the start of battle; Second magic casts a spell twice at once but hits a random target; Greater magic costs less Mind. |
+| Spontaneous combustion | F&H2 | Description | The highest form of pyromancy. Becomes the flame itself. | The (sic) highest form of pyromancy. Become the flames itself. |
+| Spontaneous combustion | F&H2 | Effect | Causes player's death. | Can only be used in the overworld, giving the player a permanent boost to fire based spells. |
+| Steal | F&H2 | Effect | Use in battle to obtain items from enemies. | Steal items from the enemy. |
+| Toxicology | F&H2 | Effect | Unlocks recipes for: - Condensed nettle - Condensed hemlock | Can make Condensed nettle and Condensed hemlock. |
+| Trapcraft | F&H2 | Effect | Unlocks recipes for: - Bear trap - Booby trap | Learn crafting recipes for Bear/Booby traps. |
+| Undergrowth awareness | F&H2 | Effect | Gives an option to harvest Dark blue root, Poison hemlock, Nettle and Wild dagga in the overworld. | Allows picking up Deep blue root, Nettle, Poison hemlock, and Wild dagga on maps. Teaches recipes for deep blue mixed herbs. |
+| War cry | F&H2 | Description | Provoke the enemy into attacking you only, leaving others alone. | Provoke the enemy into attacking you only, leaving the others alone. |
+| War cry | F&H2 | Effect | Enemies will start focusing you for the rest of the battle. | Enemies only target user |
+| Warding sigil | F&H2 | Effect | Allows you to create a sigil on the tile you're currently standing on which will block enemies from walking on that tile, expires on map transition. | Draw a sigil on the tile the player is standing on to prevent enemies from touching it. |
+| Weaponcraft | F&H2 | Effect | Unlocks recipes for: - Sandman's kiss - Reaper's rake - Lantern flail - Meat grinder | Learn recipes for 4 weapons: * Sandman's Kiss * Reaper's Rake * Lantern Flail * Meat Grinder |
+| Wrench toss | F&H2 | Effect | Throws a Pipe wrench to deal 291-437 (Attack * 6 - 20 (20% variance)) Blunt damage with a 95% Chance to inflict Concussion status to one target. Damage affected by Rev. Pipe wrench is unequipped after use. | Throw an equipped pipe wrench to damage and stun an enemy. Unequips weapon. |
+
+## What teaches the skill (F&H1, per the Tormentpedia)
+
+*The main wiki's F&H1 skill list does not give the scroll or book that teaches these skills.*
+
+| Skill | Game | Taught by (Tormentpedia) |
+|---|---|---|
+| Black orb | F&H1 | Scroll of the black arts |
+| Blood portal | F&H1 | Ancient Book (Necronomicon) Prompts a coin-toss. The loss is an instant death from madness. |
+| Blood sacrifice | F&H1 | Scroll of the dark mage |
+| Bloodlust | F&H1 | Scroll of berserk |
+| Chains of torment | F&H1 | Revisit the Temple of torment in the present (darkness) after defeating Chambara and check his body to learn the spell. |
+| Combustion | F&H1 | Scroll of combustion |
+| Counter | F&H1 | Scroll of the swordsman |
+| Dash | F&H1 | Scroll of the highwaymen |
+| Defence stance | F&H1 | Scroll of the general |
+| Demon seed | F&H1 | Creation of Life II |
+| Devour | F&H1 | Scroll of the wildman |
+| Fast attack | F&H1 | Scroll of fencing |
+| Greater blood magic | F&H1 | Scroll of the wizards |
+| Healing whispers | F&H1 | Scroll of the church of healing |
+| Leg sweep | F&H1 | Scroll of the long sword |
+| Lockpicking | F&H1 | Scroll of lockpicking |
+| Loving whispers | F&H1 | Scroll of the church of Sylvian |
+| Marksmanship | F&H1 | Scroll of marksmanship |
+| Needle worm | F&H1 | Scroll of the leeches |
+| Pyromancy trick | F&H1 | Scroll of pyromancy trick |
+| Simple transmutation | F&H1 | Scroll of transmutation |
+| Steal | F&H1 | Scroll of thievery |
+| Suicide | F&H1 | Acquired when MIND goes 50 or below |
+| Walk on water | F&H1 | Scroll of walking on water |
+
 ---
 
 **Notes:** Marina is listed under "Enlightened soul (Demo)" in the wiki's Unused skills list while her contestant skill table says Changeling soul; the row is shown as the wiki gives it.
 
-**Sources:** [Skills List F&H1](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H1) (revision 49388, 2026-09-27, fetched 2026-10-07); [Skills List F&H2](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H2) (revision 49169, 2026-06-30, fetched 2026-10-07). Text © Fear & Hunger Wiki contributors, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+**Sources:** Main wiki: [Skills List F&H1](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H1) (revision 49388, 2026-09-27, fetched 2026-10-07); [Skills List F&H2](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H2) (revision 49169, 2026-06-30, fetched 2026-10-07). Text © Fear & Hunger Wiki contributors, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Other wiki (supplementary): [Tormentpedia: Skills List](https://fearandhunger.fandom.com/wiki/Skills_List) (revision 15898) and [Tormentpedia: Termina Skills](https://fearandhunger.fandom.com/wiki/Termina_Skills) (revision 16603), CC-BY-SA, retrieved 2026-10-07.

@@ -5,7 +5,7 @@ category: "Contestant skills"
 tags: ["skill", "f&h2"]
 soul: "[[Blank soul]]"
 character: "[[Daan]]"
-sources: ["[[Wiki - Skills List F&H2]]"]
+sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -25,3 +25,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 Wiki page: <https://fearandhunger.wiki.gg/wiki/Organ_harvest>
 
 *Source: [[Wiki - Skills List F&H2]] (Contestant skills)*
+
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) differs from or adds to the main wiki here
+> Main wiki = fearandhunger.wiki.gg. Tormentpedia is a separate community wiki; its text is quoted as written there.
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Effect | Gives an option to use harvested organs to cure different status effects for 10 mind (Fracture requires only 7 mind): / Liver (Toxic) / Kidney (Poisoned) / Eye (Blindness) / Heart (Bleeding) / Parathyroid glands (Fracture) / Thymus (Infected arm/leg) | Ability to use organs to cure status effects. |
+
+*Source: [[Tormentpedia - Termina Skills]]*

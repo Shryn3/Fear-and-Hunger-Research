@@ -5,7 +5,7 @@ category: "God Affinity skills"
 aliases: ["Loving whispers"]
 tags: ["skill", "f&h2"]
 granted_by: "[[Sylvian]]"
-sources: ["[[Wiki - Skills List F&H2]]"]
+sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -25,3 +25,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 Wiki page: <https://fearandhunger.wiki.gg/wiki/Loving_whispers_(F%26H2)>
 
 *Source: [[Wiki - Skills List F&H2]] (God Affinity skills)*
+
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) differs from or adds to the main wiki here
+> Main wiki = fearandhunger.wiki.gg. Tormentpedia is a separate community wiki; its text is quoted as written there.
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Effect | Restores 64-96 Body and cures Critical state status of a single party member. | Single target heal for 60-100 Body |
+
+*Source: [[Tormentpedia - Termina Skills]]*

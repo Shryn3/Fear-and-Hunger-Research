@@ -5,7 +5,7 @@ category: "Contestant skills"
 tags: ["skill", "f&h2"]
 soul: "[[Caressing soul]]"
 character: "[[Abella]]"
-sources: ["[[Wiki - Skills List F&H2]]"]
+sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -25,3 +25,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 Wiki page: <https://fearandhunger.wiki.gg/wiki/Wrench_toss>
 
 *Source: [[Wiki - Skills List F&H2]] (Contestant skills)*
+
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) differs from or adds to the main wiki here
+> Main wiki = fearandhunger.wiki.gg. Tormentpedia is a separate community wiki; its text is quoted as written there.
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Effect | Throws a Pipe wrench to deal 291-437 (Attack * 6 - 20 (20% variance)) Blunt damage with a 95% Chance to inflict Concussion status to one target. Damage affected by Rev. Pipe wrench is unequipped after use. | Throw an equipped pipe wrench to damage and stun an enemy. Unequips weapon. |
+
+*Source: [[Tormentpedia - Termina Skills]]*

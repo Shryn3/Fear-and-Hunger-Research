@@ -5,7 +5,7 @@ category: "Contestant skills"
 tags: ["skill", "f&h2"]
 soul: "[[Tainted soul]]"
 character: "[[Marcoh]]"
-sources: ["[[Wiki - Skills List F&H2]]"]
+sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -25,3 +25,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 Wiki page: <https://fearandhunger.wiki.gg/wiki/Adrenaline_rush>
 
 *Source: [[Wiki - Skills List F&H2]] (Contestant skills)*
+
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) differs from or adds to the main wiki here
+> Main wiki = fearandhunger.wiki.gg. Tormentpedia is a separate community wiki; its text is quoted as written there.
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Effect | Increases Attack at the end of each turn for 3 turns: - Turn 1 - ×105% Attack - Turn 2 - ×110% Attack - Turn 3 - ×130% Attack | Increase damage every full round of battle. |
+
+*Source: [[Tormentpedia - Termina Skills]]*
