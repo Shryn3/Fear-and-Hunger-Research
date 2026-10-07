@@ -24,22 +24,35 @@ A separate section: 5th edition (2024 rules) comparables for the Fear & Hunger s
 
 ## Souls
 
-| Soul | Skills | With a comparable | With none |
-|---|---|---|---|
-| [[5e - Soul - Blank]] | 8 | 5 | 3 |
-| [[5e - Soul - Caressing]] | 4 | 4 | 0 |
-| [[5e - Soul - Changeling]] | 4 | 4 | 0 |
-| [[5e - Soul - Chaotic]] | 4 | 3 | 1 |
-| [[5e - Soul - Decrepit]] | 5 | 4 | 1 |
-| [[5e - Soul - Domination]] | 4 | 4 | 0 |
-| [[5e - Soul - Endless]] | 10 | 10 | 0 |
-| [[5e - Soul - Enlightened]] | 8 | 4 | 4 |
-| [[5e - Soul - Latent]] | 6 | 5 | 1 |
-| [[5e - Soul - Radiating]] | 4 | 0 | 4 |
-| [[5e - Soul - Shadowed]] | 4 | 4 | 0 |
-| [[5e - Soul - Solitary]] | 4 | 2 | 2 |
-| [[5e - Soul - Suffocated]] | 3 | 2 | 1 |
-| [[5e - Soul - Tainted]] | 7 | 7 | 0 |
-| [[5e - Soul - Tormented]] | 8 | 2 | 6 |
+| Soul | Skills | With a comparable | With none | Status |
+|---|---|---|---|---|
+| [[5e - Soul - Blank]] | 8 | 5 | 3 | compared |
+| [[5e - Soul - Caressing]] | 4 | 4 | 0 | compared |
+| [[5e - Soul - Changeling]] | 4 | 4 | 0 | compared |
+| [[5e - Soul - Chaotic]] | 4 | 3 | 1 | compared |
+| [[5e - Soul - Decrepit]] | 5 | 4 | 1 | compared |
+| [[5e - Soul - Domination]] | 4 | 4 | 0 | compared |
+| [[5e - Soul - Endless]] | 10 | 10 | 0 | compared |
+| [[5e - Soul - Enlightened]] | 8 | 4 | 4 | compared |
+| [[5e - Soul - Latent]] | 6 | 5 | 1 | compared |
+| [[5e - Soul - Radiating]] | 4 | 0 | 4 | compared |
+| [[5e - Soul - Shadowed]] | 4 | 4 | 0 | compared |
+| [[5e - Soul - Solitary]] | 4 | 2 | 2 | compared |
+| [[5e - Soul - Suffocated]] | 3 | 2 | 1 | compared |
+| [[5e - Soul - Tainted]] | 7 | 7 | 0 | compared |
+| [[5e - Soul - Tormented]] | 8 | 2 | 6 | compared |
+| [[5e - Soul - Amoral]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Antagonistic]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Beastly]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Defiant]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Gladiatorial]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Halved]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Innocent]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Loving]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Mourning]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Order]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Shepherding]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Stagnant]] | 0 | 0 | 0 | stub: no skills or description recorded |
+| [[5e - Soul - Submissive]] | 0 | 0 | 0 | stub: no skills or description recorded |
 
-See also [[5e - Souls with no skills listed]] and [[5e - SRD passages]].
+All 28 soul types in the wiki are listed. 13 have no skills or in-game description recorded, so they are stubs. See also [[5e - SRD passages]].
