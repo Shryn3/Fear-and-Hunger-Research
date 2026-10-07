@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Suffocated soul]]"
 game: ["F&H2"]
-aliases: ["Blonde man", "The Chef"]
+aliases: ["The Chef", "Blonde man"]
 tags: ["character"]
 sources: ["[[Wiki - Henryk]]"]
 retrieved: "2026-10-07"

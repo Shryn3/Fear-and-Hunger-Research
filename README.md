@@ -15,9 +15,9 @@ Open this folder as a vault in Obsidian and start at **`00 Index`**.
 | In-game documents about the gods (Skin Bibles etc.) | `Lore/` | 8 |
 | Mechanics (Hexen, Soul stone, Rev, ritual circles…) | `Mechanics/` | 6 |
 | One note per cited wiki page, with revision id | `Sources/` | 65 |
-| **Hexen skill table**: every god/soul skill, both games, one standalone page (no wikilinks by design, so it adds nothing to the graph) | `Hexen/Hexen skill table.md` | 1 |
+| **Hexen skill table**: all 165 skill listings from both games' wiki lists (soul/god skills, New Game Plus, General, Unused), sorted by soul or character, then god; one standalone page (no wikilinks by design, so it adds nothing to the graph) | `Hexen/Hexen skill table.md` | 1 |
 
-**Not yet covered:** General skills and Unused skills lists; non-soul characters; locations, factions, items, enemies; game-file data.
+**Not yet covered:** non-soul characters; locations, factions, items, enemies; game-file data.
 
 ## Conventions
 - **Links:** Obsidian wikilinks; a note's filename is its title. God <-> skill, soul <-> character <-> skill are linked both ways. Wiki pages that have no note yet are linked to the wiki as normal markdown links.

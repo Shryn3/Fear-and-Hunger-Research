@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Blank soul]]"
 game: ["F&H2"]
-aliases: ["The Doctor", "Man with Checkered Pants"]
+aliases: ["Man with Checkered Pants", "The Doctor"]
 tags: ["character"]
 sources: ["[[Wiki - Daan]]"]
 retrieved: "2026-10-07"

@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Old God"
-aliases: ["Ninush", "The God of Nature"]
+aliases: ["The God of Nature", "Ninush"]
 tags: ["god", "old-god"]
 sources: ["[[Wiki - Vinushka]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"

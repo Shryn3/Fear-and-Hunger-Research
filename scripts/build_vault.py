@@ -291,7 +291,7 @@ def parse_table_rows(block):
     if cur: rows.append(cur)
     return headers, [r for r in rows if r]
 
-def skill_records(game, title):
+def skill_records(game, title, groups=("Contestant skills", "God Affinity skills", "New Game Plus", "Soul skills")):
     """-> list of dict(game, group, sub_head, name, link_target, symbol, cells{})."""
     wt = PAGES[title]["wikitext"]
     ms = list(re.finditer(r"^(=+)\s*(.*?)\s*\1\s*$", wt, re.M))
@@ -302,7 +302,7 @@ def skill_records(game, title):
         if lvl == 2: group = re.sub(r"\[\[.*?\]\]", "", head).strip()
         seg = wt[m.end():end]
         tm = re.search(r"\{\|.*?\n\|\}", seg, re.S)
-        if not tm or group not in ("Contestant skills", "God Affinity skills", "New Game Plus", "Soul skills"):
+        if not tm or group not in groups:
             continue
         headers, rows = parse_table_rows(tm.group(0))
         headers = [re.sub(r"\s+", " ", h) for h in headers]
@@ -735,68 +735,109 @@ def build(final):
     # --- Hexen skill table: one standalone page, deliberately NO wikilinks (keeps the graph view uncluttered) ---
     def hexen_table():
         pctx = {"fn": [], "refs": {}, "n": 0, "owner": "Hexen skill table", "targets": set(), "link": lambda t, d, f="": d}
-        def cell(r, key):
-            v = r["cells"].get(key)
+        GOD_SYM = {"All-mer": "Alll-mer", "Fear and Hunger": "God of Fear and Hunger"}
+        char2soul = {}
+        for r in recs:
+            if r["group"] in ("Contestant skills", "Soul skills") and r.get("char") and r.get("soul"):
+                char2soul[r["char"]] = r["soul"]
+        KNOWN_GODS = {r["god"] for r in recs if r["group"] == "God Affinity skills"}
+        extras = []
+        for gm, page in (("F&H1", "Skills List F&H1"), ("F&H2", "Skills List F&H2")):
+            extras += skill_records(gm, page, groups={"General skills", "Unused skills"})
+
+        def get(r, *keys):
+            low = {k.lower(): v for k, v in r["cells"].items()}
+            for k in keys:
+                if k.lower() in low: return low[k.lower()]
+            return None
+        def cell(r, *keys):
+            v = get(r, *keys)
             if v is None: return ""
             out = clean(v, pctx, inline=True)
             out = re.sub(r"\[\^\d+\]", "", out)
-            return "" if out == "-" else out.replace("|", "\\|")
-        def row(r, who=None, dup_of=None):
-            cols = [cell(r, "Name") or r["name"], r["game"]]
-            if who is not None: cols.append(who)
-            cols += [cell(r, "Description"), cell(r, "Effect"), cell(r, "Cost"), cell(r, "Success Rate"), cell(r, "Unlock Requirement")]
-            if dup_of: cols[0] = f"{r['name']} (second listing)"
-            return "| " + " | ".join(c.replace("\n", " ") for c in cols) + " |"
-        def rows_for(lst, with_who):
+            out = re.sub(r"^/\s*", "", out)  # symbol images in the name cell leave a leading <br>
+            return "" if out == "-" else out.replace("|", "\\|").replace("\n", " ")
+
+        def classify(r):
+            """-> (kind, key, character). Soul/character first, then god, per the wiki's own table text only."""
+            unlock_raw = re.sub(r"<[^>]+>", "", get(r, "Unlock Requirement", "Unlock method", "Unlock Method") or "")
+            unlock_raw = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", unlock_raw)
+            m = re.search(r"([A-Z][\w'’-]+)?\s*\((\w+) soul\)", unlock_raw)
+            if m: return "soul", m.group(2), m.group(1)
+            for ch in sorted(char2soul, key=len, reverse=True):
+                if re.search(r"\b" + re.escape(ch) + r"\b", unlock_raw):
+                    return "soul", char2soul[ch], ch
+            if r.get("char"):
+                return ("soul", r["soul"], r["char"]) if r.get("soul") else ("char", r["char"], r["char"])
+            if r.get("symbol"): return "god", GOD_SYM.get(r["symbol"], r["symbol"]), None
+            if r.get("god"): return "god", r["god"], None
+            ma = re.search(r"([A-Z][\w'’ -]+?) affinity", unlock_raw)
+            if ma:
+                g = GOD_SYM.get(ma.group(1).strip(), ma.group(1).strip())
+                if g in KNOWN_GODS or g in ("Logic",): return "god", g, None
+            return "none", None, None
+
+        allrows = [r for r in recs if r["group"] in ("Contestant skills", "Soul skills", "God Affinity skills", "New Game Plus")] + extras
+        placed = defaultdict(list)   # (kind, key) -> rows
+        for r in allrows:
+            kind, key, ch = classify(r)
+            r["_char"] = ch or r.get("char") or ""
+            placed[(kind, key)].append(r)
+
+        def one(r, dup=False):
+            name = cell(r, "Name") or r["name"]
+            if dup: name += " (second listing)"
+            return "| " + " | ".join([name, r["game"], r["group"], r["_char"], cell(r, "Description"), cell(r, "Effect"), cell(r, "Cost"),
+                                       cell(r, "Success Rate", "Success rate"), cell(r, "Unlock Requirement", "Unlock method", "Unlock Method")]) + " |"
+        def rows_for(lst):
+            order = {"Contestant skills": 0, "Soul skills": 0, "God Affinity skills": 0, "New Game Plus": 1, "General skills": 2, "Unused skills": 3}
             out = []
-            for r in lst:
-                who = None
-                if with_who: who = r.get("char") or ""
-                out.append(row(r, who))
-                for d in r.get("dups", []): out.append(row(d, who, dup_of=True))
+            for r in sorted(lst, key=lambda r: (r["game"], order.get(r["group"], 9))):
+                out.append(one(r))
+                for d in r.get("dups", []): d["_char"] = r["_char"]
+                out += [one(d, True) for d in r.get("dups", [])]
             return out
-        HDR_G = "| Skill | Game | Description | Effect | Cost | Success rate | Unlock requirement |\n|---|---|---|---|---|---|---|"
-        HDR_S = "| Skill | Game | Learned by (per wiki list) | Description | Effect | Cost | Success rate | Unlock requirement |\n|---|---|---|---|---|---|---|---|"
+        def nrows(lst): return sum(1 + len(x.get("dups", [])) for x in lst)
+        def counts(lst): return ", ".join(f"{g}: {nrows([x for x in lst if x['game'] == g])}" for g in ("F&H1", "F&H2") if any(x["game"] == g for x in lst))
+        HDR = "| Skill | Game | Wiki list | Character | Description | Effect | Cost | Success rate | Unlock requirement / method |\n|---|---|---|---|---|---|---|---|---|"
         def anchor(h): return "#" + urllib.parse.quote(h, safe="")
-        gods = sorted({r["god"] for r in recs if r["group"] == "God Affinity skills"})
-        souls = sorted({r["soul"] for r in recs if r["group"] in ("Contestant skills", "Soul skills") and r["soul"]})
-        ngp = [r for r in recs if r["group"] == "New Game Plus"]
-        counts = lambda lst: ", ".join(f"{g}: {sum(1+len(x.get('dups', [])) for x in lst if x['game'] == g)}" for g in ("F&H1", "F&H2") if any(x["game"] == g for x in lst))
+
+        souls = sorted(k for (kd, k) in placed if kd == "soul")
+        chars = sorted(k for (kd, k) in placed if kd == "char")
+        gods = sorted(k for (kd, k) in placed if kd == "god")
+        none = placed.get(("none", None), [])
         out = ["# Hexen skill table", "",
-               "*Every skill the wiki lists as coming from a god (god-affinity) or a soul (contestant / soul skills), for Fear & Hunger (F&H1) and Fear & Hunger 2: Termina (F&H2). "
-               "Sorted by god, then by soul. Standalone page: no wikilinks, nothing links here.*", "",
-               "*Not included: General skills (available to everyone), Unused skills. New Game Plus skills are listed at the end by unlock requirement.*", "",
-               "## Index", "", "**Gods**", ""]
-        for g in gods: out.append(f"- [{g}]({anchor('God ' + g)}) — {counts([r for r in recs if r['group'] == 'God Affinity skills' and r['god'] == g])}")
-        out += ["", "**Souls**", ""]
-        for sname in souls:
-            lst = [r for r in recs if r["group"] in ("Contestant skills", "Soul skills") and r["soul"] == sname]
-            out.append(f"- [{sname} soul]({anchor('Soul ' + sname)}) — {counts(lst)}")
-        out += ["", f"- [New Game Plus]({anchor('New Game Plus')}) — F&H2: {sum(1 for r in ngp)}", "", "## A-Z skill index", "", "| Skill | Game | From |", "|---|---|---|"]
-        az = []
-        for r in recs:
-            if r["group"] == "God Affinity skills": az.append((r["name"], r["game"], f"God: {r['god']}"))
-            elif r["group"] in ("Contestant skills", "Soul skills") and r["soul"]: az.append((r["name"], r["game"], f"Soul: {r['soul']}"))
-            elif r["group"] == "New Game Plus": az.append((r["name"], r["game"], "New Game Plus"))
-        for n, g, f in sorted(set(az), key=lambda x: (x[0].lower(), x[1], x[2])):
-            out.append(f"| {n} | {g} | {f} |")
-        out += ["", "# Skills by god", ""]
-        for g in gods:
-            lst = [r for r in recs if r["group"] == "God Affinity skills" and r["god"] == g]
-            out += [f"## God {g}", "", HDR_G] + rows_for(sorted(lst, key=lambda r: r["game"]), False) + [""]
-        out += ["# Skills by soul", ""]
-        for sname in souls:
-            lst = [r for r in recs if r["group"] in ("Contestant skills", "Soul skills") and r["soul"] == sname]
-            out += [f"## Soul {sname}", "", HDR_S] + rows_for(sorted(lst, key=lambda r: r["game"]), True) + [""]
-        out += ["# New Game Plus", "", "*Unlocked by completing an ending (see Unlock requirement). The wiki shows a god symbol beside these; that symbol is given in the Symbol column.*", "",
-                "| Skill | Game | Symbol shown | Description | Effect | Cost | Success rate | Unlock requirement |", "|---|---|---|---|---|---|---|---|"]
-        for r in ngp:
-            out.append("| " + " | ".join(x.replace("\n", " ") for x in [cell(r, "Name") or r["name"], r["game"], r["symbol"] or "", cell(r, "Description"), cell(r, "Effect"), cell(r, "Cost"), cell(r, "Success Rate"), cell(r, "Unlock Requirement")]) + " |")
+               "*Every skill on the wiki's skill lists for Fear & Hunger (F&H1) and Fear & Hunger 2: Termina (F&H2): contestant/soul skills, god-affinity skills, New Game Plus, General and Unused skills. "
+               "Sorted by soul first (by character where the character has no soul listed), then by god. Skills with neither are at the end. Standalone page: no wikilinks, nothing links here.*", "",
+               "*How rows were placed (only from the wiki's own table text): a soul or character named in the unlock column, or the table the skill sits in, decides the soul; otherwise a god symbol beside the skill or an \"X affinity\" requirement decides the god. Effect text is never used to guess. The \"Wiki list\" column says which list the row came from.*", "",
+               "## Index", "", "**Souls**", ""]
+        for s_ in souls: out.append(f"- [{s_} soul]({anchor('Soul ' + s_)}) — {counts(placed[('soul', s_)])}")
+        if chars:
+            out += ["", "**Characters with no soul listed**", ""]
+            for c_ in chars: out.append(f"- [{c_}]({anchor('Character ' + c_)}) — {counts(placed[('char', c_)])}")
+        out += ["", "**Gods**", ""]
+        for g_ in gods: out.append(f"- [{g_}]({anchor('God ' + g_)}) — {counts(placed[('god', g_)])}")
+        out += ["", f"**No soul or god listed**: [General and unattributed skills]({anchor('No soul or god listed')}) — {counts(none)}", "",
+                "## A-Z skill index", "", "| Skill | Game | Wiki list | Placed under |", "|---|---|---|---|"]
+        az = set()
+        for (kd, k), lst in placed.items():
+            lab = {"soul": f"Soul {k}", "char": f"Character {k}", "god": f"God {k}"}[kd] if kd != "none" else "No soul or god listed"
+            for r in lst: az.add((cell(r, "Name") or r["name"], r["game"], r["group"], lab))
+        for a in sorted(az, key=lambda x: (x[0].lower(), x[1], x[2], x[3])): out.append("| " + " | ".join(a) + " |")
+        out += ["", "# Skills by soul", ""]
+        for s_ in souls: out += [f"## Soul {s_}", "", HDR] + rows_for(placed[("soul", s_)]) + [""]
+        if chars:
+            out += ["# Skills by character (no soul listed)", ""]
+            for c_ in chars: out += [f"## Character {c_}", "", HDR] + rows_for(placed[("char", c_)]) + [""]
+        out += ["# Skills by god", ""]
+        for g_ in gods: out += [f"## God {g_}", "", HDR] + rows_for(placed[("god", g_)]) + [""]
+        out += ["# No soul or god listed", "", f"## No soul or god listed", "", HDR] + rows_for(none) + [""]
+        notes_ = ["Marina is listed under \"Enlightened soul (Demo)\" in the wiki's Unused skills list while her contestant skill table says Changeling soul; the row is shown as the wiki gives it."]
         ps = [PAGES["Skills List F&H1"], PAGES["Skills List F&H2"]]
-        out += ["", "---", "", "**Sources:** " + "; ".join(f"[{p['title']}]({p['url']}) (revision {p['revid']}, {p['timestamp'][:10]}, fetched {p['fetched']})" for p in ps)
+        out += ["---", "", "**Notes:** " + " ".join(notes_), "", "**Sources:** " + "; ".join(f"[{p['title']}]({p['url']}) (revision {p['revid']}, {p['timestamp'][:10]}, fetched {p['fetched']})" for p in ps)
                 + ". Text © Fear & Hunger Wiki contributors, " + LICENSE + ".", ""]
         fm = dict(type="hexen-table", tags=["skill", "hexen", "table"], sources=["Fear & Hunger Wiki: Skills List F&H1", "Fear & Hunger Wiki: Skills List F&H2"],
-                  retrieved=max(p["fetched"] for p in ps), license=LICENSE, graph_note="no wikilinks by design")
+                  retrieved=max(p["fetched"] for p in ps), license=LICENSE, graph_note="no wikilinks by design", row_count=sum(nrows(v) for v in placed.values()))
         NOTES["Hexen skill table"] = dict(folder="Hexen", fm=fm, body="\n".join(out))
     hexen_table()
 

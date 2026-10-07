@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Changeling soul]]"
 game: ["F&H2"]
-aliases: ["The Occultist", "Girl with Pigtails"]
+aliases: ["Girl with Pigtails", "The Occultist"]
 tags: ["character"]
 sources: ["[[Wiki - Marina]]"]
 retrieved: "2026-10-07"
