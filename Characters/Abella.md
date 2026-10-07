@@ -126,6 +126,53 @@ If recruited, Abella will have [Sturdy overalls](https://fearandhunger.wiki.gg/w
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Abella]].*
+
+![[Abella portrait.png]]
+*Default portrait — file: Abella portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_portrait.png>*
+
+![[Abella portrait3.png]]
+*During train intro — file: Abella portrait3.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_portrait3.png>*
+
+![[Abella parasite portrait.png]]
+*With Woodsman's parasite — file: Abella parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_parasite_portrait.png>*
+
+![[Abella Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Abella Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_Gro-goroth_portrait.png>*
+
+![[Abella Sylvian portrait.png]]
+*With Sylvian engraving — file: Abella Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_Sylvian_portrait.png>*
+
+![[Abella Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Abella Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_Alll-mer_portrait.png>*
+
+![[Abella Rher portrait.png]]
+*With Rher engraving — file: Abella Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_Rher_portrait.png>*
+
+![[Abella Vinushka portrait.png]]
+*With Vinushka engraving — file: Abella Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_Vinushka_portrait.png>*
+
+![[Abella Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Abella Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Abella_Fear_and_Hunger_portrait.png>*
+
+![[Abella (Enemy).png]]
+*Abella whips out her wrench with a serious expression on her face. — file: Abella (Enemy).png (180×253), <https://fearandhunger.wiki.gg/wiki/File:Abella_(Enemy).png>*
+
+![[Abella (Enemy) rot.png]]
+*Abella whips out her wrench with a serious expression on her face. — file: Abella (Enemy) rot.png (180×253), <https://fearandhunger.wiki.gg/wiki/File:Abella_(Enemy)_rot.png>*
+
+![[Abella (Player).png]]
+*Player — file: Abella (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Abella_(Player).png>*
+
+![[Abella overworld.png]]
+*Static — file: Abella overworld.png (53×111), <https://fearandhunger.wiki.gg/wiki/File:Abella_overworld.png>*
+
+![[Abella overworld2.png]]
+*Static (Alt.) — file: Abella overworld2.png (57×110), <https://fearandhunger.wiki.gg/wiki/File:Abella_overworld2.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

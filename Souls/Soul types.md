@@ -100,3 +100,13 @@ Not every New God is given a title in accordance to the soul that they were born
 - [[Tainted soul]] — January
 - [[Tormented soul]] — July
 [^1]: Wiki citation: [Post by Haverinen](https://x.com/happy_paintings/status/1774443479080243346?s=20) stating Pav was born on Yule.
+
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Soul type]].*
+
+![[Soulchart3.png|300]]
+*A birth chart of all known soul types. — file: Soulchart3.png (963×959), <https://fearandhunger.wiki.gg/wiki/File:Soulchart3.png>*
+
+![[Soul Chart Preview.png|300]]
+*Preview image posted by Haverinen of all soul types. (the wiki's gallery caption) — file: Soul Chart Preview.png (490×415), <https://fearandhunger.wiki.gg/wiki/File:Soul_Chart_Preview.png>*

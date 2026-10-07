@@ -89,6 +89,47 @@ She asks the protagonist whether they thought that they wouldn't be getting out 
 - [[Flesh puppetry]] — 2 God of Fear and Hunger affinity
 - [[Mischief of rats]] — 3 God of Fear and Hunger affinity
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - God of Fear and Hunger]], [[Wiki - Skills List F&H2]], [[Wiki - Skills List F&H1]], [[Wiki - The Gods]].*
+
+![[Symbol Fear and Hunger.png]]
+*Symbol as shown beside the God of Fear and Hunger in the wiki's F&H2 skill list — file: Symbol Fear and Hunger.png (32×32), <https://fearandhunger.wiki.gg/wiki/File:Symbol_Fear_and_Hunger.png>*
+
+![[God of fear and hunger5.png|300]]
+*File:Fear hunger noice.ogg — file: God of fear and hunger5.png (397×445), <https://fearandhunger.wiki.gg/wiki/File:God_of_fear_and_hunger5.png>*
+
+![[God of fear and hunger4.png|300]]
+*File:Fear hunger noice.ogg — file: God of fear and hunger4.png (397×445), <https://fearandhunger.wiki.gg/wiki/File:God_of_fear_and_hunger4.png>*
+
+![[God of fear and hunger3.png|300]]
+*File:Fear hunger noice.ogg — file: God of fear and hunger3.png (397×445), <https://fearandhunger.wiki.gg/wiki/File:God_of_fear_and_hunger3.png>*
+
+![[God of fear and hunger2.png|300]]
+*File:Fear hunger noice.ogg — file: God of fear and hunger2.png (397×445), <https://fearandhunger.wiki.gg/wiki/File:God_of_fear_and_hunger2.png>*
+
+![[God of fear and hunger.png|300]]
+*File:Fear hunger noice.ogg — file: God of fear and hunger.png (397×445), <https://fearandhunger.wiki.gg/wiki/File:God_of_fear_and_hunger.png>*
+
+![[God of F&H.png]]
+*F&H1 — file: God of F&H.png (165×213), <https://fearandhunger.wiki.gg/wiki/File:God_of_F%26H.png>*
+
+![[Fear statue overworld.png]]
+*F&H2 — file: Fear statue overworld.png (97×127), <https://fearandhunger.wiki.gg/wiki/File:Fear_statue_overworld.png>*
+
+![[Clock.png|300]]
+*A clock plate from the Bohemia National Museum at Prehevil. The smaller sphere depicts ten runic symbols of Old Gods. Clockwise: Sulfur (second); Alll-mer (third); Rher (fourth); Sylvian (fifth); Gro-goroth (sixth); Vinushka (eighth); God of the Depths (ninth). Other symbols are currently unknown. — file: Clock.png (438×438), <https://fearandhunger.wiki.gg/wiki/File:Clock.png>*
+
+![[Great hall .png|300]]
+*The grand hall of the gods, where inactive new gods reside. — file: Great hall .png (412×518), <https://fearandhunger.wiki.gg/wiki/File:Great_hall_.png>*
+
+![[New Gods Termina Cropped.png|300]]
+*Francóis, The Tormented One and other New Gods sit at a table, as depicted in Termina. — file: New Gods Termina Cropped.png (584×565), <https://fearandhunger.wiki.gg/wiki/File:New_Gods_Termina_Cropped.png>*
+
+![[Nilvan and valtiel sitting at the table.png|300]]
+*New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

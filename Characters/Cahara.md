@@ -173,6 +173,32 @@ If the player chooses not to play as Cahara, they will be able to go to the prom
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Cahara]].*
+
+![[Cahara portrait.png]]
+*Default portrait — file: Cahara portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Cahara_portrait.png>*
+
+![[Cahara portrait4.png|300]]
+*Dungeon Nights — file: Cahara portrait4.png (314×427), <https://fearandhunger.wiki.gg/wiki/File:Cahara_portrait4.png>*
+
+![[Cahara (Enemy).png]]
+*Cahara unsheathes his rusty short sword... — file: Cahara (Enemy).png (186×306), <https://fearandhunger.wiki.gg/wiki/File:Cahara_(Enemy).png>*
+
+![[Cahara (Miasma).png]]
+*Cahara has a tight on the miasma... — file: Cahara (Miasma).png (186×306), <https://fearandhunger.wiki.gg/wiki/File:Cahara_(Miasma).png>*
+
+![[Cahara (Newgod).png]]
+*A new god greets you. — file: Cahara (Newgod).png (186×306), <https://fearandhunger.wiki.gg/wiki/File:Cahara_(Newgod).png>*
+
+![[Cahara (Player).gif]]
+*Player — file: Cahara (Player).gif (161×234), <https://fearandhunger.wiki.gg/wiki/File:Cahara_(Player).gif>*
+
+![[CaharaSprite.gif]]
+*Overworld — file: CaharaSprite.gif (79×116), <https://fearandhunger.wiki.gg/wiki/File:CaharaSprite.gif>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

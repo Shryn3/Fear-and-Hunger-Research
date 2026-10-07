@@ -75,6 +75,23 @@ Samarie is a disturbed and obsessive young woman who will go to lengths to follo
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Samarie]].*
+
+![[Samarie portrait2.png]]
+*Portrait — file: Samarie portrait2.png (252×255), <https://fearandhunger.wiki.gg/wiki/File:Samarie_portrait2.png>*
+
+![[Samarie (Enemy).png]]
+*Samarie slowly creeps around you... — file: Samarie (Enemy).png (122×291), <https://fearandhunger.wiki.gg/wiki/File:Samarie_(Enemy).png>*
+
+![[Samarie (Enemy) rot.png]]
+*Samarie slowly creeps around you... — file: Samarie (Enemy) rot.png (122×291), <https://fearandhunger.wiki.gg/wiki/File:Samarie_(Enemy)_rot.png>*
+
+![[Samarie overworld.png]]
+*Static — file: Samarie overworld.png (54×111), <https://fearandhunger.wiki.gg/wiki/File:Samarie_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

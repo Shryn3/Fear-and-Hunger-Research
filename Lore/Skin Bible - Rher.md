@@ -37,6 +37,14 @@ wip
 
 *Source: [[Wiki - Skin Bible - Rher]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Skin Bible - Rher]].*
+
+![[Skin bible big.png]]
+*"A strong occult book written in the medieval times by Enki Ankarian. The chapter explains the older god Rher." — file: Skin bible big.png (128×128), <https://fearandhunger.wiki.gg/wiki/File:Skin_bible_big.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

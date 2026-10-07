@@ -57,6 +57,38 @@ Evidently prepared for fighting, the Heartless One is shrouded in a living, oozi
 
 *Source: [[Wiki - Heartless One]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Heartless One]], [[Wiki - The Gods]].*
+
+![[Heartless One.png]]
+*The heartless one challenged you to a duel. — file: Heartless One.png (247×348), <https://fearandhunger.wiki.gg/wiki/File:Heartless_One.png>*
+
+![[Heartless One rot.png]]
+*The heartless one challenged you to a duel. — file: Heartless One rot.png (247×348), <https://fearandhunger.wiki.gg/wiki/File:Heartless_One_rot.png>*
+
+![[Heartless One2.png|300]]
+*The heartless one opens her wings. — file: Heartless One2.png (367×348), <https://fearandhunger.wiki.gg/wiki/File:Heartless_One2.png>*
+
+![[Heartless One2 rot.png|300]]
+*The heartless one opens her wings. — file: Heartless One2 rot.png (367×348), <https://fearandhunger.wiki.gg/wiki/File:Heartless_One2_rot.png>*
+
+![[Heartless One overworld.png]]
+*Static — file: Heartless One overworld.png (103×166), <https://fearandhunger.wiki.gg/wiki/File:Heartless_One_overworld.png>*
+
+![[Clock.png|300]]
+*A clock plate from the Bohemia National Museum at Prehevil. The smaller sphere depicts ten runic symbols of Old Gods. Clockwise: Sulfur (second); Alll-mer (third); Rher (fourth); Sylvian (fifth); Gro-goroth (sixth); Vinushka (eighth); God of the Depths (ninth). Other symbols are currently unknown. — file: Clock.png (438×438), <https://fearandhunger.wiki.gg/wiki/File:Clock.png>*
+
+![[Great hall .png|300]]
+*The grand hall of the gods, where inactive new gods reside. — file: Great hall .png (412×518), <https://fearandhunger.wiki.gg/wiki/File:Great_hall_.png>*
+
+![[New Gods Termina Cropped.png|300]]
+*Francóis, The Tormented One and other New Gods sit at a table, as depicted in Termina. — file: New Gods Termina Cropped.png (584×565), <https://fearandhunger.wiki.gg/wiki/File:New_Gods_Termina_Cropped.png>*
+
+![[Nilvan and valtiel sitting at the table.png|300]]
+*New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
+
+
 ## Sources
 - [[Wiki - Heartless One]]
 - [[Wiki - The Gods]]

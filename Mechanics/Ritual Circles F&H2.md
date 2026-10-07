@@ -121,6 +121,20 @@ There are three imperfect circles:
 
 *Source: [[Wiki - Ritual Circles F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Ritual Circles F&H2]].*
+
+![[Perfection circle.png]]
+*file: Perfection circle.png (95×95), <https://fearandhunger.wiki.gg/wiki/File:Perfection_circle.png>*
+
+![[Asymmetric circle.png]]
+*file: Asymmetric circle.png (95×95), <https://fearandhunger.wiki.gg/wiki/File:Asymmetric_circle.png>*
+
+![[Imperfect circle.png]]
+*file: Imperfect circle.png (95×95), <https://fearandhunger.wiki.gg/wiki/File:Imperfect_circle.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

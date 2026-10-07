@@ -87,6 +87,26 @@ If Pav is taken back to the [train](https://fearandhunger.wiki.gg/wiki/Train), h
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Pav]].*
+
+![[Pav portrait2.png]]
+*Portrait — file: Pav portrait2.png (288×288), <https://fearandhunger.wiki.gg/wiki/File:Pav_portrait2.png>*
+
+![[Pav (Enemy).png]]
+*Pav whips out his pistol faster than you're able to react! — file: Pav (Enemy).png (198×270), <https://fearandhunger.wiki.gg/wiki/File:Pav_(Enemy).png>*
+
+![[Pav (Enemy) rot.png]]
+*Pav whips out his pistol faster than you're able to react! — file: Pav (Enemy) rot.png (198×270), <https://fearandhunger.wiki.gg/wiki/File:Pav_(Enemy)_rot.png>*
+
+![[Pav (Enemy2).png]]
+*Pav whips out his pistol faster than you're able to react! — file: Pav (Enemy2).png (198×270), <https://fearandhunger.wiki.gg/wiki/File:Pav_(Enemy2).png>*
+
+![[Pav overworld.png]]
+*Static — file: Pav overworld.png (58×116), <https://fearandhunger.wiki.gg/wiki/File:Pav_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

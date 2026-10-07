@@ -83,6 +83,23 @@ As the festival progresses and the deadline approaches, he becomes increasingly 
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Henryk]].*
+
+![[Henryk portrait2.png]]
+*Portrait — file: Henryk portrait2.png (288×288), <https://fearandhunger.wiki.gg/wiki/File:Henryk_portrait2.png>*
+
+![[Henryk (Enemy).png]]
+*Henryk pulls out a kitchen knife. — file: Henryk (Enemy).png (138×284), <https://fearandhunger.wiki.gg/wiki/File:Henryk_(Enemy).png>*
+
+![[Henryk (Enemy) rot.png]]
+*Henryk pulls out a kitchen knife. — file: Henryk (Enemy) rot.png (138×284), <https://fearandhunger.wiki.gg/wiki/File:Henryk_(Enemy)_rot.png>*
+
+![[Henryk overworld.png]]
+*Static — file: Henryk overworld.png (61×117), <https://fearandhunger.wiki.gg/wiki/File:Henryk_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

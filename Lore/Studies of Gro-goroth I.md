@@ -29,5 +29,13 @@ wip
 
 *Source: [[Wiki - Studies of Gro-goroth I]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Studies of Gro-goroth I]].*
+
+![[Book gro-goroth.png|300]]
+*Infobox: image — file: Book gro-goroth.png (816×624), <https://fearandhunger.wiki.gg/wiki/File:Book_gro-goroth.png>*
+
+
 ## Sources
 - [[Wiki - Studies of Gro-goroth I]]

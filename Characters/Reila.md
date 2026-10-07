@@ -62,6 +62,14 @@ After arriving at the White Bunker and realizing he had been [[God of Fear and H
 
 *Source: [[Wiki - Reila]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Reila]].*
+
+![[Reila overworld.png]]
+*Static — file: Reila overworld.png (66×107), <https://fearandhunger.wiki.gg/wiki/File:Reila_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

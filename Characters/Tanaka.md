@@ -83,6 +83,41 @@ After witnessing Marcoh giving in to his guilt, losing his mind in the [White Mo
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Tanaka]].*
+
+![[Tanaka portrait2.png]]
+*Portrait — file: Tanaka portrait2.png (288×288), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_portrait2.png>*
+
+![[Tanaka (Enemy).png]]
+*Tanaka is cautiously measuring you from afar... — file: Tanaka (Enemy).png (130×292), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_(Enemy).png>*
+
+![[Tanaka (Enemy) rot.png]]
+*Tanaka is cautiously measuring you from afar... — file: Tanaka (Enemy) rot.png (130×292), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_(Enemy)_rot.png>*
+
+![[Tanaka (Enemy2).png]]
+*Tanaka is cautiously measuring you from afar... — file: Tanaka (Enemy2).png (130×292), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_(Enemy2).png>*
+
+![[Tanaka (Enemy2) rot.png]]
+*Tanaka is cautiously measuring you from afar... — file: Tanaka (Enemy2) rot.png (130×292), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_(Enemy2)_rot.png>*
+
+![[Tanaka (Enemy3).png]]
+*Tanaka is cautiously measuring you from afar... — file: Tanaka (Enemy3).png (130×292), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_(Enemy3).png>*
+
+![[Tanaka (Enemy3) rot.png]]
+*Tanaka is cautiously measuring you from afar... — file: Tanaka (Enemy3) rot.png (130×292), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_(Enemy3)_rot.png>*
+
+![[Tanaka overworld.png]]
+*Static — file: Tanaka overworld.png (65×113), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_overworld.png>*
+
+![[Tanaka overworld2.png]]
+*Static 2 — file: Tanaka overworld2.png (60×110), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_overworld2.png>*
+
+![[Tanaka overworld3.png]]
+*Static 3 — file: Tanaka overworld3.png (58×110), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_overworld3.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

@@ -58,6 +58,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Soul type]].*
+
+![[Soul Tortured.png]]
+*Tormented soul icon (file is named 'Soul Tortured') — file: Soul Tortured.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Tortured.png>*
+
+
 ## Sources
 - [[Wiki - Soul type]]
 - [[Wiki - Skills List F&H2]]

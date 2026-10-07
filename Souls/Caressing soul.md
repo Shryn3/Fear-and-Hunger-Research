@@ -44,6 +44,14 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Soul type]].*
+
+![[Soul Caressing.png]]
+*Caressing soul icon (the wiki's Soul type gallery caption: "Caressing soul.") — file: Soul Caressing.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Caressing.png>*
+
+
 ## Sources
 - [[Wiki - Soul type]]
 - [[Wiki - Skills List F&H2]]

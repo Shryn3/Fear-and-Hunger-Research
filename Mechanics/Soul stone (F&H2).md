@@ -31,5 +31,13 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 *Source: [[Wiki - Soul stone (F&H2)]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Soul stone (F&H2)]].*
+
+![[Soul stone big.png]]
+*Infobox: image — file: Soul stone big.png (128×128), <https://fearandhunger.wiki.gg/wiki/File:Soul_stone_big.png>*
+
+
 ## Sources
 - [[Wiki - Soul stone (F&H2)]]

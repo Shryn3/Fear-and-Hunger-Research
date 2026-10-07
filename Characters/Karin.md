@@ -128,6 +128,47 @@ If recruited, Karin will have [Knife](https://fearandhunger.wiki.gg/wiki/Knife),
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Karin]].*
+
+![[Karin portrait.png]]
+*Default portrait — file: Karin portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_portrait.png>*
+
+![[Karin parasite portrait.png]]
+*With Woodsman's parasite — file: Karin parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_parasite_portrait.png>*
+
+![[Karin Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Karin Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_Gro-goroth_portrait.png>*
+
+![[Karin Sylvian portrait.png]]
+*With Sylvian engraving — file: Karin Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_Sylvian_portrait.png>*
+
+![[Karin Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Karin Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_Alll-mer_portrait.png>*
+
+![[Karin Rher portrait.png]]
+*With Rher engraving — file: Karin Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_Rher_portrait.png>*
+
+![[Karin Vinushka portrait.png]]
+*With Vinushka engraving — file: Karin Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_Vinushka_portrait.png>*
+
+![[Karin Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Karin Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Karin_Fear_and_Hunger_portrait.png>*
+
+![[Karin (Enemy).png]]
+*Karin cocks the gun and takes it in a firm grip. — file: Karin (Enemy).png (123×285), <https://fearandhunger.wiki.gg/wiki/File:Karin_(Enemy).png>*
+
+![[Karin (Enemy) rot.png]]
+*Karin cocks the gun and takes it in a firm grip. — file: Karin (Enemy) rot.png (123×285), <https://fearandhunger.wiki.gg/wiki/File:Karin_(Enemy)_rot.png>*
+
+![[Karin (Player).png]]
+*Player — file: Karin (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Karin_(Player).png>*
+
+![[Karin overworld.png]]
+*Static — file: Karin overworld.png (58×109), <https://fearandhunger.wiki.gg/wiki/File:Karin_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

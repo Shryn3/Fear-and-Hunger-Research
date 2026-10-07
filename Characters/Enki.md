@@ -171,6 +171,35 @@ If the player chooses not to play as Enki, they are supposed to be able to go to
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Enki]].*
+
+![[Enki portrait.png]]
+*Default portrait — file: Enki portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Enki_portrait.png>*
+
+![[Enki portrait4.png|300]]
+*Dungeon Nights — file: Enki portrait4.png (314×427), <https://fearandhunger.wiki.gg/wiki/File:Enki_portrait4.png>*
+
+![[Enki (Enemy).png]]
+*Enki forms omnious hand signs... — file: Enki (Enemy).png (186×296), <https://fearandhunger.wiki.gg/wiki/File:Enki_(Enemy).png>*
+
+![[Enki (Miasma).png]]
+*Enki holds tight on the miasma... — file: Enki (Miasma).png (286×296), <https://fearandhunger.wiki.gg/wiki/File:Enki_(Miasma).png>*
+
+![[Enki (Newgod).png]]
+*A new god greets you. — file: Enki (Newgod).png (186×306), <https://fearandhunger.wiki.gg/wiki/File:Enki_(Newgod).png>*
+
+![[Enki (Player).gif]]
+*Player — file: Enki (Player).gif (225×233), <https://fearandhunger.wiki.gg/wiki/File:Enki_(Player).gif>*
+
+![[Enkiwalking.gif]]
+*Overworld — file: Enkiwalking.gif (89×118), <https://fearandhunger.wiki.gg/wiki/File:Enkiwalking.gif>*
+
+![[EnkiMarriage.png]]
+*The Enki Marriage (Fusion) enemy. — file: EnkiMarriage.png (300×314), <https://fearandhunger.wiki.gg/wiki/File:EnkiMarriage.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

@@ -137,6 +137,47 @@ Olivia will be hostile towards the player if they kill a contestant on the [trai
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Olivia]].*
+
+![[Olivia portrait.png]]
+*Default portrait — file: Olivia portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_portrait.png>*
+
+![[Olivia parasite portrait.png]]
+*With Woodsman's parasite — file: Olivia parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_parasite_portrait.png>*
+
+![[Olivia Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Olivia Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_Gro-goroth_portrait.png>*
+
+![[Olivia Sylvian portrait.png]]
+*With Sylvian engraving — file: Olivia Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_Sylvian_portrait.png>*
+
+![[Olivia Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Olivia Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_Alll-mer_portrait.png>*
+
+![[Olivia Rher portrait.png]]
+*With Rher engraving — file: Olivia Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_Rher_portrait.png>*
+
+![[Olivia Vinushka portrait.png]]
+*With Vinushka engraving — file: Olivia Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_Vinushka_portrait.png>*
+
+![[Olivia Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Olivia Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Olivia_Fear_and_Hunger_portrait.png>*
+
+![[Olivia (Enemy).png]]
+*Olivia tries to prepare for a fight... — file: Olivia (Enemy).png (193×230), <https://fearandhunger.wiki.gg/wiki/File:Olivia_(Enemy).png>*
+
+![[Olivia (Enemy) rot.png]]
+*Olivia tries to prepare for a fight... — file: Olivia (Enemy) rot.png (193×230), <https://fearandhunger.wiki.gg/wiki/File:Olivia_(Enemy)_rot.png>*
+
+![[Olivia (Player).png]]
+*Player — file: Olivia (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Olivia_(Player).png>*
+
+![[Olivia overworld.png]]
+*Static — file: Olivia overworld.png (58×104), <https://fearandhunger.wiki.gg/wiki/File:Olivia_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

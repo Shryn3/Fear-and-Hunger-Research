@@ -122,6 +122,14 @@ The player can spend lesser souls to curse their weapons. Doing so will add atta
 
 *Source: [[Wiki - Hexen F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Hexen F&H1]].*
+
+![[TheHexen.png|300]]
+*The skills trees at the Hexen — file: TheHexen.png (816×625), <https://fearandhunger.wiki.gg/wiki/File:TheHexen.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

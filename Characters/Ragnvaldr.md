@@ -178,6 +178,35 @@ If the player chooses not to play as Ragnvaldr, they will be able to go to the p
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Ragnvaldr]].*
+
+![[Ragnvaldr portrait.png]]
+*Portrait — file: Ragnvaldr portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Ragnvaldr_portrait.png>*
+
+![[Ragnvaldr portrait4.png|300]]
+*Dungeon Nights — file: Ragnvaldr portrait4.png (314×427), <https://fearandhunger.wiki.gg/wiki/File:Ragnvaldr_portrait4.png>*
+
+![[Ragnvaldr (Enemy).png]]
+*Default — file: Ragnvaldr (Enemy).png (207×274), <https://fearandhunger.wiki.gg/wiki/File:Ragnvaldr_(Enemy).png>*
+
+![[Ragnvaldr (Miasma).png]]
+*Miasma — file: Ragnvaldr (Miasma).png (274×274), <https://fearandhunger.wiki.gg/wiki/File:Ragnvaldr_(Miasma).png>*
+
+![[Ragnvaldr (Newgod).png]]
+*Ascended — file: Ragnvaldr (Newgod).png (237×290), <https://fearandhunger.wiki.gg/wiki/File:Ragnvaldr_(Newgod).png>*
+
+![[Ragnvaldr (Player).gif]]
+*Player — file: Ragnvaldr (Player).gif (138×229), <https://fearandhunger.wiki.gg/wiki/File:Ragnvaldr_(Player).gif>*
+
+![[TheOutlanderSprite.gif]]
+*Default — file: TheOutlanderSprite.gif (53×103), <https://fearandhunger.wiki.gg/wiki/File:TheOutlanderSprite.gif>*
+
+![[RagnvaldrvsLegarde.png|300]]
+*The protagonist is offered the chance to save Le'garde from Ragnvaldr. Triggering this scene will force the player to choose a side. — file: RagnvaldrvsLegarde.png (1417×1080), <https://fearandhunger.wiki.gg/wiki/File:RagnvaldrvsLegarde.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

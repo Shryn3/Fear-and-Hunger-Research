@@ -77,6 +77,23 @@ He is very stable and keeps his composure incredibly well in dangerous or tense 
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - August]].*
+
+![[August portrait2.png]]
+*Portrait — file: August portrait2.png (288×288), <https://fearandhunger.wiki.gg/wiki/File:August_portrait2.png>*
+
+![[August (Enemy).png]]
+*August takes an arrow and slowly but firmly loads his bow. — file: August (Enemy).png (111×306), <https://fearandhunger.wiki.gg/wiki/File:August_(Enemy).png>*
+
+![[August (Enemy) rot.png]]
+*August takes an arrow and slowly but firmly loads his bow. — file: August (Enemy) rot.png (111×306), <https://fearandhunger.wiki.gg/wiki/File:August_(Enemy)_rot.png>*
+
+![[August overworld.png]]
+*Static — file: August overworld.png (60×116), <https://fearandhunger.wiki.gg/wiki/File:August_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

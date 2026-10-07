@@ -67,6 +67,14 @@ With the exception of the Ancient One soul, all unique souls are required for Ra
 
 *Source: [[Wiki - Soul stone]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Soul stone]].*
+
+![[Soul stone1 small.png]]
+*Infobox: image — file: Soul stone1 small.png (32×32), <https://fearandhunger.wiki.gg/wiki/File:Soul_stone1_small.png>*
+
+
 ## Sources
 - [[Wiki - Soul stone]]
 [^1]: Wiki citation: In depth guide from All-Bones Jones here https://www.youtube.com/watch?v=vRz_rgCzX4c

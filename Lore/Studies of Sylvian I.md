@@ -35,5 +35,13 @@ There are still cults dedicated to Sylvian to this day, but many believe she lef
 
 *Source: [[Wiki - Studies of Sylvian I]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Studies of Sylvian I]].*
+
+![[Book sylvian.png|300]]
+*Infobox: image — file: Book sylvian.png (816×624), <https://fearandhunger.wiki.gg/wiki/File:Book_sylvian.png>*
+
+
 ## Sources
 - [[Wiki - Studies of Sylvian I]]

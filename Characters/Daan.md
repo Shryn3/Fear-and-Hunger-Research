@@ -137,6 +137,47 @@ If recruited, Daan will have *[Analyze](https://fearandhunger.wiki.gg/wiki/Analy
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Daan]].*
+
+![[Daan portrait.png]]
+*Default portrait — file: Daan portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_portrait.png>*
+
+![[Daan parasite portrait.png]]
+*With Woodsman's parasite — file: Daan parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_parasite_portrait.png>*
+
+![[Daan Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Daan Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_Gro-goroth_portrait.png>*
+
+![[Daan Sylvian portrait.png]]
+*With Sylvian engraving — file: Daan Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_Sylvian_portrait.png>*
+
+![[Daan Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Daan Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_Alll-mer_portrait.png>*
+
+![[Daan Rher portrait.png]]
+*With Rher engraving — file: Daan Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_Rher_portrait.png>*
+
+![[Daan Vinushka portrait.png]]
+*With Vinushka engraving — file: Daan Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_Vinushka_portrait.png>*
+
+![[Daan Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Daan Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Daan_Fear_and_Hunger_portrait.png>*
+
+![[Daan (Enemy).png]]
+*Daan carefully handles his scalpel. — file: Daan (Enemy).png (113×280), <https://fearandhunger.wiki.gg/wiki/File:Daan_(Enemy).png>*
+
+![[Daan (Enemy) rot.png]]
+*Daan carefully handles his scalpel. — file: Daan (Enemy) rot.png (113×280), <https://fearandhunger.wiki.gg/wiki/File:Daan_(Enemy)_rot.png>*
+
+![[Daan (Player).png]]
+*Player — file: Daan (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Daan_(Player).png>*
+
+![[Daan overworld.png]]
+*Static — file: Daan overworld.png (56×113), <https://fearandhunger.wiki.gg/wiki/File:Daan_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

@@ -152,3 +152,10 @@ Below, there is the list of any viable question that will trigger a proper answe
 | "[Termina](https://fearandhunger.wiki.gg/wiki/Termina)" | "The festival of Termina is an event arranged by the older gods. To our knowledge the moon god is often involved in this puzzling jubilee. We do not understand the underlying meaning behind this festival, but in short it is a free-for-all, a battleroyal if you will, between multiple contestants. Supposedly there is a grand prize waiting at the end." |
 
 *Source: [[Wiki - The Hall of the Gods]]*
+
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - The Hall of the Gods]].*
+
+![[Great hall .png|300]]
+*Infobox: image — file: Great hall .png (412×518), <https://fearandhunger.wiki.gg/wiki/File:Great_hall_.png>*

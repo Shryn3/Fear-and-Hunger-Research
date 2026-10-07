@@ -140,6 +140,47 @@ Marina will walk towards and attack the player character on the [Train](https://
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Marina]].*
+
+![[Marina portrait.png]]
+*Default portrait — file: Marina portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_portrait.png>*
+
+![[Marina parasite portrait.png]]
+*With Woodsman's parasite — file: Marina parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_parasite_portrait.png>*
+
+![[Marina Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Marina Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_Gro-goroth_portrait.png>*
+
+![[Marina Sylvian portrait.png]]
+*With Sylvian engraving — file: Marina Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_Sylvian_portrait.png>*
+
+![[Marina Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Marina Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_Alll-mer_portrait.png>*
+
+![[Marina Rher portrait.png]]
+*With Rher engraving — file: Marina Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_Rher_portrait.png>*
+
+![[Marina Vinushka portrait.png]]
+*With Vinushka engraving — file: Marina Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_Vinushka_portrait.png>*
+
+![[Marina Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Marina Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marina_Fear_and_Hunger_portrait.png>*
+
+![[Marina (Enemy).png]]
+*Marina lifts her hands gently. — file: Marina (Enemy).png (192×274), <https://fearandhunger.wiki.gg/wiki/File:Marina_(Enemy).png>*
+
+![[Marina (Enemy) rot.png]]
+*Marina lifts her hands gently. — file: Marina (Enemy) rot.png (192×274), <https://fearandhunger.wiki.gg/wiki/File:Marina_(Enemy)_rot.png>*
+
+![[Marina (Player).png]]
+*Player — file: Marina (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Marina_(Player).png>*
+
+![[Marina overworld.png|300]]
+*Static — file: Marina overworld.png (320×440), <https://fearandhunger.wiki.gg/wiki/File:Marina_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

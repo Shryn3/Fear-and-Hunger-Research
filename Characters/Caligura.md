@@ -73,6 +73,26 @@ During the festival, he is one of the select few participants who will actively 
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Caligura]].*
+
+![[Caligura portrait2.png]]
+*Portrait — file: Caligura portrait2.png (288×288), <https://fearandhunger.wiki.gg/wiki/File:Caligura_portrait2.png>*
+
+![[Caligura (Enemy).png]]
+*Caligura swings his pipe furiously. — file: Caligura (Enemy).png (160×277), <https://fearandhunger.wiki.gg/wiki/File:Caligura_(Enemy).png>*
+
+![[Caligura (Enemy) rot.png]]
+*Caligura swings his pipe furiously. — file: Caligura (Enemy) rot.png (160×277), <https://fearandhunger.wiki.gg/wiki/File:Caligura_(Enemy)_rot.png>*
+
+![[Caligura (Enemy2).png]]
+*Caligura swings his pipe furiously. — file: Caligura (Enemy2).png (160×277), <https://fearandhunger.wiki.gg/wiki/File:Caligura_(Enemy2).png>*
+
+![[Caligura overworld.png]]
+*Static — file: Caligura overworld.png (59×113), <https://fearandhunger.wiki.gg/wiki/File:Caligura_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

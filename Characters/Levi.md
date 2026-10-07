@@ -136,6 +136,47 @@ If recruited, Levi will have the *[Gun proficiency](https://fearandhunger.wiki.g
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Levi]].*
+
+![[Levi portrait.png]]
+*Default portrait — file: Levi portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_portrait.png>*
+
+![[Levi parasite portrait.png]]
+*With Woodsman's parasite — file: Levi parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_parasite_portrait.png>*
+
+![[Levi Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Levi Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_Gro-goroth_portrait.png>*
+
+![[Levi Sylvian portrait.png]]
+*With Sylvian engraving — file: Levi Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_Sylvian_portrait.png>*
+
+![[Levi Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Levi Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_Alll-mer_portrait.png>*
+
+![[Levi Rher portrait.png]]
+*With Rher engraving — file: Levi Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_Rher_portrait.png>*
+
+![[Levi Vinushka portrait.png]]
+*With Vinushka engraving — file: Levi Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_Vinushka_portrait.png>*
+
+![[Levi Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Levi Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Levi_Fear_and_Hunger_portrait.png>*
+
+![[Levi (Enemy).png]]
+*Levi takes a low stance with his rifle... — file: Levi (Enemy).png (159×242), <https://fearandhunger.wiki.gg/wiki/File:Levi_(Enemy).png>*
+
+![[Levi (Enemy) rot.png]]
+*Levi takes a low stance with his rifle... — file: Levi (Enemy) rot.png (159×242), <https://fearandhunger.wiki.gg/wiki/File:Levi_(Enemy)_rot.png>*
+
+![[Levi (Player).png]]
+*Player — file: Levi (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Levi_(Player).png>*
+
+![[Levi overworld.png]]
+*Static — file: Levi overworld.png (57×108), <https://fearandhunger.wiki.gg/wiki/File:Levi_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

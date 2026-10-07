@@ -184,6 +184,35 @@ If the player chooses not to play as D'arce, they will be able to go to the prom
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - D'arce]].*
+
+![[D'arce portrait.png]]
+*Default portrait — file: D'arce portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:D'arce_portrait.png>*
+
+![[D'arce portrait4.png|300]]
+*Dungeon Nights — file: D'arce portrait4.png (314×427), <https://fearandhunger.wiki.gg/wiki/File:D'arce_portrait4.png>*
+
+![[D'arce (Enemy).png]]
+*D'arce unsheathes her sword swiftly. — file: D'arce (Enemy).png (199×273), <https://fearandhunger.wiki.gg/wiki/File:D'arce_(Enemy).png>*
+
+![[D'arce (Miasma).png]]
+*D'arce is holding miasma with a thight grip... — file: D'arce (Miasma).png (199×273), <https://fearandhunger.wiki.gg/wiki/File:D'arce_(Miasma).png>*
+
+![[D'arce (Newgod).png]]
+*A new god greets you. — file: D'arce (Newgod).png (199×273), <https://fearandhunger.wiki.gg/wiki/File:D'arce_(Newgod).png>*
+
+![[D'arce (Player).gif]]
+*Player — file: D'arce (Player).gif (149×233), <https://fearandhunger.wiki.gg/wiki/File:D'arce_(Player).gif>*
+
+![[TheKnightSprite.gif]]
+*Overworld — file: TheKnightSprite.gif (77×118), <https://fearandhunger.wiki.gg/wiki/File:TheKnightSprite.gif>*
+
+![[DarceandLegarde.png|300]]
+*D'arce and Le'garde discuss his plans of raiding Oldegård. — file: DarceandLegarde.png (1412×1080), <https://fearandhunger.wiki.gg/wiki/File:DarceandLegarde.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

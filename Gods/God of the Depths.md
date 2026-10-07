@@ -84,6 +84,32 @@ In *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, it is revealed that t
 - [[Flock of crows]] — 2 God of the Depths affinity
 - [[Locust swarm]] — 2 God of the Depths affinity
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - God of the Depths]], [[Wiki - Skills List F&H2]], [[Wiki - Skills List F&H1]], [[Wiki - The Gods]].*
+
+![[Symbol Fear and Hunger1.png]]
+*Symbol shown beside God of the Depths in the wiki's F&H1 skill list (the file is named 'Fear and Hunger1') — file: Symbol Fear and Hunger1.png (32×32), <https://fearandhunger.wiki.gg/wiki/File:Symbol_Fear_and_Hunger1.png>*
+
+![[GodofDepths1.png|300]]
+*Closed mouth — file: GodofDepths1.png (526×480), <https://fearandhunger.wiki.gg/wiki/File:GodofDepths1.png>*
+
+![[GodofDepths2.png|300]]
+*Opened mouth — file: GodofDepths2.png (526×480), <https://fearandhunger.wiki.gg/wiki/File:GodofDepths2.png>*
+
+![[Clock.png|300]]
+*A clock plate from the Bohemia National Museum at Prehevil. The smaller sphere depicts ten runic symbols of Old Gods. Clockwise: Sulfur (second); Alll-mer (third); Rher (fourth); Sylvian (fifth); Gro-goroth (sixth); Vinushka (eighth); God of the Depths (ninth). Other symbols are currently unknown. — file: Clock.png (438×438), <https://fearandhunger.wiki.gg/wiki/File:Clock.png>*
+
+![[Great hall .png|300]]
+*The grand hall of the gods, where inactive new gods reside. — file: Great hall .png (412×518), <https://fearandhunger.wiki.gg/wiki/File:Great_hall_.png>*
+
+![[New Gods Termina Cropped.png|300]]
+*Francóis, The Tormented One and other New Gods sit at a table, as depicted in Termina. — file: New Gods Termina Cropped.png (584×565), <https://fearandhunger.wiki.gg/wiki/File:New_Gods_Termina_Cropped.png>*
+
+![[Nilvan and valtiel sitting at the table.png|300]]
+*New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

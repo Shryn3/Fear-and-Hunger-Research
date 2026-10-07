@@ -38,5 +38,13 @@ wip
 
 *Source: [[Wiki - God manifesto]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - God manifesto]].*
+
+![[Book big.png]]
+*"A short manifesto on godhood. Written by renowned occultist Donnovan Hugo." — file: Book big.png (128×128), <https://fearandhunger.wiki.gg/wiki/File:Book_big.png>*
+
+
 ## Sources
 - [[Wiki - God manifesto]]

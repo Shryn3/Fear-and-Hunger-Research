@@ -127,6 +127,47 @@ If recruited, O'saa will have *[La Danse Macabre](https://fearandhunger.wiki.gg/
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - O'saa]].*
+
+![[O'saa portrait.png]]
+*Default portrait — file: O'saa portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_portrait.png>*
+
+![[O'saa parasite portrait.png]]
+*With Woodsman's parasite — file: O'saa parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_parasite_portrait.png>*
+
+![[O'saa Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: O'saa Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_Gro-goroth_portrait.png>*
+
+![[O'saa Sylvian portrait.png]]
+*With Sylvian engraving — file: O'saa Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_Sylvian_portrait.png>*
+
+![[O'saa Alll-mer portrait.png]]
+*With Alll-mer engraving — file: O'saa Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_Alll-mer_portrait.png>*
+
+![[O'saa Rher portrait.png]]
+*With Rher engraving — file: O'saa Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_Rher_portrait.png>*
+
+![[O'saa Vinushka portrait.png]]
+*With Vinushka engraving — file: O'saa Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_Vinushka_portrait.png>*
+
+![[O'saa Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: O'saa Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:O'saa_Fear_and_Hunger_portrait.png>*
+
+![[O'saa (Enemy).png]]
+*O'saa begins his ritual dance. An ominous aura fills the air. — file: O'saa (Enemy).png (211×274), <https://fearandhunger.wiki.gg/wiki/File:O'saa_(Enemy).png>*
+
+![[O'saa (Enemy) rot.png]]
+*O'saa begins his ritual dance. An ominous aura fills the air. — file: O'saa (Enemy) rot.png (211×274), <https://fearandhunger.wiki.gg/wiki/File:O'saa_(Enemy)_rot.png>*
+
+![[O'saa (Player).png]]
+*Player — file: O'saa (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:O'saa_(Player).png>*
+
+![[O'saa overworld.png]]
+*Static — file: O'saa overworld.png (60×113), <https://fearandhunger.wiki.gg/wiki/File:O'saa_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.

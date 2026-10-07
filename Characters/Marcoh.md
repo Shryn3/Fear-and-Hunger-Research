@@ -130,6 +130,47 @@ If recruited, Marcoh will have [Combat jacket](https://fearandhunger.wiki.gg/wik
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Images
+
+*Pictures from the wiki's own File pages (game artwork, © its creator, kept here as research reference). Captions are the wiki's. Source: [[Wiki - Marcoh]].*
+
+![[Marcoh portrait.png]]
+*Default portrait — file: Marcoh portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_portrait.png>*
+
+![[Marcoh parasite portrait.png]]
+*With Woodsman's parasite — file: Marcoh parasite portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_parasite_portrait.png>*
+
+![[Marcoh Gro-goroth portrait.png]]
+*With Gro-goroth engraving — file: Marcoh Gro-goroth portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_Gro-goroth_portrait.png>*
+
+![[Marcoh Sylvian portrait.png]]
+*With Sylvian engraving — file: Marcoh Sylvian portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_Sylvian_portrait.png>*
+
+![[Marcoh Alll-mer portrait.png]]
+*With Alll-mer engraving — file: Marcoh Alll-mer portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_Alll-mer_portrait.png>*
+
+![[Marcoh Rher portrait.png]]
+*With Rher engraving — file: Marcoh Rher portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_Rher_portrait.png>*
+
+![[Marcoh Vinushka portrait.png]]
+*With Vinushka engraving — file: Marcoh Vinushka portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_Vinushka_portrait.png>*
+
+![[Marcoh Fear and Hunger portrait.png]]
+*With God of Fear and Hunger engraving — file: Marcoh Fear and Hunger portrait.png (182×360), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_Fear_and_Hunger_portrait.png>*
+
+![[Marcoh (Enemy).png]]
+*Marcoh takes a boxing stance and looks very focused. — file: Marcoh (Enemy).png (122×280), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_(Enemy).png>*
+
+![[Marcoh (Enemy) rot.png]]
+*Marcoh takes a boxing stance and looks very focused. — file: Marcoh (Enemy) rot.png (122×280), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_(Enemy)_rot.png>*
+
+![[Marcoh (Player).png]]
+*Player — file: Marcoh (Player).png (133×240), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_(Player).png>*
+
+![[Marcoh overworld.png]]
+*Static — file: Marcoh overworld.png (54×115), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_overworld.png>*
+
+
 ## Other wikis
 
 > [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
