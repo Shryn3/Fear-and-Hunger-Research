@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - Wiki page: <https://fearandhunger.wiki.gg/wiki/Reila>
 - Revision id: 46825
 - Revision timestamp: 2025-09-07T02:04:26Z
-- Retrieved via MediaWiki API (see `scripts/fetch_wiki.py`)
+- Retrieved from the wiki (page text and revision id taken from the wiki's API)
 - License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Publisher: Fear & Hunger Wiki (fearandhunger.wiki.gg), contributors credited in the page history
 

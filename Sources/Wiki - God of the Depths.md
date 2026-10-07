@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - Wiki page: <https://fearandhunger.wiki.gg/wiki/God_of_the_Depths>
 - Revision id: 49391
 - Revision timestamp: 2026-09-30T20:53:05Z
-- Retrieved via MediaWiki API (see `scripts/fetch_wiki.py`)
+- Retrieved from the wiki (page text and revision id taken from the wiki's API)
 - License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Publisher: Fear & Hunger Wiki (fearandhunger.wiki.gg), contributors credited in the page history
 

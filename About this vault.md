@@ -11,4 +11,4 @@ tags: ["meta"]
 - Game-file facts are **not** included yet; they will be added and labelled `(game files)`.
 - `[!question] Unverified` callouts mark gaps. Nothing is filled from memory.
 - Skills not covered yet: General skills and Unused skills lists.
-- Rebuild: `scripts/fetch_wiki.py` then `scripts/build_vault.py`.
+- These notes are the document itself: edit, correct and extend them freely. Every fact keeps its citation, so when you change or add something, cite where it came from.

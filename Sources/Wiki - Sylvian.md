@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - Wiki page: <https://fearandhunger.wiki.gg/wiki/Sylvian>
 - Revision id: 48838
 - Revision timestamp: 2026-05-31T10:41:27Z
-- Retrieved via MediaWiki API (see `scripts/fetch_wiki.py`)
+- Retrieved from the wiki (page text and revision id taken from the wiki's API)
 - License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Publisher: Fear & Hunger Wiki (fearandhunger.wiki.gg), contributors credited in the page history
 
