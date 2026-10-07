@@ -23,7 +23,7 @@ The notes were first built from the wiki's page text. They were then checked wit
 | Links to the wiki | 408 distinct pages | 15 links had a stray backslash typo in the wiki's source and now resolve; 5 pages the wiki links to do not exist there and are shown as plain text |
 | Images: each file vs the SHA-1 checksum the wiki's API gives for it | 257 files | all match (the wiki's image CDN can serve a recompressed copy; these are the originals) |
 | Image embeds in notes vs files in `Images/` | 388 embeds | all resolve |
-| Unofficial section: every quoted passage vs the stored page text and revision | 13 quotes, 4 pages | all word for word; the X post is quoted from a search-result title only and is marked as such |
+| Unofficial section: every quoted passage vs the stored page text and revision | 22 quotes, 10 pages | all word for word; the X post is quoted from a search-result title only and is marked as such |
 | Tormentpedia material (see [[About this vault]]): every quoted statement, pair and table value vs its Tormentpedia page, and the main-wiki side vs these notes | 873 items | all word for word |
 
 ## Problems found and fixed
@@ -40,7 +40,7 @@ For gods and characters the notes include the wiki's lead, lore, history, person
 
 ## Images and the Unofficial section
 - Pictures were taken only from the wiki's File pages. Gallery sprites, screenshots and enemy or location art were left out.
-- Reddit, X, YouTube transcripts and Steam threads could not be read from the cloud environment, so the Unofficial section is thin; its source log says exactly what was tried. Search-tool summaries were not used as evidence because one of them misattributed a claim to the Skin Bible.
+- Reddit, X, YouTube transcripts and Steam threads could not be read from the cloud environment, so the Unofficial section is thin; its source log says exactly what was tried. Search-tool summaries were not used as evidence (one repeated a Tormentpedia claim about the Skin Bible that the Skin Bible's own text does not state).
 
 ## Limits
 - The wiki itself is a community source. Some of its text comes from supplementary sources (developer posts); notes keep the wiki's wording about that, and the wiki's "speculation" flags show as warnings.

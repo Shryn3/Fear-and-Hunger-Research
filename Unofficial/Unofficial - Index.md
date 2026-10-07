@@ -14,7 +14,7 @@ tags: ["unofficial"]
 Theories and speculation about gods the game and the wiki do not describe, collected from sources outside the wiki (Reddit, videos and other sites), each cited. **This section is deliberately walled off from the rest of the vault.**
 
 ## Subjects
-- [[Unofficial - Amon]] — what could be retrieved is small: a datamined name, a place, a doubtful cut book, and one community snippet.
+- [[Unofficial - Amon]] — one worked-out theory (a sun god opposed to Rher, argued on the Tormentpedia) with each piece of its evidence checked, plus a datamined name, a place, a doubtful cut book, an unused dialogue line and one community snippet.
 - [[Unofficial - Star God]] — no source found.
 
 ## Supporting notes

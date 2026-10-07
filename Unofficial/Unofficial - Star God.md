@@ -18,8 +18,9 @@ subject: "Star God"
 | Where | Query | Result |
 |---|---|---|
 | Main wiki (fearandhunger.wiki.gg) search | "Star God" | 0 results for the exact phrase |
+| Main wiki, all namespaces (Talk, User blog, Message Wall, …) | "Star God", star god, sun god | nothing outside article pages |
 | Main wiki search | star god (words separately) | 17 results, all about unrelated pages that contain the words "star" and "god" separately (e.g. weapon names, a ritual-circle shape) |
-| Tormentpedia (fearandhunger.fandom.com) search | Star God | 15 results shown (the limit I set) matching the words separately; no page named Star God. Its "Lore/Theories" page is only a redirect to a page called "Theories", which does not exist |
+| Tormentpedia (fearandhunger.fandom.com) search | "Star God" (exact phrase) | 1 hit, its *The Gods* page; reading the page, the phrase is not in it (the search engine matches the words separately). It does contain a section on a *sun* god (see [[Unofficial - Amon]]). The word-by-word search shows 15 results (the limit I set); no page named Star God. Its "Lore/Theories" page is only a redirect to a page called "Theories", which does not exist |
 | Web search | "Fear and Hunger" "Star God" theory lore | no page naming a Star God |
 | Web search | Fear and Hunger Termina "star god" OR "god of the stars" hidden god speculation | no page naming a Star God |
 | Reddit | any | **not accessible** from here (see [[Unofficial - Source log]]) |
