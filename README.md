@@ -15,7 +15,7 @@ Open this folder as a vault in Obsidian.
 | `scripts/` | `check_links.py` — reports broken `[[wikilinks]]` |
 
 ## Conventions
-- **Links:** Obsidian wikilinks, note filename = page title, e.g. `[[Sulfur]]`. Link every god, skill, soul and character the first time it appears in a note.
+- **Links:** Obsidian wikilinks, note filename = page title, e.g. `[[Example Note]]`. Link every god, skill, soul and character the first time it appears in a note.
 - **Two-way links:** a god lists its skills; each skill links back to its god. A soul links to its character and its abilities.
 - **Frontmatter:** every note has `type`, `game` (`F&H1`, `F&H2` or `both`), `sources` (list of `[[Sources/...]]` links) and `retrieved`.
 - **Citations:** each fact comes from an official source and is cited as a footnote `[^1]` pointing at a `Sources/` note.
