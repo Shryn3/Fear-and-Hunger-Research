@@ -20,13 +20,15 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 In the *[Fear & Hunger](https://fearandhunger.wiki.gg/)* series, human **souls** can be of diverse types. They are decided at the time of one's birth, and are indicators of how one's personality and life will be like, oftentimes being the source of a person's skills. Soul types are the *Fear & Hunger* equivalent to [real-life zodiac signs](https://en.wikipedia.org/wiki/Astrological_sign), though birth signs are still mentioned and confirmed to exist.
 
-Soul types are **not** the same as unique souls, which are for the most part [unlockable accessory items](https://fearandhunger.wiki.gg/wiki/Items_List_F%26H1) that give certain stat bonuses and special status effects to the wearer. The Ancient One soul, held by [[God of Fear and Hunger|the girl]], is unique as well and will not be listed in this article for that particular reason.
+Soul types are **not** the same as unique souls, which are for the most part [unlockable accessory items](https://fearandhunger.wiki.gg/wiki/Items_List_F%26H1) that give certain stat bonuses and special status effects to the wearer. The Ancient One soul, held by [the girl](https://fearandhunger.wiki.gg/wiki/The_Girl), is unique as well and will not be listed in this article for that particular reason.
 
 Lesser soul is the name given to the soul possessed by most normal enemies, their purpose is to be used at [[Hexen F&H1|Hexen]] [Tables](https://fearandhunger.wiki.gg/wiki/Hexen_F%26H2) to learn skills or curse weapons. There is no information that indicates that they are a proper soul type, and therefore they will not be discussed in this article either.
 
 *Source: [[Wiki - Soul type]]*
 
 ### Overview
+
+_Image caption: A birth chart of all known soul types._
 
 A person's soul type is primarily decided by their birthdate, just like real-world zodiac signs.
 

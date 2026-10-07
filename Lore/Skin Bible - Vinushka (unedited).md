@@ -1,7 +1,7 @@
 ---
 type: "document"
 tags: ["lore"]
-sources: ["[[Wiki - Skin Bible - Vinushka (unedited)]]"]
+sources: ["[[Wiki - Skin Bible - Vinushka (unedited)]]", "[[Tormentpedia - Skin Bible - Vinushka (unedited)]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -45,6 +45,26 @@ wip
 
 *Source: [[Wiki - Skin Bible - Vinushka (unedited)]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Text that is worded differently
+*Each pair is the closest match between the two wikis. In-game document text can be transcribed differently between wikis.*
+
+- Main wiki: "Can be found in Donnovan's House (search the wall right from the ritual circle)"
+  - Tormentpedia: "This book can be acquired in the Donnovan's House, to the right of the Ritual Circle."
+
+### Other Tormentpedia statements not found in this note
+*2 statement(s) from [[Tormentpedia - Skin Bible - Vinushka (unedited)]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (2), click to expand
+> - Skin Bible - Vinushka (unedited) is the unedited version of an occult book written by Enki Ankarian explaining the older god Vinushka that appears in Fear and Hunger 2: Termina.
+> - There exists an alternate, edited version of this book.
+
+*Source: [[Tormentpedia - Skin Bible - Vinushka (unedited)]]*
+
 ## Sources
+- [[Tormentpedia - Skin Bible - Vinushka (unedited)]] (supplementary)
 - [[Wiki - Skin Bible - Vinushka (unedited)]]
 [^1]: Wiki citation: [[God manifesto]]

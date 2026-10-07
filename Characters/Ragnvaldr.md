@@ -4,7 +4,7 @@ soul: "[[Tormented soul]]"
 game: ["F&H1"]
 aliases: ["God of Ultra-Violence", "The Outlander"]
 tags: ["character"]
-sources: ["[[Wiki - Ragnvaldr]]"]
+sources: ["[[Wiki - Ragnvaldr]]", "[[Tormentpedia - Ragnvaldr]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -28,6 +28,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Birthplace** | [Northern Kingdom of Oldegård](https://fearandhunger.wiki.gg/wiki/Oldeg%C3%A5rd) |
 | **Age** | 31 |
 | **Relatives** | [Unnamed ancestor](https://fearandhunger.wiki.gg/wiki/Ragnvaldr's_ancestor) / Unnamed father / [Hilde](https://fearandhunger.wiki.gg/wiki/Hilde) (deceased wife) / [Björn](https://fearandhunger.wiki.gg/wiki/Bj%C3%B6rn) (deceased son) / [[August]] (implied descendant) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Ragnvaldr]] (infobox)*
 
@@ -126,6 +127,8 @@ If Ragnvaldr is the protagonist and manages to find Le'garde alive in the cataco
 
 #### As a party member
 
+_Image caption: The protagonist is offered the chance to save Le'garde from Ragnvaldr. Triggering this scene will force the player to choose a side._
+
 If recruited, Ragnvaldr will have the *War cry* skill learned. He has a high attack value, just like when he is selected as the main character. He is one of the best damage dealers in the game, being especially useful in boss fights, since it is in those fights where his *War cry* skill and higher damage output really shines. Although he can be used as a tank, he is not as good as [[D'arce]] due to his lack of defensive skills.
 
 Recruitable human characters with 50 or less [Mind](https://fearandhunger.wiki.gg/wiki/Mind) points may attempt to leave the party in certain locations, forcing the protagonist to either leave them behind and recover their sanity through items or convince them to resume the journey without defecting. Ragnvaldr, in particular, has a special interaction with [[Enki]], as he will prevent Ragnvaldr from leaving once. The same works the other way around, as he will do the same once for [[Enki]] when his Mind points are low. Ragnvaldr will also prevent [[Cahara]] and [[D'arce]] from leaving once, although they do not return the favor.
@@ -175,7 +178,70 @@ If the player chooses not to play as Ragnvaldr, they will be able to go to the p
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Outlander / God of Ultra-Violence | The Outlander |
+| Born | July, 1559 | 1559 |
+| Died | (not given) | 1590 (determinant) |
+| Age | 31 | 30-31 |
+| Affiliation | (not given) | None |
+| Relatives | Unnamed ancestor / Unnamed father / Hilde (deceased wife) / Björn (deceased son) / August (implied descendant) | Hilde (deceased wife) / Björn (deceased son) |
+
+### Other Tormentpedia statements not found in this note
+*40 statement(s) from [[Tormentpedia - Ragnvaldr]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (40), click to expand
+> - The northern kingdom that has stayed independent for the most parts [sic].
+> - Known for their iron will and advanced ships that sail even to the most western continents. - New Gods, about Oldegård."An intimidating figure for sure.
+> - Seems like even a northern brute like him can appreciate finesse and knowledge." - New Gods when asked about Ragnvaldr.Behold the enigmatic figure known colloquially as the Outlander, yet within the diegetic realm, christened Ragnvaldr.
+> - This ethereal wanderer is a scion of the elusive Kingdom of Oldegård, wherein he acquired the martial disciplines of combat during his formative years.
+> - A pilgrim in the expeditionary sojourn to Vinland, Ragnvaldr found himself entangled in the esoteric web surrounding the Cube of the Depths, an object of unfathomable cosmic import.
+> - This quest, however, metamorphosed into a saga of bereavement and vengeance when the Army of the Midnight Sun insinuated themselves upon Oldegård, wresting the enigmatic Cube from its resting place, leaving a swath of existential truncations in their wake.
+> - Consequently, Ragnvaldr has descended into the labyrinthine chasms of the Dungeon, a realm suffused with perils and enigmas, with the singular, unwavering intent to reappropriate the Cube and to inflict a sanguine reckoning upon the army's commander, the elusive Le'garde, for the symphony of anguish visited upon his kith and kin.
+> - While superficial examinations may erroneously render the Oldegårdians as primeval or rudimentary, such assessments woefully misunderstand the sublime profundities of their existence.
+> - For they are, in actuality, unparalleled navigators of maritime expanses and maestros of mercantile exchange, not to mention repositories of a courage and vitality bordering on the mythical.
+> - Indeed, the amalgamation of skills, intrepid fearlessness, and a reservoir of arcane wisdom that contribute to Ragnvaldr's formidable presence within the perilous intricacies of the Dungeon can be traced back to his experiential tapestry woven in the lands and seas of Oldegård.
+> - Ragnvaldr can first be found in the hidden courtyard when he confronts the player, mistaking them for an evil denizen of the dungeon.
+> - He remarks that the evil of the dungeon is a pure kind, seeking to reach out into the world rather than corrupt it, similar to what he experienced in Vinland.
+> - He can be found a second time in the fifth level of the thicket.
+> - He says that the God of the Depths is close to this place, and teaches about them.
+> - He can be recruited at this point if the player has been speaking to him and exhausting their dialogue options.
+> - Interactions with Ragnvaldr and Le'garde show that he is openly hostile towards Le'garde.
+> - Ragnvaldr states that he's here to take the Cube back, while possibly getting rid of the man who took it.
+> - He's wary of Le'garde if in the party when Le'garde is found alive, although his previous comments suggest that he's the killer if the Le'garde is dead when the player finds him.
+> - The two cannot co-exist in in the ancient city, as they'll get into a fight after the dialogue at the gates, which Ragnvaldr will win without player intervention.
+> - In Terror and Starvation mode, Ragnvaldr can be afflicted with a Brain Flower in the Thicket, forcing the player into a fight with him.
+> - The Outlander can start with different equipment, depending on how the player chooses to have him trained during the introduction.
+> - The Outlander will start with fur armor (+20 Defense, weak against fire) regardless of the choices below..
+> - "Choose bow & arrows.": Gives the Outlander
+> - Iron arrows can be used to wound enemies before engaging in combat with them.
+> - "Choose mace and shield.": Gives the Outlander
+> - The Outlander has the tormented soul, and will start with either the Devour skill or Bloodlust, depending on how the player responds to famine on the ship in the introduction.
+> - Note that not all enemies are edible, and some are even poisonous.
+> - "Don't give in.": You learn Bloodlust, which which allows your character to enter a berserker-like state in combat at a cost of 10 Mind; he will have more attack power, but will only be able to attack randomly.
+> - The Outlander can later learn Marksmanship, allowing him to kill enemies with the Bow and arrow without engaging combat.
+> - Additionally, if you choose this option, you no longer will gain the Dash ability for choosing to rush after him.
+> - The win gives your character a  Soul stone.
+> - "Don't touch anything and flee back to your ship.": Nothing, but choosing this option enables you to learn the Dash skill if you later choose to "Rush straight after him.".
+> - "Rush straight after him.": You learn Dash, however this option is disabled if you "Take souvenirs from Vinland."
+> - Using a Book of memories will teach the Outlander the skill War cry or Marksmanship.
+> - Putting it together, it could be phrased, "powerful ruler who gives advice or counsel."
+> - Ragnvaldr might be a refrence to Guts, the main character from Kentaro Miura's manga work Berserk as both are large gruff warriors on a mission to kill a man that leads a mercenary group and covets godhood through sacrifice.
+> - Ragnvaldr's look seems to be inspired by the Castlevania protagonist Simon Belmont, whom had several designs over the years.
+> - This is further referenced story-wise in Termina (if the theory about August being a descendant of his tribe holds true).
+> - In Castlevania, Simon resolves to prepare future descendants of his clan to fight against an immortal threat named Dracula, whom lives on for various centuries.
+> - Much like Ragnvaldr preparing his tribe against their own ageless enemy, the Yellow King.
+
+*Source: [[Tormentpedia - Ragnvaldr]]*
+
 ## Sources
+- [[Tormentpedia - Ragnvaldr]] (supplementary)
 - [[Wiki - Ragnvaldr]]
 [^1]: Wiki citation: [Flipside's](https://fearandhunger.wiki.gg/wiki/Flip_side_-_Basement) graveyard: "Here lies **Outlander** 1559-1590"
 [^2]: Wiki citation: Based on his [[Soul types|soul type]], Ragnvaldr was born in July.

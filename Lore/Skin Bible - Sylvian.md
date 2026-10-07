@@ -1,7 +1,7 @@
 ---
 type: "document"
 tags: ["lore"]
-sources: ["[[Wiki - Skin Bible - Sylvian]]"]
+sources: ["[[Wiki - Skin Bible - Sylvian]]", "[[Tormentpedia - Skin Bible - Sylvian]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -37,5 +37,24 @@ wip
 
 *Source: [[Wiki - Skin Bible - Sylvian]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Text that is worded differently
+*Each pair is the closest match between the two wikis. In-game document text can be transcribed differently between wikis.*
+
+- Main wiki: "Skin Bible - Sylvian is an Occult Book found in Fear & Hunger 2: Termina."
+  - Tormentpedia: "Skin Bible - Sylvian is an occult book written by Enki Ankarian explaining the older god Sylvian that appears in Fear and Hunger 2: Termina."
+
+### Other Tormentpedia statements not found in this note
+*1 statement(s) from [[Tormentpedia - Skin Bible - Sylvian]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (1), click to expand
+> - This book can be acquired by three methods.
+
+*Source: [[Tormentpedia - Skin Bible - Sylvian]]*
+
 ## Sources
+- [[Tormentpedia - Skin Bible - Sylvian]] (supplementary)
 - [[Wiki - Skin Bible - Sylvian]]

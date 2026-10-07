@@ -1,7 +1,7 @@
 ---
 type: "document"
 tags: ["lore"]
-sources: ["[[Wiki - Skin Bible - Alll-mer]]"]
+sources: ["[[Wiki - Skin Bible - Alll-mer]]", "[[Tormentpedia - Skin Bible of Alll-mer]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -47,5 +47,19 @@ wip
 
 *Source: [[Wiki - Skin Bible - Alll-mer]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Other Tormentpedia statements not found in this note
+*2 statement(s) from [[Tormentpedia - Skin Bible of Alll-mer]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (2), click to expand
+> - Skin Bible - Alll-mer is an occult book written by Enki Ankarian recounting the two main theories as to how Alll-mer ascended from man to god that appears in Fear and Hunger 2: Termina.
+> - The book can be acquired by two different methods.
+
+*Source: [[Tormentpedia - Skin Bible of Alll-mer]]*
+
 ## Sources
+- [[Tormentpedia - Skin Bible of Alll-mer]] (supplementary)
 - [[Wiki - Skin Bible - Alll-mer]]

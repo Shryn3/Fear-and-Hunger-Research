@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Shadowed soul]]"
 game: ["F&H2"]
-aliases: ["The Botanist", "Girl with Glasses"]
+aliases: ["Girl with Glasses", "The Botanist"]
 tags: ["character"]
-sources: ["[[Wiki - Olivia]]"]
+sources: ["[[Wiki - Olivia]]", "[[Tormentpedia - Olivia]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -29,6 +29,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Died** | 1942 (determinant) |
 | **Age** | 20 |
 | **Relatives** | [[Reila|Reila Audrey Haas]] (twin sister) / Franz Haas (father) / Ema Haas (mother) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Olivia]] (infobox)*
 
@@ -136,5 +137,56 @@ Olivia will be hostile towards the player if they kill a contestant on the [trai
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Botanist / Girl with Glasses / The Sleeping Beauty (by Marina) | The Botanist / Girl with glasses |
+| Birthplace | Bremen Empire | Kingdom of Bremen |
+
+### Other Tormentpedia statements not found in this note
+*32 statement(s) from [[Tormentpedia - Olivia]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (32), click to expand
+> - A botanist looking to find the whereabouts of her sister in the town of Prehevil.
+> - Her parents immediately turned to religious healers in an attempt to bring her back to health, despite her sister's desperate pleas for them to seek modern doctors instead.
+> - By the time they were convinced it was far too late - Olivia was diagnosed with an abnormality in her spinal cord that affected her blood flow.
+> - During her time in the university, Olivia had trouble connecting with her peers, but nevertheless was ranked top of her class and excelled in her field.
+> - Eventually, Olivia graduated and got to start her own botanist research in the biggest greenhouse of Bremen, yet she still felt like her sister outclassed her in every regard - Reila would travel all over the world, keeping in contact and telling Olivia about her work through letters, but one day the letters came to a halt.
+> - Olivia recognized the name of the organization, recalling that she heard the professor Reila was seeing over the years mentioning them in a passing conversation.
+> - Olivia has a youthful, slightly pale complexion with rounded facial features.
+> - Her wavy, shoulder-length brown hair is parted in the middle and frames her face.
+> - She wears large, round-rimmed glasses that dominate her facial appearance.
+> - Her expression is often depicted as reserved or concerned.
+> - Olivia's clothing reflects her background as a botanist and her physical requirements as a wheelchair user.
+> - Her outfit is characterized by its soft, muted colors and practical layering.
+> - She wears a pale lavender or soft pink long-sleeved sweater featuring a high neckline and slightly puffed sleeves.
+> - Over this, she wears a dark, charcoal-grey or black camisole-style vest with very thin straps.
+> - Her lower body is dressed in long, flowing lavender trousers that match the shade of her undershirt.
+> - These are wide-legged to accommodate her seated position comfortably.
+> - Her footwear consists of sturdy, dark brown or black Mary Jane-style shoes with thick soles, worn over white socks.
+> - Olivia starts equipped with a knife, turtleneck shirt, foldable wheelchair and, if selected as a starter character, a One-winged necklace.
+> - While moving down stairs in her wheelchair, her speed is increased; if an enemy is engaged while at this speed, they will be knocked down momentarily.
+> - These traits are only present if the player is controlling Olivia.
+> - Olivia is capable of one-handed weapons, including guns.
+> - Two-handed weapons, however, are inaccessible to her.
+> - A recruited Olivia will join the party with the spell Photosynthesis learned, granting her passive HP regeneration while she is outdoors.
+> - As she does not have skills geared for combat or utility by default, her usefulness will be somewhat limited, but equipping good weapons or teaching her skills and spells from the Hexen should fix the problem.
+> - Character choice 1: While being outdone by your sister in school what subject did you focus on?
+> - Give into jealousy and pursue science - Gain the [Short Circuit] skill.
+> - Stick to botany - Gain [Undergrowth Awareness] skill.
+> - Character choice 2: What did you do about your sisters relationship with the professor?
+> - Focus on your own studies - Gain the [Advanced Botanism] skill.
+> - Character choice 3: What field did you specialize in?
+> - Character choice 4: What did you bring to Prehevil?
+> - Gain 3 [Blue Vial] (Easy only), 1 [Green Herb], 1 [Blue Herb], 1 [Blue/Red Mixed Herb], 1 [Moldy Bread].
+
+*Source: [[Tormentpedia - Olivia]]*
+
 ## Sources
+- [[Tormentpedia - Olivia]] (supplementary)
 - [[Wiki - Olivia]]

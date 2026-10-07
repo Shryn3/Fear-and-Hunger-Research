@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Radiating soul]]"
 game: ["F&H2"]
-aliases: ["Girl in the dream", "Girl in pink", "Girl with red shoes"]
+aliases: ["Girl in pink", "Girl in the dream", "Girl with red shoes"]
 tags: ["character"]
-sources: ["[[Wiki - Reila]]"]
+sources: ["[[Wiki - Reila]]", "[[Tormentpedia - Reila]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -62,7 +62,44 @@ After arriving at the White Bunker and realizing he had been [[God of Fear and H
 
 *Source: [[Wiki - Reila]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | Girl in the dream / Girl in pink / Girl with red shoes | Girl in the dream / Girl in pink / Girl with red shoes The Machine God |
+| Species / classification | Human | Human (formerly) / New God |
+| Birthplace | Bremen Empire | Kingdom of Bremen (human form) / Artificial Green (rebirthed as a New God) |
+| Relatives | Olivia Haas (twin sister) / Franz Haas (father) / Ema Haas (mother) | Olivia Haas (twin sister, fate determinant) / Franz Haas (father) / Ema Haas (mother) |
+
+### Other Tormentpedia statements not found in this note
+*16 statement(s) from [[Tormentpedia - Reila]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (16), click to expand
+> - She is a mysterious girl in red shoes who takes part at the dream sequence that serves as introduction to the game.
+> - While her twin sister Olivia was often kept inside the house for being of a more fragile build, Reila herself preferred to go outside and make friends while also dedicating herself to studying engineering and new age technology.
+> - During high school, Reila's sister suffered multiple small strokes in a short period of time and was left bedridden.
+> - Her parents immediately turned to religious healers in an attempt to bring her back to health, despite Reila's desperate pleas for them to seek moderns doctors instead.
+> - By the time she managed to convince them, it was far too late - her sister was diagnosed with an abnormality in her spinal cord that affected her blood flow.
+> - Even after going through extensive operations and several medical treatments, Olivia had become indefinitely wheelchair bound.
+> - He and Reila had kept it contact through letters, sent long after she graduated.
+> - Reila is encountered exclusively in flashbacks and premonitions while leaving traces of blue moth, although never long enough to be interacted with.
+> - The mystery of what happened to her is one of the core topics you can explore in the game.
+> - It will eventually lead you to her and with that the revelation that, after coming to Pehevil, Kaiser used her as vessel for the Machine God.
+> - During the events of the game she is still in a weak, early stage of her new godhood.
+> - Once the player witness the birth while playing as Olivia, despite Reila sharing the wisdom of the new god, she will encourage Olivia to join in by mentioning her name, giving possibility that she still retains some of her original memories intact after the rebirthing process.
+> - Her birth date, age, full name and the name of her and Olivia's parents are revealed in the NLU Reconnaissance Report #2 document.
+> - It is possible that the real author of the coded letters was written by Reila herself, thanks by the hint of the acronym's name know as "R".
+> - Looking at the cube on Reila's chest, we see Vinushka's sigil with a line cutting it.
+> - This might mean that the Machine God took the place of the now dead Nature God, just as the God of Fear and Hunger took the place of the dead God of the Depths.
+
+*Source: [[Tormentpedia - Reila]]*
+
 ## Sources
+- [[Tormentpedia - Reila]] (supplementary)
 - [[Wiki - Reila]]
 [^1]: Wiki citation: [[Olivia|Olivia's character history]]
 [^2]: Wiki citation: [NLU Reconnaissance Report 2](https://fearandhunger.wiki.gg/wiki/NLU_Reconnaissance_Report_2)
@@ -71,5 +108,5 @@ After arriving at the White Bunker and realizing he had been [[God of Fear and H
 [^5]: Wiki citation: [PRHVL Bop](https://fearandhunger.wiki.gg/wiki/PRHVL_Bop) contains a secret hideout for the NLU in which details of their operation can be found.
 [^6]: Wiki citation: Logic was unable to bypass the Festival of Termina and was in a 'frail state' as mentioned by the Kaiser, most likely due to the Telelectroscopes not being active.
 [^7]: Wiki citation: [Brain diagram document](https://fearandhunger.wiki.gg/wiki/Brain_diagram_document)
-[^8]: Wiki citation: When he was still a mortal, the Kaiser attempted to ascend in the Dungeons of Fear and Hunger. However, his [[God of Fear and Hunger|daughter]] would be the one to ascend as the [[God of Fear and Hunger]] instead.
+[^8]: Wiki citation: When he was still a mortal, the Kaiser attempted to ascend in the Dungeons of Fear and Hunger. However, his [daughter](https://fearandhunger.wiki.gg/wiki/Girl) would be the one to ascend as the [[God of Fear and Hunger]] instead.
 [^9]: Wiki citation: [[Kaiser|Kaiser's]] conversation with the player in Ending A

@@ -4,7 +4,7 @@ soul: "[[Tormented soul]]"
 game: ["F&H2"]
 aliases: ["Older Gentleman"]
 tags: ["character"]
-sources: ["[[Wiki - August]]"]
+sources: ["[[Wiki - August]]", "[[Tormentpedia - August]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -27,6 +27,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | July |
 | **Died** | 1942 (determinant) |
 | **Relatives** | Two unnamed children / [[Ragnvaldr]] (implied ancestor) |
+| **Phobias** | None |
 
 *Source: [[Wiki - August]] (infobox)*
 
@@ -76,5 +77,27 @@ He is very stable and keeps his composure incredibly well in dangerous or tense 
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Birthplace | (not given) | Kingdom of Oldegård |
+| Relatives | Two unnamed children / Ragnvaldr (implied ancestor) | Two unnamed children |
+
+### Other Tormentpedia statements not found in this note
+*3 statement(s) from [[Tormentpedia - August]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (3), click to expand
+> - He is a mysterious gentleman who seems to be aware of what is going on more than the rest of the cast.
+> - August is a mysterious sailor who has arrived at Prehevil, having become a contestant in the Termina festival.
+> - According to Karin, he has a journal full of information on the other contestant's psyches, though this cannot be confirmed true since the journal cannot be found.
+
+*Source: [[Tormentpedia - August]]*
+
 ## Sources
+- [[Tormentpedia - August]] (supplementary)
 - [[Wiki - August]]

@@ -1,7 +1,7 @@
 ---
 type: "mechanic"
 tags: ["mechanics"]
-sources: ["[[Wiki - Marriage of Flesh]]"]
+sources: ["[[Wiki - Marriage of Flesh]]", "[[Tormentpedia - The Marriage]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -81,6 +81,41 @@ See [Marriage](https://fearandhunger.wiki.gg/wiki/Marriage) and [Marriage (Fusio
 
 *Source: [[Wiki - Marriage of Flesh]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Other Tormentpedia statements not found in this note
+*23 statement(s) from [[Tormentpedia - The Marriage]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (23), click to expand
+> - A Marriage can be obtained by choosing the 'show love' option on an unused ritual circle with a willing participant in the player's party.
+> - The player character and the party member will mold together, producing a Marriage.
+> - Producing a Marriage will increase the player's affinity to Sylvian, and the Marriage will be in perfect health, with all of their limbs intact.
+> - A Marriage of Flesh is the result of a ritual done in the name of Sylvian, the goddess of love, lust, and creation.
+> - The ritual, known as "showing love," consists of sexual intercourse between two willing participants within a Ritual Circle.
+> - If the ritual is successful, the two participants will be fused together into one being that possesses the traits of both.
+> - The participants do not need to be human or even technically alive; all that matters is that they are willing and physically capable of sex despite this the player only human character or the undead may.
+> - The player is not the only person who can potentially create a Marriage.
+> - Buckman and Ser Seymor attempt to form a Marriage in the Catacombs if they are rescued and spoken to before rescuing the rest of their party; the ritual fails, transforming them into a bleeding, wheezing abomination.
+> - The Moonless Guard is a Marriage made out of a Guard and a cavewolf.
+> - The Yellow Lizardmage, that can be encountered in the Gauntlet, is a Marriage made out of a Lizardman and a Yellow Mage.
+> - The Human Hydra found on the first floor is presumed to be a failed Abominable Marriage of dozens of the dungeon's surviving guards.
+> - The Marriage retains the same soul and abilities as the host character they come from, but does not have any equipment.
+> - Any equipment either participant was wearing will be lost.
+> - The attack stat of the Marriage is 50, which is higher than any of the starting player characters, and they can wear any armor and use two-handed weapons, unlike Enki.
+> - The player must find a willing participant to produce a Marriage.
+> - The easiest way to do this is by using the Necromancy spell to raise a Ghoul; Ghouls are mindlessly beholden to your will and will always consent.
+> - Cahara, D'arce, Ragnvaldr, and Enki will also consent to forming a Marriage with the protagonist after spending enough time in the party.
+> - Le'garde and the Girl will refuse the offer.
+> - Demon Children, Skeletons, and Moonless cannot be chosen.
+> - Nas'hrah will seemingly agree to participate, but then burn the player to death while laughing rather than giving head.
+> - Attempting to show love to a Baby Demon will cause the game to ask if the player is sure; if they persist, the player will be instantly killed, as the gods do not approve of such a "way of life" (GRRM).
+> - Cahara is the only NPC (aside from ghouls) willing to perform a marriage with a marriage, this is due to the revolting and ugly appearance of the marriage dissuading other NPC.
+
+*Source: [[Tormentpedia - The Marriage]]*
+
 ## Sources
+- [[Tormentpedia - The Marriage]] (supplementary)
 - [[Wiki - Marriage of Flesh]]
 [^1]: Wiki citation: The Marriage of Flesh Is Cooler Than What Everyone Says It Is - Fear & Hunger Lore https://youtu.be/apRh7ZhKzU0?si=PLww3sYUWGZySmCh

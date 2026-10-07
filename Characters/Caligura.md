@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Decrepit soul]]"
 game: ["F&H2"]
-aliases: ["Man in a fine suit", "Count Dragul"]
+aliases: ["Count Dragul", "Man in a fine suit"]
 tags: ["character"]
-sources: ["[[Wiki - Caligura]]"]
+sources: ["[[Wiki - Caligura]]", "[[Tormentpedia - Caligura]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -27,6 +27,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | March |
 | **Died** | 1942 (determinant) |
 | **Affiliation** | [Vatican City](https://fearandhunger.wiki.gg/wiki/Vatican_City) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Caligura]] (infobox)*
 
@@ -40,7 +41,7 @@ He is a violent and foul-mouthed mobster hailing from the [Vatican City](https:/
 
 ### Lore
 
-Caligura's cruel ways and his ghoulish appearance earned him the nickname "Count Dragul" among his peers. His reputation as a mobster is influent enough for other contestants to know who he is: journalist [[Karin]] recognizes him from the train and a possible altercation that he has with [[Henryk]] implies that the chef either heard of Caligura or actually ran into him before. He is a caporegime, or a captain, for a rival branch to the Accardos in [The Family](https://fearandhunger.wiki.gg/wiki/The_Family).
+Caligura's cruel ways and his ghoulish appearance earned him the nickname "Count Dragul" among his peers. His reputation as a mobster is influent enough for other contestants to know who he is: journalist [[Karin]] recognizes him from the train and a possible altercation that he has with [[Henryk]] implies that the chef either heard of Caligura or actually ran into him before. He is a caporegime, or a captain, for a rival branch to the Accardos in The Family.
 
 *Source: [[Wiki - Caligura]]*
 
@@ -72,6 +73,19 @@ During the festival, he is one of the select few participants who will actively 
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | Man in a fine suit / Count Dragul | Man in a fine suit |
+
+*Source: [[Tormentpedia - Caligura]]*
+
 ## Sources
+- [[Tormentpedia - Caligura]] (supplementary)
 - [[Wiki - Caligura]]
 [^1]: Wiki citation: [Happy Paintings official twitter](https://x.com/happy_paintings/status/1690594080936411136?s=20)

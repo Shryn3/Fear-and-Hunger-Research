@@ -4,7 +4,7 @@ soul: "[[Changeling soul]]"
 game: ["F&H2"]
 aliases: ["Girl with Pigtails", "The Occultist"]
 tags: ["character"]
-sources: ["[[Wiki - Marina]]"]
+sources: ["[[Wiki - Marina]]", "[[Tormentpedia - Marina]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -29,7 +29,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Died** | 1942 (determinant) |
 | **Age** | 18 |
 | **Affiliation** | [Vatican City](https://fearandhunger.wiki.gg/wiki/Vatican_City) |
-| **Relatives** | [Father Domek](https://fearandhunger.wiki.gg/wiki/Father_Domek) (father) / Unnamed mother (deceased) |pMinor formattinghobias = Rhabdophobia |
+| **Relatives** | [Father Domek](https://fearandhunger.wiki.gg/wiki/Father_Domek) (father) / Unnamed mother (deceased) |
+| **Phobias** (field name misspelled on the wiki as `pMinor formattinghobias`) | Rhabdophobia |
 
 *Source: [[Wiki - Marina]] (infobox)*
 
@@ -139,6 +140,49 @@ Marina will walk towards and attack the player character on the [Train](https://
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| God | (not given) | (determinant) |
+| Born | November, 1923 | 1924 (determinant) |
+| Relatives | Father Domek (father) / Unnamed mother (deceased) | Father Domek (determinant) / Unnamed mother (deceased) |
+
+### Other Tormentpedia statements not found in this note
+*23 statement(s) from [[Tormentpedia - Marina]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (23), click to expand
+> - While not as strong with harmful and offensive skills, her abilities are no less impressive when used properly.
+> - Marina was born into a family line of  Dark Priests that worshipped The Old Gods.
+> - Her mother, not wanting her child to be forced into the Dark Priest lifestyle, wished for a chance for Marina to grow up divergent from her father's religion; which would have otherwise involved a lifetime of worship to The Old Gods.
+> - Despite Marina's birth gender being male, her mother decided to conceal her identity to all others, including Marina's father who labeled her child female.
+> - This spared her now-daughter from the Dark Priest line of succession that all eldest sons of Priests must follow.
+> - From there in The Vatican, she would learn and continue to refine her art of occultism for some time, considering she did say that it felt like a lifetime since coming back to Prehevil.
+> - Little did she know she would become part of the Festival of Termina.
+> - Marina appears to be a young person with a pale, tired complexion and large, expressive eyes rimmed with faint dark circles.
+> - Marina's hair is voluminous, brown, and wavy, styled with heavy, blunt-cut bangs that reach the eyebrows.
+> - Marina's typical expression is one of neutral or slight apprehension, with the mouth notably bearing three studs-like piercings around the lips.
+> - Marina's outfit is a modest, vintage-style ensemble featuring a white long-sleeved blouse tucked inside a high-waisted, pleated pink skirt that flares outwards due to its width and covers the knees (or even covers the ankles as seen in Marina's enemy pose).
+> - The blouse is distincted by a ruffled high-collar, puffed sleeves and ruffled cuffs, fastened with a thin, black ribbon tied into a delicate bow at the center.
+> - Below the skirt, Marina wears pale white socks and a pair of black Mary Jane shoes.
+> - Marina is incapable of wielding two-handed weapons, but she can utilize guns.
+> - If not the main character, Marina will join the party with two learned skills: Pyromancy trick, a damaging spell that can also cause the burning status effect, and Engrave, a skill that will permanently increase a default attribute, once per character - as long as one finds the Skin Bibles required for each attribute.
+> - All skin bibles are available as bookshelf loot or as a trade to Pocketcat for 3 contestant heads.
+> - Marina can also start with one random skin bible by selecting "Something to Read" on choice 3 of her character history.
+> - Olivia can start with Vinushka's skin bible based on her character choices and O'ssa can start with either Gro-Goroth, Rher, or Sylvain Skin bible based on his choices.
+> - Character choice 2: What God did you study?
+> - Pick one out of the 6 Gods and gain affinity with that God.
+> - Character choice 3: What did you bring to Prehevil?
+> - Something to read - Gain [Skin bible of a random God] book.
+> - 1 [Chalk], 1 [Blue Vial] (4 on Easy), 1 [Moldy Bread].
+
+*Source: [[Tormentpedia - Marina]]*
+
 ## Sources
+- [[Tormentpedia - Marina]] (supplementary)
 - [[Wiki - Marina]]
 [^1]: Wiki citation: https://itch.io/post/3617758

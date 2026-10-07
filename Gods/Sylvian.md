@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Old God"
-aliases: ["Traces of Sylvian", "Goddess of love and fertility"]
+aliases: ["Goddess of love and fertility", "Traces of Sylvian"]
 tags: ["god", "old-god"]
 sources: ["[[Wiki - Sylvian]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Sylvian]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
@@ -32,6 +32,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | Before creation |
 | **Birthplace** | True [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre) (Green Hue) |
 | **Relatives** | [[Gro-goroth]] (antithesis and consort) / [[Vinushka]] (offspring) |
+| **Phobias** | Erotophobia, Teratophobia |
 
 *Source: [[Wiki - Sylvian]] (infobox)*
 
@@ -52,6 +53,8 @@ Sylvian wishes for men and women to make love in her name. But what kind of love
 The twisted realities of these different kinds of love are because Sylvian realized that the men and women she created would not be able to return the same amount of affection towards her as she does to them. Love from her perspective takes on a more twisted form, as shown by the example of the Marriage of Flesh. Those forms are more aligned with her own image, and they manifest in her gift to people - **Love Magic**, also known as **Flower Magic**. From gentle healing whispers to the creation of demon offspring through sexual intercourse with a deceased body, Flower Magic encompasses a wide range of abilities. Those who have a strong bond with Sylvian and her offspring [[Vinushka]] may also possess the power to cultivate **Brain Flowers** by planting seeds within a corpse.
 
 Sylvian's disappointment in humankind's inability to reciprocate the love she offers, and the distorted nature of her affection, is perhaps most apparent in the fleeting moment of history when humanity was consumed by a frenzied pursuit of carnal pleasures. A synchronized wave of naked bodies engaged in endless sexual activity, wasting their days in the process. This event bears a striking resemblance to the influence Sylvian has over humans, though the exact details of the event are unclear. It has also been stated that the use of Sylvian's gift of healing may lead to a gradual deterioration of the user's mental state over time. 
+
+_Image caption: *[[Studies of Sylvian I]]* portrays the goddess with iconography associated with fertility, showcasing a head shaped like a phallus and multiple female breasts._
 
 There are certain sex cults, such as the **[Bunnymasks](https://fearandhunger.wiki.gg/wiki/Bunnymasks)**, that hold orgies in hidden courtyards as a way of honoring Sylvian. These acts are believed to be sacred and performed in her name. The rabbit masks worn by the cult members may indicate the animal's significance to Sylvian, as rabbits are known for their energetic breeding and are often associated with fertility. There are also indications of the existence of a **church of Sylvian** and a **church of healing** that authored scrolls about her magic, but further exploration of other Sylvian cults has yet to be shown.
 

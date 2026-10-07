@@ -28,7 +28,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Characters with this soul
 
-- [[Mourning One]]
+- [[Mourning One|The Mourning One]]
 
 *Source: [[Wiki - Soul type]]*
 

@@ -24,6 +24,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Species / classification** | [[The Gods|New God]] / Human (formerly) |
 | **Gender** | Male |
 | **Affiliation** | [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_Empire) / Bremen army (leader) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Kaiser]] (infobox)*
 

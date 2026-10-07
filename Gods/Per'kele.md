@@ -30,6 +30,7 @@ First introduced in *Fear & Hunger 2: Termina*, **Per'kele** makes his debut as 
 | **Gender** | Male |
 | **God** | [[Rher]] (supposed master) / [[Sulfur God]] (true master) |
 | **Died** | 1942 (determinant) |
+| **Phobias** | Teratophobia |
 
 *Source: [[Wiki - Per'kele]] (infobox)*
 

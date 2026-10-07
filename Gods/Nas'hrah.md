@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "New God"
-aliases: ["The Harbinger of the Burning Crusade", "The Half-Man", "Naz", "The Plague of Modern Times", "The Beheaded Wizard", "The Doom and Terror of Modern Man", "Floating Wizard Head", "The Horror from the East", "The Bringer of Chaos", "The Bringer of Torment", "Great Wizard of the Eastern Sanctuaries"]
+aliases: ["Floating Wizard Head", "Great Wizard of the Eastern Sanctuaries", "Naz", "The Beheaded Wizard", "The Bringer of Chaos", "The Bringer of Torment", "The Doom and Terror of Modern Man", "The Half-Man", "The Harbinger of the Burning Crusade", "The Horror from the East", "The Plague of Modern Times"]
 tags: ["god", "new-god"]
 sources: ["[[Wiki - Nas'hrah]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Nas'hrah]]"]
 retrieved: "2026-10-07"
@@ -33,6 +33,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | 410 (as a New God) |
 | **Birthplace** | [The Void](https://fearandhunger.wiki.gg/wiki/The_Void) (reborn as a New God) |
 | **Affiliation** | [Eastern Sanctuaries](https://fearandhunger.wiki.gg/wiki/Eastern_Sanctuaries) (former sultan) / [Yellow mage](https://fearandhunger.wiki.gg/wiki/Yellow_mage)s (creator) / [[O'saa]] (current apprentice) |
+| **Phobias** | Rhabdophobia |
 
 *Source: [[Wiki - Nas'hrah]] (infobox)*
 

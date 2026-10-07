@@ -4,7 +4,7 @@ soul: "[[Latent soul]]"
 game: ["F&H2"]
 aliases: ["The Salaryman"]
 tags: ["character"]
-sources: ["[[Wiki - Tanaka]]"]
+sources: ["[[Wiki - Tanaka]]", "[[Tormentpedia - Tanaka]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -29,6 +29,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Died** | 1942 (determinant) |
 | **Affiliation** | Unnamed family business |
 | **Relatives** | Unnamed father |
+| **Phobias** | None |
 
 *Source: [[Wiki - Tanaka]] (infobox)*
 
@@ -82,6 +83,29 @@ After witnessing Marcoh giving in to his guilt, losing his mind in the [White Mo
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Birthplace | Kingdom of Edo (implied) | Kingdom of Edo (Supposedly) |
+
+### Other Tormentpedia statements not found in this note
+*5 statement(s) from [[Tormentpedia - Tanaka]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (5), click to expand
+> - He is a salary man dressed for the job, with briefcase and all.
+> - Since he was four years old, Tanaka was raised by his family to rely on himself and only on himself in preparation for a ruthless business world.
+> - He was taught that softness was weakness, and as a result the idea of making friends and comraderie is alien to him.
+> - He is encountered inside the train that transports the Termina contestants to Prehevil.
+> - After the dream sequence that all the contestants have when the game begins, he seems to find himself lost for words and does not answer if the player interacts with him.
+
+*Source: [[Tormentpedia - Tanaka]]*
+
 ## Sources
+- [[Tormentpedia - Tanaka]] (supplementary)
 - [[Wiki - Tanaka]]
 [^1]: Wiki citation: [CastHurtingOnHead In-game Footage](https://youtu.be/UUpyXyPDW9Q?si=jdDCS0y_-qZESNzA), 1:33-1:43.

@@ -32,6 +32,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | 1942 (as a God) |
 | **Birthplace** | [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil) (as a God) |
 | **Relatives** | [[Reila|Reila Audrey Haas]] (former self) / [[Olivia|Olivia Haas]] (twin sister) / Franz Haas (father) / Ema Haas (mother) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Logic]] (infobox)*
 

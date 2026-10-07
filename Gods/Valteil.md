@@ -33,6 +33,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | 809 (as a New God) |
 | **Birthplace** | [The Void](https://fearandhunger.wiki.gg/wiki/The_Void) (reborn as a New God) |
 | **Affiliation** | The Fellowship / [[The Gods|New Gods]] / [Dark Priests](https://fearandhunger.wiki.gg/wiki/Dark_Priests) (formerly) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Valteil]] (infobox)*
 

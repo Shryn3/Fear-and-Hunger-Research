@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "Old God"
-aliases: ["The Ever-Watching God", "The Delinquent One", "Moon God", "Trickster God"]
+aliases: ["Moon God", "The Delinquent One", "The Ever-Watching God", "Trickster God"]
 tags: ["god", "old-god"]
 sources: ["[[Wiki - Rher]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Rher]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
@@ -29,6 +29,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Aliases** | Trickster God / Moon God / The Delinquent One / The Dream(by [[Per'kele]]) / The Ever-Watching God / Pale Old Moon (by [Pocketcat](https://fearandhunger.wiki.gg/wiki/Pocketcat)) / All-Seeing One in the Sky (by [[Nas'hrah]]) |
 | **Species / classification** | [[The Gods|Old God]] |
 | **Gender** | Male |
+| **Phobias** | Nosophobia, Phasmophobia, Erotophobia, Rhabdophobia, Teratophobia, Zoophobia |
 
 *Source: [[Wiki - Rher]] (infobox)*
 
@@ -46,7 +47,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 Much like the other Old Gods, Rher is shrouded in mystery. Reflecting his name and various titles, Rher embodies the ideas of trickery, deceit, subterfuge, conspiracy, and all things associated with delinquency. Although it may seem counterintuitive, Rher is also closely associated with the concept of truth. His blessing of moonlight supposedly uncovers the truth hidden beneath human filth; however, this truth is characterized as disgusting and individuals subjected to his influence are often [driven to madness](https://fearandhunger.wiki.gg/wiki/Moonscorch). Indeed, in [[Skin Bible - Rher|Rher's Skin Bible]], he is said to be a god of the insane. [The truth under the moonlight](https://fearandhunger.wiki.gg/wiki/The_truth_under_the_moonlight) further suggests that the moon is connected to fallacies and false truths, particularly those perpetuated by humanity about itself. Rher is supposedly always watching mankind, being one of the last Old Gods to do so. However, similar to the other Old Gods, Rher pulled away from the human world "a long time ago" and his Bible claims he is in a state of "eternal slumber." The nature and timing of Rher's withdrawal is vague and even in his absence, his traces are still capable of exerting considerable influence on humanity. Rher's sigil consists of three intersecting circles, with two on top. The top right circle is actually a horizontal omega symbol adorned with a central dot. Illustrations from Rher's Skin Bible suggest that the circle with the dot symbolizes an eye, while the overlap between the three circles hints at the crescent phases of the moon. The act of [engraving](https://fearandhunger.wiki.gg/wiki/Engrave) Rher's sigil onto the face increases one's Mind capacity. 
 
-Rher is sometimes said to be a jealous being who disapproves of humanity's attempts to attain a similar status to the gods. [^1][^2][^3] His followers frequently interfere with human affairs in an effort to reduce the influence of the New Gods and prevent new Ascended Gods from being created. He employs his servants [Pocketcat](https://fearandhunger.wiki.gg/wiki/Pocketcat) and [Lady of Moon](https://fearandhunger.wiki.gg/wiki/Lady_of_Moon) to capture children so that they cannot be used as vessels for such purposes. The Moon God's schemes are poorly understood by outsiders, and Rher sometimes appears capricious, such as when he forbids Pocketcat from taking the [[God of Fear and Hunger|Girl]] by force in spite of his apparent goal of subduing her.
+Rher is sometimes said to be a jealous being who disapproves of humanity's attempts to attain a similar status to the gods. [^1][^2][^3] His followers frequently interfere with human affairs in an effort to reduce the influence of the New Gods and prevent new Ascended Gods from being created. He employs his servants [Pocketcat](https://fearandhunger.wiki.gg/wiki/Pocketcat) and [Lady of Moon](https://fearandhunger.wiki.gg/wiki/Lady_of_Moon) to capture children so that they cannot be used as vessels for such purposes. The Moon God's schemes are poorly understood by outsiders, and Rher sometimes appears capricious, such as when he forbids Pocketcat from taking the [Girl](https://fearandhunger.wiki.gg/wiki/Girl) by force in spite of his apparent goal of subduing her.
 
 In 1590, Rher would fail to prevent the creation of a new Ascended God. [[Nilvan]], the New God representing humanity's endless potential, had a daughter with the [man of the prophecies](https://fearandhunger.wiki.gg/wiki/Le'garde) and arranged for this child to be escorted to the Altar of Darkness. This child became the [[God of Fear and Hunger]], an Ascended God with power rivalling that of the Old Gods.
 

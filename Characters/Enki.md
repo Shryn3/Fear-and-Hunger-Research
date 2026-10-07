@@ -4,7 +4,7 @@ soul: "[[Enlightened soul]]"
 game: ["F&H1"]
 aliases: ["The Dark Priest"]
 tags: ["character"]
-sources: ["[[Wiki - Enki]]"]
+sources: ["[[Wiki - Enki]]", "[[Tormentpedia - Enki Ankarian]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -30,6 +30,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Age** | 28-29 |
 | **Affiliation** | Unnamed clan / [Dark Priests](https://fearandhunger.wiki.gg/wiki/Dark_Priests) (determinant) |
 | **Relatives** | [Unnamed ancestor](https://fearandhunger.wiki.gg/wiki/Enki's_ancestor) / Unnamed father / Unnamed twin sister (determinant) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Enki]] (infobox)*
 
@@ -170,7 +171,103 @@ If the player chooses not to play as Enki, they are supposed to be able to go to
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Dark Priest / Long, Fair-Haired Priest of Destruction (by the Cockroach King) | Dark Priest |
+| Species / classification | Enlightened human / Human (former) | Human |
+| Born | October, 1561 | 1564 |
+| Birthplace | Europa (presumably) | Vatican City |
+| Affiliation | Unnamed clan / Dark Priests (determinant) | Dark Priests (determinant) |
+| Relatives | Unnamed ancestor / Unnamed father / Unnamed twin sister (determinant) | Unnamed twin sister |
+| Phobias | None | Phasmophobia |
+
+### Same statement, different details
+*Each pair is the closest match between the two wikis. The numbers or dates in the two statements differ.*
+
+- Main wiki: "Has Short sword and High priest's robe equipped."
+  - Tormentpedia: "Enki starts the game with a short sword (+10 Attack) and high priest's robe (+5 Defense) equipped."
+- Main wiki: "Enki's last name is revealed in Fear & Hunger 2: Termina."
+  - Tormentpedia: "Enki's name is derived from the Sumerian God, Enki."
+- Main wiki: "Enki's last name is revealed in Fear & Hunger 2: Termina."
+  - Tormentpedia: "Enki's last name is revealed in Fear & Hunger: Termina with it being shown in several books he authored."
+
+### Other Tormentpedia statements not found in this note
+*62 statement(s) from [[Tormentpedia - Enki Ankarian]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (62), click to expand
+> - Enki is dressed in a long, minimalistic dark robe that signifies his role as a dark priest, with green gloves and brown boots peeking out of the holes of his robe.
+> - His hair is kept long and unkempt and his grey eyes have prominent bags.
+> - Enki looks like he's always mustering all of his magical power into staying awake.
+> - His motivation for entering the foreboding Dungeons of Fear & Hunger was to learn more about the prophecies surrounding Le'garde.
+> - Enki is self-centered, abrasive, and has a sharp tongue.
+> - He vastly prefers solitude and will become impertinent and even violent towards any who disturb him.
+> - "A shadowy ecclesiastical figure of contemporary times, whose proclivity for arcane divinations renders him a prime candidate for emerging as a luminary of some new epoch.'" - New Gods, opining upon the enigma of Enki.
+> - Enki (Sumerian: 𒀭𒂗𒆠 DEN-KI) is the Sumerian god of water, knowledge (gestú), crafts (gašam), and creation (nudimmud), and one of the Anunnaki.
+> - He was later known as Ea (Akkadian: 𒀭𒂍𒀀) or Ae[5] in Akkadian (Assyrian-Babylonian) religion, and is identified by some scholars with Ia in Canaanite religion.
+> - The name was rendered Aos in Greek sources (e.g.
+> - This enigmatic figure perpetually manifests, tome in hand, at various intervals within the game's cartography: from the Level 1 literary repository, to an antechamber adjacent to a Level 7 ceremonial ring, to the voluminous archives of an archaic metropolis.
+> - When engaged in discourse, he projects a supercilious demeanor, deriding the player's ostensible ignorance whilst extolling the dungeon's dual role as a font of both power and wisdom.
+> - Find him reading in the library and proceed to talk a little to him (emphasis on "little", Enki will get angered if the player continues to talk).
+> - Continue your journey until you reach the library in Le'garde's level.
+> - Talk to him and refuse to give him the talisman.
+> - Note that after you reach the grand library, he will leave your party to read but he will return after you solve the mannequin's puzzle before the fight with Valteil.
+> - If not recruited after getting the talisman Enki can be found at level 7 ritual circle as The Abominable Marriage. (Supposedly fused with two Ghouls) He can be fought but due to a bug he instantly dies upon entering battle.
+> - He has the enlightened soul and starts with the Counter-magic spell, which can disrupt various types of lesser magic.
+> - He can later learn Greater Blood Magic, which allows him to use some upgraded versions of blood magic spells.
+> - Every character can learn magic, but Enki's introduction allows him to start with several different powerful spells.
+> - The player's reaction to Enki's ceremonial duel in the introduction determines what spells he starts with.
+> - "Set the temple on fire and leave": The player chooses to lash out at the temple, and you learn Pyromancy, a powerful magical attack spell.
+> - This option enables you to learn the Dash skill when you later choose to "Rush straight after him.".
+> - Regardless of which option the player chose for the duel, the player then selects one of the four deities with whom they will have maximum affinity from the start:
+> - However, this option is disabled if you choose to "Set the temple on fire and leave." instead learning Pyromancy.
+> - He has access to very powerful magic, but sub-par melee ability; they start with relatively poor equipment, and cannot wield two-handed weapons.
+> - Using a Book of Forgotten Memories will teach him the Greater Blood Magic or the Blood Sacrifice spell.
+> - Enki has the potential to become very powerful using magic, but he begins with very little melee ability. is starting magic can help increase his survivability in two ways:
+> - Necromancy allows you to raise ghouls and skeletons to fight for you.
+> - Ghouls are relatively weak and can't wear equipment, but skeletons can use weapons and armor just as well as you.
+> - Their attacks can't be controlled, but they're still effective in combat.
+> - They can be sacrificed to Gro-goroth, create a Marriage to make Enki physically stronger/increase affinity with Sylvian, and take heavy damage without too much worry.
+> - This is even more true for you because of Counter-magic; you can defeat ghouls and unruly skeletons using counter-magic, taking the risk of physical harm out of the equation.
+> - Pyromancy trick: This spell, like most offence spells, can attack any part of the body with the same accuracy.
+> - That means that for 5 Mind, you can deal 170-200 damage directly to the head and kill most of the enemies in the basic dungeon within the first turn.
+> - These starting magic's should make you powerful enough to progress through the dungeon, where you can find soul stones to increase your magical power as well as human allies that can be controlled in combat and carry two-handed weapons.
+> - The upper tier of magical power provides greater, but also more unique benefits:
+> - Blood magic will provide you with increasingly powerful damage-dealing spells.
+> - Greater blood magic will increase the efficiency and power of multiple lower-level blood magic: Greater Hurting costs less, Greater Necromancy will never fail to work, and Great Blood Golem will be a much stronger ally.
+> - Sylvian's magic will allow you to heal your party, which can be difficult to accomplish otherwise.
+> - You can also create a Demon Kid, a weak but controllable ally with similar power to the human child.
+> - It's not enough to use lesser souls to gain more powerful spells; each of the spells belongs to a different old god, and you must raise your affinity with them through prayer or acts done in their name to get access to their magic.
+> - The dungeon provides multiple easy opportunities to increase the player's affinity with the three old gods.
+> - A player who choose Dark Priest can take advantage of their starting abilities to completely max out affinity with all three Gods, as well as the God of the Depths, at no cost to themselves.
+> - They can take advantage of the following opportunities to accomplish this:
+> - Your introduction allows you to select a god to study, maxing out your affinity with them.
+> - God of the Depths is ideal for this because he has three tier of affinity, but one cannot max out affinity with God of the Depths as a Dark Priest, since one of his tasks involves killing the Dark Priest to make a home for insects.
+> - Sex in the bunny meadow will increase affinity with Sylvian in addition to healing your character.
+> - It can be done once risk-free, and will rely on a coin flip afterwards to avoid being stuck there.
+> - Feasting on human flesh in the sixth floor of the mines will increase affinity with Gro-goroth in addition to removing your character's hunger.
+> - The inner hall on the first floor features a human sacrifice on a statue, surrounded by priests.
+> - You can kill the sacrifice to gain maximum (one) affinity with Alll-mer.
+> - Praying to a single God in three separate locations will increase your affinity, and can some-times grant you magic from their domain.
+> - Prayer circles work for this purpose, as do statues in the meadow and cavern.
+> - You can pray to Sylvian to gain the second and final level of affinity with them.
+> - Mastery over Insects, if selected, will allow you to speak to an insect in the thicket who will tell you how to get to the Cockroach king.
+> - Submitting to the Cockroach king and slaying the butterfly-like creature in the courtyard above as he asks will grant you affinity with the God of the Depths.
+> - You can still reach the king without Mastery over Insects, but this will be pointless, as he cannot speak to you to give you the tasks.
+> - The second task is to kill the Dark Priest, which cannot be done as him.
+> - To get full affinity with God of the Depths, you must either study him in the introduction or pick another character and use an empty scroll to learn Mastery over Insects.
+> - The exact meaning of the name Enki is unknown but is often translated as 'Lord of the Earth'.
+> - He is likely to have continued his studies in seclusion within Ma'habre to this day.
+
+*Source: [[Tormentpedia - Enki Ankarian]]*
+
 ## Sources
+- [[Tormentpedia - Enki Ankarian]] (supplementary)
 - [[Wiki - Enki]]
 [^1]: Wiki citation: [Flipside's](https://fearandhunger.wiki.gg/wiki/Flip_side_-_Basement) graveyard: "Here lies **Dark Priest** 1561-1590"
 [^2]: Wiki citation: Based on his [[Soul types|soul type]], Enki was born in October.

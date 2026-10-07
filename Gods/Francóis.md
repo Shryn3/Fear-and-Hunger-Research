@@ -58,7 +58,7 @@ The events depicted in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]* re
 
 - Having become a deity, Francóis sits atop a throne of power that allows anyone who sits on it to become a God themselves.
 - Said Fellowship embarked on their journey to become New Gods in the year 809.
-- Rate !Magic Ev. !Resistances |- |Head |1000 | rowspan="6" |100% | rowspan="6" |100% | rowspan="6" |115% | rowspan="6" |100% | rowspan="6" |100% |100% |60% |Confusion |- |Torso |2000 (4000) |5% |None | rowspan="11" |Blindness, Confusion |- |Left arm |800 |5% |None |- |Right arm |800 |5% |None |- |Left leg |250 |5% |None |- |Right leg |250 |5% |None |- |Head (Golden) |4500 | rowspan="6" |100% | rowspan="6" |100% | rowspan="6" |100% | rowspan="6" |100% | rowspan="6" |115% |100% |60% |- |Torso (Golden) |4500 (9000) |5% |None |- |Left arm (Golden) |600 |5% |None |- |Right arm (Golden) |600 |5% |None |- |Left leg (Golden) |250 |5% |None |- |Right leg (Golden) |250 |5% |None |}
+- He can be seen the same game in the hall of New Gods with other inactive deities, an indication that his reign indeed came to an end.
 
 *Source: [[Tormentpedia - Francóis]]*
 

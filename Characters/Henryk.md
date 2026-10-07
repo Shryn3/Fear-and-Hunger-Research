@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Suffocated soul]]"
 game: ["F&H2"]
-aliases: ["The Chef", "Blonde man"]
+aliases: ["Blonde man", "The Chef"]
 tags: ["character"]
-sources: ["[[Wiki - Henryk]]"]
+sources: ["[[Wiki - Henryk]]", "[[Tormentpedia - Henryk]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -28,6 +28,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Birthplace** | [Rondon](https://fearandhunger.wiki.gg/wiki/Rondon) |
 | **Died** | 1942 (determinant) |
 | **Age** | 32 |
+| **Phobias** | None |
 
 *Source: [[Wiki - Henryk]] (infobox)*
 
@@ -82,7 +83,23 @@ As the festival progresses and the deadline approaches, he becomes increasingly 
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Other Tormentpedia statements not found in this note
+*4 statement(s) from [[Tormentpedia - Henryk]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (4), click to expand
+> - He is a chef hailing from the country of Rondon.
+> - Not much is known about his past, and he seems adamant about keeping his life secret if prompted to speak up about it.
+> - Henryk's parents ran a tavern called Klimkov's, where he also worked, but was always dreaming about becoming someone important and capable of creating something such as an artist, musician or actor.
+> - His attitude seems rather perverted towards the women he takes interest in, since his first interaction with the player character is of him commenting on Abella's rear and flirting with her, most likely due to the fact he makes sure to let the player know he's single.
+
+*Source: [[Tormentpedia - Henryk]]*
+
 ## Sources
+- [[Tormentpedia - Henryk]] (supplementary)
 - [[Wiki - Henryk]]
 [^1]: Wiki citation: [CastHurtingOnHead In-game Footage](https://www.youtube.com/watch?v=w_m_Vzj8m8U), 1:11-1:50.
 [^2]: Wiki citation: [CastHurtingOnHead In-game Footage](https://www.youtube.com/watch?v=w_m_Vzj8m8U), 1:36.

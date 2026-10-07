@@ -27,6 +27,7 @@ The **Heartless One** is a newly-introduced New God in *Fear & Hunger 2: Termina
 |---|---|
 | **Species / classification** | [[The Gods|New God]] |
 | **Gender** | Female |
+| **Phobias** | None |
 
 *Source: [[Wiki - Heartless One]] (infobox)*
 

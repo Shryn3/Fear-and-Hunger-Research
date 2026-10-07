@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Solitary soul]]"
 game: ["F&H2"]
-aliases: ["The Ex-Soldier", "Boy with the Overalls"]
+aliases: ["Boy with the Overalls", "The Ex-Soldier"]
 tags: ["character"]
-sources: ["[[Wiki - Levi]]"]
+sources: ["[[Wiki - Levi]]", "[[Tormentpedia - Levi]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -29,6 +29,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Died** | 1942 (determinant) |
 | **Age** | 18 |
 | **Relatives** | Unnamed father / Unnamed mother (deceased) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Levi]] (infobox)*
 
@@ -98,7 +99,7 @@ He desires to leave his past behind.
 
 | If not skipped: |
 |---|
-| • The soothing sound of the railtracks... You are not used to such peaceful and tranquil atmosphere. / • You can't help but let your mind wander. You reminisce what has lead you to this point in life... / • Prehevil. It's your hometown, even if it has a tainted past painted all around its narrow alleyways. / • The painful memories would start from that one night... / • Your parents were arguing downstairs. The argument would heat up, like always, and it would turn into a fight. / • Your mother charged inside your room in desperation. She locked the door and pushed it with all her might. / • First the odor of old vodka carried over to your room, then you heard your father's heavy steps walk up the stairs. / • Your father started bashing down the door. / • *Pray for a god* / • Which god? / • *Gro-goroth* **(+1 Gro-goroth affinity)** / • *Sylvian* **(+1 Sylvian affinity)** / • *Alll-mer* **(+1 Alll-mer affinity)** / • *The moon god* **(+1 Rher affinity)** / • *Vinushna* **(+1 Vinushka affinity)** / • *The god of fear & hunger* **(+1 God of Fear and Hunger affinity)** / • The gods didn't answer to your prayers this time, but you made a pact with the said god for life. / • *Stand up against your father* **(Gain +25 Max Body Points)** / • Your efforts didn't matter much before the drunken stupor of your father. It did raise your maximum bodily resilience though. / • With your mother gone and your father drinking in the gutter, you were taken to the Prehevil orphanage. / • The place treated children awfully and all kinds of rumours circulated on why kids would disappear occasionally without a trace. / • You couldn't wait to get out of there as soon as possible. Unfortunately your wishes were answered sooner than you could've guessed. / • When the second great war started, the Eastern Union recruited every able-bodied person no matter the age to fight for the motherland. / • You were only 13 at the time, but still they dragged you with them. What kind of weaponry did you specialize in? / • *Pistols* **(Gain [Lugr Pistol](https://fearandhunger.wiki.gg/wiki/Lugr_Pistol) and 10 [9mm Bullets](https://fearandhunger.wiki.gg/wiki/9mm_Bullet))** / • *Rifles* **(Gain [Rifle .303 Mk I](https://fearandhunger.wiki.gg/wiki/Rifle_.303_Mk_I) and 4 [.303 Ammo](https://fearandhunger.wiki.gg/wiki/.303_Ammo))** / • *Trenchguns* **(Gain [12-gauge Trenchgun](https://fearandhunger.wiki.gg/wiki/12-gauge_Trenchgun) and 3 [12-gauge shells](https://fearandhunger.wiki.gg/wiki/12-gauge_shells))** / • You excelled on the battlefield despite your age. However you grew bitter as you saw younger and younger kids being recruited and killed as the war dragged on. / • By this time you were already responsible for your own squad of child soldiers. You were given a mission meant for expendables, one that would be a guaranteed suicide mission. / • You were already growing tired of the haphazard way of distributing troops and the general morale of the Eastern Union army was starting to show its cracks... / • *Take the mission and fulfil your duty* **(Gain skill for a weapon chosen before: Pistols - [Gunslinger](https://fearandhunger.wiki.gg/wiki/Gunslinger), Rifles - [Marksmanship](https://fearandhunger.wiki.gg/wiki/Marksmanship_(F%26H2)%5C), Trenchguns - [Executioner](https://fearandhunger.wiki.gg/wiki/Executioner))** / • You survived the mission despite impossible odds. This increased your proficiency in your branch of weaponry. Unfortunately the mission had its toll on you as well. Your psyche couldn't handle all the losses on the battlefield. So you had to take opioids to ease the pain. You formed an addiction. **(Gain [Withdrawal](https://fearandhunger.wiki.gg/wiki/Status_Effects_F%26H2#Player_Debuffs-0) and [Heroin](https://fearandhunger.wiki.gg/wiki/Heroin))** / • *Abandon the sinking ship* **(Gain nothing, but no [Heroin](https://fearandhunger.wiki.gg/wiki/Heroin) addiction)** / • You couldn't stand up for this any longer and became a deserter. The Eastern Union wouldn't forgive such crimes, so you had to pack up wisely for your escape... / • *Stock up on medical goods* **(Gain 2 [Blue vials](https://fearandhunger.wiki.gg/wiki/Blue_vial_(F%26H2)) and [Cloth fragment](https://fearandhunger.wiki.gg/wiki/Cloth_fragment_(F%26H2)))** / • *Stock up on ammo* **(Gain ammo for a weapon chosen before: Pistols - 4 [9mm Bullets](https://fearandhunger.wiki.gg/wiki/9mm_Bullet), Rifles - 3 [.303 Ammo](https://fearandhunger.wiki.gg/wiki/.303_Ammo), Trenchguns - 2 [12-gauge shells](https://fearandhunger.wiki.gg/wiki/12-gauge_shells))** / • *Stock up on food* **(Gain 2 [Dried meat](https://fearandhunger.wiki.gg/wiki/Dried_meat_(F%26H2)) and [Moldy bread](https://fearandhunger.wiki.gg/wiki/Moldy_bread_(F%26H2)))** / • How long has it been? Feels like a lifetime since you left the town... / • It's not a place anyone would want to return to, but when you got no other place in this world, you are left with no options... |
+| • The soothing sound of the railtracks... You are not used to such peaceful and tranquil atmosphere. / • You can't help but let your mind wander. You reminisce what has lead you to this point in life... / • Prehevil. It's your hometown, even if it has a tainted past painted all around its narrow alleyways. / • The painful memories would start from that one night... / • Your parents were arguing downstairs. The argument would heat up, like always, and it would turn into a fight. / • Your mother charged inside your room in desperation. She locked the door and pushed it with all her might. / • First the odor of old vodka carried over to your room, then you heard your father's heavy steps walk up the stairs. / • Your father started bashing down the door. / • *Pray for a god* / • Which god? / • *Gro-goroth* **(+1 Gro-goroth affinity)** / • *Sylvian* **(+1 Sylvian affinity)** / • *Alll-mer* **(+1 Alll-mer affinity)** / • *The moon god* **(+1 Rher affinity)** / • *Vinushna* **(+1 Vinushka affinity)** / • *The god of fear & hunger* **(+1 God of Fear and Hunger affinity)** / • The gods didn't answer to your prayers this time, but you made a pact with the said god for life. / • *Stand up against your father* **(Gain +25 Max Body Points)** / • Your efforts didn't matter much before the drunken stupor of your father. It did raise your maximum bodily resilience though. / • With your mother gone and your father drinking in the gutter, you were taken to the Prehevil orphanage. / • The place treated children awfully and all kinds of rumours circulated on why kids would disappear occasionally without a trace. / • You couldn't wait to get out of there as soon as possible. Unfortunately your wishes were answered sooner than you could've guessed. / • When the second great war started, the Eastern Union recruited every able-bodied person no matter the age to fight for the motherland. / • You were only 13 at the time, but still they dragged you with them. What kind of weaponry did you specialize in? / • *Pistols* **(Gain [Lugr Pistol](https://fearandhunger.wiki.gg/wiki/Lugr_Pistol) and 10 [9mm Bullets](https://fearandhunger.wiki.gg/wiki/9mm_Bullet))** / • *Rifles* **(Gain [Rifle .303 Mk I](https://fearandhunger.wiki.gg/wiki/Rifle_.303_Mk_I) and 4 [.303 Ammo](https://fearandhunger.wiki.gg/wiki/.303_Ammo))** / • *Trenchguns* **(Gain [12-gauge Trenchgun](https://fearandhunger.wiki.gg/wiki/12-gauge_Trenchgun) and 3 [12-gauge shells](https://fearandhunger.wiki.gg/wiki/12-gauge_shells))** / • You excelled on the battlefield despite your age. However you grew bitter as you saw younger and younger kids being recruited and killed as the war dragged on. / • By this time you were already responsible for your own squad of child soldiers. You were given a mission meant for expendables, one that would be a guaranteed suicide mission. / • You were already growing tired of the haphazard way of distributing troops and the general morale of the Eastern Union army was starting to show its cracks... / • *Take the mission and fulfil your duty* **(Gain skill for a weapon chosen before: Pistols - [Gunslinger](https://fearandhunger.wiki.gg/wiki/Gunslinger), Rifles - [[Marksmanship (F&H2)|Marksmanship]], Trenchguns - [Executioner](https://fearandhunger.wiki.gg/wiki/Executioner))** / • You survived the mission despite impossible odds. This increased your proficiency in your branch of weaponry. Unfortunately the mission had its toll on you as well. Your psyche couldn't handle all the losses on the battlefield. So you had to take opioids to ease the pain. You formed an addiction. **(Gain [Withdrawal](https://fearandhunger.wiki.gg/wiki/Status_Effects_F%26H2#Player_Debuffs-0) and [Heroin](https://fearandhunger.wiki.gg/wiki/Heroin))** / • *Abandon the sinking ship* **(Gain nothing, but no [Heroin](https://fearandhunger.wiki.gg/wiki/Heroin) addiction)** / • You couldn't stand up for this any longer and became a deserter. The Eastern Union wouldn't forgive such crimes, so you had to pack up wisely for your escape... / • *Stock up on medical goods* **(Gain 2 [Blue vials](https://fearandhunger.wiki.gg/wiki/Blue_vial_(F%26H2)) and [Cloth fragment](https://fearandhunger.wiki.gg/wiki/Cloth_fragment_(F%26H2)))** / • *Stock up on ammo* **(Gain ammo for a weapon chosen before: Pistols - 4 [9mm Bullets](https://fearandhunger.wiki.gg/wiki/9mm_Bullet), Rifles - 3 [.303 Ammo](https://fearandhunger.wiki.gg/wiki/.303_Ammo), Trenchguns - 2 [12-gauge shells](https://fearandhunger.wiki.gg/wiki/12-gauge_shells))** / • *Stock up on food* **(Gain 2 [Dried meat](https://fearandhunger.wiki.gg/wiki/Dried_meat_(F%26H2)) and [Moldy bread](https://fearandhunger.wiki.gg/wiki/Moldy_bread_(F%26H2)))** / • How long has it been? Feels like a lifetime since you left the town... / • It's not a place anyone would want to return to, but when you got no other place in this world, you are left with no options... |
 
 *Source: [[Wiki - Levi]]*
 
@@ -135,5 +136,53 @@ If recruited, Levi will have the *[Gun proficiency](https://fearandhunger.wiki.g
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Ex-Soldier / Boy with the Overalls / The Sleepy One (by Marina) | The Ex-Soldier / Boy with the overalls |
+| God | (not given) | (determinant) |
+| Born | May 1924 | 1924 (determinant) |
+
+### Same statement, different details
+*Each pair is the closest match between the two wikis. The numbers or dates in the two statements differ.*
+
+- Main wiki: "You reminisce what has lead you to this point in life... / • Prehevil."
+  - Tormentpedia: "Character choice 4: What did you bring to Prehevil?"
+
+### Other Tormentpedia statements not found in this note
+*22 statement(s) from [[Tormentpedia - Levi]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (22), click to expand
+> - Levi returned to the mysterious town of Prehevil, a place somewhat like Bohemia/Czechia.
+> - Levi had a mother and a father who was often drunk and cruel.
+> - This chaotic environment lasted for an unclear amount of time, leaving Levi with vague memories of his intoxicated father.
+> - One tense night, his mother sought refuge in Levi's room, using her body to block the door.
+> - Despite her efforts, she couldn't escape the violence of her partner.
+> - Faced with a tough choice—either confront his father or pray for divine help, which would bind him to a supernatural entity—Levi was in a moral dilemma.
+> - Levi was moved to the Sunflower Orphanage in Prehevil, but unfortunately, things didn't improve much.
+> - Rumors circulated about children disappearing mysteriously.
+> - Soon after, the Eastern Union forced Levi into military service.
+> - Though just a child, Levi quickly learned to use weapons and became skilled in combat.
+> - However, the constant fighting led him to despair, especially seeing young children caught in the war.
+> - Eventually, the stress and horror drove him to use drugs, especially Heroin.
+> - Mentally and physically exhausted, Levi left the military before he could face legal consequences from the Eastern Union.
+> - Unknown to him, his path was being influenced by the lunar god Rher, positioning Levi as a key player in the mysterious game of Termina.
+> - Levi is capable of wielding all guns and two-handed weapons.
+> - This can only be temporarily alleviated through the use of Heroin, and cannot be rid of permanently.
+> - You should recruit him only if able to provide him with Heroin at certain critical moments such as the boss fights, as his stats will increase immensely from taking the drug.
+> - Character choice 1: What did you do when your father was at your door?
+> - Pray to a God - Pick one of the Gods and gain affinity to that God.
+> - Rifles - Gain [Rifle .303 MK1] and 3 [.303 Rounds].
+> - Character choice 3: You were given a suicidal mission what did you do?
+> - Ammo - Pistol users gain 4 [9mm Bullets], rifle users gain 3 [.303 Rounds], trench gun users gain 2 [12 Gauge Shells]
+
+*Source: [[Tormentpedia - Levi]]*
+
 ## Sources
+- [[Tormentpedia - Levi]] (supplementary)
 - [[Wiki - Levi]]

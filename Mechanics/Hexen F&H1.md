@@ -1,7 +1,7 @@
 ---
 type: "mechanic"
 tags: ["mechanics"]
-sources: ["[[Wiki - Hexen F&H1]]"]
+sources: ["[[Wiki - Hexen F&H1]]", "[[Tormentpedia - Hexen Table]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -24,7 +24,19 @@ For more details on spells and skills, see [Skills List F&H1](https://fearandhun
 
 *Source: [[Wiki - Hexen F&H1]]*
 
+### Locations
+
+The first Hexen table can be found in the first level of the dungeon, being located either in the [Entrance](https://fearandhunger.wiki.gg/wiki/Level_1_-_Entrance) or the [Courtyard](https://fearandhunger.wiki.gg/wiki/Level_1_-_Courtyard). There will be a wooden door blocking the room containing the table, which has been locked by magical means. The door possess a mark of [eastern](https://fearandhunger.wiki.gg/wiki/Eastern_Sanctuaries) origins and attempting to open it will cause the player character to note that they are being barred by a supernatural force.
+
+The door can be opened either by using a [Purifying Talisman](https://fearandhunger.wiki.gg/wiki/Items_List_F%26H1#Miscellaneous_consumables) or the *Counter-Magic* spell on it. Once the door is purified, the player will be able to access the table and use it as much as they want. The second table is located in [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus)'s laboratory, in Level 5 ([Mines](https://fearandhunger.wiki.gg/wiki/Mines)), and while it is not blocked by a cursed door, the player will be forced to fight against the [Old Knight](https://fearandhunger.wiki.gg/wiki/Old_Knight) in order to enter it.
+
+In [Dungeon Nights](https://fearandhunger.wiki.gg/wiki/Dungeon_Nights), only one Hexen Table can be found, being located within the mode's hub area (the city), inside a building named "Hexen". In this table, the player has access to all the skill trees and starts with maximum affinity with all the gods, meaning that they can acquired all of the available skills/spells as long as they pay the required cost.
+
+*Source: [[Wiki - Hexen F&H1]]*
+
 ### Usage
+
+_Image caption: The skills trees at the Hexen_
 
 Once the player interacts with the Hexen table, they will be provided with two options: **Use The Hexen** or **Curse Equipment**.
 
@@ -110,6 +122,30 @@ The player can spend lesser souls to curse their weapons. Doing so will add atta
 
 *Source: [[Wiki - Hexen F&H1]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Other Tormentpedia statements not found in this note
+*12 statement(s) from [[Tormentpedia - Hexen Table]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (12), click to expand
+> - The Hexen Table is an object in Fear & Hunger series that can be interacted with and found in a few locations.
+> - The first time you will likely encounter it will be Level 1 (Inner Hall).
+> - It is especially important with the use of lesser souls.
+> - Orphanage (only possible in masochist mode)
+> - Every PC can learn any spell or skill with the use of an Empty Scroll and a Quill, while otherwise skillsets available to you are determined by which character you chose as the protagonist.
+> - Spells are determined by various other factors such as god affinity.
+> - You start the game with a few beginning skills on one branch determined by your character's PLAY INTRO options.
+> - If you find and use a Book of the Forgotten Memories, it will instantly teach your character a skill unique to their tree.
+> - Some tiers are more difficult to unlock than others.
+> - Performing sacrifices or feasting with the Wolfmasks for Gro-goroth, having sex with the Bunnymasks or showing love at a ritual circle for Sylvian, and praying to a chosen god are all among many ways to increase affinities.
+> - Books and texts found in-game can hint the ritual practices to appease each.
+> - You may also spend lesser souls by cursing your equipment and adding additional attack buffs to them.
+
+*Source: [[Tormentpedia - Hexen Table]]*
+
 ## Sources
+- [[Tormentpedia - Hexen Table]] (supplementary)
 - [[Wiki - Hexen F&H1]]
 [^1]: Wiki citation: Fear & Hunger Guide: Hexen And Affinities https://www.youtube.com/watch?v=gheEsC703tQ&list=LL&index=5&t=362s&ab_channel=Frapollo94

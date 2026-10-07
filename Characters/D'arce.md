@@ -4,7 +4,7 @@ soul: "[[Domination soul]]"
 game: ["F&H1"]
 aliases: ["The Knight"]
 tags: ["character"]
-sources: ["[[Wiki - D'arce]]"]
+sources: ["[[Wiki - D'arce]]", "[[Tormentpedia - D'arce]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -31,6 +31,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Age** | 24 |
 | **Affiliation** | [Kingdom of Rondon](https://fearandhunger.wiki.gg/wiki/Rondon) (formerly) / [Knights of the Midnight Sun](https://fearandhunger.wiki.gg/wiki/Knights_of_the_Midnight_Sun) (member) / [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde) (love interest and captain) |
 | **Relatives** | [Unnamed ancestor](https://fearandhunger.wiki.gg/wiki/D'arce's_ancestor) / Unnamed father |
+| **Phobias** | None |
 
 *Source: [[Wiki - D'arce]] (infobox)*
 
@@ -51,6 +52,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 > *- The New Gods when asked about D'arce.*
 
 Born with the soul of domination that makes people around her bend to her will, D'arce is a natural leader, but often ends up blind to self-criticism. Her [[Soul types|birth sign]] and wealthy noble background from the [Kingdom of Rondon](https://fearandhunger.wiki.gg/wiki/Rondon) already marked her for greatness, and she further cemented her worth by becoming a gifted holy knight of [[Alll-mer]] and a valuable asset to her kingdom, much like [her ancestors](https://fearandhunger.wiki.gg/wiki/D'arce's_ancestor). Despite the harsh training that squirehood demanded, D'arce persevered and proved herself to be a formidable warrior, regardless of her noble origins.
+
+_Image caption: D'arce and Le'garde discuss his plans of raiding Oldegård._
 
 However, as she grew older, her devotion to Rondon began to falter when she realized that the kingdom's pursuit of power was benefiting only the elite and nobility. As a result, she made the difficult decision to leave the army. Seeking a new purpose, D'arce would come to know the [Knights of the Midnight Sun](https://fearandhunger.wiki.gg/wiki/Knights_of_the_Midnight_Sun), a band of mercenaries led by [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), who shared her disdain for Rondon's actions. D'arce observed that Le'garde's leadership success came from his visionary outlook of a united kingdom achieved through non-violent means. His ability to connect with the common people, having originated from humble beginnings himself, made him a natural leader that people could relate to. Recognizing D'arce's potential, Le'garde warmly convinced her to join the band, almost seducing her with his persuasive words. It was during her time with the group that she fell deeply in love with Le'garde, despite only being seen as a valuable subordinate by him.
 
@@ -181,7 +184,72 @@ If the player chooses not to play as D'arce, they will be able to go to the prom
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Knight / Dollface (by Cahara) | The Knight |
+| Born | March, 1566 | 1566 |
+| Age | 24 | 23-24 |
+| Affiliation | Kingdom of Rondon (formerly) / Knights of the Midnight Sun (member) / Le'garde (love interest and captain) | Knights of the Midnight Sun (member) / Le'garde (love interest and captain) |
+
+### Other Tormentpedia statements not found in this note
+*44 statement(s) from [[Tormentpedia - D'arce]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (44), click to expand
+> - A daughter of a wealthy family of nobles in the Kingdom of Rondon, D'arce was born with a Domination soul, an essence that compelled her to assert control over those in her midst.
+> - This innate quality rendered her a natural leader, yet it also made her reluctant to engage in self-reflection.
+> - In her youth, it was decided that D'arce would become a holy knight, a decision that set her on the path of squireship and rigorous training.
+> - Through intensive drills and frequent sparring sessions sculpted D'arce into a skilled, strong and firm warrior.
+> - D'arce became a full-fledged knight and an invaluable asset to Rondon's military.
+> - However, the passage of time wore away D'arce's allegiance to the holy knights.
+> - She recognized the dissonance between Rondon's professed divine mission and the reality that only the privileged elite reaped the rewards of battle.
+> - Disgusted by the incessant pursuit of self-serving conquest and bloodshed, a disillusioned D'arce contemplated renouncing her knighthood.
+> - Such considerations were met with stern opposition from her family, who threatened to disown her for daring to entertain such notions.
+> - Holding the same disdain for Rondon's corruption and hypocrisy, Le'garde easily persuaded D'arce to join his cause.
+> - Due to her prior training and experience, she was granted a prominent position within the group.
+> - Despite the Kingdom of Rondon initially employing the Knights' services, Le'garde's increasing power made him a liability to Rondon's rule.
+> - As tensions escalated, Le'garde withdrew into isolation, immersing himself in the study of occult texts and ancient artifacts.
+> - He suddenly ordered his army to raid the Kingdom of Oldegård and retrieve a specific artifact.
+> - D'arce cautioned against the order, failing to see the benefit and concerned about the damage such an action could do to Le'garde's reputation, but Le'garde was adamant.
+> - The ensuing raid was successful, but it also incurred the wrath of Rondon, who seized the opportunity to turn the common folk against Le'garde and order his arrest.
+> - Surrounded by Rondon's armies, D'arce and her comrades fought bravely, but were outmatched.
+> - Narrowly escaping the battlefield, D'arce resolved to personally rescue Le'garde and save him from execution at any cost.
+> - She set off for the foreboding fortress where Le'garde was being held: the Dungeons of Fear & Hunger.
+> - When not playing as D'arce, she can be found at the Cavedwellers' village.
+> - Upon entering the area, the player will find D'arce being attacked by a Cavedweller due to her failed attempt at trying to stop a sacrificial ritual and will be given the choice to either fight her assailant and save her or ignore the situation allowing her to be killed.
+> - If the player intervenes, all Cavedwellers will become hostile.
+> - If D'arce is in the party and the player finds Le'garde alive but refuses or is unable to let him join the party, D'arce will stay behind with him until both are recruited.
+> - While playing as the Outlander, the player has the option to immediately kill Le'garde upon finding him alive in his cell.
+> - If D'arce is in the party, doing so will enrage her and cause her to attack.
+> - She can be convinced to stop the fight with Talk, but she will then leave the party and cannot be interacted with for the rest of the game.
+> - If Ragnvaldr and Le'garde are in the same party in Ma'habre, Ragnvaldr will attack Le'garde shortly after the dialogue at the gates.
+> - The player will be given the option to intervene and help Le'garde fight Ragnvaldr; if this is not taken, Ragnvaldr will kill Le'garde.
+> - She can later learn Leg sweep and Counter.
+> - Using a Book of memories will teach her Counter.
+> - If the player opts to play the intro when starting a new game, the options are as follows:
+> - But this option enables the Dash skill if the player later chooses to "Rush straight after him." when departing.
+> - D'arce can start with different equipment depending on which option the player chooses during the intro, when the Rondon army attacks the army D'arce is with.
+> - Arm guards (+10 Defense, cannot lose arms)
+> - "Rush straight after him."     D'arce learns Dash.
+> - However, this option is disabled if the player chooses to "Stay as a holy knight." and instead is rewarded the 20 Silver coins.
+> - D'arce's design seems to be based on popular depictions of Joan of Arc, the French historical figure - more specifically from the movie The Messenger (1999).
+> - "Jeanne" is also the name of one of the knights accompanying Buckman.
+> - D'arce's character loosely resembles that of Casca from Berserk.
+> - Both characters are female knights who serve mercenary leaders - Le'garde and Griffith - whom they are intensely loyal to.
+> - A leader who later falls into conflict with a male scarred warriors - Ragnvaldr and Guts - who wants to kill them.
+> - This is where the similarities end for anyone that has actually read Berserk and has been confirmed by Miro to be a coincidence.
+> - As a New God, D'arce's armor strongly resembles that of Francòis.
+> - This is done as both individuals possess the Domination Soul.
+
+*Source: [[Tormentpedia - D'arce]]*
+
 ## Sources
+- [[Tormentpedia - D'arce]] (supplementary)
 - [[Wiki - D'arce]]
 [^1]: Wiki citation: [Flipside's](https://fearandhunger.wiki.gg/wiki/Flip_side_-_Basement) graveyard: "Here lies **Knight** 1566-1590"
 [^2]: Wiki citation: Based on her [[Soul types|soul type]], D'arce was born in March.

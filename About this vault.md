@@ -13,3 +13,4 @@ tags: ["meta"]
 - `[!question] Unverified` callouts mark gaps. Nothing is filled from memory.
 - Skills not covered yet: General skills and Unused skills lists.
 - These notes are the document itself: edit, correct and extend them freely. Every fact keeps its citation, so when you change or add something, cite where it came from.
+- Accuracy checks and what is deliberately left out: [[Verification]].

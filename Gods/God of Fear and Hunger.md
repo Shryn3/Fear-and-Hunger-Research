@@ -17,7 +17,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Overview on *The Gods*
 
-The **God of Fear and Hunger** is, like Alll-mer, an Ascended God. The God of Fear and Hunger began life as a  a human girl, the child of [[Nilvan]], a New God, and [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), the man of prophecies. After growing up knowing nothing but misery and suffering, she was taken to the Heart of Darkness, located at the bottom of the dungeon, inside the slain traces of the [[God of the Depths]]. She represents darkness and human suffering, but motivated humanity to progress out of the medieval era and into modernity in an attempt to escape that suffering. Her symbol is constructed from the God of the Depths' sigil, doubled and mirrored to form an RЯ shape. She is regarded as a "false deity" by the Vatican.
+The **God of Fear and Hunger** is, like Alll-mer, an Ascended God. The God of Fear and Hunger began life as a  [a human girl](https://fearandhunger.wiki.gg/wiki/The_Girl), the child of [[Nilvan]], a New God, and [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), the man of prophecies. After growing up knowing nothing but misery and suffering, she was taken to the Heart of Darkness, located at the bottom of the dungeon, inside the slain traces of the [[God of the Depths]]. She represents darkness and human suffering, but motivated humanity to progress out of the medieval era and into modernity in an attempt to escape that suffering. Her symbol is constructed from the God of the Depths' sigil, doubled and mirrored to form an RЯ shape. She is regarded as a "false deity" by the Vatican.
 
 *Source: [[Wiki - The Gods]]*
 
@@ -31,7 +31,8 @@ The **God of Fear and Hunger** is, like Alll-mer, an Ascended God. The God of Fe
 | **Birthplace** | Altar of Darkness (reborn as an Ascended God) |
 | **Age** | 351-352 |
 | **Affiliation** | Dungeons of Fear and Hunger |
-| **Relatives** | Girl (former self) / [[Nilvan]] (estranged mother) / [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde) (estranged father) |
+| **Relatives** | [Girl](https://fearandhunger.wiki.gg/wiki/Girl) (former self) / [[Nilvan]] (estranged mother) / [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde) (estranged father) |
+| **Phobias** | None |
 
 *Source: [[Wiki - God of Fear and Hunger]] (infobox)*
 
@@ -51,7 +52,7 @@ The **God of Fear and Hunger** is a newly-born being able to rival the [[The God
 > 
 > *- The [[The Gods|New Gods]] when asked about the Ancient One*.
 
-The Ancient One is a soul created by the mating of [[Nilvan]], a new God, and [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), a prophecised man. The soul rested in the body of a little girl and had been lying dormant within her since she was born. It was this soul that would allow her to ascend to Godhood. Nilvan, wishing to fulfill her dream of humanity ascending beyond their mortal limits, tasked the player character (should they accept it) to take the girl, her daughter, to the heart of darkness - the Altar of Darkness within the body of the [[God of the Depths]]. When this place was reached, she began her ascension and proceeded to fight the player. It remains unknown which character ultimately took her to the Altar of Darkness. 
+The Ancient One is a soul created by the mating of [[Nilvan]], a new God, and [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), a prophecised man. The soul rested in the body of [a little girl](https://fearandhunger.wiki.gg/wiki/Girl) and had been lying dormant within her since she was born. It was this soul that would allow her to ascend to Godhood. Nilvan, wishing to fulfill her dream of humanity ascending beyond their mortal limits, tasked the player character (should they accept it) to take the girl, her daughter, to the heart of darkness - the Altar of Darkness within the body of the [[God of the Depths]]. When this place was reached, she began her ascension and proceeded to fight the player. It remains unknown which character ultimately took her to the Altar of Darkness. 
 
 On that day, the God of Fear and Hunger took root and began to grow her influence on the surface world. Although Nilvan had hoped that her daughter would bring light to mankind, true darkness does not breed light: The God of Fear and Hunger was a pure child, a blank slate birthed from the darkest pits of human creation. She was the embodiment of fear and hunger, without even a glimmer of hope. 
 

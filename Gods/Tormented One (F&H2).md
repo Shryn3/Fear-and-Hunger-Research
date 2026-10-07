@@ -20,6 +20,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 The **[[Tormented One]]**, a skinless entity tormented by eternal chains for centuries, inflicts his agony upon other creatures within Ma'habre's shrines. Once a mortal poet who believed that true art could only arise from pain and suffering, he clung to these principles even after ascending to godhood.
 
+_Image caption: New Gods Nilvan and Valteil sitting at another table._
+
 *Source: [[Wiki - The Gods]]*
 
 ## Facts
@@ -33,6 +35,7 @@ The **[[Tormented One]]**, a skinless entity tormented by eternal chains for cen
 | **Born** | 809 (as a New God) |
 | **Birthplace** | [The Void](https://fearandhunger.wiki.gg/wiki/The_Void) (reborn as a New God) |
 | **Affiliation** | The Fellowship / [[The Gods|New Gods]] |
+| **Phobias** | Teratophobia |
 
 *Source: [[Wiki - Tormented One (F&H2)]] (infobox)*
 

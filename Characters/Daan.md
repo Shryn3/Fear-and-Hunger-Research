@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Blank soul]]"
 game: ["F&H2"]
-aliases: ["The Doctor", "Man with Checkered Pants"]
+aliases: ["Man with Checkered Pants", "The Doctor"]
 tags: ["character"]
-sources: ["[[Wiki - Daan]]"]
+sources: ["[[Wiki - Daan]]", "[[Tormentpedia - Daan]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -30,6 +30,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Age** | 28 |
 | **Affiliation** | [Kingdom of Rondon](https://fearandhunger.wiki.gg/wiki/Rondon) |
 | **Relatives** | Unnamed parents (unknown) / [Elise Von Dutch](https://fearandhunger.wiki.gg/wiki/Elise_Von_Dutch) (deceased wife) / [Baron Eihner Von Dutch](https://fearandhunger.wiki.gg/wiki/Needles) (deceased father-in-law & mentor) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Daan]] (infobox)*
 
@@ -136,5 +137,56 @@ If recruited, Daan will have *[Analyze](https://fearandhunger.wiki.gg/wiki/Analy
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Doctor / Man with Checkered Pants / The Patches (by Marina) | The Doctor / Man with Checkered Pants / Queer/Flaky Eyepatched Foreigner (by Karin Sauer) / The Patches (by Marina Domek) / Furry degenerate(By Pocketcat) / Ahh... Petite Daan...~(By Pocketcat) |
+| God | (not given) | Sylvian (determinant) |
+| Born | October, 1913-1914 | 1914 (determinant) |
+| Birthplace | Europa | Unknown (possibly from the Kingdom of Rondon) |
+| Relatives | Unnamed parents (unknown) / Elise Von Dutch (deceased wife) / Baron Eihner Von Dutch (deceased father-in-law & mentor) | Unnamed parents (unknown but most likely lost to the Sylvian mating rituals) / Elise Dutch (deceased fiancé) / Eihner Von Dutch (deceased father-in-law & mentor) |
+
+### Other Tormentpedia statements not found in this note
+*29 statement(s) from [[Tormentpedia - Daan]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (29), click to expand
+> - Having settled in the enigmatic Kingdom of Rondon during his life, the origins of Daan's birth as well as his birthplace remain cloaked in mystery.
+> - As a young child, he was taken on a nomadic journey across Europa by his devout parents, fervent disciples of Sylvian.
+> - He bore witness to their devout rituals, as they donned rabbit masks and danced naked in the meadows.
+> - Daan's formative years were marred by neglect, with his parents' zealous faith taking precedence over his own welfare.
+> - Their attempt to transfer Sylvian's revered healing gift onto him further strained their relationship.
+> - Tragedy struck young Daan when, at 13, his parents, consumed by their religious fervor, never returned from one of their rituals in the meadows.
+> - Left to his own devices, Daan faced a fork in his path: either seek honest employment or embrace the world of thievery.
+> - Fate, however, steered him towards the household of Baron Eihner Von Dutch, where he apprenticed as a butler.
+> - It was here that Daan developed a palate for life's luxuries and cultivated refined manners.
+> - His bond with the baron's daughter, Elise, deepened over shared tales of his tumultuous past and the insanity of his parents' cult.
+> - Intrigued by Daan's upbringing and Sylvian's mystical healing powers, Baron Eihner offered a trade: Daan's knowledge of Sylvian in return for a modern medical education.
+> - With time, Daan's relationship with Elise blossomed into romance, earning the baron's approval.
+> - As tensions between the Eastern Union and the Bremen Kingdom escalated, neighboring nations were ensnared in the turmoil.
+> - Daan, as an able-bodied man, was conscripted.
+> - He served on the frontlines as a medic-become-infantryman, enduring the war's countless horrors.
+> - The solace he found in letters from home vanished when they abruptly ceased.
+> - After the Kingdom of Rondon's withdrawal from the conflict, Daan's hasty return home revealed a gut-wrenching sight: the manor was steeped in darkness, its inhabitants, including his beloved Elise and Baron Eihner, lifeless in the basement.
+> - They had become victims of an occult ritual, sacrificed to appease ancient deities.
+> - Grief-stricken, Daan, in a desperate bid to revive Elise, offered his left eye in a ritual— but to no avail.
+> - Reeling from the loss, Daan's quest for answers led him to whispers of the town of Prehevil.
+> - Determined to unravel the mystery behind their deaths, he embarked on a journey, unaware that he was but a pawn in a grander game, destined to become a contender in the Termina games.
+> - Daan is capable of wielding two-handed weapons and guns.
+> - He can learn abilities such as Analyze (a skill that makes an enemy's specific body part vulnerable) and [Magna-Medical] (an emergency move that can resurrect a dead party member in combat by sacrificing his own limb).
+> - Character choice 1: What did you do for a living?
+> - Pickpocket - Gain [Loving Whispers] spell, gain affinity to Sylvian and go to character choice 3.
+> - Character choice 2: How did you interpret the Baron's medical teachings?
+> - Memorize the line - Gain [Medicinal] skill and the [Organ Harvest] skill.
+> - Character choice 4: What did you take to Prehevil?
+> - 2 [Blue Vials] (5 on Easy), 1 [Green Herb], 1 [Moldy Bread].
+
+*Source: [[Tormentpedia - Daan]]*
+
 ## Sources
+- [[Tormentpedia - Daan]] (supplementary)
 - [[Wiki - Daan]]

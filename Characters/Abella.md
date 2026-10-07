@@ -4,7 +4,7 @@ soul: "[[Caressing soul]]"
 game: ["F&H2"]
 aliases: ["Red-Haired Mechanic", "The Mechanic"]
 tags: ["character"]
-sources: ["[[Wiki - Abella]]"]
+sources: ["[[Wiki - Abella]]", "[[Tormentpedia - Abella]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -30,6 +30,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Age** | 27 |
 | **Affiliation** | [Nameless Liberty Underground](https://fearandhunger.wiki.gg/wiki/Nameless_Liberty_Underground) |
 | **Relatives** | Unnamed parents / Unnamed siblings |
+| **Phobias** | None |
 
 *Source: [[Wiki - Abella]] (infobox)*
 
@@ -125,7 +126,60 @@ If recruited, Abella will have [Sturdy overalls](https://fearandhunger.wiki.gg/w
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | The Mechanic / Red-Haired Mechanic / The Pretty Lady (by Marina) | The Mechanic |
+| Born | September 1915 | 1915 (determinant) |
+| Birthplace | Oldegård | Kingdom of Oldegård |
+
+### Same statement, different details
+*Each pair is the closest match between the two wikis. The numbers or dates in the two statements differ.*
+
+- Main wiki: "Wrench toss maintains its relevance throughout the entire game as a semi-reliable way to stun enemies, while Short circuit enables her to unlock electronic doors for the player as needed."
+  - Tormentpedia: "If not the main character, she can join permanently on Day 1, far quicker than any other human character, and with two learned skills: the first one, Wrench Toss, a battle ability that remains relevant through the entire game as a semi-reliable non-magic stun, and Short Circuit, which allows her to unlock electronic locks for the player when the opportunity arises."
+- Main wiki: "One of the shillings ended up being a Lucky coin!"
+  - Tormentpedia: "Report him - Gain 10 [Shillings] and 1 [Lucky Coin]."
+
+### Other Tormentpedia statements not found in this note
+*25 statement(s) from [[Tormentpedia - Abella]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (25), click to expand
+> - In the heart of Oldegård, young Abella found solace amidst the loving embrace of her kin—a sanctuary punctuated by the joys and innocence of a serene upbringing.
+> - With the mantle of eldest siblinghood upon her, a fervent desire to shield and support her loved ones burgeoned within her.
+> - Though the call of war beckoned, her tender age thwarted her ambitions.
+> - Unfazed, she veered towards the realm of engineering, intent on mastering the intricate dance of mechanics and electronics.
+> - As the years flowed, the shadows of war drew close, ensnaring those dear to her.
+> - The sting of powerlessness gnawed at Abella, even as her prowess in engineering soared.
+> - One fateful eve, destiny unveiled an enigma—a wounded stranger, gasping, a gunshot branding his abdomen.
+> - A search revealed his allegiance to the Kingdom of Rondon.
+> - Abella stood at crossroads: to deliver him to Oldegård's guardians for a bounty of 9 shillings and a fortuitous coin or nurse him back to vitality, receiving in gratitude his officer's blade.
+> - Regardless of her choice, the clandestine realm of "Nameless Liberty Underground", abbreviated as NLU, beckoned.
+> - Should she choose the latter, the wounded man's plea would echo: to ferry critical parchments to Rondon's heart.
+> - An encounter with a NLU emissary, coupled with discourses on Eastern Europa's shifting sands, culminated in an invitation—to lend her engineering genius to a cause running thin on comrades.
+> - With allegiance sworn, Abella became NLU's cornerstone, crafting arms and snares.
+> - Yet, whispers of grander machinations emerged.
+> - The Eastern Union, amidst the landscapes of Bohemia, brewed a storm—both Prehevil and the Bremenites, covetous and relentless, sought its essence.
+> - As Bremen's might overshadowed Bohemia, NLU's agents, dispatched to its heart, vanished into silence.
+> - Compelled by a mix of duty and intrigue, Abella's gaze turned to Prehevil, armed with a singular clue: the crimson shoes of NLU's Bohemian chief.
+> - Yet, the cosmos wove a grander tale—under the gaze of the beguiling Moon deity, Rher, Abella's fate intertwined with the epic of the 14 Termina gladiators...
+> - Abella is capable of wielding two-handed weapons and guns.
+> - She starts equipped with a Pipe wrench and Sturdy overalls, and, if selected as a starter character, will have by default a knife in her inventory.
+> - Recruiting her early is a good way to have backup for the fights ahead, as well as having easier access to some areas of the bunkers.
+> - Character choice 2: What did you do with the suspected Rondon spy?
+> - Take him home & heal him - Gain [Officer Sword] weapon.
+> - Character choice 3: How did you help the NLU?
+> - Character choice 4: What did you take with you to Prehevil?
+
+*Source: [[Tormentpedia - Abella]]*
+
 ## Sources
+- [[Tormentpedia - Abella]] (supplementary)
 - [[Wiki - Abella]]
 [^1]: Wiki citation: [Miro Haverinen on the Fear & Hunger Discord](https://discord.com/channels/304720234156392448/646861178416398338/928167045118451764)
 [^2]: Wiki citation: [Miro Haverinen on the Fear & Hunger Discord](https://discord.com/channels/304720234156392448/545425043983826979/1132296617081450547)

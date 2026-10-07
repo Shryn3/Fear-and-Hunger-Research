@@ -4,7 +4,7 @@ soul: "[[Chaotic soul]]"
 game: ["F&H2"]
 aliases: ["Bremen pig"]
 tags: ["character"]
-sources: ["[[Wiki - Pav]]"]
+sources: ["[[Wiki - Pav]]", "[[Tormentpedia - Pav]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -29,6 +29,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Died** | 1942 (determinant) |
 | **Affiliation** | [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_Empire) / Bremen army (former lieutenant) |
 | **Relatives** | Unnamed parents (deceased) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Pav]] (infobox)*
 
@@ -86,7 +87,32 @@ If Pav is taken back to the [train](https://fearandhunger.wiki.gg/wiki/Train), h
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Affiliation | Bremen Empire / Bremen army (former lieutenant) | Kingdom of Bremen / Bremen army (former lieutenant) |
+| Relatives | Unnamed parents (deceased) | Unnamed parents (deceased) Unnamed possible relatives (deceased) |
+
+### Other Tormentpedia statements not found in this note
+*6 statement(s) from [[Tormentpedia - Pav]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (6), click to expand
+> - During the first Great War, Kaiser demolished a village from Voronya.
+> - This same village happened to be Pav's hometown, who had his
+> - As a way to exert revenge against the man who caused his suffering and also make sure other people would not have to go through the same as he did, Pav decided to join the Bremen army in hopes of eventually getting close to the Kaiser and murdering him.
+> - He rose up the ranks of the army, where he would eventually became a lieutenant.
+> - in the Termina Festival that would soon take place.
+> - Leaving the train in a hurry, he is not present when the protagonist starts their journey.
+
+*Source: [[Tormentpedia - Pav]]*
+
 ## Sources
+- [[Tormentpedia - Pav]] (supplementary)
 - [[Wiki - Pav]]
 [^1]: Wiki citation: [Post by Haverinen](https://x.com/happy_paintings/status/1738495155387122032) stating Pav's birthday might be Christmas, before he confirmed otherwise.
 [^2]: Wiki citation: [Post by Haverinen](https://x.com/happy_paintings/status/1774443479080243346?s=20) stating Pav was born on Yule.

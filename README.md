@@ -15,10 +15,13 @@ It is plain Markdown, so it also reads fine in any editor and moves between mach
 | Soul-holding characters | `Characters/` | 19 |
 | In-game documents about the gods (Skin Bibles etc.) | `Lore/` | 8 |
 | Mechanics (Hexen, Soul stone, Rev, ritual circles…) | `Mechanics/` | 6 |
-| One note per cited wiki page, with revision id (main wiki `Wiki - …`, Tormentpedia `Tormentpedia - …`) | `Sources/` | 65 + 17 |
+| One note per cited wiki page, with revision id (main wiki `Wiki - …`, Tormentpedia `Tormentpedia - …`) | `Sources/` | 65 + 44 |
 | **Hexen skill table**: all 165 skill listings from both games' wiki lists (soul/god skills, New Game Plus, General, Unused), sorted by soul or character, then god. One standalone page with no wikilinks by design, so it adds nothing to the graph view | `Hexen/Hexen skill table.md` | 1 |
 
-**Not yet compared with the Tormentpedia:** characters, in-game documents, mechanics and souls (its soul pages are empty category stubs). **Not yet covered at all:** non-soul characters; locations, factions, items, enemies; game-file data.
+**Compared with the Tormentpedia so far:** skills, gods, soul-holding characters, the Skin Bibles and Studies documents, and the Hexen F&H1, Ritual Circles and Marriage of Flesh mechanics notes. Not compared: souls (its soul pages are empty stubs) and mechanics without a counterpart there (Rev, Soul stone, God manifesto have no Tormentpedia page; its "The Hexen" page, for F&H2, has no matching note). **Not yet covered at all:** non-soul characters; locations, factions, items, enemies; game-file data. The gameplay and dialogue sections of god and character pages are not reproduced (see [[Verification]]).
+
+## Accuracy
+The notes were checked against their sources with an independent reader; results, the problems found and fixed, and what is left out are in [[Verification]].
 
 ## Conventions
 - **Links:** Obsidian wikilinks; a note's filename is its title. God ↔ skill and soul ↔ character ↔ skill are linked both ways. Wiki pages that have no note yet are linked to the wiki as normal markdown links.

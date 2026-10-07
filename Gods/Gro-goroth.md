@@ -32,6 +32,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | Before creation |
 | **Birthplace** | True [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre) (Green Hue) |
 | **Relatives** | [[Sylvian]] (Antithesis and consort) / [[Vinushka]] (offspring) |
+| **Phobias** | Erotophobia, Teratophobia |
 
 *Source: [[Wiki - Gro-goroth]] (infobox)*
 

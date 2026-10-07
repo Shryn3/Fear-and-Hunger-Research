@@ -2,9 +2,9 @@
 type: "character"
 soul: "[[Radiating soul]]"
 game: ["F&H2"]
-aliases: ["Mysterious person", "Black-haired girl"]
+aliases: ["Black-haired girl", "Mysterious person"]
 tags: ["character"]
-sources: ["[[Wiki - Samarie]]"]
+sources: ["[[Wiki - Samarie]]", "[[Tormentpedia - Samarie]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -28,6 +28,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Born** | January |
 | **Died** | 1942 (determinant) |
 | **Affiliation** | [Vatican City](https://fearandhunger.wiki.gg/wiki/Vatican_City) |
+| **Phobias** | None |
 
 *Source: [[Wiki - Samarie]] (infobox)*
 
@@ -74,5 +75,36 @@ Samarie is a disturbed and obsessive young woman who will go to lengths to follo
 
 *Source: [[Wiki - Skills List F&H2]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Aliases | Black-haired girl / Mysterious person | Black-haired girl / Mysterious person / Weird lady |
+| Age | (not given) | 17~19 (exact age unknown) |
+| Phobias | None | Osmophobia |
+
+### Other Tormentpedia statements not found in this note
+*11 statement(s) from [[Tormentpedia - Samarie]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (11), click to expand
+> - Samarie is a dark priest apprentice from the Vatican City and one of the contestants of the Termina festival.
+> - She is Marina's childhood classmate from Vatican, though Marina doesn't recognize her.
+> - She seems to be in love with her, pushing her love to the limits to the point of stalking her.
+> - She kills Marina's father because she says Marina hated him.
+> - If a player character kills Samarie in combat, they will absorb her Radiating Soul, which unlocks the Blood Sacrifice and Masturbation skills at the Hexen.
+> - Samarie is a pale, sickly-looking girl with a gaunt face and heavy, dark bags under her eyes.
+> - She has long, straight black hair with thick, blunt-cut bangs that cover her forehead.
+> - Her right ear sticking out from the side while her left ear is covered by her hair.
+> - Her expression is perpetually tired, accented by dark, stylized lipstick.
+> - Her outfit consists of a sleeveless black pinafore dress worn over a white short-sleeved collared shirt with a thin, dark necktie.
+> - From the waist down, she wears pale knee-high stockings and black Mary Jane shoes.
+
+*Source: [[Tormentpedia - Samarie]]*
+
 ## Sources
+- [[Tormentpedia - Samarie]] (supplementary)
 - [[Wiki - Samarie]]

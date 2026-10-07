@@ -4,7 +4,7 @@ soul: "[[Endless soul]]"
 game: ["F&H1"]
 aliases: ["Cahara of the South", "The Mercenary"]
 tags: ["character"]
-sources: ["[[Wiki - Cahara]]"]
+sources: ["[[Wiki - Cahara]]", "[[Tormentpedia - Cahara]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 ---
@@ -30,6 +30,7 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 | **Age** | 26 |
 | **Affiliation** | Unnamed mercenary bands / Unnamed criminal band (both formerly) |
 | **Relatives** | [Unnamed ancestor](https://fearandhunger.wiki.gg/wiki/Cahara's_ancestor) / Unnamed father / [Celeste](https://fearandhunger.wiki.gg/wiki/Celeste) (lover) / Unnamed unborn child/stepchild |
+| **Phobias** | None |
 
 *Source: [[Wiki - Cahara]] (infobox)*
 
@@ -172,7 +173,58 @@ If the player chooses not to play as Cahara, they will be able to go to the prom
 
 *Source: [[Wiki - Skills List F&H1]]*
 
+## Other wikis
+
+> [!info] Tormentpedia (fearandhunger.fandom.com) is a separate community wiki. The main wiki (fearandhunger.wiki.gg) is the baseline for this note; below is what the Tormentpedia says differently or adds. Its text is quoted as written there and not reconciled.
+
+### Facts that differ
+
+| Field | Main wiki | Tormentpedia |
+|---|---|---|
+| Born | February, 1564 | 1564 |
+| Age | 26 | 25-26 |
+| Affiliation | Unnamed mercenary bands / Unnamed criminal band (both formerly) | Unnamed criminal band |
+| Relatives | Unnamed ancestor / Unnamed father / Celeste (lover) / Unnamed unborn child/stepchild | Unnamed ancestor / Celeste (lover) / Unnamed unborn child/stepchild |
+
+### Other Tormentpedia statements not found in this note
+*30 statement(s) from [[Tormentpedia - Cahara]] that have no close match in the text above; many may restate the main wiki in other words. Real-world comparison trivia is not reproduced.*
+
+> [!note]- Tormentpedia statements (30), click to expand
+> - Cahara materializes as a youthful male visage, ensconced in the ambiguous temporal bracket commonly alluded to as one's 'mid-twenties'.
+> - His tresses and ocular features oscillate between a chromatic spectrum of grey and an occasional, almost ethereal, blue—each hue captured in various visual representations, thus problematizing any definitive chromatic interpretation.
+> - Adorning his corporeal form is an ensemble comprising obsidian-hued trousers, a vestment crafted from what one could surmise to be leather, and elongated gloves that, too, reside within the same tonal family of noir.
+> - Born with a soul of the endless, Cahara is a free-spirited and creative person, not easily bound by responsibilities or authorities.
+> - When arriving at Ma'habre, his first thoughts are of looting the ancient city.
+> - He seems to be the most "normal/average" among the playable characters, having no strong ties to the Dungeons of Fear & Hunger or the otherworldly powers present within it.
+> - True to his title, he is simply a mercenary who was hired to find somebody, oblivious to the greater schemes at hand.
+> - In his S ending, after surviving the horrors of the dungeon and obtaining a life of luxury, Cahara is still unable to feel at peace, as he suffers from severe cases of PTSD and scotophobia.
+> - If the player is using Ragnvaldr or Enki as the main character and chooses to show love to Cahara, he will briefly mention past sexual experiences with men, making him canonically bisexual.
+> - Now in a new land, Cahara would make a living for himself by working in the Kingdom's underworld, tempted by the promise of money and opportunity.
+> - His relationship with her is what presumably made him decide to delve into the Dungeons of Fear & Hunger in search of Le'garde, as the money offered by his bounty would allow Cahara to free Celeste.
+> - In the event that Cahara is not selected as the main character, he will inevitably be captured and locked in a cell, with it being implied that he may have possibly been subjected to sexual assault by his captors.
+> - Ragnvaldr and Enki are both confirmed to have survived, and the presence of Le'garde as the Kaiser with a skinless true form suggests that D'arce survived to resurrect Le'garde as shown in her S Ending.
+> - Therefore, since the God of Fear and Hunger exists in Termina, this leaves Cahara as the one most likely to have escorted the Girl to the Altar of Darkness and died during her ascension.
+> - Starts with a scimitar (+17 Attack) and a leather vest (+20 Defense) equipped.
+> - Can use all weapon types except for Blunt and Dagger.
+> - By using a Hexen Table, he can learn: Lockpicking, Steal, Backstab/Escape Plan, and Dash.
+> - Using a Book of the Forgotten Memories will teach him Steal or Dash.
+> - To open his cell, the player must either use a cell key - an item dropped by the Guards in the area - or use the Lockpicking skill.
+> - Once his cell is open, he explains briefly that he's on a mission to rescue someone before asking to join the party.
+> - If refused or the party is full, he will leave and cannot be found again.
+> - If allowed to join, as soon as the player transitions to a new area, Cahara will flee and steal some of your supplies.
+> - The items that he will steal, in order of priority, are:
+> - One blue vial, if the player has no light blue vials.
+> - Up to twenty silver coins, in case the player has no blue vials.
+> - Up to twenty bottles of whiskey, if the player has no silver coins.
+> - After this happens, Cahara can be found again in the Mines near the passageway to the Catacombs.
+> - If the player calls Cahara out on his trickery, he will attack.
+> - If the player simply says they are glad to see him, he will join the party permanently.
+> - However, if the party is full when this interaction happens, he will leave and be slain off-screen.
+
+*Source: [[Tormentpedia - Cahara]]*
+
 ## Sources
+- [[Tormentpedia - Cahara]] (supplementary)
 - [[Wiki - Cahara]]
 [^1]: Wiki citation: [Flipside's](https://fearandhunger.wiki.gg/wiki/Flip_side_-_Basement) graveyard: "Here lies **Mercenary** 1564-1590"
 [^2]: Wiki citation: Based on his [[Soul types|soul type]], Cahara was born in February.
