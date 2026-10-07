@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Tainted soul]]"
 game: ["F&H2"]
-aliases: ["Curly-Haired Man", "The Thug/Boxer"]
+aliases: ["The Thug/Boxer", "Curly-Haired Man"]
 tags: ["character"]
 sources: ["[[Wiki - Marcoh]]"]
 retrieved: "2026-10-07"

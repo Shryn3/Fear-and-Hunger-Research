@@ -732,6 +732,74 @@ def build(final):
             sk = [f"- [[{r['note']}]]" for r in recs if r["game"] == gname and r["group"] in ("God Affinity skills",)]
             add("Games", nm, fm, f"# {title}\n\nWiki page: <{wiki_url(title)}>\n\n## God-affinity skills in this game\n" + "\n".join(sk) + f"\n\n*Source: {cite(title, nm)}*")
 
+    # --- Hexen skill table: one standalone page, deliberately NO wikilinks (keeps the graph view uncluttered) ---
+    def hexen_table():
+        pctx = {"fn": [], "refs": {}, "n": 0, "owner": "Hexen skill table", "targets": set(), "link": lambda t, d, f="": d}
+        def cell(r, key):
+            v = r["cells"].get(key)
+            if v is None: return ""
+            out = clean(v, pctx, inline=True)
+            out = re.sub(r"\[\^\d+\]", "", out)
+            return "" if out == "-" else out.replace("|", "\\|")
+        def row(r, who=None, dup_of=None):
+            cols = [cell(r, "Name") or r["name"], r["game"]]
+            if who is not None: cols.append(who)
+            cols += [cell(r, "Description"), cell(r, "Effect"), cell(r, "Cost"), cell(r, "Success Rate"), cell(r, "Unlock Requirement")]
+            if dup_of: cols[0] = f"{r['name']} (second listing)"
+            return "| " + " | ".join(c.replace("\n", " ") for c in cols) + " |"
+        def rows_for(lst, with_who):
+            out = []
+            for r in lst:
+                who = None
+                if with_who: who = r.get("char") or ""
+                out.append(row(r, who))
+                for d in r.get("dups", []): out.append(row(d, who, dup_of=True))
+            return out
+        HDR_G = "| Skill | Game | Description | Effect | Cost | Success rate | Unlock requirement |\n|---|---|---|---|---|---|---|"
+        HDR_S = "| Skill | Game | Learned by (per wiki list) | Description | Effect | Cost | Success rate | Unlock requirement |\n|---|---|---|---|---|---|---|---|"
+        def anchor(h): return "#" + urllib.parse.quote(h, safe="")
+        gods = sorted({r["god"] for r in recs if r["group"] == "God Affinity skills"})
+        souls = sorted({r["soul"] for r in recs if r["group"] in ("Contestant skills", "Soul skills") and r["soul"]})
+        ngp = [r for r in recs if r["group"] == "New Game Plus"]
+        counts = lambda lst: ", ".join(f"{g}: {sum(1+len(x.get('dups', [])) for x in lst if x['game'] == g)}" for g in ("F&H1", "F&H2") if any(x["game"] == g for x in lst))
+        out = ["# Hexen skill table", "",
+               "*Every skill the wiki lists as coming from a god (god-affinity) or a soul (contestant / soul skills), for Fear & Hunger (F&H1) and Fear & Hunger 2: Termina (F&H2). "
+               "Sorted by god, then by soul. Standalone page: no wikilinks, nothing links here.*", "",
+               "*Not included: General skills (available to everyone), Unused skills. New Game Plus skills are listed at the end by unlock requirement.*", "",
+               "## Index", "", "**Gods**", ""]
+        for g in gods: out.append(f"- [{g}]({anchor('God ' + g)}) — {counts([r for r in recs if r['group'] == 'God Affinity skills' and r['god'] == g])}")
+        out += ["", "**Souls**", ""]
+        for sname in souls:
+            lst = [r for r in recs if r["group"] in ("Contestant skills", "Soul skills") and r["soul"] == sname]
+            out.append(f"- [{sname} soul]({anchor('Soul ' + sname)}) — {counts(lst)}")
+        out += ["", f"- [New Game Plus]({anchor('New Game Plus')}) — F&H2: {sum(1 for r in ngp)}", "", "## A-Z skill index", "", "| Skill | Game | From |", "|---|---|---|"]
+        az = []
+        for r in recs:
+            if r["group"] == "God Affinity skills": az.append((r["name"], r["game"], f"God: {r['god']}"))
+            elif r["group"] in ("Contestant skills", "Soul skills") and r["soul"]: az.append((r["name"], r["game"], f"Soul: {r['soul']}"))
+            elif r["group"] == "New Game Plus": az.append((r["name"], r["game"], "New Game Plus"))
+        for n, g, f in sorted(set(az), key=lambda x: (x[0].lower(), x[1], x[2])):
+            out.append(f"| {n} | {g} | {f} |")
+        out += ["", "# Skills by god", ""]
+        for g in gods:
+            lst = [r for r in recs if r["group"] == "God Affinity skills" and r["god"] == g]
+            out += [f"## God {g}", "", HDR_G] + rows_for(sorted(lst, key=lambda r: r["game"]), False) + [""]
+        out += ["# Skills by soul", ""]
+        for sname in souls:
+            lst = [r for r in recs if r["group"] in ("Contestant skills", "Soul skills") and r["soul"] == sname]
+            out += [f"## Soul {sname}", "", HDR_S] + rows_for(sorted(lst, key=lambda r: r["game"]), True) + [""]
+        out += ["# New Game Plus", "", "*Unlocked by completing an ending (see Unlock requirement). The wiki shows a god symbol beside these; that symbol is given in the Symbol column.*", "",
+                "| Skill | Game | Symbol shown | Description | Effect | Cost | Success rate | Unlock requirement |", "|---|---|---|---|---|---|---|---|"]
+        for r in ngp:
+            out.append("| " + " | ".join(x.replace("\n", " ") for x in [cell(r, "Name") or r["name"], r["game"], r["symbol"] or "", cell(r, "Description"), cell(r, "Effect"), cell(r, "Cost"), cell(r, "Success Rate"), cell(r, "Unlock Requirement")]) + " |")
+        ps = [PAGES["Skills List F&H1"], PAGES["Skills List F&H2"]]
+        out += ["", "---", "", "**Sources:** " + "; ".join(f"[{p['title']}]({p['url']}) (revision {p['revid']}, {p['timestamp'][:10]}, fetched {p['fetched']})" for p in ps)
+                + ". Text © Fear & Hunger Wiki contributors, " + LICENSE + ".", ""]
+        fm = dict(type="hexen-table", tags=["skill", "hexen", "table"], sources=["Fear & Hunger Wiki: Skills List F&H1", "Fear & Hunger Wiki: Skills List F&H2"],
+                  retrieved=max(p["fetched"] for p in ps), license=LICENSE, graph_note="no wikilinks by design")
+        NOTES["Hexen skill table"] = dict(folder="Hexen", fm=fm, body="\n".join(out))
+    hexen_table()
+
     # --- source notes
     for sname, users in SRC_USED.items():
         title = next((t for t in PAGES if src_name(t) == sname), None)
@@ -759,7 +827,7 @@ def resolve_redirects(targets):
 
 def write(final_dir):
     import shutil
-    for d in ("Gods", "Skills", "Souls", "Characters", "Lore", "Mechanics", "Games", "Sources"):
+    for d in ("Gods", "Skills", "Souls", "Characters", "Lore", "Mechanics", "Games", "Sources", "Hexen"):
         p = final_dir / d
         if p.exists(): shutil.rmtree(p)
     for r in final_dir.glob("*.md"):

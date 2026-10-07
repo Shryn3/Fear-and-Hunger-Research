@@ -1,7 +1,7 @@
 ---
 type: "god"
 classification: "New God"
-aliases: ["The Harbinger of the Burning Crusade", "The Horror from the East", "The Doom and Terror of Modern Man", "The Beheaded Wizard", "Naz", "The Half-Man", "Floating Wizard Head", "Great Wizard of the Eastern Sanctuaries", "The Plague of Modern Times", "The Bringer of Torment", "The Bringer of Chaos"]
+aliases: ["The Plague of Modern Times", "The Doom and Terror of Modern Man", "Naz", "The Beheaded Wizard", "The Horror from the East", "The Harbinger of the Burning Crusade", "The Bringer of Chaos", "The Half-Man", "Floating Wizard Head", "The Bringer of Torment", "Great Wizard of the Eastern Sanctuaries"]
 tags: ["god", "new-god"]
 sources: ["[[Wiki - Nas'hrah]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"

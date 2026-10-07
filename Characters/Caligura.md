@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Decrepit soul]]"
 game: ["F&H2"]
-aliases: ["Man in a fine suit", "Count Dragul"]
+aliases: ["Count Dragul", "Man in a fine suit"]
 tags: ["character"]
 sources: ["[[Wiki - Caligura]]"]
 retrieved: "2026-10-07"

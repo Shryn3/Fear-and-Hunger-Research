@@ -2,7 +2,7 @@
 type: "character"
 soul: "[[Tormented soul]]"
 game: ["F&H1"]
-aliases: ["The Outlander", "God of Ultra-Violence"]
+aliases: ["God of Ultra-Violence", "The Outlander"]
 tags: ["character"]
 sources: ["[[Wiki - Ragnvaldr]]"]
 retrieved: "2026-10-07"
