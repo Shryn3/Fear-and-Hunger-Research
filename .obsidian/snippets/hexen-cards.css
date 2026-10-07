@@ -1,8 +1,9 @@
-/* Hexen cards: enable in Settings > Appearance > CSS snippets. Applies via cssclasses: [hexen-cards] */
-.hexen-cards .callout[data-callout="hexen"] {
+/* Skill cards: enable in Settings > Appearance > CSS snippets.
+   Applies to notes with cssclasses: [hexen-cards] (Hexen table) or [fh-5e] (5e Conversion). */
+:is(.hexen-cards, .fh-5e) .callout[data-callout="hexen"] {
   --callout-color: 150, 60, 60;
   --callout-icon: lucide-flame;
   margin-bottom: 6px;
 }
-.hexen-cards .callout[data-callout="hexen"] .callout-title { font-weight: 600; }
-.hexen-cards .callout[data-callout="hexen"] .callout-content p { margin: 0.35em 0; }
+:is(.hexen-cards, .fh-5e) .callout[data-callout="hexen"] .callout-title { font-weight: 600; }
+:is(.hexen-cards, .fh-5e) .callout[data-callout="hexen"] .callout-content p { margin: 0.35em 0; }

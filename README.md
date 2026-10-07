@@ -44,3 +44,7 @@ Theories and community speculation live only in `Unofficial/`. Notes there are p
 ## Optional display snippets
 
 Optional CSS in `.obsidian/snippets/` (`fh-vault.css`, `hexen-cards.css`). Enable them under Settings > Appearance > CSS snippets. Notes work without them.
+
+## 5e Conversion section
+
+`5e Conversion/` is a separate section (no links to or from the rest of the vault): 2024 fifth-edition comparables for the Fear & Hunger soul skills, quoted only from the free System Reference Document 5.2.1 (CC BY 4.0). Start at `5e - Index`.

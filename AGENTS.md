@@ -15,5 +15,7 @@ This repository is a research document in Obsidian format (plain Markdown), mean
 10. **Images:** take them from the wiki's File pages, verify each against the API's SHA-1 (request the original with an extra query parameter if the CDN returns a recompressed copy), embed with the wiki's caption, and keep `Images/Image catalogue.md` current. No images or links on `Hexen/Hexen skill table.md`.
 11. Keep the repo transferable: plain Markdown, no required tooling, no absolute paths.
 
+12. **5e Conversion/ stays separate and SRD-only.** No links between `5e Conversion/` and the rest of the vault or `Unofficial/` (the link checker enforces it). Rules text is quoted only from the System Reference Document 5.2.1, copied verbatim with its SRD page number and the CC BY 4.0 attribution; never write 5e rules text from memory. Comparison notes are labelled [DESIGN NOTE] and soul shapes [DESIGN SUGGESTION].
+
 ## Environment
 - The wiki is reachable from cloud sessions only when `fearandhunger.wiki.gg` is in the environment's allowed domains. The shell can use the wiki's MediaWiki API (`/api.php`) for page text and revision ids; the WebFetch tool may stay blocked.
