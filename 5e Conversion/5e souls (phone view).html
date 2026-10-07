@@ -1,0 +1,1168 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>
+<title>Soul Types in 5e</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Barlow+Condensed:wght@500;600&display=swap">
+<style>
+/* Layout: one column of folding souls; each soul folds into skills; each skill pairs wiki text with its 5e matches */
+:root{--bg:#f4f2f2;--fg:#231d1f;--mut:#6b6064;--card:#fff;--line:#ddd3d5;--acc:#8c2f39;--tint:#f6e9ea;--ok:#2f6b46;--mid:#8a6a1c;--lo:#6b6064;
+--serif:"Newsreader",Georgia,serif;--lab:"Barlow Condensed","Arial Narrow",sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#151112;--fg:#ebe3e4;--mut:#a69a9d;--card:#1f1a1b;--line:#372f31;--acc:#d9777f;--tint:#2d2023;--ok:#74c28f;--mid:#d9b25a;--lo:#a69a9d;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#151112;--fg:#ebe3e4;--mut:#a69a9d;--card:#1f1a1b;--line:#372f31;--acc:#d9777f;--tint:#2d2023;--ok:#74c28f;--mid:#d9b25a;--lo:#a69a9d;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:17px/1.5 var(--serif);max-width:44rem;margin-inline:auto;padding-inline:16px;padding-block:18px 40px}
+h1{font-size:1.7rem;line-height:1.15;margin:0 0 .3rem;text-wrap:balance}
+.lede{color:var(--mut);margin:0 0 1rem;font-size:.95rem}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:3;background:var(--bg);padding-block:8px;display:grid;gap:8px;border-bottom:1px solid var(--line)}
+#q{width:100%;box-sizing:border-box;font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.filters button{font:600 .95rem var(--lab);letter-spacing:.06em;text-transform:uppercase;padding:7px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--fg);cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--acc);border-color:var(--acc);color:var(--bg)}
+button:focus-visible,summary:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.key{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.85rem;color:var(--mut);margin:12px 0}
+details{border:1px solid var(--line);border-radius:10px;background:var(--card);margin-block:8px}
+summary{cursor:pointer;padding:12px 14px;list-style:none;display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline;justify-content:space-between}
+summary::-webkit-details-marker{display:none}
+.soul>summary{font-size:1.2rem;font-weight:600}
+.soul>summary::before{content:"▸";color:var(--acc);margin-right:6px}.soul[open]>summary::before{content:"▾"}
+.sn{flex:1 1 auto}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:500 .8rem var(--lab);letter-spacing:.06em;text-transform:uppercase;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--mut)}
+.chip.m{color:var(--acc);border-color:var(--acc)}.chip.stub{border-style:dashed}
+.sb{padding:0 14px 12px}
+.meta{color:var(--mut);font-size:.9rem;margin:.4rem 0}
+.sug{background:var(--tint);border-radius:8px;padding:10px 12px;font-size:.95rem;margin:.6rem 0}
+.sk{background:transparent;margin-inline:0}
+.sk>summary{font-size:1.02rem;font-weight:600;padding:10px 12px}
+.game{font:500 .78rem var(--lab);letter-spacing:.05em;color:var(--mut);text-transform:uppercase}
+.skb{padding:0 12px 12px;display:grid;gap:12px}
+.lab{display:block;font:600 .8rem var(--lab);letter-spacing:.1em;text-transform:uppercase;color:var(--acc);margin-bottom:2px}
+.skb p{margin:.3rem 0;overflow-wrap:anywhere}
+.cmp{border-top:1px solid var(--line);padding-top:8px;margin-top:8px}
+.fit{display:inline-block;font:600 .8rem var(--lab);letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:4px;color:var(--bg)}
+.fit.close{background:var(--ok)}.fit.partial{background:var(--mid)}.fit.loose{background:var(--lo)}
+.note{font-size:.95rem}.none{color:var(--mut);font-style:italic}
+.q{margin:6px 0 0;border-radius:6px}
+.q>summary{font-size:.92rem;padding:8px 10px;font-weight:600}
+.src{font:500 .75rem var(--lab);color:var(--mut);letter-spacing:.05em;text-transform:uppercase}
+pre{margin:0;padding:10px 12px;white-space:pre-wrap;overflow-wrap:anywhere;font:.85rem/1.45 var(--serif);border-top:1px solid var(--line);background:var(--tint);border-radius:0 0 6px 6px}
+footer{margin-top:24px;font-size:.8rem;color:var(--mut)}
+.hide{display:none}
+</style>
+<h1>Fear &amp; Hunger soul types in 5e</h1>
+<p class="lede">28 soul types. 60 of 83 listed skills have a 5e comparable from the 2024 rules (System Reference Document 5.2.1). Tap a soul, then a skill, then a comparable to read the quoted rule.</p>
+<div class="bar">
+<input id="q" type="search" placeholder="Search souls (e.g. tainted)" aria-label="Search souls">
+<div class="filters" role="group" aria-label="Filter">
+<button type="button" data-f="all" aria-pressed="true">All</button>
+<button type="button" data-f="compared" aria-pressed="false">With 5e matches</button>
+<button type="button" data-f="stub" aria-pressed="false">No data yet</button>
+<button type="button" id="ex" aria-pressed="false">Open all</button>
+</div></div>
+<div class="key"><span><span class="fit close">Close</span> same basic effect</span><span><span class="fit partial">Partial</span> overlaps in part</span><span><span class="fit loose">Loose</span> shares an idea</span></div>
+<main id="list">
+<details class="soul" data-name="amoral" data-kind="stub"><summary><span class="sn">Amoral</span><span class="chips"><span class="chip m">April</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="antagonistic" data-kind="stub"><summary><span class="sn">Antagonistic</span><span class="chips"><span class="chip m">March</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="meta">Occurs only at Solstices/Equinoxes (per the wiki).</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="beastly" data-kind="stub"><summary><span class="sn">Beastly</span><span class="chips"><span class="chip m">February</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="blank" data-kind="compared"><summary><span class="sn">Blank</span><span class="chips"><span class="chip m">October</span><span class="chip">5/8 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Daan</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A medic package: an Origin/General-feat sized bundle built around ending conditions and reviving, in the range of Lesser Restoration and Revivify.</p><details class="sk"><summary>Diagnosis<span class="game">F&amp;H2 · Contestant skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Study fallen enemies and their anatomy to gain knowledge of them. Diagnosis also reveals what strategies might work the best when facing similar foes in the future.</p><p><b>Effect:</b> Gives an option to examine defeated enemies in the overworld to find their weaknesses.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">Study is an Intelligence check to call a piece of information to mind; the SRD has no rule for revealing a creature&#x27;s weaknesses from its corpse.</p><details class="q"><summary>Study [Action] <span class="src">Rules glossary · SRD p. 189</span></summary><pre>Study [Action]
+
+When you take the Study action, you make an Intelligence check to study your memory, a book, a clue,
+or another source of knowledge and call to mind an
+important piece of information about it.
+The Areas of Knowledge table suggests which
+skills are applicable to various areas of knowledge.</pre></details></div></div></div></details><details class="sk"><summary>Medicinal<span class="game">F&amp;H2 · Contestant skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Sacrifice harvested organs to Vitruvia, the architect of the human body. A sacrifice will cure a corresponding status ailment. Medicinal is based on the law where every action has an equal reaction.</p><p><b>Effect:</b> Gives an option to use harvested organs to cure different status effects for 10 mind (Fracture requires only 7 mind): / Liver (Toxic) / Kidney (Poisoned) / Eye (Blindness) / Heart (Bleeding) / Parathyroid glands (Fracture) / Thymus (Infected arm/leg)</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Ends one condition on a touched creature, from a short list.</p><details class="q"><summary>Lesser Restoration <span class="src">Spell · SRD p. 144</span></summary><pre>Lesser Restoration
+
+Level 2 Abjuration (Bard, Cleric, Druid, Paladin,
+Ranger)
+Casting Time: Bonus Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+
+You touch a creature and end one condition on it:
+Blinded, Deafened, Paralyzed, or Poisoned.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Ends the Poisoned condition only.</p><details class="q"><summary>Protection from Poison <span class="src">Spell · SRD p. 157</span></summary><pre>Protection from Poison
+
+Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: 1 hour
+
+You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned
+condition, and it has Resistance to Poison damage.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Restores Hit Points rather than curing a status.</p><details class="q"><summary>Cure Wounds <span class="src">Spell · SRD p. 121</span></summary><pre>Cure Wounds
+
+Level 1 Abjuration (Bard, Cleric, Druid, Paladin,
+Ranger)
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+
+A creature you touch regains a number of Hit Points
+equal to 2d8 plus your spellcasting ability modifier.
+Using a Higher-Level Spell Slot. The healing increases by 2d8 for each spell slot level above 1.</pre></details></div></div></div></details><details class="sk"><summary>Organ harvest<span class="game">F&amp;H2 · Contestant skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Harvest organs from fallen foes to sacrifice them with your medicinal skills. The desecration of bodies used to be a taboo subject, but it is now widely used among medical practitioners.</p><p><b>Effect:</b> Gives an option to harvest organs from defeated enemies in the overworld.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Precision stance<span class="game">F&amp;H2 · Contestant skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A special stance to raise your accuracy greatly. Often used during medical surgeries to prevent one&#x27;s arm from shaking.</p><p><b>Effect:</b> Applies Accuracy Boost status.</p><p><b>Cost:</b> 5 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Adds a bonus to attack rolls (and saves) for the duration.</p><details class="q"><summary>Bless <span class="src">Spell · SRD p. 113</span></summary><pre>Bless
+
+Level 1 Enchantment (Cleric, Paladin)
+Casting Time: Action
+Range: 30 feet
+
+Components: V, S, M (a Holy Symbol worth 5+ GP)
+Duration: Concentration, up to 1 minute
+
+You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw
+before the spell ends, the target adds 1d4 to the attack roll or save.
+Using a Higher-Level Spell Slot. You can target
+one additional creature for each spell slot level
+above 1.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">A flat bonus to ranged attack rolls only.</p><details class="q"><summary>Archery (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Archery
+
+Fighting Style Feat (Prerequisite: Fighting Style
+Feature)
+You gain a +2 bonus to attack rolls you make with
+Ranged weapons.</pre></details></div></div></div></details><details class="sk"><summary>Magna-medicinal<span class="game">F&amp;H2 · Contestant skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A greater form of medicinal where the surgeon will sacrifice their own limbs in exhange for human life. The procedure must be performed on the spot during an encounter to work properly.</p><p><b>Effect:</b> Gives an option to sacrifice a limb to revive a party member.</p><p><b>Cost:</b> 50 Mind / 1 limb</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Revives a creature that died within the last minute; it consumes a costly component, not a limb.</p><details class="q"><summary>Revivify <span class="src">Spell · SRD p. 159</span></summary><pre>Revivify
+
+Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)
+
+Casting Time: Action
+Range: Touch
+Components: V, S, M (a diamond worth 300+ GP, which
+the spell consumes)
+Duration: Instantaneous
+
+You touch a creature that has died within the last
+minute. That creature revives with 1 Hit Point. This
+spell can’t revive a creature that has died of old age,
+nor does it restore any missing body parts.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Revives a creature dead up to 10 days; also a consumed diamond.</p><details class="q"><summary>Raise Dead <span class="src">Spell · SRD p. 157</span></summary><pre>Raise Dead
+
+Level 5 Necromancy (Bard, Cleric, Paladin)
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (a diamond worth 500+ GP, which
+the spell consumes)
+Duration: Instantaneous
+
+With a touch, you revive a dead creature if it has
+been dead no longer than 10 days and it wasn’t Undead when it died.
+The creature returns to life with 1 Hit Point. This
+spell also neutralizes any poisons that affected the
+creature at the time of death.
+This spell closes all mortal wounds, but it doesn’t
+restore missing body parts. If the creature is lacking body parts or organs integral for its survival—
+its head, for instance—the spell automatically fails.
+Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the
+target finishes a Long Rest, the penalty is reduced
+by 1 until it becomes 0.</pre></details></div></div></div></details><details class="sk"><summary>Analyze<span class="game">F&amp;H2 · Contestant skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Study the anatomy of your opponent to quickly find the biggest weaknesses it their physique.</p><p><b>Effect:</b> Inflicts Weakness status to target&#x27;s head.</p><p><b>Cost:</b> 20 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Marks a creature as quarry for extra damage.</p><details class="q"><summary>Hunter&#x27;s Mark <span class="src">Spell · SRD p. 141</span></summary><pre>Hunter’s Mark
+
+Level 1 Divination (Ranger)
+
+Casting Time: Bonus Action
+Range: 90 feet
+Components: V
+Duration: Concentration, up to 1 hour
+
+You magically mark one creature you can see within
+range as your quarry. Until the spell ends, you deal
+an extra 1d6 Force damage to the target whenever
+you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check
+you make to find it.
+
+If the target drops to 0 Hit Points before this spell
+ends, you can take a Bonus Action to move the mark
+to a new creature you can see within range.
+Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 3–4 (up
+to 8 hours) or 5+ (up to 24 hours).</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Defines Vulnerability, which doubles damage of a type; Analyze applies a Weakness status instead.</p><details class="q"><summary>Vulnerability <span class="src">Rules glossary · SRD p. 191</span></summary><pre>Vulnerability
+
+If you have Vulnerability to a damage type, damage
+of that type is doubled against you. Vulnerability is
+applied only once to an instance of damage. See also
+“Playing the Game” (“Damage and Healing”).</pre></details></div></div></div></details><details class="sk"><summary>Greater Analyze<span class="game">F&amp;H2 · Unused skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Analyze the enemy behaviour and find the weak points. You can use the acquired information against similar type enemies.</p><p><b>Unlock:</b> Daan (Blank soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Reverse Healing<span class="game">F&amp;H2 · Unused skills · Daan</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>remove own organs to cause serious damage</p><p><b>Unlock:</b> Daan (Blank soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details></div></details>
+<details class="soul" data-name="caressing" data-kind="compared"><summary><span class="sn">Caressing</span><span class="chips"><span class="chip m">September</span><span class="chip">4/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Abella</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A tinkerer package: Tool proficiencies (Thieves&#x27; Tools, Smith&#x27;s Tools, Tinker&#x27;s Tools) plus a thrown-weapon trick.</p><details class="sk"><summary>Wrench toss<span class="game">F&amp;H2 · Contestant skills · Abella</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Throw your pipe wrench at the enemy with devastating force. A chance of stun. Requires pipe wrench to be equipped first.</p><p><b>Effect:</b> Throws a Pipe wrench to deal 291-437 (Attack * 6 - 20 (20% variance)) Blunt damage with a 95% Chance to inflict Concussion status to one target. Damage affected by Rev. Pipe wrench is unequipped after use.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A status that can follow a hit; the wiki&#x27;s Concussion status is not described in the SRD.</p><details class="q"><summary>Stunned [Condition] <span class="src">Rules glossary · SRD p. 189</span></summary><pre>Stunned [Condition]
+While you have the Stunned condition, you experience the following effects.
+Incapacitated. You have the Incapacitated
+condition.
+Saving Throws Affected. You automatically fail
+Strength and Dexterity saving throws.
+Attacks Affected. Attack rolls against you have
+Advantage.</pre></details></div></div></div></details><details class="sk"><summary>Short circuit<span class="game">F&amp;H2 · Contestant skills · Abella</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Short circuit an electric lock to open locked doors. Relatively simple in practice, but short circuiting the wrong conductors might lock the door for good.</p><p><b>Effect:</b> Allows you to open doors with electronic panels in Tunnels.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Unlocks a door or lock from range.</p><details class="q"><summary>Knock <span class="src">Spell · SRD p. 143</span></summary><pre>Knock
+
+Level 2 Transmutation (Bard, Sorcerer, Wizard)
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+
+Choose an object that you can see within range. The
+object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a
+mundane or magical means that prevents access.
+A target that is held shut by a mundane lock or
+that is stuck or barred becomes unlocked, unstuck,
+or unbarred. If the object has multiple locks, only
+one of them is unlocked.
+If the target is held shut by Arcane Lock, that spell
+is suppressed for 10 minutes, during which time the
+target can be opened and closed.
+When you cast the spell, a loud knock, audible up
+to 300 feet away, emanates from the target.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Tool for picking locks and disarming traps (DC 15).</p><details class="q"><summary>Thieves&#x27; Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Thieves’ Tools (25 GP)
+Ability: Dexterity
+Weight: 1 lb.
+Utilize: Pick a lock (DC 15), or disarm a trap (DC 15)</pre></details></div></div></div></details><details class="sk"><summary>Trapcraft<span class="game">F&amp;H2 · Contestant skills · Abella</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Craft bear traps and booby traps from different utility items. Used in the Crafting menu.</p><p><b>Effect:</b> Unlocks recipes for: - Bear trap - Booby trap</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Lists Hunting Trap among the items it crafts.</p><details class="q"><summary>Tinker&#x27;s Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Tinker’s Tools (50 GP)
+Ability: Dexterity
+Weight: 10 lb.
+Utilize: Assemble a Tiny item composed of scrap, which
+falls apart in 1 minute (DC 20)
+Craft: Musket, Pistol, Bell, Bullseye Lantern, Flask,
+Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox</pre></details></div></div></div></details><details class="sk"><summary>Weaponcraft<span class="game">F&amp;H2 · Contestant skills · Abella</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Use your imagination to craft unique weapons from different utility items. Used in the Crafting menu.</p><p><b>Effect:</b> Unlocks recipes for: - Sandman&#x27;s kiss - Reaper&#x27;s rake - Lantern flail - Meat grinder</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Crafts melee weapons and armor.</p><details class="q"><summary>Smith&#x27;s Tools <span class="src">Tool · SRD p. 93</span></summary><pre>Smith’s Tools (20 GP)
+Ability: Strength
+Weight: 8 lb.
+Utilize: Pry open a door or container (DC 20)
+
+Craft: Any Melee weapon (except Club, Greatclub,
+Quarterstaff, and Whip), Medium armor (except Hide),
+Heavy armor, Ball Bearings, Bucket, Caltrops, Chain,
+Crowbar, Firearm Bullets, Grappling Hook, Iron Pot,
+Iron Spikes, Sling Bullets</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Lists Musket and Pistol among its crafts.</p><details class="q"><summary>Tinker&#x27;s Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Tinker’s Tools (50 GP)
+Ability: Dexterity
+Weight: 10 lb.
+Utilize: Assemble a Tiny item composed of scrap, which
+falls apart in 1 minute (DC 20)
+Craft: Musket, Pistol, Bell, Bullseye Lantern, Flask,
+Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="changeling" data-kind="compared"><summary><span class="sn">Changeling</span><span class="chips"><span class="chip m">November</span><span class="chip">4/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Marina</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A warded-sigil package: a Glyph of Warding style mark plus a small resource pool in the manner of Sorcery Points.</p><details class="sk"><summary>Engrave<span class="game">F&amp;H2 · Contestant skills · Marina</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Engrave a sigil on a party member. The benefit of the sigil varies depeding on the god it belongs to. Historically sigils were carved on the body, but modern practition prefers face sigils.</p><p><b>Effect:</b> Allows you to carve a sigil on your face to gain a certain buff: - Gro-goroth - +4 Attack - Sylvian - +3 M.Defense, ×70% Otherworldly damage received - Alll-mer - +3 Defense, ×85% Physical damage received - Rher - +25 Max Mind - Vinushka - +4 M.Attack - God of Fear and Hunger - +5 Agility</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A temporary, visible-on-the-target buff granted by a mark or blessing; the god-specific buffs have no SRD equivalent.</p><details class="q"><summary>Bless <span class="src">Spell · SRD p. 113</span></summary><pre>Bless
+
+Level 1 Enchantment (Cleric, Paladin)
+Casting Time: Action
+Range: 30 feet
+
+Components: V, S, M (a Holy Symbol worth 5+ GP)
+Duration: Concentration, up to 1 minute
+
+You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw
+before the spell ends, the target adds 1d4 to the attack roll or save.
+Using a Higher-Level Spell Slot. You can target
+one additional creature for each spell slot level
+above 1.</pre></details></div></div></div></details><details class="sk"><summary>Warding sigil<span class="game">F&amp;H2 · Contestant skills · Marina</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Draw a warding sigil on the ground to fend off malice and creatures with ill intent. Originally created by the Virgin Mages of the Eastern Sanctuaries.</p><p><b>Effect:</b> Allows you to create a sigil on the tile you&#x27;re currently standing on which will block enemies from walking on that tile, expires on map transition.</p><p><b>Cost:</b> 10 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Inscribes a glyph on a surface that later has an effect.</p><details class="q"><summary>Glyph of Warding <span class="src">Spell · SRD p. 136</span></summary><pre>Glyph of Warding
+
+Level 3 Abjuration (Bard, Cleric, Wizard)
+
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (powdered diamond worth 200+
+GP, which the spell consumes)
+Duration: Until dispelled or triggered
+
+You inscribe a glyph that later unleashes a magical
+effect. You inscribe it either on a surface (such as a
+table or a section of floor) or within an object that
+can be closed (such as a book or chest) to conceal
+the glyph. The glyph can cover an area no larger
+than 10 feet in diameter. If the surface or object is
+moved more than 10 feet from where you cast this
+spell, the glyph is broken, and the spell ends without being triggered.
+The glyph is nearly imperceptible and requires a
+successful Wisdom (Perception) check against your
+spell save DC to notice.
+When you inscribe the glyph, you set its trigger
+and choose whether it’s an explosive rune or a spell
+glyph, as explained below.
+Set the Trigger. You decide what triggers the
+glyph when you cast the spell. For glyphs inscribed
+on a surface, common triggers include touching or
+stepping on the glyph, removing another object covering it, or approaching within a certain distance of
+it. For glyphs inscribed within an object, common
+triggers include opening that object or seeing the
+glyph. Once a glyph is triggered, this spell ends.
+You can refine the trigger so that only creatures
+of certain types activate it (for example, the glyph
+could be set to affect Aberrations). You can also set
+conditions for creatures that don’t trigger the glyph,
+such as those who say a certain password.
+Explosive Rune. When triggered, the glyph erupts
+with magical energy in a 20-foot-radius Sphere centered on the glyph. Each creature in the area makes
+a Dexterity saving throw. A creature takes 5d8 Acid,
+Cold, Fire, Lightning, or Thunder damage (your
+
+choice when you create the glyph) on a failed save
+or half as much damage on a successful one.
+Spell Glyph. You can store a prepared spell of
+level 3 or lower in the glyph by casting it as part of
+creating the glyph. The spell must target a single
+creature or an area. The spell being stored has no
+immediate effect when cast in this way.
+When the glyph is triggered, the stored spell
+takes effect. If the spell has a target, it targets the
+creature that triggered the glyph. If the spell affects
+an area, the area is centered on that creature. If the
+spell summons Hostile creatures or creates harmful
+objects or traps, they appear as close as possible to
+the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
+Using a Higher-Level Spell Slot. The damage of
+an explosive rune increases by 1d8 for each spell
+slot level above 3. If you create a spell glyph, you can
+store any spell of up to the same level as the spell
+slot you use for the Glyph of Warding.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Wards an area against creatures that enter it.</p><details class="q"><summary>Alarm <span class="src">Spell · SRD p. 107</span></summary><pre>Alarm
+
+Level 1 Abjuration (Ranger, Wizard)
+
+Casting Time: 1 minute or Ritual
+Range: 30 feet
+Components: V, S, M (a bell and silver wire)
+Duration: 8 hours
+
+You set an alarm against intrusion. Choose a door,
+a window, or an area within range that is no larger
+than a 20-foot Cube. Until the spell ends, an alarm
+
+alerts you whenever a creature touches or enters
+the warded area. When you cast the spell, you can
+designate creatures that won’t set off the alarm. You
+also choose whether the alarm is audible or mental:
+Audible Alarm. The alarm produces the sound of
+a handbell for 10 seconds within 60 feet of the
+warded area.
+Mental Alarm. You are alerted by a mental ping
+if you are within 1 mile of the warded area. This
+ping awakens you if you’re asleep.</pre></details></div></div></div></details><details class="sk"><summary>Advanced occultism<span class="game">F&amp;H2 · Contestant skills · Marina</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Your advanced knowledge in occult arts enables you to start a battle with an extra Rev point. A passive skill.</p><p><b>Effect:</b> Gives +1 Rev point at the start of the battle.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A pool of points (Sorcery Points) that fuels other features; Rev points are a similar idea.</p><details class="q"><summary>Font of Magic (Sorcerer) <span class="src">Class feature · SRD p. 66</span></summary><pre>Level 2: Font of Magic
+
+You can tap into the wellspring of magic within
+yourself. This wellspring is represented by Sorcery
+Points, which allow you to create a variety of magical effects.
+You have 2 Sorcery Points, and you gain more as
+you reach higher levels, as shown in the Sorcery
+Points column of the Sorcerer Features table. You
+can’t have more Sorcery Points than the number
+shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
+You can use your Sorcery Points to fuel the options below, along with other features, such as
+Metamagic, that use those points.
+Converting Spell Slots to Sorcery Points. You
+can expend a spell slot to gain a number of Sorcery
+Points equal to the slot’s level (no action required).
+Creating Spell Slots. As a Bonus Action, you can
+transform unexpended Sorcery Points into one spell
+slot. The Creating Spell Slots table shows the cost
+of creating a spell slot of a given level, and it lists
+the minimum Sorcerer level you must be to create
+a slot. You can create a spell slot no higher than
+level 5.
+Any spell slot you create with this feature vanishes when you finish a Long Rest.</pre></details></div></div></div></details><details class="sk"><summary>Greater occultism<span class="game">F&amp;H2 · Contestant skills · Marina</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Your greater knowledge in occult arts enables you to start a battle with 2 extra Rev points. A passive skill.</p><p><b>Effect:</b> Gives +1 Rev point at the start of the battle.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A pool of points (Sorcery Points) that fuels other features; Rev points are a similar idea.</p><details class="q"><summary>Font of Magic (Sorcerer) <span class="src">Class feature · SRD p. 66</span></summary><pre>Level 2: Font of Magic
+
+You can tap into the wellspring of magic within
+yourself. This wellspring is represented by Sorcery
+Points, which allow you to create a variety of magical effects.
+You have 2 Sorcery Points, and you gain more as
+you reach higher levels, as shown in the Sorcery
+Points column of the Sorcerer Features table. You
+can’t have more Sorcery Points than the number
+shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
+You can use your Sorcery Points to fuel the options below, along with other features, such as
+Metamagic, that use those points.
+Converting Spell Slots to Sorcery Points. You
+can expend a spell slot to gain a number of Sorcery
+Points equal to the slot’s level (no action required).
+Creating Spell Slots. As a Bonus Action, you can
+transform unexpended Sorcery Points into one spell
+slot. The Creating Spell Slots table shows the cost
+of creating a spell slot of a given level, and it lists
+the minimum Sorcerer level you must be to create
+a slot. You can create a spell slot no higher than
+level 5.
+Any spell slot you create with this feature vanishes when you finish a Long Rest.</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="chaotic" data-kind="compared"><summary><span class="sn">Chaotic</span><span class="chips"><span class="chip m">December</span><span class="chip">3/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Pav</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A brawler&#x27;s-initiative package: Alert-style initiative plus a Haste-like burst of extra actions for allies.</p><details class="sk"><summary>Bury the trauma<span class="game">F&amp;H2 · Contestant skills · Pav</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Bury your trauma and fears. This reduces your sanity decline while exploring. You can deal with the psychiatric collapse and the combat fatigue once you&#x27;re in a safer place. After all this...</p><p><b>Effect:</b> Heals 1 Body every 20 seconds in the overworld at night or non-safe indoor areas. ⚠ *(known bug listed on the wiki)*</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">Restores Hit Points, though not gradually over time.</p><details class="q"><summary>Cure Wounds <span class="src">Spell · SRD p. 121</span></summary><pre>Cure Wounds
+
+Level 1 Abjuration (Bard, Cleric, Druid, Paladin,
+Ranger)
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+
+A creature you touch regains a number of Hit Points
+equal to 2d8 plus your spellcasting ability modifier.
+Using a Higher-Level Spell Slot. The healing increases by 2d8 for each spell slot level above 1.</pre></details></div></div></div></details><details class="sk"><summary>En garde<span class="game">F&amp;H2 · Contestant skills · Pav</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Long combat experience has prepared you for fights. Prepare for an attack to gain advantage by pressing [E].</p><p><b>Effect:</b> Press [E] on the overworld right before engaging with an enemy to get a free attack.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Improves Initiative so you act earlier in combat.</p><details class="q"><summary>Alert (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Alert
+
+Origin Feat
+You gain the following benefits.
+Initiative Proficiency. When you roll Initiative,
+you can add your Proficiency Bonus to the roll.
+Initiative Swap. Immediately after you roll Initiative, you can swap your Initiative with the Initiative
+of one willing ally in the same combat. You can’t
+make this swap if you or the ally has the Incapacitated condition.</pre></details></div></div></div></details><details class="sk"><summary>Order, Charge!<span class="game">F&amp;H2 · Contestant skills · Pav</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Give orders to your team to charge and attack the enemy without wasting their turns.</p><p><b>Effect:</b> Every single party member will automatically attack again at the end of the turn including the main character.</p><p><b>Cost:</b> 40 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Gives the target an additional action that can include the Attack action (one attack).</p><details class="q"><summary>Haste <span class="src">Spell · SRD p. 139</span></summary><pre>Haste
+
+Level 3 Transmutation (Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M (a shaving of licorice root)
+Duration: Concentration, up to 1 minute
+
+Choose a willing creature that you can see within
+range. Until the spell ends, the target’s Speed is
+doubled, it gains a +2 bonus to Armor Class, it has
+Advantage on Dexterity saving throws, and it gains
+an additional action on each of its turns. That action can be used to take only the Attack (one attack
+only), Dash, Disengage, Hide, or Utilize action.
+When the spell ends, the target is Incapacitated
+and has a Speed of 0 until the end of its next turn, as
+a wave of lethargy washes over it.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Gives one additional action once per rest.</p><details class="q"><summary>Action Surge (Fighter) <span class="src">Class feature · SRD p. 48</span></summary><pre>Level 2: Action Surge
+
+You can push yourself beyond your normal limits
+for a moment. On your turn, you can take one additional action, except the Magic action.
+Once you use this feature, you can’t do so again
+until you finish a Short or Long Rest. Starting at
+level 17, you can use it twice before a rest but only
+once on a turn.</pre></details></div></div></div></details><details class="sk"><summary>Order, Defend!<span class="game">F&amp;H2 · Unused skills · Pav</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Unlock:</b> Pav (Chaotic soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details></div></details>
+<details class="soul" data-name="decrepit" data-kind="compared"><summary><span class="sn">Decrepit</span><span class="chips"><span class="chip m">March</span><span class="chip">4/5 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Caligura</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A scavenger package: Influence-style intimidation, tool use, thrown explosives such as Alchemist&#x27;s Fire.</p><details class="sk"><summary>Steal<span class="game">F&amp;H2 · Contestant skills · Caligura</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Try to pickpocket goods from your opponents. You never know what you might find.</p><p><b>Effect:</b> Use in battle to obtain items from enemies.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A tool kit for thieves&#x27; tasks; the SRD has no rule for taking items from a creature in combat.</p><details class="q"><summary>Thieves&#x27; Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Thieves’ Tools (25 GP)
+Ability: Dexterity
+Weight: 1 lb.
+Utilize: Pick a lock (DC 15), or disarm a trap (DC 15)</pre></details></div></div></div></details><details class="sk"><summary>Intimidate<span class="game">F&amp;H2 · Contestant skills · Caligura</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Intimidation tactics in battle work on those mentally weak. The effects vary case by case. Used while initiating Talk during combat.</p><p><b>Effect:</b> Unlocks [INTIMIDATE] option in battle dialogues when using **Talk** skill.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">The Influence action covers urging a monster by intimidating it.</p><details class="q"><summary>Influence [Action] <span class="src">Rules glossary · SRD p. 184</span></summary><pre>Influence [Action]
+
+With the Influence action, you urge a monster to
+do something. Describe or roleplay how you’re
+communicating with the monster. Are you trying to
+deceive, intimidate, amuse, or gently persuade? The
+GM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction;
+this determination establishes whether an ability
+check is necessary, as explained below.
+Willing. If your urging aligns with the monster’s
+desires, no ability check is necessary; the monster
+fulfills your request in a way it prefers.
+Unwilling. If your urging is repugnant to the monster or counter to its alignment, no ability check is
+necessary; it doesn’t comply.
+Hesitant. If you urge the monster to do something
+that it is hesitant to do, you must make an ability
+check, which is affected by the monster’s attitude:
+Indifferent, Friendly, or Hostile, each of which is
+defined in this glossary. The Influence Checks table suggests which ability check to make based on
+how you’re interacting with the monster. The GM
+chooses the check, which has a default DC equal to
+15 or the monster’s Intelligence score, whichever
+is higher. On a successful check, the monster does
+as urged. On a failed check, you must wait 24 hours
+(or a duration set by the GM) before urging it in the
+same way again.</pre></details></div></div></div></details><details class="sk"><summary>Killing intent<span class="game">F&amp;H2 · Contestant skills · Caligura</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>You killing intent eminates strong. This will scare away the weaker opponent so you don&#x27;t need to bother with them.</p><p><b>Effect:</b> The following enemies will start avoiding you in the overworld: - Villager (Sickle) - Villager (Knives) - Fecal hound - Fallen cherub (Only the solo cherubs)</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">The Frightened condition stops a creature moving closer to the source of fear.</p><details class="q"><summary>Frightened [Condition] <span class="src">Rules glossary · SRD p. 182</span></summary><pre>Frightened [Condition]
+
+While you have the Frightened condition, you experience the following effects.
+Ability Checks and Attacks Affected. You have
+Disadvantage on ability checks and attack rolls
+while the source of fear is within line of sight.
+Can’t Approach. You can’t willingly move closer to
+the source of fear.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Makes creatures in a cone drop what they hold and run away.</p><details class="q"><summary>Fear <span class="src">Spell · SRD p. 130</span></summary><pre>Fear
+
+Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)
+Casting Time: Action
+Range: Self
+Components: V, S, M (a white feather)
+Duration: Concentration, up to 1 minute
+
+Each creature in a 30-foot Cone must succeed on a
+Wisdom saving throw or drop whatever it is holding
+and have the Frightened condition for the duration.
+A Frightened creature takes the Dash action and
+moves away from you by the safest route on each
+of its turns unless there is nowhere to move. If the
+creature ends its turn in a space where it doesn’t
+have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell
+ends on that creature.</pre></details></div></div></div></details><details class="sk"><summary>Explosives<span class="game">F&amp;H2 · Contestant skills · Caligura</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Getting creative in a wartorn times is a must. Craft explosives to be used in combat from simple everyday ingredients.</p><p><b>Effect:</b> Unlocks a recipe for: - Pipe bomb</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">A thrown flask that deals Fire damage.</p><details class="q"><summary>Alchemist&#x27;s Fire <span class="src">Adventuring gear · SRD p. 94</span></summary><pre>Alchemist’s Fire (50 GP)
+
+When you take the Attack action, you can replace
+one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you
+can see within 20 feet of yourself. The target must
+succeed on a Dexterity saving throw (DC 8 plus
+your Dexterity modifier and Proficiency Bonus) or
+take 1d4 Fire damage and start burning (see “Rules
+Glossary”).</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Tool kit that crafts Alchemist&#x27;s Fire.</p><details class="q"><summary>Alchemist&#x27;s Supplies <span class="src">Tool · SRD p. 93</span></summary><pre>Alchemist’s Supplies (50 GP)
+
+Ability: Intelligence
+Weight: 8 lb.
+Utilize: Identify a substance (DC 15), or start a fire
+(DC 15)
+Craft: Acid, Alchemist’s Fire, Component Pouch, Oil,
+Paper, Perfume</pre></details></div></div></div></details><details class="sk"><summary>Bribe<span class="game">F&amp;H2 · Unused skills · Caligura</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Unlock:</b> Caligura (Decrepit soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details></div></details>
+<details class="soul" data-name="defiant" data-kind="stub"><summary><span class="sn">Defiant</span><span class="chips"><span class="chip m">August</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="domination" data-kind="compared"><summary><span class="sn">Domination</span><span class="chips"><span class="chip m">March</span><span class="chip">4/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: D&#x27;arce</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A duelist package: the Dodge action, an Opportunity-Attack style counter, speed from Haste, and shoving enemies Prone.</p><details class="sk"><summary>Defence stance<span class="game">F&amp;H1 · Soul skills · D&#x27;arce</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A special combat stance to prevent severe physical trauma. A skill taught to all the squires at the Rondon military.</p><p><b>Effect:</b> Applies Perfect Guard and Evasion Buff statuses.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Attacks against you have Disadvantage and you make Dexterity saves with Advantage until your next turn.</p><details class="q"><summary>Dodge [Action] <span class="src">Rules glossary · SRD p. 181</span></summary><pre>Dodge [Action]
+
+If you take the Dodge action, you gain the following
+benefits: until the start of your next turn, any attack
+roll made against you has Disadvantage if you can
+see the attacker, and you make Dexterity saving
+throws with Advantage.
+You lose these benefits if you have the Incapacitated condition or if your Speed is 0.</pre></details></div></div></div></details><details class="sk"><summary>Fast attack<span class="game">F&amp;H1 · Soul skills · D&#x27;arce</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>With swift movements - you gain an additional turn.</p><p><b>Effect:</b> Applies Speed Buff status.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Doubles Speed and grants an extra action for the duration.</p><details class="q"><summary>Haste <span class="src">Spell · SRD p. 139</span></summary><pre>Haste
+
+Level 3 Transmutation (Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M (a shaving of licorice root)
+Duration: Concentration, up to 1 minute
+
+Choose a willing creature that you can see within
+range. Until the spell ends, the target’s Speed is
+doubled, it gains a +2 bonus to Armor Class, it has
+Advantage on Dexterity saving throws, and it gains
+an additional action on each of its turns. That action can be used to take only the Attack (one attack
+only), Dash, Disengage, Hide, or Utilize action.
+When the spell ends, the target is Incapacitated
+and has a Speed of 0 until the end of its next turn, as
+a wave of lethargy washes over it.</pre></details></div></div></div></details><details class="sk"><summary>Counter<span class="game">F&amp;H1 · Soul skills · D&#x27;arce</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Stay alert for enemy attacks to parry them the instant they land.</p><p><b>Effect:</b> Applies Counter status.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">A Reaction attack triggered by a creature leaving your reach.</p><details class="q"><summary>Opportunity Attacks <span class="src">Rules glossary · SRD p. 185</span></summary><pre>Opportunity Attacks
+
+You can make an Opportunity Attack when a creature that you can see leaves your reach using its
+action, its Bonus Action, its Reaction, or one of its
+speeds. To make the Opportunity Attack, take a Reaction to make one melee attack with a weapon or
+an Unarmed Strike against the provoking creature.
+The attack occurs right before the creature leaves
+your reach. See also “Playing the Game” (“Combat”).</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">A Reaction that reduces an incoming hit&#x27;s damage.</p><details class="q"><summary>Deflect Attacks (Monk) <span class="src">Class feature · SRD p. 51</span></summary><pre>Level 3: Deflect Attacks
+
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage,
+you can take a Reaction to reduce the attack’s total
+damage against you. The reduction equals 1d10 plus
+your Dexterity modifier and Monk level.
+If you reduce the damage to 0, you can expend 1
+Focus Point to redirect some of the attack’s force.
+If you do so, choose a creature you can see within 5
+feet of yourself if the attack was a melee attack or a
+creature you can see within 60 feet of yourself that
+isn’t behind Total Cover if the attack was a ranged
+attack. That creature must succeed on a Dexterity
+saving throw or take damage equal to two rolls of
+your Martial Arts die plus your Dexterity modifier.
+The damage is the same type dealt by the attack.</pre></details></div></div></div></details><details class="sk"><summary>Leg sweep<span class="game">F&amp;H1 · Soul skills · D&#x27;arce</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A high finesse arcing attack that can only be performed with light bladed weapons.</p><p><b>Effect:</b> Destroys the legs of an opponent. / (Also breaks doors in a single hit)</p><p><b>Cost:</b> 20 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">The Shove option can cause the Prone condition.</p><details class="q"><summary>Unarmed Strike <span class="src">Rules glossary · SRD p. 190</span></summary><pre>Unarmed Strike
+
+Instead of using a weapon to make a melee attack,
+you can use a punch, kick, headbutt, or similar
+forceful blow. In game terms, this is an Unarmed
+Strike—a melee attack that involves you using your
+body to damage, grapple, or shove a target within 5
+feet of you.
+Whenever you use your Unarmed Strike, choose
+one of the following options for its effect.
+Damage. You make an attack roll against the
+target. Your bonus to the roll equals your Strength
+modifier plus your Proficiency Bonus. On a hit, the
+target takes Bludgeoning damage equal to 1 plus
+your Strength modifier.
+Grapple. The target must succeed on a Strength
+or Dexterity saving throw (it chooses which), or it
+has the Grappled condition. The DC for the saving
+throw and any escape attempts equals 8 plus your
+Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one
+size larger than you and if you have a hand free to
+grab it. See also “Grappling.”
+Shove. The target must succeed on a Strength or
+Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone
+condition. The DC for the saving throw equals 8 plus
+your Strength modifier and Proficiency Bonus. This
+shove is possible only if the target is no more than
+one size larger than you.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">What the Prone condition does to a creature.</p><details class="q"><summary>Prone [Condition] <span class="src">Rules glossary · SRD p. 186</span></summary><pre>Prone [Condition]
+
+While you have the Prone condition, you experience
+the following effects.
+Restricted Movement. Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to
+right yourself and thereby end the condition. If your
+Speed is 0, you can’t right yourself.
+Attacks Affected. You have Disadvantage on attack rolls. An attack roll against you has Advantage
+if the attacker is within 5 feet of you. Otherwise,
+that attack roll has Disadvantage.</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="endless" data-kind="compared"><summary><span class="sn">Endless</span><span class="chips"><span class="chip m">February</span><span class="chip">10/10 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Cahara, Karin</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A fugitive/negotiator package: Thieves&#x27; Tools, Dash and Disengage, Influence checks, Alert-style initiative.</p><details class="sk"><summary>Lockpicking<span class="game">F&amp;H1 · Soul skills · Cahara</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>An ability to open any simple lock with your trusty lockpick.</p><p><b>Effect:</b> Allows you to open doors with simple locks.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Pick a lock (DC 15).</p><details class="q"><summary>Thieves&#x27; Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Thieves’ Tools (25 GP)
+Ability: Dexterity
+Weight: 1 lb.
+Utilize: Pick a lock (DC 15), or disarm a trap (DC 15)</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Unlocks by magic rather than skill.</p><details class="q"><summary>Knock <span class="src">Spell · SRD p. 143</span></summary><pre>Knock
+
+Level 2 Transmutation (Bard, Sorcerer, Wizard)
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+
+Choose an object that you can see within range. The
+object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a
+mundane or magical means that prevents access.
+A target that is held shut by a mundane lock or
+that is stuck or barred becomes unlocked, unstuck,
+or unbarred. If the object has multiple locks, only
+one of them is unlocked.
+If the target is held shut by Arcane Lock, that spell
+is suppressed for 10 minutes, during which time the
+target can be opened and closed.
+When you cast the spell, a loud knock, audible up
+to 300 feet away, emanates from the target.</pre></details></div></div></div></details><details class="sk"><summary>Steal<span class="game">F&amp;H1 · Soul skills · Cahara</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Steal from the rich and give to yourself.</p><p><b>Effect:</b> Obtain items from enemies during the battle.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A tool kit for thieves&#x27; tasks; the SRD has no rule for taking items from a creature in combat.</p><details class="q"><summary>Thieves&#x27; Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Thieves’ Tools (25 GP)
+Ability: Dexterity
+Weight: 1 lb.
+Utilize: Pick a lock (DC 15), or disarm a trap (DC 15)</pre></details></div></div></div></details><details class="sk"><summary>En garde<span class="game">F&amp;H1 · Soul skills · Cahara</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Long combat experience has prepared you for fights. Prepare for an attack to gain advantage with [SHIFT].</p><p><b>Effect:</b> Using [SHIFT] before engaging in battle gives you an extra turn on the first move.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Adds Proficiency Bonus to Initiative and allows an Initiative swap with a willing ally.</p><details class="q"><summary>Alert (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Alert
+
+Origin Feat
+You gain the following benefits.
+Initiative Proficiency. When you roll Initiative,
+you can add your Proficiency Bonus to the roll.
+Initiative Swap. Immediately after you roll Initiative, you can swap your Initiative with the Initiative
+of one willing ally in the same combat. You can’t
+make this swap if you or the ally has the Incapacitated condition.</pre></details></div></div></div></details><details class="sk"><summary>Dash<span class="game">F&amp;H1 · Soul skills · Cahara</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Your movement speed increases greatly. Running can prove out to be a really valuable skill.</p><p><b>Effect:</b> Increases player&#x27;s base speed in the overworld.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Gains extra movement for the turn.</p><details class="q"><summary>Dash [Action] <span class="src">Rules glossary · SRD p. 180</span></summary><pre>Dash [Action]
+
+When you take the Dash action, you gain extra
+movement for the current turn. The increase equals
+your Speed after applying any modifiers. With a
+Speed of 30 feet, for example, you can move up to
+60 feet on your turn if you Dash. If your Speed of 30
+feet is reduced to 15 feet, you can move up to 30 feet
+this turn if you Dash.
+If you have a special speed, such as a Fly Speed or
+Swim Speed, you can use that speed instead of your
+Speed when you take this action. You choose which
+speed to use each time you take it. See also “Speed.”</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Raises a creature&#x27;s Speed by 10 feet for an hour.</p><details class="q"><summary>Longstrider <span class="src">Spell · SRD p. 145</span></summary><pre>Longstrider
+
+Level 1 Transmutation (Bard, Druid, Ranger, Wizard)
+Casting Time: Action
+Range: Touch
+Components: V, S, M (a pinch of dirt)
+Duration: 1 hour
+
+You touch a creature. The target’s Speed increases
+by 10 feet until the spell ends.
+Using a Higher-Level Spell Slot. You can target
+one additional creature for each spell slot level
+above 1.</pre></details></div></div></div></details><details class="sk"><summary>Escape plan<span class="game">F&amp;H1 · General skills · Cahara</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A skill that greatly enhances your chances for running away from fights.</p><p><b>Effect:</b> Increases the chance of running away from the battle when using **Run** skill.</p><p><b>Cost:</b> Passive</p><p><b>Unlock:</b> Cahara starting choice</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Movement doesn&#x27;t provoke Opportunity Attacks; the SRD has no &#x27;chance to flee combat&#x27; rule.</p><details class="q"><summary>Disengage [Action] <span class="src">Rules glossary · SRD p. 181</span></summary><pre>Disengage [Action]
+
+If you take the Disengage action, your movement
+doesn’t provoke Opportunity Attacks for the rest of
+the current turn.</pre></details></div></div></div></details><details class="sk"><summary>Persuade<span class="game">F&amp;H2 · Contestant skills · Karin</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Persuade your opponents with greater intellect and wit. The effects vary between enemy to enemy depending on their persona. Used with Talk skill.</p><p><b>Effect:</b> Unlocks [PERSUADE] option in battle dialogues when using **Talk** skill.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Gentle persuasion is one of the ways the Influence action describes urging a monster.</p><details class="q"><summary>Influence [Action] <span class="src">Rules glossary · SRD p. 184</span></summary><pre>Influence [Action]
+
+With the Influence action, you urge a monster to
+do something. Describe or roleplay how you’re
+communicating with the monster. Are you trying to
+deceive, intimidate, amuse, or gently persuade? The
+GM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction;
+this determination establishes whether an ability
+check is necessary, as explained below.
+Willing. If your urging aligns with the monster’s
+desires, no ability check is necessary; the monster
+fulfills your request in a way it prefers.
+Unwilling. If your urging is repugnant to the monster or counter to its alignment, no ability check is
+necessary; it doesn’t comply.
+Hesitant. If you urge the monster to do something
+that it is hesitant to do, you must make an ability
+check, which is affected by the monster’s attitude:
+Indifferent, Friendly, or Hostile, each of which is
+defined in this glossary. The Influence Checks table suggests which ability check to make based on
+how you’re interacting with the monster. The GM
+chooses the check, which has a default DC equal to
+15 or the monster’s Intelligence score, whichever
+is higher. On a successful check, the monster does
+as urged. On a failed check, you must wait 24 hours
+(or a duration set by the GM) before urging it in the
+same way again.</pre></details></div></div></div></details><details class="sk"><summary>Lockpicking<span class="game">F&amp;H2 · Contestant skills · Karin</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>An ability to open any simple lock with your trusty lockpick.</p><p><b>Effect:</b> Allows you to open doors with simple locks.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Pick a lock (DC 15).</p><details class="q"><summary>Thieves&#x27; Tools <span class="src">Tool · SRD p. 94</span></summary><pre>Thieves’ Tools (25 GP)
+Ability: Dexterity
+Weight: 1 lb.
+Utilize: Pick a lock (DC 15), or disarm a trap (DC 15)</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Unlocks by magic rather than skill.</p><details class="q"><summary>Knock <span class="src">Spell · SRD p. 143</span></summary><pre>Knock
+
+Level 2 Transmutation (Bard, Sorcerer, Wizard)
+Casting Time: Action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+
+Choose an object that you can see within range. The
+object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a
+mundane or magical means that prevents access.
+A target that is held shut by a mundane lock or
+that is stuck or barred becomes unlocked, unstuck,
+or unbarred. If the object has multiple locks, only
+one of them is unlocked.
+If the target is held shut by Arcane Lock, that spell
+is suppressed for 10 minutes, during which time the
+target can be opened and closed.
+When you cast the spell, a loud knock, audible up
+to 300 feet away, emanates from the target.</pre></details></div></div></div></details><details class="sk"><summary>Escape plan<span class="game">F&amp;H2 · Contestant skills · Karin</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A skill that greatly enhances your chances of running away from fights. Planning for an escape in advance pays off. A passive skill.</p><p><b>Effect:</b> Doubles the chance of running away from the battle when using **Run** skill.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Movement doesn&#x27;t provoke Opportunity Attacks; the SRD has no &#x27;chance to flee combat&#x27; rule.</p><details class="q"><summary>Disengage [Action] <span class="src">Rules glossary · SRD p. 181</span></summary><pre>Disengage [Action]
+
+If you take the Disengage action, your movement
+doesn’t provoke Opportunity Attacks for the rest of
+the current turn.</pre></details></div></div></div></details><details class="sk"><summary>Diplomacy<span class="game">F&amp;H2 · Contestant skills · Karin</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Start the fight by talking to the opponent without wasting a turn. Maybe you can find a diplomatic resolution before any violence takes place?</p><p><b>Effect:</b> Triggers **Talk** skill at the start of the battle without wasting a turn.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">The Influence action; the SRD makes it an action, while Diplomacy triggers Talk for free at the start of battle.</p><details class="q"><summary>Influence [Action] <span class="src">Rules glossary · SRD p. 184</span></summary><pre>Influence [Action]
+
+With the Influence action, you urge a monster to
+do something. Describe or roleplay how you’re
+communicating with the monster. Are you trying to
+deceive, intimidate, amuse, or gently persuade? The
+GM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction;
+this determination establishes whether an ability
+check is necessary, as explained below.
+Willing. If your urging aligns with the monster’s
+desires, no ability check is necessary; the monster
+fulfills your request in a way it prefers.
+Unwilling. If your urging is repugnant to the monster or counter to its alignment, no ability check is
+necessary; it doesn’t comply.
+Hesitant. If you urge the monster to do something
+that it is hesitant to do, you must make an ability
+check, which is affected by the monster’s attitude:
+Indifferent, Friendly, or Hostile, each of which is
+defined in this glossary. The Influence Checks table suggests which ability check to make based on
+how you’re interacting with the monster. The GM
+chooses the check, which has a default DC equal to
+15 or the monster’s Intelligence score, whichever
+is higher. On a successful check, the monster does
+as urged. On a failed check, you must wait 24 hours
+(or a duration set by the GM) before urging it in the
+same way again.</pre></details></div></div></div></details><details class="sk"><summary>Dash<span class="game">F&amp;H2 · Unused skills · Karin</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Unlock:</b> Karin (Endless soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Gains extra movement for the turn.</p><details class="q"><summary>Dash [Action] <span class="src">Rules glossary · SRD p. 180</span></summary><pre>Dash [Action]
+
+When you take the Dash action, you gain extra
+movement for the current turn. The increase equals
+your Speed after applying any modifiers. With a
+Speed of 30 feet, for example, you can move up to
+60 feet on your turn if you Dash. If your Speed of 30
+feet is reduced to 15 feet, you can move up to 30 feet
+this turn if you Dash.
+If you have a special speed, such as a Fly Speed or
+Swim Speed, you can use that speed instead of your
+Speed when you take this action. You choose which
+speed to use each time you take it. See also “Speed.”</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Raises a creature&#x27;s Speed by 10 feet for an hour.</p><details class="q"><summary>Longstrider <span class="src">Spell · SRD p. 145</span></summary><pre>Longstrider
+
+Level 1 Transmutation (Bard, Druid, Ranger, Wizard)
+Casting Time: Action
+Range: Touch
+Components: V, S, M (a pinch of dirt)
+Duration: 1 hour
+
+You touch a creature. The target’s Speed increases
+by 10 feet until the spell ends.
+Using a Higher-Level Spell Slot. You can target
+one additional creature for each spell slot level
+above 1.</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="enlightened" data-kind="compared"><summary><span class="sn">Enlightened</span><span class="chips"><span class="chip m">October</span><span class="chip">4/8 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Enki, Marina, O&#x27;saa</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A caster package: Counterspell/Dispel Magic, divination spells, and Metamagic-style modification of spells fuelled by a point pool.</p><details class="sk"><summary>Counter-magic<span class="game">F&amp;H1 · Soul skills · Enki</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Undo the effects of any lesser magic by your superior knowledge in the greater scheme of things.</p><p><b>Effect:</b> Resists or mends the effects of magical attacks. Can be used to break seals like the Purifying talisman.</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Interrupts a spell as a Reaction.</p><details class="q"><summary>Counterspell <span class="src">Spell · SRD p. 120</span></summary><pre>Counterspell
+
+Level 3 Abjuration (Sorcerer, Warlock, Wizard)
+Casting Time: Reaction, which you take when you see a
+creature within 60 feet of yourself casting a spell with
+Verbal, Somatic, or Material components
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+
+You attempt to interrupt a creature in the process of
+casting a spell. The creature makes a Constitution
+saving throw. On a failed save, the spell dissipates
+with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast
+with a spell slot, the slot isn’t expended.</pre></details></div><div class="cmp"><span class="fit close">Close</span><p class="note">Ends ongoing magical effects, which matches breaking seals.</p><details class="q"><summary>Dispel Magic <span class="src">Spell · SRD p. 124</span></summary><pre>Dispel Magic
+
+Level 3 Abjuration (Bard, Cleric, Druid, Paladin,
+Ranger, Sorcerer, Warlock, Wizard)
+Casting Time: Action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+
+Choose one creature, object, or magical effect
+within range. Any ongoing spell of level 3 or lower
+on the target ends. For each ongoing spell of level 4
+or higher on the target, make an ability check using
+your spellcasting ability (DC 10 plus that spell’s
+level). On a successful check, the spell ends.
+Using a Higher-Level Spell Slot. You automatically end a spell on the target if the spell’s level is
+equal to or less than the level of the spell slot you
+use.</pre></details></div></div></div></details><details class="sk"><summary>Greater blood magic<span class="game">F&amp;H1 · Soul skills · Enki</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Years spent studying blood magic has given you an ability to use magic more efficiently.</p><p><b>Effect:</b> Increases the potential of blood magic, enabling the use of greater versions of Hurting, Necromancy and Blood golem.</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>La Danse Macabre<span class="game">F&amp;H2 · Contestant skills · O&#x27;saa</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A ritual dance used to channel otherwordly powers to be used by the performer. Raises otherwordly powers gradually over the course of a fight. A passive skill.</p><p><b>Effect:</b> Increases M.Attack at the end of each turn for 3 turns: - Turn 1 - ×150% M.Attack - Turn 2 - ×270% M.Attack - Turn 3 - ×500% M.Attack</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Meditation<span class="game">F&amp;H2 · Contestant skills · O&#x27;saa</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Reach a higher state of awareness. Meditate while guarding to gain extra Rev points on that turn.</p><p><b>Effect:</b> Guarding grants +2 Rev points at the end of the turn. ⚠ *(known bug listed on the wiki)*</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A pool of points that fuels other features; Rev points are a similar idea.</p><details class="q"><summary>Font of Magic (Sorcerer) <span class="src">Class feature · SRD p. 66</span></summary><pre>Level 2: Font of Magic
+
+You can tap into the wellspring of magic within
+yourself. This wellspring is represented by Sorcery
+Points, which allow you to create a variety of magical effects.
+You have 2 Sorcery Points, and you gain more as
+you reach higher levels, as shown in the Sorcery
+Points column of the Sorcerer Features table. You
+can’t have more Sorcery Points than the number
+shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
+You can use your Sorcery Points to fuel the options below, along with other features, such as
+Metamagic, that use those points.
+Converting Spell Slots to Sorcery Points. You
+can expend a spell slot to gain a number of Sorcery
+Points equal to the slot’s level (no action required).
+Creating Spell Slots. As a Bonus Action, you can
+transform unexpended Sorcery Points into one spell
+slot. The Creating Spell Slots table shows the cost
+of creating a spell slot of a given level, and it lists
+the minimum Sorcerer level you must be to create
+a slot. You can create a spell slot no higher than
+level 5.
+Any spell slot you create with this feature vanishes when you finish a Long Rest.</pre></details></div></div></div></details><details class="sk"><summary>Greater meditation<span class="game">F&amp;H2 · Contestant skills · O&#x27;saa</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Reach a greater state of awareness. Meditate while guarding to gain even more Rev points on that turn.</p><p><b>Effect:</b> No effect. ⚠ *(known bug listed on the wiki)*</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Spice forge<span class="game">F&amp;H2 · Contestant skills · O&#x27;saa</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Spice forges were widely used by magick practitioners of the Middle East back in the day. Spices make it possible to customize the properties of your otherwordly skills.</p><p><b>Effect:</b> Give spells special effects. First (White) magic happens at the start of battle; Second (Red) magic casts a spell twice at once but hits a random target; Greater (Blue) magic costs less Mind.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Alter a spell as you cast it by spending points.</p><details class="q"><summary>Metamagic (Sorcerer) <span class="src">Class feature · SRD p. 66</span></summary><pre>Level 2: Metamagic
+Because your magic flows from within, you can
+alter your spells to suit your needs; you gain two
+Metamagic options of your choice from “Meta­magic
+Options” later in this class’s description. You use
+the chosen options to temporarily modify spells you
+cast. To use an option, you must spend the number
+of Sorcery Points that it costs.
+You can use only one Metamagic option on a spell
+when you cast it unless otherwise noted in one of
+those options.
+
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you
+don’t know. You gain two more options at Sorcerer
+level 10 and two more at Sorcerer level 17.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Changes casting time.</p><details class="q"><summary>Quickened Spell <span class="src">Class feature option · SRD p. 67</span></summary><pre>Quickened Spell
+
+Cost: 2 Sorcery Points
+
+When you cast a spell that has a casting time of an
+action, you can spend 2 Sorcery Points to change
+the casting time to a Bonus Action for this casting.
+You can’t modify a spell in this way if you’ve already
+cast a level 1+ spell on the current turn, nor can you
+cast a level 1+ spell on this turn after modifying a
+spell in this way.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Affects an additional target of a spell.</p><details class="q"><summary>Twinned Spell <span class="src">Class feature option · SRD p. 67</span></summary><pre>Twinned Spell
+
+Cost: 1 Sorcery Point
+
+When you cast a spell, such as Charm Person, that
+can be cast with a higher-level spell slot to target an
+additional creature, you can spend 1 Sorcery Point
+to increase the spell’s effective level by 1.</pre></details></div></div></div></details><details class="sk"><summary>Premonitions<span class="game">F&amp;H2 · Unused skills · Marina</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> Shows images displaying some potential important events during the current time and day</p><p><b>Unlock:</b> Marina (Enlightened soul) (Demo)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Gives an omen about the results of a planned course of action.</p><details class="q"><summary>Augury <span class="src">Spell · SRD p. 111</span></summary><pre>Augury
+
+Level 2 Divination (Cleric, Druid, Wizard)
+
+Casting Time: 1 minute or Ritual
+Range: Self
+Components: V, S, M (specially marked sticks, bones,
+cards, or other divinatory tokens worth 25+ GP)
+Duration: Instantaneous
+
+You receive an omen from an otherworldly entity
+about the results of a course of action that you plan
+to take within the next 30 minutes. The GM chooses
+the omen from the Omens table.
+
+Omens
+Omen
+
+For Results That Will Be …
+
+Weal
+
+Good
+
+Woe
+
+Bad
+
+Weal and woe
+
+Good and bad
+
+Indifference
+
+Neither good nor bad
+
+The spell doesn’t account for circumstances, such as
+other spells, that might change the results.
+If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent
+chance for each casting after the first that you get
+no answer.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Answers a question about events within 7 days.</p><details class="q"><summary>Divination <span class="src">Spell · SRD p. 125</span></summary><pre>Divination
+
+Level 4 Divination (Cleric, Druid, Wizard)
+Casting Time: Action or Ritual
+Range: Self
+Components: V, S, M (incense worth 25+ GP, which the
+spell consumes)
+Duration: Instantaneous
+
+This spell puts you in contact with a god or a god’s
+servants. You ask one question about a specific goal,
+event, or activity to occur within 7 days. The GM offers a truthful reply, which might be a short phrase
+or cryptic rhyme. The spell doesn’t account for circumstances that might change the answer, such as
+the casting of other spells.
+If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent
+chance for each casting after the first that you get
+no answer.</pre></details></div></div></div></details><details class="sk"><summary>Third eye<span class="game">F&amp;H2 · Unused skills · Marina</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Awaken your inner third eye - A deep form of enlightenment. Greatly raise your Rev Point regeneration per turns.</p><p><b>Effect:</b> Grants max Rev points at the end of each turn.</p><p><b>Unlock:</b> Marina (Enlightened soul) (Demo)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details></div></details>
+<details class="soul" data-name="gladiatorial" data-kind="stub"><summary><span class="sn">Gladiatorial</span><span class="chips"><span class="chip m">May</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="halved" data-kind="stub"><summary><span class="sn">Halved</span><span class="chips"><span class="chip m">April</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="innocent" data-kind="stub"><summary><span class="sn">Innocent</span><span class="chips"><span class="chip m">September</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="latent" data-kind="compared"><summary><span class="sn">Latent</span><span class="chips"><span class="chip m">August</span><span class="chip">5/6 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Tanaka</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A stat package: Ability Score Improvement feats and damage Resistance.</p><details class="sk"><summary>Agility +1<span class="game">F&amp;H2 · Contestant skills · Tanaka</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> +1 Agility.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Increases an ability score; the feat gives +2 to one score or +1 to two.</p><details class="q"><summary>Ability Score Improvement (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Ability Score Improvement
+
+General Feat (Prerequisite: Level 4+)
+Increase one ability score of your choice by 2, or
+increase two ability scores of your choice by 1. This
+feat can’t increase an ability score above 20.
+Repeatable. You can take this feat more than
+once.</pre></details></div></div></div></details><details class="sk"><summary>Attack +1<span class="game">F&amp;H2 · Contestant skills · Tanaka</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> +1 Attack.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Increases an ability score, not an Attack stat.</p><details class="q"><summary>Ability Score Improvement (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Ability Score Improvement
+
+General Feat (Prerequisite: Level 4+)
+Increase one ability score of your choice by 2, or
+increase two ability scores of your choice by 1. This
+feat can’t increase an ability score above 20.
+Repeatable. You can take this feat more than
+once.</pre></details></div></div></div></details><details class="sk"><summary>Defense +1<span class="game">F&amp;H2 · Contestant skills · Tanaka</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> +1 Defense. For each Defense +1 skill learned, the character will gain the following: 1. ×98% Fire, Slashing, Piercing, Blunt received 2. ×97% Fire, Slashing, Piercing, Blunt received 3. ×95% Fire, Slashing, Piercing, Blunt received</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Resistance halves damage of a type; the wiki gives small percentage reductions.</p><details class="q"><summary>Resistance <span class="src">Rules glossary · SRD p. 187</span></summary><pre>Resistance
+
+If you have Resistance to a damage type, damage
+of that type is halved against you (round down).
+Resistance is applied only once to an instance of
+damage. See also “Playing the Game” (“Damage and
+Healing”).</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Raises an ability score.</p><details class="q"><summary>Ability Score Improvement (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Ability Score Improvement
+
+General Feat (Prerequisite: Level 4+)
+Increase one ability score of your choice by 2, or
+increase two ability scores of your choice by 1. This
+feat can’t increase an ability score above 20.
+Repeatable. You can take this feat more than
+once.</pre></details></div></div></div></details><details class="sk"><summary>Magic defense +1<span class="game">F&amp;H2 · Contestant skills · Tanaka</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> +1 M.Defense. For each Magic defense +1 skill learned, the character will gain the following: 1. ×97% Otherworldly received 2. ×95% Otherworldly received</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Resistance halves damage of a type; the wiki gives small percentage reductions.</p><details class="q"><summary>Resistance <span class="src">Rules glossary · SRD p. 187</span></summary><pre>Resistance
+
+If you have Resistance to a damage type, damage
+of that type is halved against you (round down).
+Resistance is applied only once to an instance of
+damage. See also “Playing the Game” (“Damage and
+Healing”).</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">Raises an ability score.</p><details class="q"><summary>Ability Score Improvement (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Ability Score Improvement
+
+General Feat (Prerequisite: Level 4+)
+Increase one ability score of your choice by 2, or
+increase two ability scores of your choice by 1. This
+feat can’t increase an ability score above 20.
+Repeatable. You can take this feat more than
+once.</pre></details></div></div></div></details><details class="sk"><summary>Magic attack +1<span class="game">F&amp;H2 · Contestant skills · Tanaka</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> +1 M.Attack.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Increases an ability score, not a Magic Attack stat.</p><details class="q"><summary>Ability Score Improvement (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Ability Score Improvement
+
+General Feat (Prerequisite: Level 4+)
+Increase one ability score of your choice by 2, or
+increase two ability scores of your choice by 1. This
+feat can’t increase an ability score above 20.
+Repeatable. You can take this feat more than
+once.</pre></details></div></div></div></details><details class="sk"><summary>Rugged handsome looks<span class="game">F&amp;H2 · Unused skills · Tanaka</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>The skill doesn&#x27;t necessarily translate to everyone. Beauty is in the eye of beholder after all.</p><p><b>Unlock:</b> Tanaka (Latent soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details></div></details>
+<details class="soul" data-name="loving" data-kind="stub"><summary><span class="sn">Loving</span><span class="chips"><span class="chip m">September</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="meta">Occurs only at Solstices/Equinoxes (per the wiki).</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="mourning" data-kind="stub"><summary><span class="sn">Mourning</span><span class="chips"><span class="chip m">November</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="order" data-kind="stub"><summary><span class="sn">Order</span><span class="chips"><span class="chip m">June</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="meta">Occurs only at Solstices/Equinoxes (per the wiki).</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="radiating" data-kind="compared"><summary><span class="sn">Radiating</span><span class="chips"><span class="chip m">January</span><span class="chip">0/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Samarie</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>No SRD comparable for the listed skills; both are ritual-circle actions specific to Fear &amp; Hunger.</p><details class="sk"><summary>Blood sacrifice<span class="game">F&amp;H2 · Contestant skills · Samarie</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Sacrifice your own blood for Gro-goroth, the god of destruction. A blood sacrifice will enhance your affinity with the said god. Sacrifices like these were everyday occurences back in the day.</p><p><b>Effect:</b> Increases Gro-goroth affinity when used on Gro-goroth ritual circles, can be used multiple times (Except at the Abandoned House circle). ⚠ *(known bug listed on the wiki)* Removes 150 Body on use and leaves player with 1 Body, unless attempted with less than 50 Body which results in death.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Masturbation<span class="game">F&amp;H2 · Contestant skills · Samarie</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>An act of self-love enhances your affinity with Sylvian when performed on a ritual circle. This act is widely popular among the priests of Vatican when mixed with blood sacrifice.</p><p><b>Effect:</b> Increases Sylvian affinity when used on Sylvian ritual circles, can only be used once per circle.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Greater blood magic<span class="game">F&amp;H2 · Unused skills · Samarie</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Years spent studying blood magic has given you an ability to use magic more efficiently.</p><p><b>Unlock:</b> Samarie (Radiating soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Counter-magic<span class="game">F&amp;H2 · Unused skills · Samarie</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Unlock:</b> Samarie (Radiating soul)</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details></div></details>
+<details class="soul" data-name="shadowed" data-kind="compared"><summary><span class="sn">Shadowed</span><span class="chips"><span class="chip m">December</span><span class="chip">4/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Olivia</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A herbalist-poisoner package: Herbalism Kit, Poisoner&#x27;s Kit, Basic Poison.</p><details class="sk"><summary>Advanced botanism<span class="game">F&amp;H2 · Contestant skills · Olivia</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>The skill to condense the effective properties of herbs and plants to maximize their potential. Teaches you the recipes for condensed blue and green herbs as well as lavender.</p><p><b>Effect:</b> Unlocks recipes for: - Mixed herbs (dark blue, red) - Mixed herbs (dark blue, blue) - Condensed blue - Condensed green - Condensed lavender</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Identify a plant; crafts Antitoxin, Candle, Healer&#x27;s Kit and Potion of Healing.</p><details class="q"><summary>Herbalism Kit <span class="src">Tool · SRD p. 94</span></summary><pre>Herbalism Kit (5 GP)
+Ability: Intelligence
+Weight: 3 lb.
+Utilize: Identify a plant (DC 10)
+Craft: Antitoxin, Candle, Healer’s Kit, Potion of Healing</pre></details></div></div></div></details><details class="sk"><summary>Poison tip<span class="game">F&amp;H2 · Contestant skills · Olivia</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Coat your weapon in poison extracted from the local plantlife. The poison tip takes a small toll on your sanity because of the constant stress of handling a poison coated weapon.</p><p><b>Effect:</b> Applies Poison Tip status, can be used before battle.</p><p><b>Cost:</b> 5 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Coat a weapon for extra Poison damage.</p><details class="q"><summary>Poison, Basic <span class="src">Adventuring gear · SRD p. 99</span></summary><pre>Poison, Basic (100 GP)
+
+As a Bonus Action, you can use a vial of Basic Poison
+to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing
+damage from the poisoned weapon or ammunition
+takes an extra 1d4 Poison damage. Once applied,
+the poison retains potency for 1 minute or until its
+damage is dealt, whichever comes first.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Crafts Basic Poison.</p><details class="q"><summary>Poisoner&#x27;s Kit <span class="src">Tool · SRD p. 94</span></summary><pre>Poisoner’s Kit (50 GP)
+Ability: Intelligence
+Weight: 2 lb.
+Utilize: Detect a poisoned object (DC 10)
+Craft: Basic Poison</pre></details></div></div></div></details><details class="sk"><summary>Undergrowth awareness<span class="game">F&amp;H2 · Contestant skills · Olivia</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>You can harvest irritable and poisonous plants safely and also tell apart the plants that have potential use in your situation. A passive skill useful on the field.</p><p><b>Effect:</b> Gives an option to harvest Dark blue root, Poison hemlock, Nettle and Wild dagga in the overworld.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Identify a plant (DC 10); harvesting has no SRD rule.</p><details class="q"><summary>Herbalism Kit <span class="src">Tool · SRD p. 94</span></summary><pre>Herbalism Kit (5 GP)
+Ability: Intelligence
+Weight: 3 lb.
+Utilize: Identify a plant (DC 10)
+Craft: Antitoxin, Candle, Healer’s Kit, Potion of Healing</pre></details></div></div></div></details><details class="sk"><summary>Toxicology<span class="game">F&amp;H2 · Contestant skills · Olivia</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>The skill to condense the effective properties of different poisonous plants to maximize their potential. Teaches you the recipes for condensed nettle and condensed hemlock.</p><p><b>Effect:</b> Unlocks recipes for: - Condensed nettle - Condensed hemlock</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Tool kit for making poisons.</p><details class="q"><summary>Poisoner&#x27;s Kit <span class="src">Tool · SRD p. 94</span></summary><pre>Poisoner’s Kit (50 GP)
+Ability: Intelligence
+Weight: 2 lb.
+Utilize: Detect a poisoned object (DC 10)
+Craft: Basic Poison</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="shepherding" data-kind="stub"><summary><span class="sn">Shepherding</span><span class="chips"><span class="chip m">June</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="solitary" data-kind="compared"><summary><span class="sn">Solitary</span><span class="chips"><span class="chip m">May</span><span class="chip">2/4 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Levi</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A marksman package: ranged-attack bonuses in the manner of the Archery feat.</p><details class="sk"><summary>Gun proficiency<span class="game">F&amp;H2 · Contestant skills · Levi</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Proficiency with firearms gives you greater accuracy while shooting. A passive skill.</p><p><b>Effect:</b> Gives +30% Hit Rate when Lugr Pistol, Rifle .303 Mk I or 12-gauge Trenchgun are equipped in battle.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">The SRD weapon table lists a Pistol and a Musket as Martial Ranged weapons; proficiency is a flat rule, not a percentage hit rate.</p><details class="q"><summary>Pistol and Musket (weapon table) <span class="src">Weapon table · SRD p. 91</span></summary><pre>Martial Ranged Weapons (rows reformatted from the SRD table; columns are Name, Damage, Properties, Mastery, Weight, Cost)
+
+| Name | Damage | Properties | Mastery | Weight | Cost |
+|---|---|---|---|---|---|
+| Musket | 1d12 Piercing | Ammunition (Range 40/120; Bullet), Loading, Two-Handed | Slow | 10 lb. | 500 GP |
+| Pistol | 1d10 Piercing | Ammunition (Range 30/90; Bullet), Loading | Vex | 3 lb. | 250 GP |</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">A +2 bonus to attack rolls with Ranged weapons.</p><details class="q"><summary>Archery (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Archery
+
+Fighting Style Feat (Prerequisite: Fighting Style
+Feature)
+You gain a +2 bonus to attack rolls you make with
+Ranged weapons.</pre></details></div></div></div></details><details class="sk"><summary>Gunslinger<span class="game">F&amp;H2 · Contestant skills · Levi</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Advanced use of pistols. Precise shots can occasionally dismember opponents. Used on field.</p><p><b>Effect:</b> Allows you to dismember enemies in the overworld with Lugr Pistol.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Executioner<span class="game">F&amp;H2 · Contestant skills · Levi</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Advanced use of trenchguns. You are able to execute a stunned enemy by shooting it again on the field.</p><p><b>Effect:</b> No effect. ⚠ *(known bug listed on the wiki)*</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Marksmanship<span class="game">F&amp;H2 · Contestant skills · Levi</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Advanced use of rifles. You are able to one-shot enemies with the rifle every now and then. Used on field.</p><p><b>Effect:</b> Gives a 25% chance to instantly kill most enemies in the overworld with Rifle .303 Mk I or Bayonet.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A flat bonus to ranged attacks; the SRD has no instant-kill rule.</p><details class="q"><summary>Archery (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Archery
+
+Fighting Style Feat (Prerequisite: Fighting Style
+Feature)
+You gain a +2 bonus to attack rolls you make with
+Ranged weapons.</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="stagnant" data-kind="stub"><summary><span class="sn">Stagnant</span><span class="chips"><span class="chip m">July</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="submissive" data-kind="stub"><summary><span class="sn">Submissive</span><span class="chips"><span class="chip m">June</span><span class="chip stub">no data</span></span></summary><div class="sb"><p class="meta">Introduced in: Miros Tweet (per the wiki)</p><p class="none">The wiki lists no skills and no in-game description for this soul, so no 5e version was written. Needs game-file text.</p></div></details>
+<details class="soul" data-name="suffocated" data-kind="compared"><summary><span class="sn">Suffocated</span><span class="chips"><span class="chip m">December</span><span class="chip">2/3 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Henryk</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A provisioner package: Cook&#x27;s Utensils and endurance-style features.</p><details class="sk"><summary>Slow metabolism<span class="game">F&amp;H2 · Contestant skills · Henryk</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Slowing down your breath and concentrating on the matters at hand. You don&#x27;t need to eat quite as often. You only need few good meals a day.</p><p><b>Effect:</b> Adds +37 seconds to the Hunger timer.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Melee proficiency<span class="game">F&amp;H2 · Contestant skills · Henryk</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Proficiency with melee weapons gives you greater accuracy when fighting with a weapon you can swing. A passive skill.</p><p><b>Effect:</b> Gives +30% Hit Rate when melee weapons are equipped in battle.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A melee-only improvement, to damage dice rather than hit rate.</p><details class="q"><summary>Great Weapon Fighting (feat) <span class="src">Feat · SRD p. 88</span></summary><pre>Great Weapon Fighting
+
+Fighting Style Feat (Prerequisite: Fighting Style
+Feature)
+
+When you roll damage for an attack you make with
+a Melee weapon that you are holding with two
+hands, you can treat any 1 or 2 on a damage die as a
+3. The weapon must have the Two-Handed or Versatile property to gain this benefit.</pre></details></div></div></div></details><details class="sk"><summary>Masterchef<span class="game">F&amp;H2 · Contestant skills · Henryk</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Greater culinary skills enable you to cook meals that have special nutritional properties. These include various stat boosts.</p><p><b>Effect:</b> Unlocks recipes for: - Meatpie+ - Vegetable pie+ - Mushroom stew+ - Goulash+</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Improve food&#x27;s flavor or detect spoiled food; crafts Rations.</p><details class="q"><summary>Cook&#x27;s Utensils <span class="src">Tool · SRD p. 93</span></summary><pre>Cook’s Utensils (1 GP)
+Ability: Wisdom
+Weight: 8 lb.
+Utilize: Improve food’s flavor (DC 10), or detect spoiled
+or poisoned food (DC 15)
+Craft: Rations</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="tainted" data-kind="compared"><summary><span class="sn">Tainted</span><span class="chips"><span class="chip m">January</span><span class="chip">7/7 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: Marcoh</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A martial-artist package: Unarmed Strike and Martial Arts, Dodge, Deflect Attacks, Flurry of Blows, Haste.</p><details class="sk"><summary>Bare-fisted proficiency<span class="game">F&amp;H2 · Contestant skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Proficiency with your bare fists gives you greater accuracy when fighting without a weapon. A passive skill.</p><p><b>Effect:</b> Gives +30% Hit Rate when no weapon is equipped in battle.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">The base rules for fighting without a weapon.</p><details class="q"><summary>Unarmed Strike <span class="src">Rules glossary · SRD p. 190</span></summary><pre>Unarmed Strike
+
+Instead of using a weapon to make a melee attack,
+you can use a punch, kick, headbutt, or similar
+forceful blow. In game terms, this is an Unarmed
+Strike—a melee attack that involves you using your
+body to damage, grapple, or shove a target within 5
+feet of you.
+Whenever you use your Unarmed Strike, choose
+one of the following options for its effect.
+Damage. You make an attack roll against the
+target. Your bonus to the roll equals your Strength
+modifier plus your Proficiency Bonus. On a hit, the
+target takes Bludgeoning damage equal to 1 plus
+your Strength modifier.
+Grapple. The target must succeed on a Strength
+or Dexterity saving throw (it chooses which), or it
+has the Grappled condition. The DC for the saving
+throw and any escape attempts equals 8 plus your
+Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one
+size larger than you and if you have a hand free to
+grab it. See also “Grappling.”
+Shove. The target must succeed on a Strength or
+Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone
+condition. The DC for the saving throw equals 8 plus
+your Strength modifier and Proficiency Bonus. This
+shove is possible only if the target is no more than
+one size larger than you.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">Improves Unarmed Strike and Monk weapons.</p><details class="q"><summary>Martial Arts (Monk) <span class="src">Class feature · SRD p. 50</span></summary><pre>Level 1: Martial Arts
+Your practice of martial arts gives you mastery of
+combat styles that use your Unarmed Strike and
+Monk weapons, which are the following:
+• Simple Melee weapons
+• Martial Melee weapons that have the Light
+property
+
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing armor or wielding a Shield.
+Bonus Unarmed Strike. You can make an Unarmed Strike as a Bonus Action.
+Martial Arts Die. You can roll 1d6 in place of the
+normal damage of your Unarmed Strike or Monk
+weapons. This die changes as you gain Monk levels,
+as shown in the Martial Arts column of the Monk
+Features table.
+Dexterous Attacks. You can use your Dexterity
+modifier instead of your Strength modifier for the
+attack and damage rolls of your Unarmed Strikes
+and Monk weapons. In addition, when you use the
+Grapple or Shove option of your Unarmed Strike,
+you can use your Dexterity modifier instead of your
+Strength modifier to determine the save DC.</pre></details></div></div></div></details><details class="sk"><summary>Bob and weave<span class="game">F&amp;H2 · Contestant skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A defensive technique where one bobs their head laterally to an incoming attack while shifting balance to either left or right. Raises evasion greatly.</p><p><b>Effect:</b> Applies Evasion Buff status.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Disadvantage on attacks against you and advantage on Dexterity saves until your next turn.</p><details class="q"><summary>Dodge [Action] <span class="src">Rules glossary · SRD p. 181</span></summary><pre>Dodge [Action]
+
+If you take the Dodge action, you gain the following
+benefits: until the start of your next turn, any attack
+roll made against you has Disadvantage if you can
+see the attacker, and you make Dexterity saving
+throws with Advantage.
+You lose these benefits if you have the Incapacitated condition or if your Speed is 0.</pre></details></div></div></div></details><details class="sk"><summary>Perfect guard<span class="game">F&amp;H2 · Contestant skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>While guarding your damage is reduced even further and you can evade the most drastic physical trauma.</p><p><b>Effect:</b> Prevents limb loss while guarding until the end of the turn.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A Reaction that raises AC for a turn; it doesn&#x27;t prevent limb loss, which has no SRD equivalent.</p><details class="q"><summary>Shield <span class="src">Spell · SRD p. 161</span></summary><pre>Shield
+
+Level 1 Abjuration (Sorcerer, Wizard)
+
+Casting Time: Reaction, which you take when you are
+hit by an attack roll or targeted by the Magic Missile
+spell
+Range: Self
+Components: V, S
+Duration: 1 round
+
+An imperceptible barrier of magical force protects
+you. Until the start of your next turn, you have a +5
+
+bonus to AC, including against the triggering attack,
+and you take no damage from Magic Missile.</pre></details></div></div></div></details><details class="sk"><summary>Counter stance<span class="game">F&amp;H2 · Contestant skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Stay alert for enemy attacks and counter when possible.</p><p><b>Effect:</b> Applies Counter status. *Counter stance* does not work with the Lugr Pistol, Rifle .303 Mk I or 12-gauge Trenchgun, but works with the Bayonet</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">A Reaction that reduces a hit&#x27;s damage and can redirect force.</p><details class="q"><summary>Deflect Attacks (Monk) <span class="src">Class feature · SRD p. 51</span></summary><pre>Level 3: Deflect Attacks
+
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage,
+you can take a Reaction to reduce the attack’s total
+damage against you. The reduction equals 1d10 plus
+your Dexterity modifier and Monk level.
+If you reduce the damage to 0, you can expend 1
+Focus Point to redirect some of the attack’s force.
+If you do so, choose a creature you can see within 5
+feet of yourself if the attack was a melee attack or a
+creature you can see within 60 feet of yourself that
+isn’t behind Total Cover if the attack was a ranged
+attack. That creature must succeed on a Dexterity
+saving throw or take damage equal to two rolls of
+your Martial Arts die plus your Dexterity modifier.
+The damage is the same type dealt by the attack.</pre></details></div><div class="cmp"><span class="fit loose">Loose</span><p class="note">A Reaction attack triggered by a creature leaving your reach.</p><details class="q"><summary>Opportunity Attacks <span class="src">Rules glossary · SRD p. 185</span></summary><pre>Opportunity Attacks
+
+You can make an Opportunity Attack when a creature that you can see leaves your reach using its
+action, its Bonus Action, its Reaction, or one of its
+speeds. To make the Opportunity Attack, take a Reaction to make one melee attack with a weapon or
+an Unarmed Strike against the provoking creature.
+The attack occurs right before the creature leaves
+your reach. See also “Playing the Game” (“Combat”).</pre></details></div></div></div></details><details class="sk"><summary>Adrenaline rush<span class="game">F&amp;H2 · Contestant skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>The longer the combat goes on, the stronger you get as your blood boils ever hotter.</p><p><b>Effect:</b> Increases Attack at the end of each turn for 3 turns: - Turn 1 - ×105% Attack - Turn 2 - ×110% Attack - Turn 3 - ×130% Attack</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A temporary combat boost; this skill escalates over three turns, which no SRD feature does.</p><details class="q"><summary>Haste <span class="src">Spell · SRD p. 139</span></summary><pre>Haste
+
+Level 3 Transmutation (Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M (a shaving of licorice root)
+Duration: Concentration, up to 1 minute
+
+Choose a willing creature that you can see within
+range. Until the spell ends, the target’s Speed is
+doubled, it gains a +2 bonus to Armor Class, it has
+Advantage on Dexterity saving throws, and it gains
+an additional action on each of its turns. That action can be used to take only the Attack (one attack
+only), Dash, Disengage, Hide, or Utilize action.
+When the spell ends, the target is Incapacitated
+and has a Speed of 0 until the end of its next turn, as
+a wave of lethargy washes over it.</pre></details></div></div></div></details><details class="sk"><summary>Fast stance<span class="game">F&amp;H2 · Contestant skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Raise your speed with swift footwork. In most cases you get and extra turn between enemy attacks.</p><p><b>Effect:</b> Applies Speed Buff status.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit partial">Partial</span><p class="note">Doubles Speed and grants an extra action for the duration.</p><details class="q"><summary>Haste <span class="src">Spell · SRD p. 139</span></summary><pre>Haste
+
+Level 3 Transmutation (Sorcerer, Wizard)
+
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M (a shaving of licorice root)
+Duration: Concentration, up to 1 minute
+
+Choose a willing creature that you can see within
+range. Until the spell ends, the target’s Speed is
+doubled, it gains a +2 bonus to Armor Class, it has
+Advantage on Dexterity saving throws, and it gains
+an additional action on each of its turns. That action can be used to take only the Attack (one attack
+only), Dash, Disengage, Hide, or Utilize action.
+When the spell ends, the target is Incapacitated
+and has a Speed of 0 until the end of its next turn, as
+a wave of lethargy washes over it.</pre></details></div></div></div></details><details class="sk"><summary>Quick jabs<span class="game">F&amp;H2 · General skills · Marcoh</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p><b>Effect:</b> Deals 120-180 (50 + Attack * 4 - 20 (20% variance)) damage twice to one target.</p><p><b>Cost:</b> Free</p><p><b>Success rate:</b> 100% (Physical Attack)</p><p><b>Unlock:</b> Replaces Marcoh&#x27;s *Attack* skill when bare-handed</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">Flurry of Blows is two Unarmed Strikes as a Bonus Action.</p><details class="q"><summary>Monk&#x27;s Focus (Flurry of Blows, Patient Defense, Step of the Wind) <span class="src">Class feature · SRD p. 50</span></summary><pre>Level 2: Monk’s Focus
+
+Your focus and martial training allow you to harness a well of extraordinary energy within yourself.
+This energy is represented by Focus Points. Your
+Monk level determines the number of points you
+have, as shown in the Focus Points column of the
+Monk Features table.
+You can expend these points to enhance or fuel
+certain Monk features. You start knowing three
+such features: Flurry of Blows, Patient Defense, and
+Step of the Wind, each of which is detailed below.
+When you expend a Focus Point, it is unavailable
+until you finish a Short or Long Rest, at the end of
+which you regain all your expended points.
+Some features that use Focus Points require your
+target to make a saving throw. The save DC equals 8
+plus your Wisdom modifier and Proficiency Bonus.
+Flurry of Blows. You can expend 1 Focus Point to
+make two Unarmed Strikes as a Bonus Action.
+Patient Defense. You can take the Disengage
+action as a Bonus Action. Alternatively, you can
+
+expend 1 Focus Point to take both the Disengage
+and the Dodge actions as a Bonus Action.
+Step of the Wind. You can take the Dash action
+as a Bonus Action. Alternatively, you can expend 1
+Focus Point to take both the Disengage and Dash
+actions as a Bonus Action, and your jump distance is
+doubled for the turn.</pre></details></div></div></div></details></div></details>
+<details class="soul" data-name="tormented" data-kind="compared"><summary><span class="sn">Tormented</span><span class="chips"><span class="chip m">July</span><span class="chip">2/8 matched</span></span></summary><div class="sb"><p class="meta">Contestants in the wiki tables: August, Ragnvaldr</p><p class="sug"><b>Suggested 5e shape</b> <i>(design suggestion, not book text)</i><br>A defiant-survivor package: Relentless Endurance or Death Ward style survival, Archery.</p><details class="sk"><summary>Devour<span class="game">F&amp;H1 · Soul skills · Ragnvaldr</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A barbaric trait of devouring the carcass of your enemies to ease hunger.</p><p><b>Effect:</b> Gives an option to eat defeated enemies in the overworld to restore hunger.</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>War cry<span class="game">F&amp;H1 · Soul skills · Ragnvaldr</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Provoke the enemy into attacking you.</p><p><b>Effect:</b> Enemies will start focusing you for the rest of the battle.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Marksmanship<span class="game">F&amp;H1 · Soul skills · Ragnvaldr</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>High level archery skill. Use your accurate shots to finish off opponents from distance.</p><p><b>Effect:</b> Allows you to kill enemies with a Short bow and Iron arrow by shooting them with [SHIFT].</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit loose">Loose</span><p class="note">A flat bonus to ranged attacks; the SRD has no &#x27;shoot to kill&#x27; rule.</p><details class="q"><summary>Archery (feat) <span class="src">Feat · SRD p. 87</span></summary><pre>Archery
+
+Fighting Style Feat (Prerequisite: Fighting Style
+Feature)
+You gain a +2 bonus to attack rolls you make with
+Ranged weapons.</pre></details></div></div></div></details><details class="sk"><summary>Bloodlust<span class="game">F&amp;H1 · General skills · Ragnvaldr</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Hype yourself into a state of aggression and trance. An old traditional Oldegård folk skill.</p><p><b>Effect:</b> Applies Bloodlust status.</p><p><b>Cost:</b> 10 Mind</p><p><b>Unlock:</b> Ragnvaldr starting choice / Scroll of berserk</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>War cry<span class="game">F&amp;H2 · Contestant skills · August</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Provoke the enemy into attacking you only, leaving others alone.</p><p><b>Effect:</b> Enemies will start focusing you for the rest of the battle.</p><p><b>Cost:</b> Free</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Bloodlust<span class="game">F&amp;H2 · Contestant skills · August</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Hype yourself into a state of aggression and trance. An old traditional Oldegårdian folk skill.</p><p><b>Effect:</b> Applies Bloodlust status.</p><p><b>Cost:</b> 10 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Devour<span class="game">F&amp;H2 · Contestant skills · August</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>A barbaric trait of devouring the carcass of your opponents to ease hunger.</p><p><b>Effect:</b> No effect. ⚠ *(known bug listed on the wiki)*</p><p><b>Cost:</b> Passive</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><p class="none">No SRD 5.2.1 passage found that covers this skill.</p></div></div></details><details class="sk"><summary>Sisu<span class="game">F&amp;H2 · Contestant skills · August</span></summary><div class="skb"><div class="wiki"><span class="lab">Wiki</span><p>Your will to live. You just grind your teeth together instead of dying. You&#x27;re not ready just yet.</p><p><b>Effect:</b> Upon being hit, if it would kill the user then it leaves them at 1 Body instead, removed upon reaching 1 Body.</p><p><b>Cost:</b> 10 Mind</p></div><div class="five"><span class="lab">5e (2024 SRD)</span><div class="cmp"><span class="fit close">Close</span><p class="note">When reduced to 0 Hit Points, drop to 1 Hit Point instead, once per Long Rest.</p><details class="q"><summary>Relentless Endurance (Orc trait) <span class="src">Species trait · SRD p. 86</span></summary><pre>Relentless Endurance. When you are reduced to
+0 Hit Points but not killed outright, you can drop to
+1 Hit Point instead. Once you use this trait, you can’t
+do so again until you finish a Long Rest.</pre></details></div><div class="cmp"><span class="fit partial">Partial</span><p class="note">The first time the target would drop to 0 Hit Points, it drops to 1 instead.</p><details class="q"><summary>Death Ward <span class="src">Spell · SRD p. 122</span></summary><pre>Death Ward
+
+Level 4 Abjuration (Cleric, Paladin)
+Casting Time: Action
+Range: Touch
+Components: V, S
+Duration: 8 hours
+
+You touch a creature and grant it a measure of protection from death. The first time the target would
+drop to 0 Hit Points before the spell ends, the target
+instead drops to 1 Hit Point, and the spell ends.
+If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against
+the target, and the spell ends.</pre></details></div></div></div></details></div></details>
+</main>
+<footer>
+<p>Fit ratings, notes and suggested shapes are the author's judgment, not book text. Only the quoted passages are rules text. 13 souls have no skills or description on the wiki, so they have no 5e version. The SRD is a subset of the 2024 core books; rules outside it are not included.</p>
+<p>Fear &amp; Hunger skill text: Fear &amp; Hunger Wiki (fearandhunger.wiki.gg), CC BY-SA 4.0.</p>
+<p>This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.</p>
+</footer>
+<script>
+(function(){
+var q=document.getElementById('q'),souls=[].slice.call(document.querySelectorAll('.soul')),f='all',open=false;
+function apply(){var t=q.value.trim().toLowerCase();souls.forEach(function(s){var ok=(f==='all'||s.dataset.kind===f)&&(!t||s.dataset.name.indexOf(t)>-1);s.classList.toggle('hide',!ok)})}
+q.addEventListener('input',apply);
+[].forEach.call(document.querySelectorAll('[data-f]'),function(b){b.addEventListener('click',function(){f=b.dataset.f;[].forEach.call(document.querySelectorAll('[data-f]'),function(x){x.setAttribute('aria-pressed',x===b)});apply()})});
+document.getElementById('ex').addEventListener('click',function(){open=!open;this.setAttribute('aria-pressed',open);this.textContent=open?'Close all':'Open all';souls.forEach(function(s){s.open=open})});
+})();
+</script>
+
+</body></html>
