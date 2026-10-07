@@ -4,6 +4,7 @@ tags: ["gods", "hub"]
 sources: ["[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-hub"]
 ---
 
 # The Gods
@@ -71,9 +72,9 @@ Below is a compilation of all the Gods depicted within the *Fear & Hunger* serie
 
 _Image caption: A clock plate from the [Bohemia National Museum](https://fearandhunger.wiki.gg/wiki/Museum) at [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil_(Inner_City)). The smaller sphere depicts ten runic symbols of Old Gods. Clockwise: Sulfur (second); Alll-mer (third); Rher (fourth); Sylvian (fifth); Gro-goroth (sixth); Vinushka (eighth); God of the Depths (ninth). Other symbols are currently unknown._
 
-The world of Fear & Hunger presents a diverse pantheon, rather than a centralised religion. The pantheon is composed of numerous influential Gods said to originate from the mysterious Green Hue, each representing a concept. Most information regarding the gods in-game comes from second-hand sources, bar [[Gro-goroth|some exceptions]]. They are believed to have existed since the dawn of time, and some are worshipped by [older civilisations](https://fearandhunger.wiki.gg/wiki/Lizardman). There is also evidence that the number of older gods presented in the games is not limited to the known deities. In Fear and Hunger Termina, we see a clock in the museum that presents ten gods and their sigils. It's possible that these were the gods worshipped by the city's population at the time of the clock's creation. 
+The world of Fear & Hunger presents a diverse pantheon, rather than a centralised religion. The pantheon is composed of numerous influential Gods said to originate from the mysterious Green Hue, each representing a concept. Most information regarding the gods in-game comes from second-hand sources, bar [[Gro-goroth|some exceptions]]. They are believed to have existed since the dawn of time, and some are worshipped by [older civilisations](https://fearandhunger.wiki.gg/wiki/Lizardman). There is also evidence that the number of older gods presented in the games is not limited to the known deities. In Fear and Hunger Termina, we see a clock in the museum that presents ten gods and their sigils. It's possible that these were the gods worshipped by the city's population at the time of the clock's creation.
 
-Sources from [[Gro-goroth|both]] [games](https://fearandhunger.wiki.gg/wiki/Per'kele%2FDialogue) reveal that the older gods departed the world a long time ago, and now only their faint **traces** remain. There are accounts of old gods "dying"[^1], however, what death would mean for them is not elaborated upon. Additionally, there are in-universe sources that contradict the claim of older gods dying, such as [[God manifesto]] written by [Donnovan Hugo](https://fearandhunger.wiki.gg/wiki/Father_Hugo). 
+Sources from [[Gro-goroth|both]] [games](https://fearandhunger.wiki.gg/wiki/Per'kele%2FDialogue) reveal that the older gods departed the world a long time ago, and now only their faint **traces** remain. There are accounts of old gods "dying"[^1], however, what death would mean for them is not elaborated upon. Additionally, there are in-universe sources that contradict the claim of older gods dying, such as [[God manifesto]] written by [Donnovan Hugo](https://fearandhunger.wiki.gg/wiki/Father_Hugo).
 While their nature remains mysterious, there's ample speculation that range from [simple ideas](https://fearandhunger.wiki.gg/wiki/Le'garde%2FDialogue) to [[Studies of Sylvian I|mythology]], such as Sylvian and Gro-goroth conceiving Vinushka, or [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde) speculating on the nature of the gods being shaped by the human subconcious.
 
 *Source: [[Wiki - The Gods]]*
@@ -88,7 +89,7 @@ While their nature remains mysterious, there's ample speculation that range from
 
 _Image caption: The grand hall of the gods, where inactive new gods reside._
 
-**New Gods** were once mortals who achieved ascension by sitting at the Throne of Ascension in the ancient city of [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre). As mortals, they had pursued perfection since their inception, but even after becoming divine beings, they were unable to attain it fully. In terms of power, they are far inferior to the Old Gods, but they still possess a strength that surpasses that of humans. While their precise count remains a mystery, it is clear that the New Gods far surpass both the Old Gods and Ascended Gods in quantity. 
+**New Gods** were once mortals who achieved ascension by sitting at the Throne of Ascension in the ancient city of [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre). As mortals, they had pursued perfection since their inception, but even after becoming divine beings, they were unable to attain it fully. In terms of power, they are far inferior to the Old Gods, but they still possess a strength that surpasses that of humans. While their precise count remains a mystery, it is clear that the New Gods far surpass both the Old Gods and Ascended Gods in quantity.
 
 Each New God is bestowed their title based on the inherent nature of their soul, such as The Dominant One, The Endless One, and so forth. It appears that more than one New God with the same soul type can coexist during their active time, as two active New Gods of Enlightenment are met during the year of 1590. It is worth mentioning that in at least one instance, a [human without a soul](https://fearandhunger.wiki.gg/wiki/Le'garde) managed to ascend and transform into a distinct type of New God. However, the games do not currently provide sufficient information to elucidate this phenomenon.
 

@@ -1,6 +1,7 @@
 ---
 type: "hub"
 tags: ["skill", "hub"]
+cssclasses: ["fh-vault", "fh-hub"]
 ---
 
 # Soul skills index

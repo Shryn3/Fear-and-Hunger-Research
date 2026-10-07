@@ -6,15 +6,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Tormented One]]", "[[Wiki - The Gods]]", "[[Tormentpedia - The Tormented One]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Tormented One
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -49,11 +46,11 @@ The **Tormented One**, also known as **Ronn Chambara**, is a major story charact
 
 ### Lore
 
-> ***"Also known as Ronn Chambara when he still walked among men as a mere mortal. Once a poet, he believes no great art can be achieved without pain and suffering. He now continues the same principals as a new god."***  
-> 
+> ***"Also known as Ronn Chambara when he still walked among men as a mere mortal. Once a poet, he believes no great art can be achieved without pain and suffering. He now continues the same principals as a new god."***
+>
 > *- The [[The Gods|New Gods]] when asked about the Tormented One.*
 
-Ronn Chambara, once a mortal poet who embraced the belief that great art must be forged from pain and suffering, was a pivotal figure among the Fellowship, a group also formed by [[Francóis]], [[Nilvan]], [[Valteil]], and [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus). Formed in 809, amidst the decline of kingdoms and the fading of ideals without the guidance of the Old Gods, the Fellowship embarked on a journey to [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre) in pursuit of the ancient deities. 
+Ronn Chambara, once a mortal poet who embraced the belief that great art must be forged from pain and suffering, was a pivotal figure among the Fellowship, a group also formed by [[Francóis]], [[Nilvan]], [[Valteil]], and [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus). Formed in 809, amidst the decline of kingdoms and the fading of ideals without the guidance of the Old Gods, the Fellowship embarked on a journey to [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre) in pursuit of the ancient deities.
 
 Upon reaching their destination, all members of the Fellowship, save for Nosramus, ascended as New Gods. Chambara, in particular, rose to become the **Tormented One**. He transformed into a skinless being with chains that inflicted unending torture upon him for hundreds of years. In turn, he extended his pain and suffering to other creatures within the shrines of Ma'habre, including the [Red Men](https://fearandhunger.wiki.gg/wiki/Red_Man). Despite his godhood, Ronn continued to uphold the same principles he held as a mortal poet.
 
@@ -97,7 +94,6 @@ According to the events portrayed in *[[Fear & Hunger 2 Termina|Fear & Hunger 2:
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

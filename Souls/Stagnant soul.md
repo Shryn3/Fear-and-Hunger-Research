@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Stagnant soul
-
-
 
 | | |
 |---|---|

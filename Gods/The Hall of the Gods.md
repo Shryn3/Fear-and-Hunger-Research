@@ -4,6 +4,7 @@ tags: ["gods", "hub"]
 sources: ["[[Wiki - The Hall of the Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-hub"]
 ---
 
 # The Hall of the Gods

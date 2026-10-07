@@ -6,6 +6,7 @@ revid: 41128
 revision_timestamp: "2024-06-13T20:55:41Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Studies of Sylvian I

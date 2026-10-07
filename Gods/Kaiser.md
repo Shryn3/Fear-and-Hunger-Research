@@ -6,15 +6,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Kaiser]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Kaiser
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Facts
 
@@ -30,8 +27,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Detailed page
 
-> ***"What I've done is a necessary step for the mankind."***  
-> 
+> ***"What I've done is a necessary step for the mankind."***
+>
 > *- Kaiser to [[Pav]].*
 
 **Kaiser** is a major antagonist and endgame [Boss](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H2#Bosses-0) encountered in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*. He is the current leader of the [Bremen Army](https://fearandhunger.wiki.gg/wiki/Bremen_Empire).
@@ -44,7 +41,7 @@ The Chancellor of the [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_
 
 Under Kaiser's rule, the Bremen Empire unified with several neighboring states, ultimately attacking the [Eastern Union](https://fearandhunger.wiki.gg/wiki/Eastern_Union) and sparking the Second Great War. As he led his armies to victory, Kaiser became both feared and reviled throughout Europa, with even more rumors circulating about the "horrors" committed by his troops.[^4] In 1942, Kaiser ultimately signed a peace treaty after conquering the Bohemian city of [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil).
 
-Those who know the most about Kaiser understand that he is no ordinary human; his true identity is that of [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde): a prophesied warrior from the Cruel Ages who ascended to near-godhood, becoming a great warlord who wished to unite Europa under a single banner. His efforts, however, were stymied by the simultaneous ascension of the [[God of Fear and Hunger]]. Many rejected Kaiser's message in favor of the new god's, causing his attempts to unify Europa to fail and fade into obscurity. By the twentieth century, he finally claimed power over the [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_Empire); however, humbled by his previous experiences he sought to find someone who could change Europa in his stead. 
+Those who know the most about Kaiser understand that he is no ordinary human; his true identity is that of [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde): a prophesied warrior from the Cruel Ages who ascended to near-godhood, becoming a great warlord who wished to unite Europa under a single banner. His efforts, however, were stymied by the simultaneous ascension of the [[God of Fear and Hunger]]. Many rejected Kaiser's message in favor of the new god's, causing his attempts to unify Europa to fail and fade into obscurity. By the twentieth century, he finally claimed power over the [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_Empire); however, humbled by his previous experiences he sought to find someone who could change Europa in his stead.
 
 Kaiser ultimately found his chance with [[Reila|Project Logic]], a secret project conducted by the Eastern Union within the tunnels beneath Prehevil. Under Logic, a single person would be chosen to be rebirthed as a "Machine God", one who would manipulate the flow of communications and information to form a greater, worldwide collective consciousness. After winning the Second Great War and seizing Prehevil, Kaiser set out to visit the city personally, hoping to direct the creation of the new deity. Unfortunately, [the moon god had other plans...](https://fearandhunger.wiki.gg/wiki/Termina)
 
@@ -95,7 +92,6 @@ Kaiser ultimately found his chance with [[Reila|Project Logic]], a secret projec
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Kaiser]]

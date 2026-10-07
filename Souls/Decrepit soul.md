@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Decrepit soul
-
-
 
 | | |
 |---|---|
@@ -41,7 +40,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Killing intent]]
 - [[Explosives]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -50,7 +48,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Decrepit.png]]
 *Decrepit soul icon (the wiki's Soul type gallery caption: "Decrepit soul.") — file: Soul Decrepit.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Decrepit.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

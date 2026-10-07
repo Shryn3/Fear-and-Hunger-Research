@@ -4,21 +4,22 @@ tags: ["mechanics"]
 sources: ["[[Wiki - Hexen F&H1]]", "[[Tormentpedia - Hexen Table]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-mechanic"]
 ---
 
 # Hexen F&H1
 
 *This page information about the Hexen mechanic in [[Fear & Hunger]]. For information about Hexen in [[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]], see [Hexen F&H2](https://fearandhunger.wiki.gg/wiki/Hexen_F%26H2).*
 
-> *'*"The Hexen creates a connection to [[The Gods|the gods, both new and the old]].  
-> 
-> To get closer to the older gods, you must work your way up and gain their affinity. With each circle you get closer to them.  
-> 
-> The new gods only pass on their knowledge to those who share the same birth sign and soul with them."*'*  
-> 
+> *'*"The Hexen creates a connection to [[The Gods|the gods, both new and the old]].
+>
+> To get closer to the older gods, you must work your way up and gain their affinity. With each circle you get closer to them.
+>
+> The new gods only pass on their knowledge to those who share the same birth sign and soul with them."*'*
+>
 > *- Description of the Hexen from an unnamed book.*
 
-The **Hexen** is a [Mechanic](https://fearandhunger.wiki.gg/wiki/Game_Mechanics) in *[[Fear & Hunger]]* that allows the player to acquire skills as well as curse their weapons. They work as the game's primary progression system, replacing the typical *EXP* and *leveling up* model present in most other RPGs. 
+The **Hexen** is a [Mechanic](https://fearandhunger.wiki.gg/wiki/Game_Mechanics) in *[[Fear & Hunger]]* that allows the player to acquire skills as well as curse their weapons. They work as the game's primary progression system, replacing the typical *EXP* and *leveling up* model present in most other RPGs.
 
 For more details on spells and skills, see [Skills List F&H1](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H1).
 
@@ -128,7 +129,6 @@ The player can spend lesser souls to curse their weapons. Doing so will add atta
 
 ![[TheHexen.png|300]]
 *The skills trees at the Hexen — file: TheHexen.png (816×625), <https://fearandhunger.wiki.gg/wiki/File:TheHexen.png>*
-
 
 ## Other wikis
 

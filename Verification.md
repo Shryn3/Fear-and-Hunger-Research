@@ -2,6 +2,7 @@
 type: "meta"
 tags: ["meta", "verification"]
 checked: "2026-10-07"
+cssclasses: ["fh-vault", "fh-meta"]
 ---
 
 # Verification

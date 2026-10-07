@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Marina]]", "[[Tormentpedia - Marina]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Marina
 
-
-
 **Soul:** [[Changeling soul]]
-
 
 ## Facts
 
@@ -36,8 +34,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> **''"What am I going to do when we finally escape all this? I'll probably start a small occult store somewhere. Somewhere FAR away from Prehevil... Maybe Rondon. I want to live somewhere busy. With tons of people around. People who wouldn't judge who I am or anyone else around them..."**  
-> 
+> **''"What am I going to do when we finally escape all this? I'll probably start a small occult store somewhere. Somewhere FAR away from Prehevil... Maybe Rondon. I want to live somewhere busy. With tons of people around. People who wouldn't judge who I am or anyone else around them..."**
+>
 > - Marina''
 
 **Marina Domek** is a Playable Character and a potential [Party Member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -62,7 +60,7 @@ Little did she know of the greater scheme that was playing out, which would lead
 
 ### Personality
 
-Marina is a curious young woman who speaks very informally. She often speaks her mind about any given situation. 
+Marina is a curious young woman who speaks very informally. She often speaks her mind about any given situation.
 
 As a former resident of Prehevil, Marina is knowledgeable about various parts of the city, and will freely share what she knows with others. She has an intense distaste for her hometown, and does not seem disturbed by the disaster that has afflicted it.
 
@@ -179,7 +177,6 @@ Marina will walk towards and attack the player character on the [Train](https://
 
 ![[Marina overworld.png|300]]
 *Static — file: Marina overworld.png (320×440), <https://fearandhunger.wiki.gg/wiki/File:Marina_overworld.png>*
-
 
 ## Other wikis
 

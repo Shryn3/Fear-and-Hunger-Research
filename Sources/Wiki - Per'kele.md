@@ -6,6 +6,7 @@ revid: 48818
 revision_timestamp: "2026-05-31T10:41:15Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Per'kele

@@ -7,6 +7,7 @@ revision_timestamp: "2026-05-22T21:41:41Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Alll-mer

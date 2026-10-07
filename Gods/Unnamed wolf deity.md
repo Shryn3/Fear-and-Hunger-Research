@@ -5,6 +5,7 @@ tags: ["god", "unspecified-classification", "minor-entity"]
 sources: ["[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Unnamed wolf deity

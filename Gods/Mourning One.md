@@ -5,6 +5,7 @@ tags: ["god", "new-god", "minor-entity"]
 sources: ["[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Mourning One

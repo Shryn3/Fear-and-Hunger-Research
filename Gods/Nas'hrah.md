@@ -6,15 +6,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Nas'hrah]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Nas'hrah]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Nas'hrah
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -39,8 +36,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Detailed page
 
-> ***"I go by many titles, but you can call me Nas'hrah the Doom and Terror of Modern Man. I hate the idea of a brainless maggot like you following me around as a pupil but I might just need you this once. You see, I WANT-- I NEED to destroy the reign of the new gods! I want to RIP OFF their spines and watch them slump down weak and feeble. I want to watch them bleed as they're being squashed by the very same arrogance that helped them ride to power... But my strength isn't quite the same as it once was. Make no mistake that I could crush you like a worm you are. But, to get the job done, I need my body back. There should be a way to do just this in the ancient city that's below these ruins. I want you to aid me there."***  
-> 
+> ***"I go by many titles, but you can call me Nas'hrah the Doom and Terror of Modern Man. I hate the idea of a brainless maggot like you following me around as a pupil but I might just need you this once. You see, I WANT-- I NEED to destroy the reign of the new gods! I want to RIP OFF their spines and watch them slump down weak and feeble. I want to watch them bleed as they're being squashed by the very same arrogance that helped them ride to power... But my strength isn't quite the same as it once was. Make no mistake that I could crush you like a worm you are. But, to get the job done, I need my body back. There should be a way to do just this in the ancient city that's below these ruins. I want you to aid me there."***
+>
 > *- Nas'hrah after joining the player's party.*
 
 **Nas'hrah** is a unique enemy and possible ally in *[[Fear & Hunger]]*. In *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]* he can accompany the player, making small comments and giving titbits of advice.
@@ -49,8 +46,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"The previous new god who held the libraries as his own after the great Betel. How Betel fell for the pathetic tricks Nas'hrah pulled against him is a complete mystery to us. Nas'hrah was not content with what we have here. That miserable worm... The old fool... His mind was weak, his body was weak and most of all, he couldn't hold his own against the pressure this place has on people. Without reason, he used to sodomize everyone who stood in his way... That is how he desired to spend his days instead of the true godhood we have here."***  
-> 
+> ***"The previous new god who held the libraries as his own after the great Betel. How Betel fell for the pathetic tricks Nas'hrah pulled against him is a complete mystery to us. Nas'hrah was not content with what we have here. That miserable worm... The old fool... His mind was weak, his body was weak and most of all, he couldn't hold his own against the pressure this place has on people. Without reason, he used to sodomize everyone who stood in his way... That is how he desired to spend his days instead of the true godhood we have here."***
+>
 > *- The [[The Gods|New Gods]] when asked about Nas'hrah.*
 
 During the second age of history, which began with the reign of the so-called [[The Gods|New Gods]] in the year 410, a figure named Nas'hrah emerged as a notable presence. Referred to as the "Bringer of Doom and Terror", Nas'hrah held a distinct position within this group, setting them apart from their predecessors. Although the concept of new gods existed in ancient times, Nas'hrah's inclusion elevated this particular group. Upon his ascension, he ended up succeeding [[Betel]] and assuming his position within the grand libraries in [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre). The exact nature of the events surrounding Nas'hrah's interaction with Betel remains unclear. However, it is acknowledged that Nas'hrah employed an act of trickery that ignited a fury among his fellow New Gods. As Nas'hrah's reign as a deity was marred by his cruelty and sadistic tendencies, he was met with abhorrence and revulsion from his peers. Simultaneously, Nas'hrah held their methods and ideologies in contempt, viewing them as weak and ineffectual and fostering a mutual disdain between them.
@@ -171,7 +168,6 @@ Nas'hrah also appears in the easter egg game mode [Dungeon Nights](https://feara
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

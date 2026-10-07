@@ -1,6 +1,7 @@
 ---
 type: "hub"
 tags: ["meta"]
+cssclasses: ["fh-vault", "fh-hub"]
 ---
 
 # About this vault

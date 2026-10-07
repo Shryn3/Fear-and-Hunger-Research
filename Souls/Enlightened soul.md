@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Enlightened soul
-
-
 
 | | |
 |---|---|
@@ -57,7 +56,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Greater meditation]]
 - [[Spice forge]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -66,7 +64,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Enlightened.png]]
 *Enlightened soul icon (the wiki's Soul type gallery caption: "Enlightened soul.") — file: Soul Enlightened.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Enlightened.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

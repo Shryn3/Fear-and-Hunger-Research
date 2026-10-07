@@ -4,6 +4,7 @@ tags: ["mechanics"]
 sources: ["[[Wiki - Soul stone]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-mechanic"]
 ---
 
 # Soul stone
@@ -73,7 +74,6 @@ With the exception of the Ancient One soul, all unique souls are required for Ra
 
 ![[Soul stone1 small.png]]
 *Infobox: image — file: Soul stone1 small.png (32×32), <https://fearandhunger.wiki.gg/wiki/File:Soul_stone1_small.png>*
-
 
 ## Sources
 - [[Wiki - Soul stone]]

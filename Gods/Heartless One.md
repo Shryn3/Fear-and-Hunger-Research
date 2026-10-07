@@ -5,15 +5,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Heartless One]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Heartless One
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -34,7 +31,6 @@ The **Heartless One** is a newly-introduced New God in *Fear & Hunger 2: Termina
 ## Detailed page
 
 > ***"Pathetic Trash!"***
- 
 
 The **Heartless One** is a [[The Gods|New God]] that acts as a secret [Boss](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H2#Bosses-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]].*
 
@@ -50,7 +46,7 @@ Evidently prepared for fighting, the Heartless One is shrouded in a living, oozi
 
 ### Trivia
 
-- The name and design of the Heartless One are a homage to *Fear & Hunger* content creator and community member Heartless Angel Ketsueki, who was also one of the main beta testers for *Termina*. 
+- The name and design of the Heartless One are a homage to *Fear & Hunger* content creator and community member Heartless Angel Ketsueki, who was also one of the main beta testers for *Termina*.
 - At the [Prehevil - Shopping Street](https://fearandhunger.wiki.gg/wiki/Prehevil_-_Shopping_Street), to the right of [Renka Cafe](https://fearandhunger.wiki.gg/wiki/Renka_Cafe), a player can notice a large poster for a movie called "Heartless Angel", starred by an actress named Ketsueki who looks incredibly familiar to the Heartless One.
 - The Heartless One's *Curse of Light* and *Pillar of Light* attacks display icons shown in the pages of the [Book of enlightenment](https://fearandhunger.wiki.gg/wiki/Book_of_enlightenment).
 - The Heartless One can be seen wielding the [Black steel](https://fearandhunger.wiki.gg/wiki/Black_steel) instead of the Red virtue in early unused sprites. Considering the code for pulling the Black steel out of [Moonless](https://fearandhunger.wiki.gg/wiki/Moonless_(F%26H2)) still refers to it as the Red virtue, it is likely the two swapped places later in development.
@@ -87,7 +83,6 @@ Evidently prepared for fighting, the Heartless One is shrouded in a living, oozi
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Heartless One]]

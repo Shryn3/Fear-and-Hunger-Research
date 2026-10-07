@@ -4,15 +4,12 @@ tags: ["soul", "hub"]
 sources: ["[[Wiki - Soul type]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-hub"]
 ---
 
 # Soul types
 
-
-
 *28 soul-type notes. Source page flagged by the wiki: some content comes from supplementary sources and is subject to change.*
-
-
 
 *Note: this article lists content only mentioned in supplementary sources and as such is subject to change before being incorporated into the game series.*
 
@@ -55,7 +52,7 @@ The Antagonistic, Order, Loving and Chaotic souls are confirmed to exclusively o
 #### Skills and inheritance
 
 Each type of soul has unique skills related to it, which can then be obtained from the Hexen. However, it is still possible for the player to learn skills outside of their soul type through the following methods:
-- Choosing certain intro choices. 
+- Choosing certain intro choices.
 - Reading skill scrolls.
 - Taking the soul of someone with a different soul type through the use of a [[Soul stone|Soul]] [[Soul stone (F&H2)|stone]].
 - In the first game, the player will automatically receive a soul after defeating a member of the Fellowship, without needing to use a Soul stone.

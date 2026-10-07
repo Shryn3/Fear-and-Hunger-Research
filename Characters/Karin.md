@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Karin]]", "[[Tormentpedia - Karin]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Karin
 
-
-
 **Soul:** [[Endless soul]]
-
 
 ## Facts
 
@@ -36,8 +34,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"I don't need some flaky eyepatched foreigner telling me what's possible and what's not."***  
-> 
+> ***"I don't need some flaky eyepatched foreigner telling me what's possible and what's not."***
+>
 > *- Karin, arguing with [[Daan]] on the events of the Termina Festival.*
 
 **Karin Sauer** is a Playable Character and a potential [Party Member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -52,7 +50,7 @@ Karin was a curious child, often getting into mischief that her elder brothers a
 
 As tensions rose within Bremen's borders, the Sauer family's lack of strong lineage made them vulnerable. When riots broke out, Karin's parents entrusted her to Dalia's care and instructed her to leave the country until things had settled down. However, Karin couldn't help but feel that Dalia had kidnapped her, as she never consulted with her parents before leaving.
 
-Together, Karin and Dalia traveled to Jettaiah, the capital of the [Eastern Sanctuaries](https://fearandhunger.wiki.gg/wiki/Eastern_Sanctuaries), now part of the [Eastern Union](https://fearandhunger.wiki.gg/wiki/Eastern_Union). The cultural shock was overwhelming for Karin, who had never seen such a stark contrast between poverty and wealth in the same street. Karin found herself living with Dalia in a decent building, but she suspected that Dalia's source of income was not from her parents sending money but from ransom payments. 
+Together, Karin and Dalia traveled to Jettaiah, the capital of the [Eastern Sanctuaries](https://fearandhunger.wiki.gg/wiki/Eastern_Sanctuaries), now part of the [Eastern Union](https://fearandhunger.wiki.gg/wiki/Eastern_Union). The cultural shock was overwhelming for Karin, who had never seen such a stark contrast between poverty and wealth in the same street. Karin found herself living with Dalia in a decent building, but she suspected that Dalia's source of income was not from her parents sending money but from ransom payments.
 
 However, living in the Eastern Union gave Karin some perspective on the oppression of those in power, and she became involved with civil rights organizations. During a protest, Karin was targeted by the local army, and after being knocked unconscious, woke up in the hospital. The Bremen embassy noticed her on television and took her into their custody, sending her back to her mother and new stepfather in Bremen. Her family manor had been burned down during the riots, and her father had died during the unrest. As she suspected, she was in fact kidnapped by Dalia, who was living on ransom money up until this point.
 
@@ -167,7 +165,6 @@ If recruited, Karin will have [Knife](https://fearandhunger.wiki.gg/wiki/Knife),
 
 ![[Karin overworld.png]]
 *Static — file: Karin overworld.png (58×109), <https://fearandhunger.wiki.gg/wiki/File:Karin_overworld.png>*
-
 
 ## Other wikis
 

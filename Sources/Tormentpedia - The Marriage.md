@@ -7,6 +7,7 @@ revision_timestamp: "2025-02-25T18:50:20Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - The Marriage

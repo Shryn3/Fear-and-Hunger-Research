@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Enki]]", "[[Tormentpedia - Enki Ankarian]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Enki
 
-
-
 **Soul:** [[Enlightened soul]]
-
 
 ## Facts
 
@@ -38,8 +36,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 *This article is about the Fear & Hunger playable character. For the enemy of the same game, see [Priest](https://fearandhunger.wiki.gg/wiki/Priest). For the religious group featured in the series, see [Dark Priests](https://fearandhunger.wiki.gg/wiki/Dark_Priests).*
 
-> ***"My name is Enki. A priest of destruction. Did that feed your curiosity?"***  
-> 
+> ***"My name is Enki. A priest of destruction. Did that feed your curiosity?"***
+>
 > *- Enki when asked about his identity.*
 
 **Enki Ankarian** is a playable character and a potential party member in *[[Fear & Hunger]]*. A dark priest that bears no burden on such things as morality and ethics, Enki has an edge in blood magic. However, devoting himself to magic has left his physical body weak.
@@ -48,8 +46,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"One of the more notorious dark priests of the modern age. We would not be surprised if he was to rise and become the new enlightened one."***  
-> 
+> ***"One of the more notorious dark priests of the modern age. We would not be surprised if he was to rise and become the new enlightened one."***
+>
 > *- The [[The Gods|New Gods]] when asked about Enki.*
 
 Enki was born with the [[Soul types|soul]] of the enlightened, driving him to endlessly pursue new knowledge and uncover secrets beyond the reach of the ordinary. The fact that Enki and his twin sister were born from a [lineage](https://fearandhunger.wiki.gg/wiki/Enki's_ancestor) that had generations long connections to the occult only cemented his connection to the Enlightened soul. Enki's innate desire for knowledge became even more apparent at a young age when he was selected to become a dark priest.
@@ -121,7 +119,7 @@ As for the best choices one can make, if you want to start a run with the best s
 - "Strike your dagger to her spine while she walks away"
 - "Pray for God of the Depths"
 - "Stock up on magical items"
-While stabbing your sister will lock you out of *Dash*, the skill *Necromancy* can be very useful to beginners, as it will allow them to recruit [skeletons](https://fearandhunger.wiki.gg/wiki/Skeleton) and [ghouls](https://fearandhunger.wiki.gg/wiki/Ghoul) to compensate for Enki's lack of combat ability.[^3]  
+While stabbing your sister will lock you out of *Dash*, the skill *Necromancy* can be very useful to beginners, as it will allow them to recruit [skeletons](https://fearandhunger.wiki.gg/wiki/Skeleton) and [ghouls](https://fearandhunger.wiki.gg/wiki/Ghoul) to compensate for Enki's lack of combat ability.[^3]
 
 Alternately the following set of choices is recommended:
 - "Accept your defeat"
@@ -198,7 +196,6 @@ If the player chooses not to play as Enki, they are supposed to be able to go to
 
 ![[EnkiMarriage.png]]
 *The Enki Marriage (Fusion) enemy. — file: EnkiMarriage.png (300×314), <https://fearandhunger.wiki.gg/wiki/File:EnkiMarriage.png>*
-
 
 ## Other wikis
 

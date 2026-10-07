@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - O'saa]]", "[[Tormentpedia - O'saa]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # O'saa
 
-
-
 **Soul:** [[Enlightened soul]]
-
 
 ## Facts
 
@@ -37,12 +35,12 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"Aren't you a positive one? You must be fun at parties."***  
-> 
-> ***"..."***  
-> 
-> ***"Sarcasm is the lowest form of wit."***  
-> 
+> ***"Aren't you a positive one? You must be fun at parties."***
+>
+> ***"..."***
+>
+> ***"Sarcasm is the lowest form of wit."***
+>
 > *- O'saa to [[Daan]], when expressing the state of the material district.*
 
 **O'saa** is a Playable Character and a potential [Party Member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -59,7 +57,7 @@ He decided to leave his family and head to the City of the Sun - Amon to pursue 
 
 O'saa arrived in Eastern Sanctuaries and discovered that even the local temples followed the worship of [[Alll-mer]], with religion dictating people's lives. Despite facing scorn for his beliefs from scholars and religious leaders, O'saa remained unwavering. He eventually impressed the Yellow mages with his conviction, and they invited him to join their own. They were reduced to a small group of traveling mages who studied various fields of the otherworldly. O'saa joined them to further his personal growth and agenda using the force of the Gods, continuing his path of learning and self-growth.
 
-The magician O'saa eventually met [Hadil Azif](https://fearandhunger.wiki.gg/wiki/Hadil_Azif), a self-proclaimed wizard from the far east who was gathering a group of adventurers to accompany him on a perilous quest to the infamous dungeons of fear and hunger. Despite initially dismissing Hadil's talks, O'saa was haunted by nightmares the following night and felt compelled to witness the place himself. He joined Hadil's group of adventurers and traveled through war-torn Europa. However, most of the crew quit halfway to Rondon due to the difficulties of crossing borders during chaotic times. As they got closer to their destination, O'saa's dreams became more intense, and the remaining members of the group were visibly sick from stress and otherworldly pressure. When they finally arrived at the dungeons, heavy fog made navigation impossible, and distant growls and howls added to the tension. The group panicked and scattered, and O'saa ventured forward alone, leaving a sick Hadil behind. 
+The magician O'saa eventually met [Hadil Azif](https://fearandhunger.wiki.gg/wiki/Hadil_Azif), a self-proclaimed wizard from the far east who was gathering a group of adventurers to accompany him on a perilous quest to the infamous dungeons of fear and hunger. Despite initially dismissing Hadil's talks, O'saa was haunted by nightmares the following night and felt compelled to witness the place himself. He joined Hadil's group of adventurers and traveled through war-torn Europa. However, most of the crew quit halfway to Rondon due to the difficulties of crossing borders during chaotic times. As they got closer to their destination, O'saa's dreams became more intense, and the remaining members of the group were visibly sick from stress and otherworldly pressure. When they finally arrived at the dungeons, heavy fog made navigation impossible, and distant growls and howls added to the tension. The group panicked and scattered, and O'saa ventured forward alone, leaving a sick Hadil behind.
 
 As O'saa entered the ruins, what had led him there was calling out to him feverishly from beneath the rocks and rubble. He dug through the piles with his bare hands, and eventually found the source of the voice: the burnt and mummified severed head of [[Nas'hrah]], the wizard. O'saa was surprised to find that his master, who had been absent for so long, was surprisingly up to date with the twists and turns of the world. The master had a mission for him - something that could further his knowledge on dark matters greatly. As a yellow mage, O'saa was supposed to follow his own ambitions and greed, but he decided to play along. After all, that was the common relationship between a master yellow mage and their apprentice.
 
@@ -166,7 +164,6 @@ If recruited, O'saa will have *[La Danse Macabre](https://fearandhunger.wiki.gg/
 
 ![[O'saa overworld.png]]
 *Static — file: O'saa overworld.png (60×113), <https://fearandhunger.wiki.gg/wiki/File:O'saa_overworld.png>*
-
 
 ## Other wikis
 

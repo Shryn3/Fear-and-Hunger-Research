@@ -6,6 +6,7 @@ revid: 46606
 revision_timestamp: "2025-08-20T09:17:08Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Hexen F&H1

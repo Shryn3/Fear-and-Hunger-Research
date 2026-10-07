@@ -40,3 +40,7 @@ Theories and community speculation live only in `Unofficial/`. Notes there are p
 
 ## Optional
 `_tools/check_links.py` lists `[[wikilinks]]` that point to a note that does not exist (`python3 _tools/check_links.py`). The vault does not need it.
+
+## Optional display snippets
+
+Optional CSS in `.obsidian/snippets/` (`fh-vault.css`, `hexen-cards.css`). Enable them under Settings > Appearance > CSS snippets. Notes work without them.

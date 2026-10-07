@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Latent soul
-
-
 
 | | |
 |---|---|
@@ -42,7 +41,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Magic defense +1 (F&H2 Tanaka)]]
 - [[Magic attack +1 (F&H2 Tanaka)]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -51,7 +49,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Latent.png]]
 *Latent soul icon (the wiki's Soul type gallery caption: "Latent soul.") — file: Soul Latent.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Latent.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

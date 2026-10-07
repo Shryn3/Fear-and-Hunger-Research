@@ -5,15 +5,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Yellow King]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Yellow King
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Detailed page
 
@@ -23,8 +20,8 @@ The **Yellow King** is the final boss encounter in *Fear & Hunger* before Ending
 
 ### Lore
 
-> ***"The prophesied one... Already while still alive, there were many tales written and sung about his tale. We don't know where the prophecy got started but needless to say that it's all fallacy. But the man himself... Is a curious kind. There is definitely something different about him and whatever his part might be in the greater scheme of things, the very least he started something larger..."***  
-> 
+> ***"The prophesied one... Already while still alive, there were many tales written and sung about his tale. We don't know where the prophecy got started but needless to say that it's all fallacy. But the man himself... Is a curious kind. There is definitely something different about him and whatever his part might be in the greater scheme of things, the very least he started something larger..."***
+>
 > *- The New Gods when asked about Le'garde.*
 
 A New God born from [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde) when he sat on the Throne of the True King and ascended into [the Void](https://fearandhunger.wiki.gg/wiki/The_Void) to become a deity.
@@ -37,19 +34,19 @@ During the events of *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, it 
 
 ### Endings C-I and C-II
 
-Depending on whether the player defeats him or submits to him, they get two variations of The Yellow King Endings. 
+Depending on whether the player defeats him or submits to him, they get two variations of The Yellow King Endings.
 
-***Ending C-I - The Yellow King:***  
+***Ending C-I - The Yellow King:***
 
 If the player manages to defeat the Yellow King, they will somehow manage to get out of the Void and run away from the Dungeons of Fear and Hunger. However, getting out alive and trying to live a normal life in society outside of the dungeons is not without consequence. The player character becomes crippled with PTSD and often has dreams of the dungeons, to the point that they cannot tell the difference between reality and fiction. It is unknown what happens to the player character afterwards and is left to interpretation, but it ends with a grim and dark message: "In the end your fate was to dwell these dungeons forever."
 
-***Ending C-II - The Prophecy:***  
+***Ending C-II - The Prophecy:***
 
-If the player meets the Yellow King/Le'garde while exploring the Void, they will have a brief chat. There the Yellow King will tell the player character exactly why he went through this harsh and arduous journey in order to reach his goal of becoming a New God and to bring forth a New World Order, where humankind no longer is suffering and that things will change under his leadership. 
+If the player meets the Yellow King/Le'garde while exploring the Void, they will have a brief chat. There the Yellow King will tell the player character exactly why he went through this harsh and arduous journey in order to reach his goal of becoming a New God and to bring forth a New World Order, where humankind no longer is suffering and that things will change under his leadership.
 
 Then he will state that he loves the player as he is their God and will let the player out of the darkness and the Void if the player submits and kneels to him. If the player refuses, the final battle against him will commence and if the player manages to win against him, Ending C-I will play out.
 
-If the player submits and kneels to the New God, worshiping the Yellow King, they will be let out of the Void and darkness and they will escape the Dungeons of Fear and Hunger. However, they gained nothing from venturing into the black. No festivities to celebrate their return. Nothing. The only thing they have gained is far better understanding of the darkness of the world hidden from mankind. They regret this decision and curse the knowledge they have in their minds as knowing about it drives them further into insanity and madness each passing day. 
+If the player submits and kneels to the New God, worshiping the Yellow King, they will be let out of the Void and darkness and they will escape the Dungeons of Fear and Hunger. However, they gained nothing from venturing into the black. No festivities to celebrate their return. Nothing. The only thing they have gained is far better understanding of the darkness of the world hidden from mankind. They regret this decision and curse the knowledge they have in their minds as knowing about it drives them further into insanity and madness each passing day.
 
 It is to the point that they begin living like a hermit and secluded themselves from society. They come out of seclusion when they hear of the return of the [Knights of the Midnight Sun](https://fearandhunger.wiki.gg/wiki/Knights_of_the_Midnight_Sun) and their legendary captain, Le'garde. This man with a mysterious aura was unifying the West at an alarming rate. It was as if the Old Gods themselves were at his side, and choosing the right side of the coin at every possible outcome. He would eventually become the Yellow King, a leader of a mighty empire of the West, and brought forth prosperity and a golden age to the people of the West. The likes of which has never been seen before since Alll-Mer came back from the dead and established the earlier Old World Order and a golden age.
 
@@ -83,7 +80,6 @@ Whatever this meant is left up to the player's interpretation, but it might mean
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Yellow King]]

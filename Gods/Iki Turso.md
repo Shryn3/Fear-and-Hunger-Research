@@ -5,15 +5,12 @@ tags: ["god", "unspecified-classification"]
 sources: ["[[Wiki - Iki Turso]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Iki Turso
 
-
-
 **Classification (per wiki):** Unspecified classification
-
-
 
 ## Overview on *The Gods*
 
@@ -29,8 +26,8 @@ The **Iki Turso**, or **Iki-Turso**, are a beast-like species associated with th
 
 ### Lore
 
-> ***"These peculiar beasts run wild in the deepest forests of Europa. They got a clear alignment with the older god Vinushka, but exactly what this connection is... we do not know. The Iki-Turso are known to rise from their slumber during times when the nature is under threat."***  
-> 
+> ***"These peculiar beasts run wild in the deepest forests of Europa. They got a clear alignment with the older god Vinushka, but exactly what this connection is... we do not know. The Iki-Turso are known to rise from their slumber during times when the nature is under threat."***
+>
 > *- The New Gods when asked about the Iki Turso.*
 
 The Iki-Turso that can be met in *Fear & Hunger 2: Termina* appears to remain in constant slumber, patiently anticipating the arrival of the God of Nature, Vinushka. Given its appearance and the alignment with Vinushka's principles, it is conceivable that this creature is affiliated with the Old God. While not hostile, the Iki-Turso exudes an air of disdain towards the player character, regarding their interaction as a futile interruption. It adamantly awaits the return of Vinushka, dismissing the character as a mere worm, and insists on remaining undisturbed until the deity reemerges.
@@ -68,7 +65,6 @@ On Day 3, if the player kills [Rancid the Sergal](https://fearandhunger.wiki.gg/
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Iki Turso]]

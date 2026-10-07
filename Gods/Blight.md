@@ -5,15 +5,12 @@ tags: ["god", "blight"]
 sources: ["[[Wiki - Blight]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Blight
 
-
-
 **Classification (per wiki):** Blight
-
-
 
 ## Detailed page
 
@@ -23,8 +20,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"Before men, the lizardmen roamed as the dominating lifeform. Like us, they too desired to ascend higher. What remains of those ancient times are the forms."***  
-> 
+> ***"Before men, the lizardmen roamed as the dominating lifeform. Like us, they too desired to ascend higher. What remains of those ancient times are the forms."***
+>
 > *- The New Gods when asked about the Blight.*
 
 As per the teachings of the [[The Gods|New Gods]] within [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre), the Blights are believed to be [Lizardmen](https://fearandhunger.wiki.gg/wiki/Lizardman) who have chosen to ascend to godhood within the realm of [the Void](https://fearandhunger.wiki.gg/wiki/The_Void). They represent New Gods in their own right.
@@ -56,7 +53,6 @@ An ancient stone slab unearthed from an archaeological site in northern [Rondon]
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Blight]]

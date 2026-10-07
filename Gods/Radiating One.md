@@ -5,15 +5,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Radiating One]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Radiating One
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -71,7 +68,6 @@ If the player does not have any rust-coloured pearls within their inventory whil
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Radiating One]]

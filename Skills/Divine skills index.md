@@ -2,6 +2,7 @@
 type: "hub"
 tags: ["skill", "hub"]
 sources: ["[[Wiki - Skills List F&H2]]"]
+cssclasses: ["fh-vault", "fh-hub"]
 ---
 
 # Divine skills index

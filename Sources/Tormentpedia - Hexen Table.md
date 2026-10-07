@@ -7,6 +7,7 @@ revision_timestamp: "2024-10-18T03:40:37Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Hexen Table

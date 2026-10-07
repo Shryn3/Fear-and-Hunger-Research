@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Abella]]", "[[Tormentpedia - Abella]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Abella
 
-
-
 **Soul:** [[Caressing soul]]
-
 
 ## Facts
 
@@ -36,8 +34,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"The reason why I like engineering and mechanics is that it always follows a clear logic. But I just can't figure this one out!"***  
-> 
+> ***"The reason why I like engineering and mechanics is that it always follows a clear logic. But I just can't figure this one out!"***
+>
 > — Abella, when examining the [train](https://fearandhunger.wiki.gg/wiki/Train)
 
 **Abella** is a playable character and a potential [party member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -171,7 +169,6 @@ If recruited, Abella will have [Sturdy overalls](https://fearandhunger.wiki.gg/w
 
 ![[Abella overworld2.png]]
 *Static (Alt.) — file: Abella overworld2.png (57×110), <https://fearandhunger.wiki.gg/wiki/File:Abella_overworld2.png>*
-
 
 ## Other wikis
 

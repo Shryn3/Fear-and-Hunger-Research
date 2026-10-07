@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Henryk]]", "[[Tormentpedia - Henryk]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Henryk
 
-
-
 **Soul:** [[Suffocated soul]]
-
 
 ## Facts
 
@@ -34,8 +32,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"Even in this hellish situation, I end up cooking. And the craziest thing is that I haven't been this inspired, like ever. I'm seeing new combinations in my head, my palette is expanding thanks to all the new local ingredients... Making food like it's the last day of my life."***  
-> 
+> ***"Even in this hellish situation, I end up cooking. And the craziest thing is that I haven't been this inspired, like ever. I'm seeing new combinations in my head, my palette is expanding thanks to all the new local ingredients... Making food like it's the last day of my life."***
+>
 > *- Henryk, at [Restaurant Bílý Vůl](https://fearandhunger.wiki.gg/wiki/Restaurant_B%C3%ADl%C3%BD_V%C5%AFl).*
 
 **Henryk** is a Non-playable [Side Character](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#%23Side_Characters-0) and [Potential Enemy](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H2#Contestants-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -56,7 +54,7 @@ Eventually, Henryk ran out of money, so out of necessity, he decided to return h
 
 ### Personality
 
-Henryk is very passionate about cooking food, and it is the main thing he seems to enjoy in life. He can be quite laid back but has low self-esteem, often trying to seek the approval of other contestants with his cooking and will seem devastated if anyone doesn't like it. He can also be impulsive sometimes, making perverted remarks towards [[Abella]] at the train and starting a fight with [[Caligura]] that potentially gets him killed. 
+Henryk is very passionate about cooking food, and it is the main thing he seems to enjoy in life. He can be quite laid back but has low self-esteem, often trying to seek the approval of other contestants with his cooking and will seem devastated if anyone doesn't like it. He can also be impulsive sometimes, making perverted remarks towards [[Abella]] at the train and starting a fight with [[Caligura]] that potentially gets him killed.
 
 As the festival progresses and the deadline approaches, he becomes increasingly anxious about the time limit mentioned by Per'kele, with the thoughts of the third day starting to consume his thoughts. He may resort to extreme measures if the opportunity presents itself...
 
@@ -98,7 +96,6 @@ As the festival progresses and the deadline approaches, he becomes increasingly 
 
 ![[Henryk overworld.png]]
 *Static — file: Henryk overworld.png (61×117), <https://fearandhunger.wiki.gg/wiki/File:Henryk_overworld.png>*
-
 
 ## Other wikis
 

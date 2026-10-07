@@ -6,15 +6,12 @@ tags: ["god", "unspecified-classification"]
 sources: ["[[Wiki - Per'kele]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Per'kele]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Per'kele
 
-
-
 **Classification (per wiki):** Unspecified classification
-
-
 
 ## Overview on *The Gods*
 
@@ -42,8 +39,8 @@ First introduced in *Fear & Hunger 2: Termina*, **Per'kele** makes his debut as 
 
 ### Lore
 
-> ***"Per'kele and the group associated with that figure... You might recognize them by the body paint covering their faces and body. They are but leeches. Leeching on the older gods, pursuing their own agenda. Miserable figures."***  
-> 
+> ***"Per'kele and the group associated with that figure... You might recognize them by the body paint covering their faces and body. They are but leeches. Leeching on the older gods, pursuing their own agenda. Miserable figures."***
+>
 > *- The New Gods when asked about Per'kele.*
 
 Per'kele supposedly serves the Trickster Moon God, [[Rher]]. Because Rher has pulled away from the world, leaving only his traces behind, Per'kele communicates with others in his master's place. During the events of *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, Per'kele oversees the [Festival of Termina](https://fearandhunger.wiki.gg/wiki/Termina) by conversing with its contestants in their dreams.[^1] Little information is available regarding Per'kele's history. He was once a mortal human (although he states this term should be used loosely) who participated in a Festival of Termina and presumably became its victor. He says that it was only after this that he was "truly born." He is currently a deity in his own right who has been associated with the Festival of Termina for centuries, and he has been blamed for many massacres throughout history.[^2]
@@ -60,7 +57,7 @@ After explaining a bit about the nature of Rher and the Sulfur God, Per'kele wil
 
 - Per'kele's name comes from the Suomi/Finnish word from the Finnic-Ugric languages, *perkele*, which means *devil *or* evil spirit.* The name is of Indo-European origin, being the name of the Proto-Indo-European god of thunder called *Perkwunos*. Other gods of thunder are derived from this name, such as *Perkūnas* (Lithuanian), *Pērkons* (Latvian), *Perkūns *or* Perkunos* (Baltic Old Prussian), *Parkuns* (Yotvingian), *Percunis* (German Prussian), *Piarun* (Belarusian), *Fairguneis* (Gothic), *Perun* or *Piorun* (Bosnian, Bulgarian, Croatian, Polish, Russian, Ukrainian, Serbian, Slovak, Slovene), and *Peko* or *Pekolasõ* (Estonian (the language is of the same language family as Finnish)). It is also related to other words in the Balto-Finnic branch of the Finnic-Ugric language family, such as in Estonian, *põrgu,* means hell, and in Karelian, *perkeleh,* means an evil spirit. Because the god of thunder is from a different religion and considered pagan by the Abrahamic religion of Christianity, the name became demonized, which led to the word, *perkele, *and is now used in the modern day as a swear word by the modern day Suomi/Finnish people.
   - Going by this linguistic root, it is very fitting for him to be a recruiter or leader of the Cult of Sulfur and with the Sulfur God being his master.
-- Per'kele's purple face paint serves to identify him as a member of the Cult of Sulfur, but it is notably similar in appearance to how the moon is depicted in [[Skin Bible - Rher]]. 
+- Per'kele's purple face paint serves to identify him as a member of the Cult of Sulfur, but it is notably similar in appearance to how the moon is depicted in [[Skin Bible - Rher]].
 - Per'kele bears many similarities to the character Skull Kid from *The Legend of Zelda: Majora's Mask*. Both characters act as a mouthpiece for a moon which is above the top of a large tower in the middle of town, and both characters usher the moon to the earth after being defeated.
 
 *Source: [[Wiki - Per'kele]]*
@@ -92,7 +89,6 @@ After explaining a bit about the nature of Rher and the Sulfur God, Per'kele wil
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

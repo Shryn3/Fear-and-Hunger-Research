@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Ragnvaldr]]", "[[Tormentpedia - Ragnvaldr]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Ragnvaldr
 
-
-
 **Soul:** [[Tormented soul]]
-
 
 ## Facts
 
@@ -34,8 +32,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"I'm ready for afterlife. Are you?"***  
-> 
+> ***"I'm ready for afterlife. Are you?"***
+>
 > *- Ragnvaldr after being told to prepare for his death.*
 
 **Ragnvaldr** is a playable character and a potential party member in *[[Fear & Hunger]]*. Hardened in the freezing winds of the north, he is an outlander, an epitome of survival. Ragnvaldr knows all the tricks to stay alive, even in the most impossible of situations.
@@ -44,8 +42,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"An intimidating figure for sure. Seems like even a northern brute like him can appreciate finesse and knowledge."***  
-> 
+> ***"An intimidating figure for sure. Seems like even a northern brute like him can appreciate finesse and knowledge."***
+>
 > *- The New Gods when asked about Ragnvaldr.*
 
 Ragnvaldr, born with the [[Soul types|soul]] of the tormented, was destined to face relentless struggles in every step of his life. However, this very burden became the forge that shaped his physical strength and unrivaled iron will, akin to that of [[The Gods|the gods]] themselves.
@@ -111,7 +109,7 @@ Ragnvaldr has the arguably the most limited intro among the playable characters,
 If one wishes to start a run with the best possible skills and equipment, the following choices are recommended:
 - Don't skip the intro.
 - "Choose bow & arrows"
-- "Devour your fallen comrades" 
+- "Devour your fallen comrades"
 - "Don't touch anything and flee back to your ship"
 - "Rush straight after him"
 
@@ -205,7 +203,6 @@ If the player chooses not to play as Ragnvaldr, they will be able to go to the p
 
 ![[RagnvaldrvsLegarde.png|300]]
 *The protagonist is offered the chance to save Le'garde from Ragnvaldr. Triggering this scene will force the player to choose a side. — file: RagnvaldrvsLegarde.png (1417×1080), <https://fearandhunger.wiki.gg/wiki/File:RagnvaldrvsLegarde.png>*
-
 
 ## Other wikis
 

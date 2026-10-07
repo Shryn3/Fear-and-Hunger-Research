@@ -8,6 +8,7 @@ character: "[[Marina]]"
 sources: ["[[Wiki - Skills List F&H2]]", "[[Tormentpedia - Termina Skills]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-skill"]
 ---
 
 # Greater occultism

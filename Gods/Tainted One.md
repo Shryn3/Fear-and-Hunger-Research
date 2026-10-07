@@ -5,15 +5,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Tainted One]]", "[[Wiki - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Tainted One
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -31,7 +28,7 @@ The **Tainted One** is a [[The Gods|New God]] encountered in *[[Fear & Hunger 2 
 
 ### Lore
 
-> ***"What an oddly specific thing to ask. The Tainted One is of course one of us. One of the many who sits in the grand hall. A person born with a soul that is tainted and who then rose to the new godhood."***  
+> ***"What an oddly specific thing to ask. The Tainted One is of course one of us. One of the many who sits in the grand hall. A person born with a soul that is tainted and who then rose to the new godhood."***
 > *- The New Gods when asked about the Tainted One.*
 
 *Source: [[Wiki - Tainted One]]*
@@ -69,7 +66,6 @@ Each head offered will provide 1 [soul stone shard](https://fearandhunger.wiki.g
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Sources
 - [[Wiki - Tainted One]]

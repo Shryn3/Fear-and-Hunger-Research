@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Suffocated soul
-
-
 
 | | |
 |---|---|
@@ -40,7 +39,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Melee proficiency]]
 - [[Masterchef]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -49,7 +47,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Suffocated.png]]
 *Suffocated soul icon (the wiki's Soul type gallery caption: "Suffocated soul.") — file: Soul Suffocated.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Suffocated.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

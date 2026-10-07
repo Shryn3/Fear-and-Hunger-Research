@@ -4,6 +4,7 @@ tags: ["lore"]
 sources: ["[[Wiki - Skin Bible - Vinushka (unedited)]]", "[[Tormentpedia - Skin Bible - Vinushka (unedited)]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-document"]
 ---
 
 # Skin Bible - Vinushka (unedited)
@@ -20,12 +21,11 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Contents
 
-The seed of [[Gro-goroth]] that had been fermenting for an aeon, finally reached its maturity, and thus [[Sylvian]] pushed a whole pinecone out of her loose abyss and named her child Ninush. The cycle of destruction and creation is seen in its purest form in nature. Thus it comes as no surprise that the very god of nature, Vinushka is an offspring of the two older gods Gro-goroth and Sylvian. Like the nature of mankind, the nature of Vinushka too can change from fiery raging volcanoes to serene grasslands where a gentle wind lulls one to sleep. The ancient tribes of men used to live in a symbiosis with nature, with its cycles of destruction and creation, but people grew greedy and hostile towards the land they settled and ravaged nature to give room for their own civilizations. As people grew greedy and hostile, so did Vinushka. A long war was waged to determine who was to become the master and who the slave.   
+The seed of [[Gro-goroth]] that had been fermenting for an aeon, finally reached its maturity, and thus [[Sylvian]] pushed a whole pinecone out of her loose abyss and named her child Ninush. The cycle of destruction and creation is seen in its purest form in nature. Thus it comes as no surprise that the very god of nature, Vinushka is an offspring of the two older gods Gro-goroth and Sylvian. Like the nature of mankind, the nature of Vinushka too can change from fiery raging volcanoes to serene grasslands where a gentle wind lulls one to sleep. The ancient tribes of men used to live in a symbiosis with nature, with its cycles of destruction and creation, but people grew greedy and hostile towards the land they settled and ravaged nature to give room for their own civilizations. As people grew greedy and hostile, so did Vinushka. A long war was waged to determine who was to become the master and who the slave.
 
-To everyone's surprise, or at least to my surprise, this resulted in the demise of Vinushka. For all tense [intents] and purposes, nature is dead. Vinushka died by the hands of men. From this grievous realization comes the name of the god. 'Vinushka', meaning guilt, the great guilt of mankind. The guilt will surely eat away the known world in time. For now faint traces of the god still linger in [[Iki Turso|Vinushka's totems]], deities that desperately search for the murdered god in vain. Maybe these totems are the manifestation of human guilt. Once they understand the events that took place, mankind will surely feel their grief too.   
+To everyone's surprise, or at least to my surprise, this resulted in the demise of Vinushka. For all tense [intents] and purposes, nature is dead. Vinushka died by the hands of men. From this grievous realization comes the name of the god. 'Vinushka', meaning guilt, the great guilt of mankind. The guilt will surely eat away the known world in time. For now faint traces of the god still linger in [[Iki Turso|Vinushka's totems]], deities that desperately search for the murdered god in vain. Maybe these totems are the manifestation of human guilt. Once they understand the events that took place, mankind will surely feel their grief too.
 
 For now, it's best to exploit nature while we still can.
-   
 
 *The Mark of Vinushka raises otherworldly offence of its wielder. The text includes the sigil of Vinushka and instructions on how to use it.*
 
@@ -51,7 +51,6 @@ wip
 
 ![[Skin bible big.png]]
 *"A strong occult book written in the medieval times by Enki Ankarian. The chapter explains the older god Vinushka. This particular version hasn't been tampered and edited by the Vatican." — file: Skin bible big.png (128×128), <https://fearandhunger.wiki.gg/wiki/File:Skin_bible_big.png>*
-
 
 ## Other wikis
 

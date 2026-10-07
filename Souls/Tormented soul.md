@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Tormented soul
-
-
 
 | | |
 |---|---|
@@ -55,7 +54,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Devour (F&H2)]]
 - [[Sisu]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -64,7 +62,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Tortured.png]]
 *Tormented soul icon (file is named 'Soul Tortured') — file: Soul Tortured.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Tortured.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

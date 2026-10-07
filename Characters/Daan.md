@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Daan]]", "[[Tormentpedia - Daan]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Daan
 
-
-
 **Soul:** [[Blank soul]]
-
 
 ## Facts
 
@@ -36,8 +34,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"To be frank, that sigil has occupied my thoughts for the most part. I just need more answers... This quest for information is pretty much the only thing pushing me forward anymore at this point."***  
-> 
+> ***"To be frank, that sigil has occupied my thoughts for the most part. I just need more answers... This quest for information is pretty much the only thing pushing me forward anymore at this point."***
+>
 > *- Daan, at the [PRHVL Bop](https://fearandhunger.wiki.gg/wiki/PRHVL_Bop)*
 
 **Daan**, also known as **Daniël**, is a Playable Character and a potential [Party Member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -64,9 +62,9 @@ Daan was heartbroken and felt complete despair as he tried to uncover how they d
 
 ### Personality
 
-Daan is a smart and inquisitive man who uses his medical knowledge and experience with the occult to help make sense of the world around him. 
+Daan is a smart and inquisitive man who uses his medical knowledge and experience with the occult to help make sense of the world around him.
 
-He is fairly independent, quickly setting off on his own to investigate Prehevil. However, he is happy to help others when the need arises, such as when he offers to mix drinks for contestants in [PRHVL Bop](https://fearandhunger.wiki.gg/wiki/PRHVL_Bop). Daan can be found caring for the townspeople when he is not the chosen playable character, and he is often polite and even caring towards the other contestants, indicating he has a compassionate side to him. Despite Daan's polite exterior, he also has a mischievous and condescending side. [[Karin]] takes the brunt of this, often the target of jokes or comments at her expense, but Daan also targets [[O'saa]] and the other contestants on occasion. None of his jokes seem particularly mean-spirited but rather small jabs or hints at a less friendly side to his personality. 
+He is fairly independent, quickly setting off on his own to investigate Prehevil. However, he is happy to help others when the need arises, such as when he offers to mix drinks for contestants in [PRHVL Bop](https://fearandhunger.wiki.gg/wiki/PRHVL_Bop). Daan can be found caring for the townspeople when he is not the chosen playable character, and he is often polite and even caring towards the other contestants, indicating he has a compassionate side to him. Despite Daan's polite exterior, he also has a mischievous and condescending side. [[Karin]] takes the brunt of this, often the target of jokes or comments at her expense, but Daan also targets [[O'saa]] and the other contestants on occasion. None of his jokes seem particularly mean-spirited but rather small jabs or hints at a less friendly side to his personality.
 
 Daan has an interest in bartending and mixology, which can be seen during his interactions at PRHVL Bop. Based on the player's descriptions of his drinks, he seems to have a talent for it. His signature drink, according to him, is an old-fashioned.
 
@@ -176,7 +174,6 @@ If recruited, Daan will have *[Analyze](https://fearandhunger.wiki.gg/wiki/Analy
 
 ![[Daan overworld.png]]
 *Static — file: Daan overworld.png (56×113), <https://fearandhunger.wiki.gg/wiki/File:Daan_overworld.png>*
-
 
 ## Other wikis
 

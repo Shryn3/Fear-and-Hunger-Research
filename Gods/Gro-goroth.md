@@ -6,15 +6,12 @@ tags: ["god", "old-god"]
 sources: ["[[Wiki - Gro-goroth]]", "[[Wiki - The Gods]]", "[[Tormentpedia - The Gods]]", "[[Tormentpedia - Traces of Gro-goroth]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Gro-goroth
 
-
-
 **Classification (per wiki):** Old God
-
-
 
 ## Overview on *The Gods*
 
@@ -56,7 +53,7 @@ In *Fear & Hunger 2: Termina*,  [it is said that](https://fearandhunger.wiki.gg/
 
 ### Trivia
 
-- According to [Miro Haverinen](https://fearandhunger.wiki.gg/wiki/Miro_Haverinen), Gro-goroth's name was invented "on the spot" while hosting a tabletop role-playing game session for his schoolmates, and carries no greater meaning.[^7] 
+- According to [Miro Haverinen](https://fearandhunger.wiki.gg/wiki/Miro_Haverinen), Gro-goroth's name was invented "on the spot" while hosting a tabletop role-playing game session for his schoolmates, and carries no greater meaning.[^7]
 - If the player has [[Nas'hrah]] in their party while beginning the fight, Nas'hrah will spurt a short dialogue about destroying the Old God, prompting the Traces of Gro-goroth to instantly obliterate Nas'hrah (this means the player must face the battle one party member short). However, this cutscene happens regardless of whether Nas'hrah is in the party, because the game does not actually check if the player has Nash'rah with them.  ⚠ *(known bug listed on the wiki)*
 
 *Source: [[Wiki - Gro-goroth]]*
@@ -79,11 +76,6 @@ In *Fear & Hunger 2: Termina*,  [it is said that](https://fearandhunger.wiki.gg/
 - [[Black orb (F&H2)]] — 3 Gro-goroth affinity
 - [[Attack +1 (F&H2 Gro-goroth)]] — 3 Gro-goroth affinity; 3 Gro-goroth affinity
 - [[Chains of torment (F&H2)]] — Defeat the Tormented One / Have *Black orb*
-
-
-
-
-
 
 ## In-game documents
 - [[Skin Bible - Gro-goroth]]
@@ -113,7 +105,6 @@ In *Fear & Hunger 2: Termina*,  [it is said that](https://fearandhunger.wiki.gg/
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

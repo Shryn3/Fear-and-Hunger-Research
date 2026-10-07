@@ -4,14 +4,15 @@ tags: ["mechanics"]
 sources: ["[[Wiki - Marriage of Flesh]]", "[[Tormentpedia - The Marriage]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-mechanic"]
 ---
 
 # Marriage of Flesh
 
 *This article is about the religious ritual featured in the Fear & Hunger universe. For the Fear & Hunger playable characters, see [Marriage](https://fearandhunger.wiki.gg/wiki/Marriage) and [Marriage (Fusion)](https://fearandhunger.wiki.gg/wiki/Marriage_(Fusion)).*
 
-> ***"I know of the 2nd secret of [[Sylvian]]: I no longer have to fear for separation from my loved ones for we can forever join in a marriage of flesh. An act of love that creates a beautiful unison for two souls."***  
-> 
+> ***"I know of the 2nd secret of [[Sylvian]]: I no longer have to fear for separation from my loved ones for we can forever join in a marriage of flesh. An act of love that creates a beautiful unison for two souls."***
+>
 > *- Description from [Blood & Flower magic I](https://fearandhunger.wiki.gg/wiki/Blood_%26_Flower_magic_I).*
 
 The **Marriage of Flesh** is a religious ritual performed under [[Sylvian]]'s blessing. It is the second secret of Sylvian, a ritual that unites two or more individuals in both body and soul, turning them into a new and more powerful being.[^1]
@@ -34,8 +35,8 @@ There are known cases of Marriages of Flesh formed from three or more people, bu
 
 > [!warning] The wiki marks the following as speculation.
 
-> ***"There is something unnatural about the physique of this trooper... I can't quite put a finger on what it is. Their anatomy is just from an uncanny valley if that makes sense... All the proportions look off, just a little bit. They don't seem to suffer from [similar symptoms](https://fearandhunger.wiki.gg/wiki/Moonscorch) as the villagers and the locals in the city though. This is something else... Could it be because of some unholy Bremen experiments?"***  
-> 
+> ***"There is something unnatural about the physique of this trooper... I can't quite put a finger on what it is. Their anatomy is just from an uncanny valley if that makes sense... All the proportions look off, just a little bit. They don't seem to suffer from [similar symptoms](https://fearandhunger.wiki.gg/wiki/Moonscorch) as the villagers and the locals in the city though. This is something else... Could it be because of some unholy Bremen experiments?"***
+>
 > *- [[Daan]] diagnosing a dead Bremen Trooper.*
 
 Despite falling out of relevance in recent times, Sylvian's influence still is present throughout [Europa](https://fearandhunger.wiki.gg/wiki/Europa) and as a consequence, the Marriage of Flesh still is performed by many individuals. Although the Marriage mechanic itself does not return in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, several enemies appear to be the result of Sylvian Marriages. Among the [Bremen](https://fearandhunger.wiki.gg/wiki/Bremen_Empire) forces in the occupied city of [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil), there is the [Sylvian Trooper](https://fearandhunger.wiki.gg/wiki/Sylvian_Trooper),with slightly unusual body proportions can be found. This implies that the Empire might have resorted to Sylvian's practices at some point, and even attempted to [weaponize them](https://fearandhunger.wiki.gg/wiki/Platoon).

@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Caligura]]", "[[Tormentpedia - Caligura]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Caligura
 
-
-
 **Soul:** [[Decrepit soul]]
-
 
 ## Facts
 
@@ -91,7 +89,6 @@ During the festival, he is one of the select few participants who will actively 
 
 ![[Caligura overworld.png]]
 *Static — file: Caligura overworld.png (59×113), <https://fearandhunger.wiki.gg/wiki/File:Caligura_overworld.png>*
-
 
 ## Other wikis
 

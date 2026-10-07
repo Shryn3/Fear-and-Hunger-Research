@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Levi]]", "[[Tormentpedia - Levi]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Levi
 
-
-
 **Soul:** [[Solitary soul]]
-
 
 ## Facts
 
@@ -35,8 +33,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"Why do these people talk to me...? I... I don't have anything to offer to them..."***  
-> 
+> ***"Why do these people talk to me...? I... I don't have anything to offer to them..."***
+>
 > — Levi's [Mind Read](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H2#Rher) dialogue in [PRHVL Bop](https://fearandhunger.wiki.gg/wiki/PRHVL_Bop).
 
 **Levi** is a playable character and a potential [party member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -175,7 +173,6 @@ If recruited, Levi will have the *[Gun proficiency](https://fearandhunger.wiki.g
 
 ![[Levi overworld.png]]
 *Static — file: Levi overworld.png (57×108), <https://fearandhunger.wiki.gg/wiki/File:Levi_overworld.png>*
-
 
 ## Other wikis
 

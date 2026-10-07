@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Tanaka]]", "[[Tormentpedia - Tanaka]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Tanaka
 
-
-
 **Soul:** [[Latent soul]]
-
 
 ## Facts
 
@@ -35,8 +33,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"It might be a silly thing for you to hear, but I'm not used to - friends... I've been taught since I was 4 years old to rely only on myself and my own skillsets. I've been prepared for a ruthless business world where softness is weakness. But now I know a true warrior knows how to combine both softness and strength. Because I relied on others, I've grown stronger..."***  
-> 
+> ***"It might be a silly thing for you to hear, but I'm not used to - friends... I've been taught since I was 4 years old to rely only on myself and my own skillsets. I've been prepared for a ruthless business world where softness is weakness. But now I know a true warrior knows how to combine both softness and strength. Because I relied on others, I've grown stronger..."***
+>
 > *- Tanaka, in the [White Mold Apartments (Rher Dimension)](https://fearandhunger.wiki.gg/wiki/White_Mold_Apartments_(Rher_Dimension))*
 
 **Kida Tanaka** is a Non-playable [Side Character](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#%23Side_Characters-0) and [Potential Enemy](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H2#Contestants-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -53,7 +51,7 @@ Tanaka is an [Edoan](https://fearandhunger.wiki.gg/wiki/Edo) businessman who has
 
 ### Personality
 
-Tanaka is a timid and polite person, with many constant worries about failing his father and his business. He was raised to only rely on himself and he has a non-stop work mentality, seeming especially anxious that the train stopping will make him late, although he remains kind and helpful to the other people from the train out of formality. Also, his lack of survival skills and over-reliance on himself means that Tanaka more often than not finds himself in danger (or getting killed) more than the other contestants. 
+Tanaka is a timid and polite person, with many constant worries about failing his father and his business. He was raised to only rely on himself and he has a non-stop work mentality, seeming especially anxious that the train stopping will make him late, although he remains kind and helpful to the other people from the train out of formality. Also, his lack of survival skills and over-reliance on himself means that Tanaka more often than not finds himself in danger (or getting killed) more than the other contestants.
 
 Should he survive until later in the game, Tanaka will meet [[Marcoh]] and [[Olivia]] who will show him the value in comradery working with others, and he will quickly realise the flaws in his way of thinking. The three of them become good friends, with Tanaka and Marcoh putting themselves in danger to acquire a wheelchair for Olivia before returning to the train with it, where Marcoh will then teach Tanaka how to fight. Tanaka becomes a lot more assertive, protective and open to others after all of this, until a certain supply run goes south...
 
@@ -116,7 +114,6 @@ After witnessing Marcoh giving in to his guilt, losing his mind in the [White Mo
 
 ![[Tanaka overworld3.png]]
 *Static 3 — file: Tanaka overworld3.png (58×110), <https://fearandhunger.wiki.gg/wiki/File:Tanaka_overworld3.png>*
-
 
 ## Other wikis
 

@@ -7,6 +7,7 @@ revision_timestamp: "2026-09-18T15:32:00Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Reila

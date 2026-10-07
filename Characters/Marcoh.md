@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Marcoh]]", "[[Tormentpedia - Marcoh]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Marcoh
 
-
-
 **Soul:** [[Tainted soul]]
-
 
 ## Facts
 
@@ -35,8 +33,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"There is no escaping your fate, is there? No matter which road I take in life... I always end up in similar circles."***  
-> 
+> ***"There is no escaping your fate, is there? No matter which road I take in life... I always end up in similar circles."***
+>
 > *- Marcoh's [Mind Read](https://fearandhunger.wiki.gg/wiki/Skills_List_F%26H2#Rher) dialogue in [PRHVL Bop](https://fearandhunger.wiki.gg/wiki/PRHVL_Bop).*
 
 **Marcoh** is a Playable Character and a potential [Party Member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -57,7 +55,7 @@ Despite the risks of being associated with someone like [Riccardo Accardo](https
 
 Upon entering the gym, Marcoh felt a sense of professionalism that he had not experienced before. The elderly trainer, who had an impressive track record, was impressed with Marcoh's natural abilities and raw skills. Under the trainer's guidance, Marcoh's skills improved and he started to win bigger and bigger matches. Riccardo was able to organize more and more fights, and Marcoh found himself spending more time with the Accardo family, without realizing that he was slowly being pulled into the criminal world. Eventually, Riccardo revealed his true colors and demanded that Marcoh kill an ex-family member in a boxing match. Marcoh refused, but Riccardo threatened his sister's safety, leaving Marcoh with no choice but to comply.
 
-During the fight, Marcoh managed to knock out his opponent, but he didn't stop there. Under Riccardo's orders, he continued to pummel the man, even after he had hit the ground. Marcoh had killed him. Devastated by what he had done, Marcoh kept it all inside, but he knew that things had to change. Riccardo had plenty more dirty work for him to do, and his sister's safety was always on the line. Marcoh knew that he had to find a way out of the criminal world before it consumed him completely. 
+During the fight, Marcoh managed to knock out his opponent, but he didn't stop there. Under Riccardo's orders, he continued to pummel the man, even after he had hit the ground. Marcoh had killed him. Devastated by what he had done, Marcoh kept it all inside, but he knew that things had to change. Riccardo had plenty more dirty work for him to do, and his sister's safety was always on the line. Marcoh knew that he had to find a way out of the criminal world before it consumed him completely.
 
 After killing Riccardo in an attempt to cut ties, Marcoh found himself in a dire situation as both the Family and law enforcement were hot on his trail. His phone rang and it was his sister on the other end. She had been sent to Riccardo's summer villa in [Valland](https://fearandhunger.wiki.gg/wiki/Valland) a few days prior. Marcoh explained his predicament to her and they decided to meet up in Rondon. It was clear that Marcoh could no longer stay in Vatican City and needed to act quickly before the police caught up to him.
 
@@ -169,7 +167,6 @@ If recruited, Marcoh will have [Combat jacket](https://fearandhunger.wiki.gg/wik
 
 ![[Marcoh overworld.png]]
 *Static — file: Marcoh overworld.png (54×115), <https://fearandhunger.wiki.gg/wiki/File:Marcoh_overworld.png>*
-
 
 ## Other wikis
 

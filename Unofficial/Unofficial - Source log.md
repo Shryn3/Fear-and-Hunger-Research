@@ -3,6 +3,7 @@ type: "unofficial"
 status: "unofficial"
 retrieved: "2026-10-07"
 tags: ["unofficial"]
+cssclasses: ["fh-vault", "fh-unofficial"]
 ---
 
 > [!danger] UNOFFICIAL RESEARCH

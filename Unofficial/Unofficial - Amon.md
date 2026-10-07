@@ -4,6 +4,7 @@ status: "unofficial"
 retrieved: "2026-10-07"
 tags: ["unofficial"]
 subject: "Amon"
+cssclasses: ["fh-vault", "fh-unofficial"]
 ---
 
 > [!danger] UNOFFICIAL RESEARCH

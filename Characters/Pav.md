@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Pav]]", "[[Tormentpedia - Pav]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Pav
 
-
-
 **Soul:** [[Chaotic soul]]
-
 
 ## Facts
 
@@ -35,8 +33,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"My life's not wasted if I get my revenge here. Hell, I'd do this even if it just meant that no one else has to suffer. And don't even try to give me any of that 'it's for the greater good' bullshit."***  
-> 
+> ***"My life's not wasted if I get my revenge here. Hell, I'd do this even if it just meant that no one else has to suffer. And don't even try to give me any of that 'it's for the greater good' bullshit."***
+>
 > *- Pav, to the [[Kaiser]]*
 
 **Pavel Yudin**, more often referred to as just **Pav**, is a Non-playable [Side Character](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#%23Side_Characters-0) and [Potential Enemy](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H2#Contestants-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -105,7 +103,6 @@ If Pav is taken back to the [train](https://fearandhunger.wiki.gg/wiki/Train), h
 
 ![[Pav overworld.png]]
 *Static — file: Pav overworld.png (58×116), <https://fearandhunger.wiki.gg/wiki/File:Pav_overworld.png>*
-
 
 ## Other wikis
 

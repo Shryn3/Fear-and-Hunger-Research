@@ -6,15 +6,12 @@ tags: ["god", "old-god"]
 sources: ["[[Wiki - Sylvian]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Sylvian]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Sylvian
 
-
-
 **Classification (per wiki):** Old God
-
-
 
 ## Overview on *The Gods*
 
@@ -48,17 +45,17 @@ A goddess of fertility, love, lust, and creation. She is one of the Old Gods wor
 
 Sylvian created men and women at the dawn of time, the creation of the world. She ordered a deity known as Vitruvia to create an architectural reprography of a man and a woman that would be the likeness of Sylvian herself. She fell in love with the results and created mankind according to Vitruvia's drawings. Because of this, she could be seen as a Mother Goddess, the one who brought life to everyone in many ways, while Gro-goroth, her opposite, brought death to everyone in many ways. Her union with Gro-goroth also spawned another old god: **[[Vinushka]]**, the god of nature.
 
-Sylvian wishes for men and women to make love in her name. But what kind of love she wants is interpreted differently by everyone. Some take it literally and show love to each other in a form of marriage. But not just any marriage. A beautiful **[[Marriage of Flesh]]** for [two](https://fearandhunger.wiki.gg/wiki/Marriage) or for [three](https://fearandhunger.wiki.gg/wiki/Marriage_(Fusion)). A holy bond and 'beautiful unison for two souls' or three souls. 
+Sylvian wishes for men and women to make love in her name. But what kind of love she wants is interpreted differently by everyone. Some take it literally and show love to each other in a form of marriage. But not just any marriage. A beautiful **[[Marriage of Flesh]]** for [two](https://fearandhunger.wiki.gg/wiki/Marriage) or for [three](https://fearandhunger.wiki.gg/wiki/Marriage_(Fusion)). A holy bond and 'beautiful unison for two souls' or three souls.
 
 The twisted realities of these different kinds of love are because Sylvian realized that the men and women she created would not be able to return the same amount of affection towards her as she does to them. Love from her perspective takes on a more twisted form, as shown by the example of the Marriage of Flesh. Those forms are more aligned with her own image, and they manifest in her gift to people - **Love Magic**, also known as **Flower Magic**. From gentle healing whispers to the creation of demon offspring through sexual intercourse with a deceased body, Flower Magic encompasses a wide range of abilities. Those who have a strong bond with Sylvian and her offspring [[Vinushka]] may also possess the power to cultivate **Brain Flowers** by planting seeds within a corpse.
 
-Sylvian's disappointment in humankind's inability to reciprocate the love she offers, and the distorted nature of her affection, is perhaps most apparent in the fleeting moment of history when humanity was consumed by a frenzied pursuit of carnal pleasures. A synchronized wave of naked bodies engaged in endless sexual activity, wasting their days in the process. This event bears a striking resemblance to the influence Sylvian has over humans, though the exact details of the event are unclear. It has also been stated that the use of Sylvian's gift of healing may lead to a gradual deterioration of the user's mental state over time. 
+Sylvian's disappointment in humankind's inability to reciprocate the love she offers, and the distorted nature of her affection, is perhaps most apparent in the fleeting moment of history when humanity was consumed by a frenzied pursuit of carnal pleasures. A synchronized wave of naked bodies engaged in endless sexual activity, wasting their days in the process. This event bears a striking resemblance to the influence Sylvian has over humans, though the exact details of the event are unclear. It has also been stated that the use of Sylvian's gift of healing may lead to a gradual deterioration of the user's mental state over time.
 
 _Image caption: *[[Studies of Sylvian I]]* portrays the goddess with iconography associated with fertility, showcasing a head shaped like a phallus and multiple female breasts._
 
 There are certain sex cults, such as the **[Bunnymasks](https://fearandhunger.wiki.gg/wiki/Bunnymasks)**, that hold orgies in hidden courtyards as a way of honoring Sylvian. These acts are believed to be sacred and performed in her name. The rabbit masks worn by the cult members may indicate the animal's significance to Sylvian, as rabbits are known for their energetic breeding and are often associated with fertility. There are also indications of the existence of a **church of Sylvian** and a **church of healing** that authored scrolls about her magic, but further exploration of other Sylvian cults has yet to be shown.
 
-In the modern era, despite a decrease in popularity, Sylvian's cultural relevance endures. The Bunnymask cult, dedicated to her worship, can still be found across Europa, and in [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil), the capital of [Bohemia](https://fearandhunger.wiki.gg/wiki/Bohemia), a town square bears her name. Notably, this same square was previously home to the city's largest brothel, which was closed down by the church in the early 20th century in an attempt to regulate human desires. 
+In the modern era, despite a decrease in popularity, Sylvian's cultural relevance endures. The Bunnymask cult, dedicated to her worship, can still be found across Europa, and in [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil), the capital of [Bohemia](https://fearandhunger.wiki.gg/wiki/Bohemia), a town square bears her name. Notably, this same square was previously home to the city's largest brothel, which was closed down by the church in the early 20th century in an attempt to regulate human desires.
 
 Her symbol is the shape of an open eye. In *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, another of her symbols is introduced, a vertical slit. This icon could be interpreted as an eye, a vulva, or a rabbit head.
 
@@ -88,11 +85,6 @@ Her symbol is the shape of an open eye. In *[[Fear & Hunger 2 Termina|Fear & Hun
 - [[Healing whispers (F&H2)]] — 2 Sylvian affinity
 - [[Brain flower]] — 2 Sylvian affinity / 2 Vinushka affinity
 - [[Heart flower]] — 2 Sylvian affinity / 3 Vinushka affinity
-
-
-
-
-
 
 ## In-game documents
 - [[Skin Bible - Sylvian]]
@@ -140,7 +132,6 @@ Her symbol is the shape of an open eye. In *[[Fear & Hunger 2 Termina|Fear & Hun
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

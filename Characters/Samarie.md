@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Samarie]]", "[[Tormentpedia - Samarie]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Samarie
 
-
-
 **Soul:** [[Radiating soul]]
-
 
 ## Facts
 
@@ -34,8 +32,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"I'm no one... Just a lonely caterpillar waiting to shed her skin..."***  
-> 
+> ***"I'm no one... Just a lonely caterpillar waiting to shed her skin..."***
+>
 > *- Samarie*
 
 **Samarie** is a Non-playable [Side Character](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#%23Side_Characters-0) and [Potential Enemy](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H2#Contestants-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -46,7 +44,7 @@ She appears to be an insecure and frail occultist with stalking tendencies and a
 
 ### Lore
 
-Samarie is a secretive dark priest apprentice and a participant in the Termina festival. In the [Vatican City](https://fearandhunger.wiki.gg/wiki/Vatican_City), she was part of an exclusive group of naturally gifted children who were sequestered in the ninth circle of Fiend Petr's Basilica. Here, their bodies would waste away in an ancient rite designed to receive messages from the older gods. Samarie's innate affinity with these supernatural forces is evident in her versatility with magic, which includes blood magic, mind reading, and teleportation through red arcs. However, these rituals have taken a significant toll on Samarie's physical body, causing her to deteriorate to the point where her lifespan is severely limited, a reality that she is acutely aware of. 
+Samarie is a secretive dark priest apprentice and a participant in the Termina festival. In the [Vatican City](https://fearandhunger.wiki.gg/wiki/Vatican_City), she was part of an exclusive group of naturally gifted children who were sequestered in the ninth circle of Fiend Petr's Basilica. Here, their bodies would waste away in an ancient rite designed to receive messages from the older gods. Samarie's innate affinity with these supernatural forces is evident in her versatility with magic, which includes blood magic, mind reading, and teleportation through red arcs. However, these rituals have taken a significant toll on Samarie's physical body, causing her to deteriorate to the point where her lifespan is severely limited, a reality that she is acutely aware of.
 
 During her confinement, Samarie became infatuated with Marina, a regular student at the Vatican. This infatuation quickly evolved into an obsession, prompting Samarie to secretly observe Marina's every move, even resorting to reading her thoughts. When Samarie discovers that Marina plans to visit Prehevil to question her despised father about her mother's death, Samarie decided to travel to [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil) to help or protect Marina, despite Marina being unaware of her existence. Little did she know that she was destined to become a player in a grand scheme orchestrated by the mischievous Moon God, [[Rher]], who had chosen her as one of the 14 Termina contestants.
 
@@ -90,7 +88,6 @@ Samarie is a disturbed and obsessive young woman who will go to lengths to follo
 
 ![[Samarie overworld.png]]
 *Static — file: Samarie overworld.png (54×111), <https://fearandhunger.wiki.gg/wiki/File:Samarie_overworld.png>*
-
 
 ## Other wikis
 

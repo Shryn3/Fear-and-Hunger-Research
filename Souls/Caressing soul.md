@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Caressing soul
-
-
 
 | | |
 |---|---|
@@ -41,7 +40,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Trapcraft]]
 - [[Weaponcraft]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -50,7 +48,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Caressing.png]]
 *Caressing soul icon (the wiki's Soul type gallery caption: "Caressing soul.") — file: Soul Caressing.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Caressing.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

@@ -6,15 +6,12 @@ tags: ["god", "old-god"]
 sources: ["[[Wiki - Vinushka]]", "[[Wiki - The Gods]]", "[[Tormentpedia - The Gods]]", "[[Tormentpedia - Vinushka]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Vinushka
 
-
-
 **Classification (per wiki):** Old God
-
-
 
 ## Overview on *The Gods*
 
@@ -41,15 +38,15 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"The older god that came to be from the Union of Sylvian and Gro-Goroth. Vinushka is synonymous with the nature. The god appears in different forms in different regions of the world. This is only natural as the nature itself appears in different forms around the world as well."***  
-> 
+> ***"The older god that came to be from the Union of Sylvian and Gro-Goroth. Vinushka is synonymous with the nature. The god appears in different forms in different regions of the world. This is only natural as the nature itself appears in different forms around the world as well."***
+>
 > *- The [[The Gods|New Gods]] when asked about Vinushka.*[^1]
 
-Vinushka is said to be the product of the union between [[Gro-goroth]] and [[Sylvian]], embodying the cycle of destruction and creation that manifests in nature. Like humanity, the temperament of Vinushka is volatile and can shift from that of a "fiery raging volcano" to a "serene grassland." 
+Vinushka is said to be the product of the union between [[Gro-goroth]] and [[Sylvian]], embodying the cycle of destruction and creation that manifests in nature. Like humanity, the temperament of Vinushka is volatile and can shift from that of a "fiery raging volcano" to a "serene grassland."
 
 In his [[Skin Bible - Vinushka (unedited)|original version]] of Vinushka's skin bible, [[Enki|Enki Ankarian]] claims that Vinushka died long ago. According to this version, ancient humans once coexisted with nature in a state of symbiosis. However, as civilization developed, humans became increasingly greedy and rapacious towards the natural world, causing Vinushka to become similarly aggressive. Humans and Vinushka waged war against one another, eventually leading to the Old God's demise. As a result, nature is dead, and only faint traces of Vinushka remain in the form of totems, which desperately search for the murdered god in vain. Furthermore, Enki states that Sylvian originally named her child "Ninush," and that the name "Vinushka," meaning "guilt," only came about after humans slaughtered the Old God. The drawing of Vinushka in this copy depicts them with a pinecone for a head.
 
-In stark contrast, the censored version of [Vinushka's skin bible](https://fearandhunger.wiki.gg/wiki/Skin_Bible_-_Vinushka) distributed by the Vatican makes no mention whatsoever of Vinushka's alleged death. This version emphasizes the harmony and similarities between Vinushka and mankind, which it claims is only fitting given that both were reared by Sylvian. According to this text, Vinushka and the representation of humanity, Alll-mer, are considered equal. It also states that nature is humanity's to reap, just as nature takes the old and weary among men. Additionally, Vinushka is rendered with a more humanlike face in this version. 
+In stark contrast, the censored version of [Vinushka's skin bible](https://fearandhunger.wiki.gg/wiki/Skin_Bible_-_Vinushka) distributed by the Vatican makes no mention whatsoever of Vinushka's alleged death. This version emphasizes the harmony and similarities between Vinushka and mankind, which it claims is only fitting given that both were reared by Sylvian. According to this text, Vinushka and the representation of humanity, Alll-mer, are considered equal. It also states that nature is humanity's to reap, just as nature takes the old and weary among men. Additionally, Vinushka is rendered with a more humanlike face in this version.
 
 Vinushka's story appears to be the subject of some debate among occult scholars. This is not only evidenced by the Vatican's censorship of their skin bible, but also by the [[God manifesto|god manifesto]] written by [Donnovan Hugo](https://fearandhunger.wiki.gg/wiki/Father_Hugo). This manifesto includes a drawing that may be a depiction of Vinushka's conception. In his writing, Father Hugo appears to lambast Enki's claim that an Old God could ever die. However, it should be noted that Father Hugo does not actually name the person he criticizes in his manifesto, so he may be discussing something different entirely. Ultimately, the strength of Vinushka's presence in the mortal world and their life-or-death status are left ambiguous.
 
@@ -87,9 +84,6 @@ Vinushka's symbol is a swirling maelstrom, signifying an ever-changing state wit
 - [[Greater photosynthesis]] — 3 Vinushka affinity
 - [[Magic attack +1 (F&H2 Vinushka)]] — 3 Vinushka affinity; 3 Vinushka affinity
 
-
-
-
 ## In-game documents
 - [[Skin Bible - Vinushka (unedited)]]
 
@@ -114,7 +108,6 @@ Vinushka's symbol is a swirling maelstrom, signifying an ever-changing state wit
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

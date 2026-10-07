@@ -4,6 +4,7 @@ tags: ["lore"]
 sources: ["[[Wiki - Skin Bible - Sylvian]]", "[[Tormentpedia - Skin Bible - Sylvian]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-document"]
 ---
 
 # Skin Bible - Sylvian
@@ -22,10 +23,9 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Contents
 
-Sylvian - the goddess of love, lust and creation. She created men and women at the dawn of time. From the very first moments she loved her children dearly. Over time her love blossomed into a more obsessive form and she would take a more hands-on approach in controlling the direction her children took in life, always having their best interest in mind of course. Once she realized her children would never return the same amount of affection back to her, her love took a more twisted form. Sylvian forced mankind more to her liking and closer to her own image with her gift to humans - the love magic, otherwise known as the [flower magic.](https://fearandhunger.wiki.gg/wiki/Blood_%26_Flower_magic_I)   
+Sylvian - the goddess of love, lust and creation. She created men and women at the dawn of time. From the very first moments she loved her children dearly. Over time her love blossomed into a more obsessive form and she would take a more hands-on approach in controlling the direction her children took in life, always having their best interest in mind of course. Once she realized her children would never return the same amount of affection back to her, her love took a more twisted form. Sylvian forced mankind more to her liking and closer to her own image with her gift to humans - the love magic, otherwise known as the [flower magic.](https://fearandhunger.wiki.gg/wiki/Blood_%26_Flower_magic_I)
 
 For a brief moment in history, mankind fell into a craze of fleshly delights. As a synchronized mass, sea of naked people in a middle of coitus would pulsate and waste their days. Sylvian is often associated with [[Gro-goroth]], the god of destruction and their offspring [[Vinushka]], the god of nature.
-   
 
 *The Mark of Sylvian raises the otherworldly protection of its wielder.*
 
@@ -43,7 +43,6 @@ wip
 
 ![[Skin bible big.png]]
 *"A strong occult book written in the medieval times by Enki Ankarian. The chapter explains the older god Sylvian." — file: Skin bible big.png (128×128), <https://fearandhunger.wiki.gg/wiki/File:Skin_bible_big.png>*
-
 
 ## Other wikis
 

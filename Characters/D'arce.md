@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - D'arce]]", "[[Tormentpedia - D'arce]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # D'arce
 
-
-
 **Soul:** [[Domination soul]]
-
 
 ## Facts
 
@@ -37,8 +35,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"I'm here to protect a [special someone](https://fearandhunger.wiki.gg/wiki/Le'garde). I won't let anyone stand in my way!"***  
-> 
+> ***"I'm here to protect a [special someone](https://fearandhunger.wiki.gg/wiki/Le'garde). I won't let anyone stand in my way!"***
+>
 > *- D'arce when asked about her purpose.*
 
 **D'arce Cataliss** is a playable character and a potential party member in *[[Fear & Hunger]]*. A knight with pure and righteous ways of the warrior, she has being trained in combat since childhood and excels in close combat with different weaponry.
@@ -47,8 +45,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"The trusted knight of the propheticed one. She seems awfully dim standing next to the blinding shimmer of the one... But it might be wrong to misjudge her potential..."***  
-> 
+> ***"The trusted knight of the propheticed one. She seems awfully dim standing next to the blinding shimmer of the one... But it might be wrong to misjudge her potential..."***
+>
 > *- The New Gods when asked about D'arce.*
 
 Born with the soul of domination that makes people around her bend to her will, D'arce is a natural leader, but often ends up blind to self-criticism. Her [[Soul types|birth sign]] and wealthy noble background from the [Kingdom of Rondon](https://fearandhunger.wiki.gg/wiki/Rondon) already marked her for greatness, and she further cemented her worth by becoming a gifted holy knight of [[Alll-mer]] and a valuable asset to her kingdom, much like [her ancestors](https://fearandhunger.wiki.gg/wiki/D'arce's_ancestor). Despite the harsh training that squirehood demanded, D'arce persevered and proved herself to be a formidable warrior, regardless of her noble origins.
@@ -59,9 +57,9 @@ However, as she grew older, her devotion to Rondon began to falter when she real
 
 The Knights of the Midnight Sun would eventually grow and attract the attention of Rondon: initially, as warriors available for hire, but eventually as a force to be dealt with for being a possible threat to their reign. D'arce keenly observed that Le'garde's personal development mirrored the growth of his army. He became reclusive, dedicating his time to ancient texts and the occult. His fixation on relics and artifacts eventually drove him to invade [Oldegård](https://fearandhunger.wiki.gg/wiki/Oldeg%C3%A5rd) in search of the [Cube of the Depths](https://fearandhunger.wiki.gg/wiki/Cube_of_the_Depths). D'arce couldn't fully comprehend the reasoning behind this expanding campaign, as it seemed to have the potential to negatively impact their reputation.
 
-Her observations would end up being proven to be correct, as Le'garde's willingness to employ violence and kill those who opposed him in his pursuit of the relic provided Rondon with the justification it needed to turn public opinion against Le'garde and have him arrested. Despite being a skilled fighter, capable of leading both defensive and offensive maneuvers, D'arce was unable to prevent the Knights of Midnight Sun from being defeated by Rondon's forces. Nevertheless, she managed to escape with her life. She then attempted to rescue her captain Le'garde once she heard that he was being held in the dungeons of fear and hunger. 
+Her observations would end up being proven to be correct, as Le'garde's willingness to employ violence and kill those who opposed him in his pursuit of the relic provided Rondon with the justification it needed to turn public opinion against Le'garde and have him arrested. Despite being a skilled fighter, capable of leading both defensive and offensive maneuvers, D'arce was unable to prevent the Knights of Midnight Sun from being defeated by Rondon's forces. Nevertheless, she managed to escape with her life. She then attempted to rescue her captain Le'garde once she heard that he was being held in the dungeons of fear and hunger.
 
-If not chosen as the main character, D'arce will find herself captured and attacked by the [Cavedweller](https://fearandhunger.wiki.gg/wiki/Cavedweller)s after preaching to them the greatness of Alll-mer to no effect and stepping in after witnessing one of their primitive rituals. The specifics of what she endured remain undisclosed, but it is heavily implied that she suffers deeply traumatic consequences. 
+If not chosen as the main character, D'arce will find herself captured and attacked by the [Cavedweller](https://fearandhunger.wiki.gg/wiki/Cavedweller)s after preaching to them the greatness of Alll-mer to no effect and stepping in after witnessing one of their primitive rituals. The specifics of what she endured remain undisclosed, but it is heavily implied that she suffers deeply traumatic consequences.
 
 > [!warning] The wiki marks the following as speculation.
 
@@ -71,9 +69,9 @@ It is evident from the events in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Ter
 
 ### Personality
 
-D'arce's love for Le'garde runs deep, and she firmly believes in his connection to the prophecies. Her unwavering devotion to her captain is evident in her fearless charge into the Dungeons of Fear and Hunger to save him. She is even prepared to take upon herself the task of achieving his ultimate goal of unifying the warring lands if she were to find him dead in the dungeons. 
+D'arce's love for Le'garde runs deep, and she firmly believes in his connection to the prophecies. Her unwavering devotion to her captain is evident in her fearless charge into the Dungeons of Fear and Hunger to save him. She is even prepared to take upon herself the task of achieving his ultimate goal of unifying the warring lands if she were to find him dead in the dungeons.
 
-D'arce displays a somewhat contradictory outlook on life, as the unjust accumulation of wealth and power among the privileged in Rondon was one of the reasons for her to cut her ties with the kingdom and become a mercenary. But this resolve does not always translate into empathy for the commonfolk. She can be standoffish and look down on others, labeling them as lowly commoners. 
+D'arce displays a somewhat contradictory outlook on life, as the unjust accumulation of wealth and power among the privileged in Rondon was one of the reasons for her to cut her ties with the kingdom and become a mercenary. But this resolve does not always translate into empathy for the commonfolk. She can be standoffish and look down on others, labeling them as lowly commoners.
 
 Her conflicting personality is also evident in her meek and hesitant behavior during most of her time in the Dungeons of Fear and Hunger, despite having a Domination soul. However, if she faces betrayal from Le'garde, she will reveal the traits of her soul type by embracing the darkness and choosing to survive, never wanting to be a damsel in distress again. This tendency towards asserting dominance becomes even more pronounced if she ascends as a new god. In her introspective moments, she acknowledges that her submissiveness has persisted for long enough. Deep down, she yearns for power over others, demonstrating her strong alignment with the Domination soul.
 
@@ -155,7 +153,7 @@ If the player chooses not to play as D'arce, they will be able to go to the prom
   - Give Le'garde the Claymore and Plate mail.
   - Go on a date with Le'garde.
   - Talk to D'arce and tell her that you and Le'garde are just friends.
-- Day 3 
+- Day 3
   - Go and get a Withered rose on 1 level.
   - Give her the Withered rose.
   - Go on date.
@@ -211,7 +209,6 @@ If the player chooses not to play as D'arce, they will be able to go to the prom
 
 ![[DarceandLegarde.png|300]]
 *D'arce and Le'garde discuss his plans of raiding Oldegård. — file: DarceandLegarde.png (1412×1080), <https://fearandhunger.wiki.gg/wiki/File:DarceandLegarde.png>*
-
 
 ## Other wikis
 

@@ -4,6 +4,7 @@ tags: ["lore"]
 sources: ["[[Wiki - God manifesto]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-document"]
 ---
 
 # God manifesto
@@ -20,13 +21,13 @@ The **God manifesto** is an [Occult Book](https://fearandhunger.wiki.gg/wiki/Ite
 
 ### Contents
 
-I have read contrary beliefs, ridiculous beliefs even, from facets not to be named here. From an effete facet well known in occult circles despite his biased view on the world of the otherworldly.   
+I have read contrary beliefs, ridiculous beliefs even, from facets not to be named here. From an effete facet well known in occult circles despite his biased view on the world of the otherworldly.
 
-Just because this not-to-be-named dark priest wrote a book that is citated in most occult studies, doesn't mean his word shouldn't be taken with a pinch, no - with a jar of salt. Words about the death of an older god especially are nothing short of absurd. How do you kill an idea, an inspiration or one of the primordial concepts once it is conceived? The thought will forever haunt your mind as long as our consciousness is there to remind us of it.   
+Just because this not-to-be-named dark priest wrote a book that is citated in most occult studies, doesn't mean his word shouldn't be taken with a pinch, no - with a jar of salt. Words about the death of an older god especially are nothing short of absurd. How do you kill an idea, an inspiration or one of the primordial concepts once it is conceived? The thought will forever haunt your mind as long as our consciousness is there to remind us of it.
 
-Once an older god is born, it has existed forever. A god, like a human soul is not constrained by linear time and space. It can reincarnate multiple times within our history and future history without us knowing any better. They spawn from the green stream, but which spawns first, an older god in its physical form or the concept our consciousness gave birth to?   
+Once an older god is born, it has existed forever. A god, like a human soul is not constrained by linear time and space. It can reincarnate multiple times within our history and future history without us knowing any better. They spawn from the green stream, but which spawns first, an older god in its physical form or the concept our consciousness gave birth to?
 
-The mockery that is 'the new gods', the puppets yearning to become the puppeteers, should never be mistaken with the gods that dwell beyond our understanding. They are but byproducts of the immense influence the older gods hold on us. Just by flying too close to the sun, or why not moon, and one can attain a glimpse of the true intensity that is older gods.   
+The mockery that is 'the new gods', the puppets yearning to become the puppeteers, should never be mistaken with the gods that dwell beyond our understanding. They are but byproducts of the immense influence the older gods hold on us. Just by flying too close to the sun, or why not moon, and one can attain a glimpse of the true intensity that is older gods.
 
 Men inherited the power from the beasts that walked before us. How could such power come even close to that of older gods?
 
@@ -44,7 +45,6 @@ wip
 
 ![[Book big.png]]
 *"A short manifesto on godhood. Written by renowned occultist Donnovan Hugo." — file: Book big.png (128×128), <https://fearandhunger.wiki.gg/wiki/File:Book_big.png>*
-
 
 ## Sources
 - [[Wiki - God manifesto]]

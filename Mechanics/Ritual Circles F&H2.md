@@ -4,6 +4,7 @@ tags: ["mechanics"]
 sources: ["[[Wiki - Ritual Circles F&H2]]", "[[Tormentpedia - Termina Ritual Circles]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-mechanic"]
 ---
 
 # Ritual Circles F&H2
@@ -18,7 +19,7 @@ The player has to draw the [sigil](https://fearandhunger.wiki.gg/wiki/Sigil) of 
 
 ### How to use
 
-For Asymmetric and Perfection Circles, the player will need the Skin Bible of each respective God in their inventory, as well as a piece of Chalk to draw on the circle. If the wrong symbol is drawn, nothing happens - it will also waste the circle, as it is not possible to erase it and try again. 
+For Asymmetric and Perfection Circles, the player will need the Skin Bible of each respective God in their inventory, as well as a piece of Chalk to draw on the circle. If the wrong symbol is drawn, nothing happens - it will also waste the circle, as it is not possible to erase it and try again.
 
 A matching symbol, when drawn by the player, will raise their affinity with that God and grant access to that God's skills in the [Hexen](https://fearandhunger.wiki.gg/wiki/Hexen_F%26H2).
 
@@ -102,9 +103,9 @@ There are four asymmetric blank circles and five asymmetric circles with pre-mad
   - Rher: leads to [Mayor's Manor (Rher Dimension)](https://fearandhunger.wiki.gg/wiki/Mayor's_Manor_(Rher_Dimension)), which has three [Ronteal](https://fearandhunger.wiki.gg/wiki/Ronteal)s and a Golden Gate.
 - [Tunnel 7](https://fearandhunger.wiki.gg/wiki/Tunnel_7) (one premade Rher)
   - Premade Rher: leads to [Tunnel 7 (Rher Dimension)](https://fearandhunger.wiki.gg/wiki/Tunnel_7_(Rher_Dimension)), which has four [Ronteal](https://fearandhunger.wiki.gg/wiki/Ronteal)s and a Golden Gate. The exit leads outside the bunker entrance in the woods.
-- [Orphanage](https://fearandhunger.wiki.gg/wiki/Orphanage) (one premade Gro-goroth, Sylvian, and Rher) 
+- [Orphanage](https://fearandhunger.wiki.gg/wiki/Orphanage) (one premade Gro-goroth, Sylvian, and Rher)
   - Premade Rher: leads to [Orphanage (Rher Dimension)](https://fearandhunger.wiki.gg/wiki/Orphanage_(Rher_Dimension)), which has one of the effigies, five [Ronteal](https://fearandhunger.wiki.gg/wiki/Ronteal)s, and a Golden Gate.
-- [Church of Alll-mer](https://fearandhunger.wiki.gg/wiki/Church_of_Alll-mer) basement (one blank, one premade Rher) 
+- [Church of Alll-mer](https://fearandhunger.wiki.gg/wiki/Church_of_Alll-mer) basement (one blank, one premade Rher)
   - Vinushka: leads to the roof and rafters, where a chest and [Sabbath](https://fearandhunger.wiki.gg/wiki/Sabbath) can be found.
   - Rher: leads to [Church of Alll-mer (Rher Dimension 2)](https://fearandhunger.wiki.gg/wiki/Church_of_Alll-mer_(Rher_Dimension_2)), which has a locked-up woman, need [Rusty key](https://fearandhunger.wiki.gg/wiki/Rusty_key) and [Church keys](https://fearandhunger.wiki.gg/wiki/Church_keys). The Rusty key can be found in the church basement if the chandelier is not dropped.
     - Unlocking the chained woman will lead to an optional 1v1 boss fight, [[Heartless One]], activated at an Imperfect Circle by sacrificing the Heart Shaped Lock given to the player.
@@ -133,7 +134,6 @@ There are three imperfect circles:
 
 ![[Imperfect circle.png]]
 *file: Imperfect circle.png (95×95), <https://fearandhunger.wiki.gg/wiki/File:Imperfect_circle.png>*
-
 
 ## Other wikis
 

@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Cahara]]", "[[Tormentpedia - Cahara]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Cahara
 
-
-
 **Soul:** [[Endless soul]]
-
 
 ## Facts
 
@@ -36,8 +34,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"Don't make me feel sorry for you! I'm a cold hearted assassin after all you know?"***  
->  
+> ***"Don't make me feel sorry for you! I'm a cold hearted assassin after all you know?"***
+>
 > *- Cahara after being begged for mercy.*
 
 **Cahara** is a playable character and a potential party member in *[[Fear & Hunger]]*.
@@ -48,8 +46,8 @@ A mercenary, he is known for his dirty tactics in battle and crafty ways of gain
 
 ### Lore
 
-> ***"He originates from the Eastern Sanctuaries. A bastard child left on his own at a very young age. Somehow this poor soul found his way to these dungeons..."***  
-> 
+> ***"He originates from the Eastern Sanctuaries. A bastard child left on his own at a very young age. Somehow this poor soul found his way to these dungeons..."***
+>
 > *- The [[The Gods|New Gods]] when asked about Cahara.*
 
 Cahara was born with the [[Soul types|soul]] of the endless, a force that drove him to constantly yearn for freedom and explore the depths of his creativity. Unfortunately, life in the capital of the [Eastern Sanctuaries](https://fearandhunger.wiki.gg/wiki/Eastern_Sanctuaries), Jettaiah, proved to be a harsh and unforgiving environment for Cahara as he was abandoned by his parents, as soon as he was born, and left to fend for himself.
@@ -72,7 +70,7 @@ In his [S ending](https://fearandhunger.wiki.gg/wiki/Ending_S_-_%22Happy_ending%
 
 Among the playable characters, Cahara appears the most "normal" with no strong connections to the Dungeons of fear and hunger or its otherworldly powers. He is simply a mercenary hired to locate someone, oblivious to the grander scheme unfolding around him. Due to his upbringing, Cahara is a ruthless, opportunistic man who is more than willing to use cheap tricks to survive and gain the upper hand. As a true thief at heart, Cahara is consumed by greediness and a relentless obsession for treasure. Upon reaching the ancient city of [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre), his immediate impulse is to plunder its riches. Despite this, Cahara seems to have a caring side, as his main reason for taking the mission is the large payment which would help him get Celeste out of her situation as well as provide for their child. He also expresses disdain for Le'garde's plan should Le'garde sit on the golden throne, saying that the bloodshed required for it to work is not worth the end result.
 
-Cahara openly talks about having had romantic encounters with both women and men. If he happens to be in the same party as [[D'arce]], he develops an obvious attraction for her, playfully referring to her as "dollface" and eagerly embracing the idea of entering into a [Marriage of Flesh](https://fearandhunger.wiki.gg/wiki/Marriage) with her. He takes visible pride in his sexual prowess, claiming that few can match him "in this line of business." 
+Cahara openly talks about having had romantic encounters with both women and men. If he happens to be in the same party as [[D'arce]], he develops an obvious attraction for her, playfully referring to her as "dollface" and eagerly embracing the idea of entering into a [Marriage of Flesh](https://fearandhunger.wiki.gg/wiki/Marriage) with her. He takes visible pride in his sexual prowess, claiming that few can match him "in this line of business."
 
 There are several concerning actions that suggest something was amiss with Cahara even before he arrived in the dungeons of fear and hunger. These signs range from his uninhibited interest in the [[Marriage of Flesh|marriage of flesh ritual]] to attempting to harm the protagonist when confronted about abandoning his team. Additionally, he even expresses a willingness to face death in the [Shit pit](https://fearandhunger.wiki.gg/wiki/Level_2_-_Shit_pit) as an easy way out. In his [S ending](https://fearandhunger.wiki.gg/wiki/Ending_S_-_%22Happy_ending%22), despite enduring the horrors of the dungeon and achieving a life of luxury, Cahara remains haunted by a deep-seated post-traumatic stress disorder and scotophobia, finding it challenging to attain true comfort and inner peace.
 
@@ -197,7 +195,6 @@ If the player chooses not to play as Cahara, they will be able to go to the prom
 
 ![[CaharaSprite.gif]]
 *Overworld — file: CaharaSprite.gif (79×116), <https://fearandhunger.wiki.gg/wiki/File:CaharaSprite.gif>*
-
 
 ## Other wikis
 

@@ -7,6 +7,7 @@ revision_timestamp: "2025-12-02T10:45:31Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - D'arce

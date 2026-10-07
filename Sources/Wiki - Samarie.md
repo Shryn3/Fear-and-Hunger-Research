@@ -6,6 +6,7 @@ revid: 48998
 revision_timestamp: "2026-06-04T03:05:03Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Samarie

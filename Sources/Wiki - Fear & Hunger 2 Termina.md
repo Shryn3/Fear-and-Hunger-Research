@@ -6,6 +6,7 @@ revid: 49433
 revision_timestamp: "2026-10-06T02:49:05Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Fear & Hunger 2 Termina

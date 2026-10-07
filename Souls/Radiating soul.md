@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Radiating soul
-
-
 
 | | |
 |---|---|
@@ -41,7 +40,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Blood sacrifice]]
 - [[Masturbation]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -50,7 +48,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Radiating.png]]
 *Radiating soul icon (the wiki's Soul type gallery caption: "Radiating soul.") — file: Soul Radiating.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Radiating.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

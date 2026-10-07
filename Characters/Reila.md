@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Reila]]", "[[Tormentpedia - Reila]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Reila
 
-
-
 **Soul:** [[Radiating soul]]
-
 
 ## Facts
 
@@ -44,9 +42,9 @@ Reila was raised in an overbearingly religious household with her sister, [[Oliv
 
 Later in life, in 1937, Reila and her sister enrolled in the same university in [Bremen](https://fearandhunger.wiki.gg/wiki/Bremen_Empire), both of them relieved to finally be away from their parents' religious control. During her time at the university, Reila excelled in her field of studies of New Sciences: she worked under a special scholarship in "Operation ein Geist" and got to participate in an exchange program between the Bremen Empire and the [Eastern Union](https://fearandhunger.wiki.gg/wiki/Eastern_Union) in 1939. She was also involved romantically with a professor during her later academic years.[^1]
 
-Reila would travel all over the world, keeping in contact with Olivia and telling her about her work through letters. She was soon recruited for an advanced project known as "Operation Logic" in [Bohemia](https://fearandhunger.wiki.gg/wiki/Bohemia), being eventually promoted to the position of head-engineer.[^2] When the Bremen Empire requested that the Eastern Union relinquish control of [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil) in exchange for a peace treaty to end the Second Great War, Reila attempted to signify the sheer importance of Operation Logic to the Union's officials, but they failed to grasp its true potential and ceded the territory.[^3] 
+Reila would travel all over the world, keeping in contact with Olivia and telling her about her work through letters. She was soon recruited for an advanced project known as "Operation Logic" in [Bohemia](https://fearandhunger.wiki.gg/wiki/Bohemia), being eventually promoted to the position of head-engineer.[^2] When the Bremen Empire requested that the Eastern Union relinquish control of [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil) in exchange for a peace treaty to end the Second Great War, Reila attempted to signify the sheer importance of Operation Logic to the Union's officials, but they failed to grasp its true potential and ceded the territory.[^3]
 
-One day, Reila's letters to Olivia stopped coming in. Her parents received information that Reila was accused of treason against the Bremen Empire and that she had been kept in East-Bremen State Prison for interrogations about Operation Logic. Eventually, a terrorist group called the [Nameless Liberty Underground](https://fearandhunger.wiki.gg/wiki/Nameless_Liberty_Underground) broke her out of said prison. The professor she was seeing over the years was also executed for committing treason. Over the years, Reila and the professor kept in contact through letters, some of which were eventually found by Olivia.[^1] In one of these letters, Reila cryptically talked about 'a [cube](https://fearandhunger.wiki.gg/wiki/Cube_of_the_Depths)' and how 'the Eastern Union was desperately trying to replicate the cube'. Her last words in this letter voiced concern that the [[Kaiser]] of the Bremen Empire was after the 'operation in Prehevil' and how she still had time to act by heading there herself. 
+One day, Reila's letters to Olivia stopped coming in. Her parents received information that Reila was accused of treason against the Bremen Empire and that she had been kept in East-Bremen State Prison for interrogations about Operation Logic. Eventually, a terrorist group called the [Nameless Liberty Underground](https://fearandhunger.wiki.gg/wiki/Nameless_Liberty_Underground) broke her out of said prison. The professor she was seeing over the years was also executed for committing treason. Over the years, Reila and the professor kept in contact through letters, some of which were eventually found by Olivia.[^1] In one of these letters, Reila cryptically talked about 'a [cube](https://fearandhunger.wiki.gg/wiki/Cube_of_the_Depths)' and how 'the Eastern Union was desperately trying to replicate the cube'. Her last words in this letter voiced concern that the [[Kaiser]] of the Bremen Empire was after the 'operation in Prehevil' and how she still had time to act by heading there herself.
 
 Acting on her conviction, Reila journeyed to Prehevil before it could be occupied only to find the compound abandoned, with the Union triggering explosives to block access via railway tracks. Aware that the Bremen Military and the Kaiser would eventually breach through, Reila deemed this her sole window of opportunity. Unsure of the Logic project's progress, Reila believed she needed to hijack it urgently. The Kaiser's plan to personally launch the system left her with one conclusion: her action must precede his. Confident in her knowledge of the setup, she urged the mobilization of the NLU members in the vicinity to thwart the Kaiser's intention, which marked the beginning of an operation targeting the [White Bunker](https://fearandhunger.wiki.gg/wiki/White_Bunker) and each of the Telelectroscopes.[^4][^5] Reila managed to successfully breach the White Bunker, although the outcome of the missions to claim the Telelectroscopes is uncertain and likely a partial failure.[^6] In the face of growing uncertainty and Kaiser's imminent arrival, Reila activated the Logic project prematurely and set herself up as a vessel by entering a lucid dreaming state, ultimately ascending as the [[Logic|Machine God]]. [^7]
 
@@ -68,7 +66,6 @@ After arriving at the White Bunker and realizing he had been [[God of Fear and H
 
 ![[Reila overworld.png]]
 *Static — file: Reila overworld.png (66×107), <https://fearandhunger.wiki.gg/wiki/File:Reila_overworld.png>*
-
 
 ## Other wikis
 

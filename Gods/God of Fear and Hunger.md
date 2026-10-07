@@ -5,15 +5,12 @@ tags: ["god", "ascended-god"]
 sources: ["[[Wiki - God of Fear and Hunger]]", "[[Wiki - The Gods]]", "[[Tormentpedia - God of Fear and Hunger]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # God of Fear and Hunger
 
-
-
 **Classification (per wiki):** Ascended God
-
-
 
 ## Overview on *The Gods*
 
@@ -39,7 +36,7 @@ The **God of Fear and Hunger** is, like Alll-mer, an Ascended God. The God of Fe
 ## Detailed page
 
 > ***"Why do you resist? The thought must have crossed your mind at some point. The thought that you delved too deep. The thought that this would be a one-way trip. So instead of fighting the inevitable, why not embrace it? Just lay down and rest. There is beauty in this darkness that can be harnessed and used to usher something new."***
->   
+>
 > *- The God of Fear and Hunger to the protagonist in [Ending A](https://fearandhunger.wiki.gg/wiki/Ending_A_-_%22The_God_of_Fear_%26_Hunger%22).*
 
 The **God of Fear and Hunger** is a newly-born being able to rival the [[The Gods|Old Gods]] in *[[Fear & Hunger]]* and *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]].* In *Fear & Hunger*, she is encountered as the final [boss](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H1) of [Ending A](https://fearandhunger.wiki.gg/wiki/Ending_A_-_%22The_God_of_Fear_%26_Hunger%22).
@@ -48,13 +45,13 @@ The **God of Fear and Hunger** is a newly-born being able to rival the [[The God
 
 ### Lore
 
-> ***"A soul that radiates the light of an older god. The soul has formed itself inside the body of a little girl. The mother of the Ancient One is the Endless One and the father is the Man from the Prophecies. The results of such unholy union are unfamiliar to us."***  
-> 
+> ***"A soul that radiates the light of an older god. The soul has formed itself inside the body of a little girl. The mother of the Ancient One is the Endless One and the father is the Man from the Prophecies. The results of such unholy union are unfamiliar to us."***
+>
 > *- The [[The Gods|New Gods]] when asked about the Ancient One*.
 
-The Ancient One is a soul created by the mating of [[Nilvan]], a new God, and [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), a prophecised man. The soul rested in the body of [a little girl](https://fearandhunger.wiki.gg/wiki/Girl) and had been lying dormant within her since she was born. It was this soul that would allow her to ascend to Godhood. Nilvan, wishing to fulfill her dream of humanity ascending beyond their mortal limits, tasked the player character (should they accept it) to take the girl, her daughter, to the heart of darkness - the Altar of Darkness within the body of the [[God of the Depths]]. When this place was reached, she began her ascension and proceeded to fight the player. It remains unknown which character ultimately took her to the Altar of Darkness. 
+The Ancient One is a soul created by the mating of [[Nilvan]], a new God, and [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), a prophecised man. The soul rested in the body of [a little girl](https://fearandhunger.wiki.gg/wiki/Girl) and had been lying dormant within her since she was born. It was this soul that would allow her to ascend to Godhood. Nilvan, wishing to fulfill her dream of humanity ascending beyond their mortal limits, tasked the player character (should they accept it) to take the girl, her daughter, to the heart of darkness - the Altar of Darkness within the body of the [[God of the Depths]]. When this place was reached, she began her ascension and proceeded to fight the player. It remains unknown which character ultimately took her to the Altar of Darkness.
 
-On that day, the God of Fear and Hunger took root and began to grow her influence on the surface world. Although Nilvan had hoped that her daughter would bring light to mankind, true darkness does not breed light: The God of Fear and Hunger was a pure child, a blank slate birthed from the darkest pits of human creation. She was the embodiment of fear and hunger, without even a glimmer of hope. 
+On that day, the God of Fear and Hunger took root and began to grow her influence on the surface world. Although Nilvan had hoped that her daughter would bring light to mankind, true darkness does not breed light: The God of Fear and Hunger was a pure child, a blank slate birthed from the darkest pits of human creation. She was the embodiment of fear and hunger, without even a glimmer of hope.
 
 Despite the suffering and stagnation that mankind had endured up to that point, progress came at a price. Fear motivated people while hunger kept them moving forward. People cherished hardship and drew inspiration from it, learning and growing from the difficulties they faced. This era, known as the Cruel Age, brought about advancements not seen since the forgotten ages, with the dark fumes rising from the pipes of modern cities as a direct consequence. In this context, the God of Fear and Hunger, along with the age she ushered in, stands as the catalysts propelling humanity towards technological advancement.
 
@@ -128,7 +125,6 @@ She asks the protagonist whether they thought that they wouldn't be getting out 
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

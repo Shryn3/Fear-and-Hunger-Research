@@ -5,15 +5,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Nilvan]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Nilvan]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Nilvan
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -31,11 +28,11 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-The beautiful Nilvan stands among the members of the Fellowship, a group that also includes [[Francóis]], [[Tormented One|Ronn Chambara]], [[Valteil]], and [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus). The Fellowship emerged in the year 809, a time marked by the gradual decline of kingdoms and the waning of ideals in the absence of the Old Gods' guidance. They embarked on a quest to [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre), driven by the pursuit of the ancient deities. Upon reaching their destination, all members of the Fellowship, with the exception of Nosramus, ascended as New Gods, with Nilvan rising to become the **Endless One**. 
+The beautiful Nilvan stands among the members of the Fellowship, a group that also includes [[Francóis]], [[Tormented One|Ronn Chambara]], [[Valteil]], and [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus). The Fellowship emerged in the year 809, a time marked by the gradual decline of kingdoms and the waning of ideals in the absence of the Old Gods' guidance. They embarked on a quest to [Ma'habre](https://fearandhunger.wiki.gg/wiki/Ma'habre), driven by the pursuit of the ancient deities. Upon reaching their destination, all members of the Fellowship, with the exception of Nosramus, ascended as New Gods, with Nilvan rising to become the **Endless One**.
 
 She established herself in the Tower of Endless in the Ancient city, espousing her belief in the boundless potential of humanity and the idea that anything can be achieved through perseverance and effort. While the game does not fully delve into the extent of her abilities as a New God, it does reveal that Nilvan possesses a detached state from physical reality. This allows her to transcend its limitations, enabling her to visit people in their dreams. However, whether this power also imposes any limitations remains uncertain, as she is known to request assistance from strangers for tasks that require physical action.
 
-By the end of the 16th century, despite her unwavering faith in humanity, Nilvan was acutely aware that her reign would eventually come to an end. In her desperation to maintain her eternal existence, she searched for a way to continue her rule beyond her natural lifespan. Ultimately, she believed that [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), a man prophesied to unite warring states without resorting to force, held the key to her eternal existence. She visited him in his dreams and bore a [child](https://fearandhunger.wiki.gg/wiki/Girl) with him, hoping that this offspring would be the beacon of hope for humanity. 
+By the end of the 16th century, despite her unwavering faith in humanity, Nilvan was acutely aware that her reign would eventually come to an end. In her desperation to maintain her eternal existence, she searched for a way to continue her rule beyond her natural lifespan. Ultimately, she believed that [Le'garde](https://fearandhunger.wiki.gg/wiki/Le'garde), a man prophesied to unite warring states without resorting to force, held the key to her eternal existence. She visited him in his dreams and bore a [child](https://fearandhunger.wiki.gg/wiki/Girl) with him, hoping that this offspring would be the beacon of hope for humanity.
 
 This same child would later ascend as the [[God of Fear and Hunger]], ushering in an era of progress through adversity known as the Cruel Age. Ultimately, Nilvan's attempt to achieve eternal life and leave a lasting impact had far-reaching consequences, even if they did not necessarily achieve her original goals. In *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*, Nilvan can be observed alongside other inactive entities in the [[The Hall of the Gods|Hall of the Gods]].
 
@@ -81,7 +78,6 @@ wip
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

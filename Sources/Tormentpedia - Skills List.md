@@ -7,6 +7,7 @@ revision_timestamp: "2025-05-31T20:54:18Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Skills List

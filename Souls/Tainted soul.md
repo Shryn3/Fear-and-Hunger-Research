@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Tainted soul
-
-
 
 | | |
 |---|---|
@@ -44,7 +43,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Adrenaline rush]]
 - [[Fast stance]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -53,7 +51,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Tainted.png]]
 *Tainted soul icon (the wiki's Soul type gallery caption: "Tainted soul.") — file: Soul Tainted.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Tainted.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

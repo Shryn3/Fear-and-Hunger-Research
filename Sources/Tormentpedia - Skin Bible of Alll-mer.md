@@ -7,6 +7,7 @@ revision_timestamp: "2025-06-18T15:09:11Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Skin Bible of Alll-mer

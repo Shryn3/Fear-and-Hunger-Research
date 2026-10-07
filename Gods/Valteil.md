@@ -6,15 +6,12 @@ tags: ["god", "new-god"]
 sources: ["[[Wiki - Valteil]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Valteil]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Valteil
 
-
-
 **Classification (per wiki):** New God
-
-
 
 ## Overview on *The Gods*
 
@@ -39,8 +36,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Detailed page
 
-> ***"...It's all pointless. Mankind has no hope. There is no way to break these chains... the worst part is, I don't even know if the gods exist."***  
-> 
+> ***"...It's all pointless. Mankind has no hope. There is no way to break these chains... the worst part is, I don't even know if the gods exist."***
+>
 > ''- Valteil as he hangs himself.
 
 **Valteil** is a major story character and [boss](https://fearandhunger.wiki.gg/wiki/Enemies_List_F%26H1) encountered *[[Fear & Hunger]]*. He is a member of the Fellowship that sought out to become one of the [[The Gods|New Gods]].
@@ -49,8 +46,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***"The new god of enlightenment. Valteil is current master of the grand libraries. He is obsessed with creation of artificial life. He has wasted his cycle at the libraries on the subject without much triumph. He believes this to be the key to true godhood. He believes creation of life closes the gap between the new and the older gods."***  
-> 
+> ***"The new god of enlightenment. Valteil is current master of the grand libraries. He is obsessed with creation of artificial life. He has wasted his cycle at the libraries on the subject without much triumph. He believes this to be the key to true godhood. He believes creation of life closes the gap between the new and the older gods."***
+>
 > *- The [[The Gods|New Gods]] when asked about Valteil.*
 
 Valteil was a member of the Fellowship, a group comprising [[Francóis]], [[Nilvan]], [[Tormented One|Ronn Chambara]], and [Nosramus](https://fearandhunger.wiki.gg/wiki/Nosramus). His attire serves as confirmation of a previous role as a [Dark Priest](https://fearandhunger.wiki.gg/wiki/Dark_Priests) before his ascent.
@@ -59,7 +56,7 @@ In the year 809, the Fellowship embarked on a journey to attain the status of Ne
 
 As he believed that this endeavor could bridge the divide between the New Gods and the Old Gods, Valteil sought to fashion a working-class being similar to the eternal clay figurines of Ma'habre. However, fearing that his creations would outlast him, he opted to craft artificial lifeforms from flesh, thereby imposing a limited lifespan upon them. Notably, Valteil successfully brought forth the [Lord of flies](https://fearandhunger.wiki.gg/wiki/Lord_of_flies), as well as a mechanical entity named [Uterus](https://fearandhunger.wiki.gg/wiki/Uterus), for his "past-time pleasure".
 
-By the close of the 16th century, having wielded the mantle of a New God for nearly 800 years, Valteil had descended into despair, convinced that true enlightenment was an unattainable dream. He had realized that mankind has no hope, as the greater scheme of things chained them inescapably. Acknowledging the wisdom of his former companion Nosramus, who resisted the throne of ascension, Valteil now viewed his own ascension as a New God as a great mistake. Accepting these mistakes as integral to his personal growth, Valteil chose to hang himself, opting to await his death. [[Nas'hrah]], harboring a deep animosity towards Valteil, comments that the New God deserves what he got and makes disturbing accusations of pedophilia, though their veracity remains uncertain. 
+By the close of the 16th century, having wielded the mantle of a New God for nearly 800 years, Valteil had descended into despair, convinced that true enlightenment was an unattainable dream. He had realized that mankind has no hope, as the greater scheme of things chained them inescapably. Acknowledging the wisdom of his former companion Nosramus, who resisted the throne of ascension, Valteil now viewed his own ascension as a New God as a great mistake. Accepting these mistakes as integral to his personal growth, Valteil chose to hang himself, opting to await his death. [[Nas'hrah]], harboring a deep animosity towards Valteil, comments that the New God deserves what he got and makes disturbing accusations of pedophilia, though their veracity remains uncertain.
 
 Events recounted in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]* illustrate that Valteil was indeed In the game, he can be observed alongside other inactive entities in the [[The Hall of the Gods|Hall of the Gods]], an indication that his reign as an influential figure had reached its end.
 
@@ -105,7 +102,6 @@ Events recounted in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]* illus
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

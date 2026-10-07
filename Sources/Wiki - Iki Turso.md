@@ -6,6 +6,7 @@ revid: 49042
 revision_timestamp: "2026-06-11T06:13:55Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Iki Turso

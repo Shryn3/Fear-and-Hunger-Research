@@ -7,6 +7,7 @@ revision_timestamp: "2026-06-17T14:57:55Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Tanaka

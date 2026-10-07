@@ -8,11 +8,10 @@ tags: ["soul"]
 sources: ["[[Wiki - Soul type]]", "[[Wiki - Skills List F&H2]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-soul"]
 ---
 
 # Endless soul
-
-
 
 | | |
 |---|---|
@@ -51,7 +50,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 - [[Run (F&H2)]]
 - [[Diplomacy]]
 
-
 *Source: [[Wiki - Skills List F&H2]] / [[Wiki - Skills List F&H1]]*
 
 ## Images
@@ -60,7 +58,6 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ![[Soul Endless.png]]
 *Endless soul icon (the wiki's Soul type gallery caption: "Endless soul.") — file: Soul Endless.png (144×144), <https://fearandhunger.wiki.gg/wiki/File:Soul_Endless.png>*
-
 
 ## Sources
 - [[Wiki - Soul type]]

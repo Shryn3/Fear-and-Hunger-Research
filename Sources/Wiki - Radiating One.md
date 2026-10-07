@@ -6,6 +6,7 @@ revid: 44596
 revision_timestamp: "2024-09-09T03:25:24Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Radiating One

@@ -7,6 +7,7 @@ revision_timestamp: "2023-07-18T13:31:57Z"
 retrieved: "2026-10-07"
 license: "CC-BY-SA (see source note)"
 role: "supplementary"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Tormentpedia - Termina Ritual Circles

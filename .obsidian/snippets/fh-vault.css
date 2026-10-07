@@ -1,0 +1,12 @@
+/* Fear & Hunger vault: light tidy-up for notes with cssclasses: ["fh-vault", ...]
+   Enable in Settings > Appearance > CSS snippets. */
+.fh-vault h1 { border-bottom: 2px solid var(--background-modifier-border); padding-bottom: .2em; }
+.fh-vault h2 { margin-top: 1.6em; border-bottom: 1px solid var(--background-modifier-border); padding-bottom: .15em; }
+.fh-vault table { width: 100%; font-size: .95em; }
+.fh-vault th, .fh-vault td { vertical-align: top; padding: 4px 8px; }
+.fh-vault img { border-radius: 4px; max-width: 100%; height: auto; }
+.fh-vault .callout { margin: .8em 0; }
+.fh-vault blockquote { color: var(--text-muted); }
+/* the infobox-style two-column tables on god, soul, character and skill notes */
+.fh-vault td:first-child { white-space: nowrap; color: var(--text-muted); }
+@media (max-width: 600px) { .fh-vault td:first-child { white-space: normal; } }

@@ -6,15 +6,12 @@ tags: ["god", "ascended-god"]
 sources: ["[[Wiki - Alll-mer]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Alll-mer]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Alll-mer
 
-
-
 **Classification (per wiki):** Ascended God
-
-
 
 ## Overview on *The Gods*
 
@@ -91,9 +88,6 @@ Like other powerful deities, Alll-mer is associated with a variety of supernatur
 - [[Defense +1 (F&H2 Alll-mer)]] — 2 Alll-mer affinity
 - [[Inverse crown of thorns]] — 2 Alll-mer affinity
 
-
-
-
 ## In-game documents
 - [[Skin Bible - Alll-mer]]
 
@@ -124,7 +118,6 @@ Like other powerful deities, Alll-mer is associated with a variety of supernatur
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

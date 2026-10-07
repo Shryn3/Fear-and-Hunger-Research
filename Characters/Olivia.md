@@ -7,14 +7,12 @@ tags: ["character"]
 sources: ["[[Wiki - Olivia]]", "[[Tormentpedia - Olivia]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-character"]
 ---
 
 # Olivia
 
-
-
 **Soul:** [[Shadowed soul]]
-
 
 ## Facts
 
@@ -35,8 +33,8 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ## Biography
 
-> ***"Everything does feel like a dream, doesn't it? There is this ethereal feel to everything..."***  
-> 
+> ***"Everything does feel like a dream, doesn't it? There is this ethereal feel to everything..."***
+>
 > *- Olivia, when theorizing with the player about the dream on the [train](https://fearandhunger.wiki.gg/wiki/Train).*
 
 **Olivia Haas** is a Playable Character and a potential [Party Member](https://fearandhunger.wiki.gg/wiki/Characters_List_F%26H2#Party_Members-0) in *[[Fear & Hunger 2 Termina|Fear & Hunger 2: Termina]]*.
@@ -51,11 +49,11 @@ Olivia grew up in an oppressive household that was deeply religious. She and her
 
 When she was fifteen years old, Olivia experienced several small strokes that left her bedridden. Her parents sought help from religious healers to cure her, but her sister pleaded with them to seek modern medical treatment. However, it was too late, and Olivia was diagnosed with a vascular myelopathy around her spinal cord that affected her blood flow. Despite undergoing numerous operations and medical treatments, she requires use of a wheelchair for the unforeseeable future. Olivia avoided discussing her disability and the reasons why she required a wheelchair, and she found the sympathetic stares from others to be uncomfortable and unwelcome.
 
-Later on, Olivia and her sister both enrolled in a university in Bremen, relieved to escape their parents' religious control. Olivia found it challenging to connect with her peers, but she still managed to excel in her field and ranked at the top of her class. Reila also excelled and even had the opportunity to participate in an exchange program between the [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_Empire) and the [Eastern Union](https://fearandhunger.wiki.gg/wiki/Eastern_Union), much to Olivia's jealousy. 
+Later on, Olivia and her sister both enrolled in a university in Bremen, relieved to escape their parents' religious control. Olivia found it challenging to connect with her peers, but she still managed to excel in her field and ranked at the top of her class. Reila also excelled and even had the opportunity to participate in an exchange program between the [Bremen Empire](https://fearandhunger.wiki.gg/wiki/Bremen_Empire) and the [Eastern Union](https://fearandhunger.wiki.gg/wiki/Eastern_Union), much to Olivia's jealousy.
 
 After graduating, Olivia started her own botanist research in Bremen's largest greenhouse. However, she always felt that her sister outshone her in every aspect. Reila traveled the world and stayed in touch by sending letters about her work, but one day, the letters stopped coming.
 
-Six months after, Olivia's parents received information that her sister had been accused of treason against the Bremen Empire and was being held in an undisclosed prison. Olivia was powerless to help, and the next time she heard of her sister was when news broke that a terrorist group called the Nameless Liberty Underground had helped Reila escape from prison. Olivia remembered hearing the name of the organization before. She recalled a passing conversation between Reila and her professor, who had mentioned them. 
+Six months after, Olivia's parents received information that her sister had been accused of treason against the Bremen Empire and was being held in an undisclosed prison. Olivia was powerless to help, and the next time she heard of her sister was when news broke that a terrorist group called the Nameless Liberty Underground had helped Reila escape from prison. Olivia remembered hearing the name of the organization before. She recalled a passing conversation between Reila and her professor, who had mentioned them.
 
 Desperate for answers, Olivia decided to investigate the professor's whereabouts, only to discover that he had been executed for treason several months prior. The circumstances surrounding his execution were suspicious, to say the least. Riffling through his office, Olivia found several letters between the professor and Reila, sent long after she graduated. In her last letter, Reila had sent cryptic writings about 'a cube' and how 'the Eastern Union was desperately trying to replicate the cube', her last words voicing concern that the [[Kaiser]] of the Bremen Empire was after the 'operation in [Prehevil](https://fearandhunger.wiki.gg/wiki/Prehevil)' and how she still had time to act by heading there herself.
 
@@ -87,7 +85,7 @@ Unlike any other character in the game, Olivia uses a wheelchair to move. As a r
 
 If Olivia enters a battle without her wheelchair equipped, she will be unable to use the Attack command until it is re-equipped. In combat, certain enemy attacks (i.e. *Tackle*) are capable of knocking Olivia out of her wheelchair, which results in it being forcefully unequipped. This applies to Olivia as both party leader or recruitable character.
 
-Olivia as party leader is also able to roll down staircases to crash on enemies with her wheelchair. If it connects, she will have access to First Strike while the enemy is stunned, granting her party a free turn. 
+Olivia as party leader is also able to roll down staircases to crash on enemies with her wheelchair. If it connects, she will have access to First Strike while the enemy is stunned, granting her party a free turn.
 
 If one of Olivia's arms are removed, she will move considerably slower. If both of her arms are removed, she will be unable to move, prompting the player to quit breathing in order to cause a game over if she is the main character. No notable effects are present if she loses her legs.
 
@@ -119,7 +117,7 @@ Olivia will be hostile towards the player if they kill a contestant on the [trai
 
 ### Trivia
 
-- Ramming enemies in the overworld with the wheelchair while going downstairs will heal them by 1 overworld HP.  ⚠ *(known bug listed on the wiki)* 
+- Ramming enemies in the overworld with the wheelchair while going downstairs will heal them by 1 overworld HP.  ⚠ *(known bug listed on the wiki)*
 - Early concept art indicates that Olivia was not originally intended to be wheelchair-bound. Additionally, her initial design reflected a more contemporary aesthetic, as game creator [Miro Haverinen](https://fearandhunger.wiki.gg/wiki/Miro_Haverinen) had envisioned a modern setting for *Fear & Hunger 2: Termina* before deciding on 1942 as the year the game takes place.
 - If the players read her mind in the demo version of the game, they can find she finds herself attracted to both [[Levi]] and [[Marina]], asking herself what is going on. This could mean that she was either supposed to be a bi-curious or bisexual woman. However, this aspect seems to have been removed, as such thoughts are absent in the final version.
 - Despite her upbringing, Olivia may tell Marcoh that she isn't religious (when talking to him in the [Church of Alll-mer](https://fearandhunger.wiki.gg/wiki/Church_of_Alll-mer)). However, she will reject being an "atheist", saying she believes that religion has its place despite her complicated relationship with it.
@@ -176,7 +174,6 @@ Olivia will be hostile towards the player if they kill a contestant on the [trai
 
 ![[Olivia overworld.png]]
 *Static — file: Olivia overworld.png (58×104), <https://fearandhunger.wiki.gg/wiki/File:Olivia_overworld.png>*
-
 
 ## Other wikis
 

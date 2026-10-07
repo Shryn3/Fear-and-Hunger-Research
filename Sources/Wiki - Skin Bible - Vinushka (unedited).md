@@ -6,6 +6,7 @@ revid: 47110
 revision_timestamp: "2025-11-06T18:01:01Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Skin Bible - Vinushka (unedited)

@@ -6,15 +6,12 @@ tags: ["god", "old-god"]
 sources: ["[[Wiki - Rher]]", "[[Wiki - The Gods]]", "[[Tormentpedia - Rher]]", "[[Tormentpedia - The Gods]]"]
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-god"]
 ---
 
 # Rher
 
-
-
 **Classification (per wiki):** Old God
-
-
 
 ## Overview on *The Gods*
 
@@ -41,11 +38,11 @@ license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
 
 ### Lore
 
-> ***Trickster god, also known as the Moon god. He is one of the last older gods to still observe mankind. He is a jealous kind. He would not share the godhood and the world order with humans and the new gods. He has many ploys to diminish our influence. ***  
-> 
+> ***Trickster god, also known as the Moon god. He is one of the last older gods to still observe mankind. He is a jealous kind. He would not share the godhood and the world order with humans and the new gods. He has many ploys to diminish our influence. ***
+>
 > *- The [[The Gods|New Gods]] when asked about Rher.*
 
-Much like the other Old Gods, Rher is shrouded in mystery. Reflecting his name and various titles, Rher embodies the ideas of trickery, deceit, subterfuge, conspiracy, and all things associated with delinquency. Although it may seem counterintuitive, Rher is also closely associated with the concept of truth. His blessing of moonlight supposedly uncovers the truth hidden beneath human filth; however, this truth is characterized as disgusting and individuals subjected to his influence are often [driven to madness](https://fearandhunger.wiki.gg/wiki/Moonscorch). Indeed, in [[Skin Bible - Rher|Rher's Skin Bible]], he is said to be a god of the insane. [The truth under the moonlight](https://fearandhunger.wiki.gg/wiki/The_truth_under_the_moonlight) further suggests that the moon is connected to fallacies and false truths, particularly those perpetuated by humanity about itself. Rher is supposedly always watching mankind, being one of the last Old Gods to do so. However, similar to the other Old Gods, Rher pulled away from the human world "a long time ago" and his Bible claims he is in a state of "eternal slumber." The nature and timing of Rher's withdrawal is vague and even in his absence, his traces are still capable of exerting considerable influence on humanity. Rher's sigil consists of three intersecting circles, with two on top. The top right circle is actually a horizontal omega symbol adorned with a central dot. Illustrations from Rher's Skin Bible suggest that the circle with the dot symbolizes an eye, while the overlap between the three circles hints at the crescent phases of the moon. The act of [engraving](https://fearandhunger.wiki.gg/wiki/Engrave) Rher's sigil onto the face increases one's Mind capacity. 
+Much like the other Old Gods, Rher is shrouded in mystery. Reflecting his name and various titles, Rher embodies the ideas of trickery, deceit, subterfuge, conspiracy, and all things associated with delinquency. Although it may seem counterintuitive, Rher is also closely associated with the concept of truth. His blessing of moonlight supposedly uncovers the truth hidden beneath human filth; however, this truth is characterized as disgusting and individuals subjected to his influence are often [driven to madness](https://fearandhunger.wiki.gg/wiki/Moonscorch). Indeed, in [[Skin Bible - Rher|Rher's Skin Bible]], he is said to be a god of the insane. [The truth under the moonlight](https://fearandhunger.wiki.gg/wiki/The_truth_under_the_moonlight) further suggests that the moon is connected to fallacies and false truths, particularly those perpetuated by humanity about itself. Rher is supposedly always watching mankind, being one of the last Old Gods to do so. However, similar to the other Old Gods, Rher pulled away from the human world "a long time ago" and his Bible claims he is in a state of "eternal slumber." The nature and timing of Rher's withdrawal is vague and even in his absence, his traces are still capable of exerting considerable influence on humanity. Rher's sigil consists of three intersecting circles, with two on top. The top right circle is actually a horizontal omega symbol adorned with a central dot. Illustrations from Rher's Skin Bible suggest that the circle with the dot symbolizes an eye, while the overlap between the three circles hints at the crescent phases of the moon. The act of [engraving](https://fearandhunger.wiki.gg/wiki/Engrave) Rher's sigil onto the face increases one's Mind capacity.
 
 Rher is sometimes said to be a jealous being who disapproves of humanity's attempts to attain a similar status to the gods. [^1][^2][^3] His followers frequently interfere with human affairs in an effort to reduce the influence of the New Gods and prevent new Ascended Gods from being created. He employs his servants [Pocketcat](https://fearandhunger.wiki.gg/wiki/Pocketcat) and [Lady of Moon](https://fearandhunger.wiki.gg/wiki/Lady_of_Moon) to capture children so that they cannot be used as vessels for such purposes. The Moon God's schemes are poorly understood by outsiders, and Rher sometimes appears capricious, such as when he forbids Pocketcat from taking the [Girl](https://fearandhunger.wiki.gg/wiki/Girl) by force in spite of his apparent goal of subduing her.
 
@@ -88,8 +85,6 @@ During [Endings B and C](https://fearandhunger.wiki.gg/wiki/Endings_F%26H2) of *
 - [[Lunar meteorite]] — unlock: Ending B
 - [[Lunar storm]] — unlock: Ending B in [Masoχ-S/M](https://fearandhunger.wiki.gg/wiki/Difficulty_Settings_F%26H2#Maso%CF%87-S/M-0) mode
 
-
-
 ## In-game documents
 - [[Skin Bible - Rher]]
 
@@ -117,7 +112,6 @@ During [Endings B and C](https://fearandhunger.wiki.gg/wiki/Endings_F%26H2) of *
 
 ![[Nilvan and valtiel sitting at the table.png|300]]
 *New Gods Nilvan and Valteil sitting at another table. — file: Nilvan and valtiel sitting at the table.png (688×850), <https://fearandhunger.wiki.gg/wiki/File:Nilvan_and_valtiel_sitting_at_the_table.png>*
-
 
 ## Other wikis
 

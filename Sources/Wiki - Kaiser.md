@@ -6,6 +6,7 @@ revid: 49423
 revision_timestamp: "2026-10-05T06:27:42Z"
 retrieved: "2026-10-07"
 license: "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+cssclasses: ["fh-vault", "fh-source"]
 ---
 
 # Wiki - Kaiser
